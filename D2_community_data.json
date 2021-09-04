@@ -1,5 +1,46 @@
 {
    "exotic_armor": {
+      "1321354573": {
+         "name": "Hawkeye Hack",
+         "item_name": "Celestial Nighthawk",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Only one shot per Golden Gun activation."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Grants 500% more damage to Golden Gun."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "(37% more compared to Line 'Em Up x3)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Returns 33% of Super Energy on Kill."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-16.31"
+      },
       "2203146422": {
          "name": "Vanishing Execution",
          "item_name": "Assassin's Cowl",
@@ -139,6 +180,47 @@
             }
          ],
          "last_edit": "2021.9.4-16.3"
+      },
+      "2663272110": {
+         "name": "Hawkeye Hack",
+         "item_name": "Celestial Nighthawk",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Only one shot per Golden Gun activation."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Grants 500% more damage to Golden Gun."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "(37% more compared to Line 'Em Up x3)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Returns 33% of Super Energy on Kill."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-16.31"
       }
    },
    "armor_mods": {},
