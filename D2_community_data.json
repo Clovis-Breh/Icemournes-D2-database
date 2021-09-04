@@ -1,5 +1,67 @@
 {
    "exotic_armor": {
+      "609852545": {
+         "name": "Rapid Cooldown",
+         "item_name": "Fr0st-EE5",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "If Sprinting: "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "100% Increased Grenade and Melee Recharge Speed."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Regenerates 3.5% Class Ability per Second."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "6.25% Faster Sprint for 10 seconds. "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Not refreshable."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Additive to Focused Breathing's 3% Class Ability per Second"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.53"
+      },
       "896224899": {
          "name": "Relentless Tracker",
          "item_name": "Foetracer",
@@ -446,6 +508,68 @@
             }
          ],
          "last_edit": "2021.9.4-18.46"
+      },
+      "897181301": {
+         "name": "Rapid Cooldown",
+         "item_name": "Fr0st-EE5",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "If Sprinting: "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "100% Increased Grenade and Melee Recharge Speed."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Regenerates 3.5% Class Ability per Second."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "6.25% Faster Sprint for 10 seconds. "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Not refreshable."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Additive to Focused Breathing's 3% Class Ability per Second"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.53"
       },
       "1844314558": {
          "name": "Parting Gift",
