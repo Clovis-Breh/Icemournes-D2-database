@@ -468,6 +468,52 @@
          ],
          "last_edit": "2021.9.4-20.32"
       },
+      "1734144409": {
+         "name": "Spring-Loaded Mounting",
+         "item_name": "Mechaneer's Tricksleeves",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Readying sidearm on critical health: "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "textClass": "CDCA_desc-pve-",
+                     "text": "100%"
+                  },
+                  {
+                     "textClass": "CDCA_desc-pvp-",
+                     "text": " [35%]"
+                  },
+                  {
+                     "text": " Damage Increase until no longer critical."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Refreshes sidearm magazine. (Generates ammo if reserves are empty)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "100 Handling to Sidearm Stow and Ready speed."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.37"
+      },
       "2203146422": {
          "name": "Vanishing Execution",
          "item_name": "Assassin's Cowl",
@@ -862,6 +908,52 @@
             }
          ],
          "last_edit": "2021.9.4-16.3"
+      },
+      "481860151": {
+         "name": "Spring-Loaded Mounting",
+         "item_name": "Mechaneer's Tricksleeves",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Readying sidearm on critical health: "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "textClass": "CDCA_desc-pve-",
+                     "text": "100%"
+                  },
+                  {
+                     "textClass": "CDCA_desc-pvp-",
+                     "text": " [35%]"
+                  },
+                  {
+                     "text": " Damage Increase until no longer critical."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Refreshes sidearm magazine. (Generates ammo if reserves are empty)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "100 Handling to Sidearm Stow and Ready speed."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.37"
       },
       "593361144": {
          "name": "Wraithmetal Mail",
