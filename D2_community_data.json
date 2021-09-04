@@ -1,5 +1,330 @@
 {
    "exotic_armor": {
+      "193869522": {
+         "name": "Illegally Modded Holster",
+         "item_name": "Lucky Pants",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Intrinsic Hand Cannon Holster"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "100 Handling Ready Speed and Y% Accuracy Increase on Draw for X seconds."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "After readying a Hand Cannon with a Full Magazine that deals Kinetic Damage or matches your Subclass:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "60% Damage Increase per Hit for 5 seconds. Maxes out at 600% after 10 Hits."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Eriana's Vow has a reduced effectiveness of 30% Damage Increase per Hit."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "After the Buff runs out, you swap weapons, or firing after the 5 second period:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "You cannot gain stacks or reacquire the buff for 10 seconds."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.10"
+      },
+      "609852545": {
+         "name": "Rapid Cooldown",
+         "item_name": "Fr0st-EE5",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "If Sprinting: "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "100% Increased Grenade and Melee Recharge Speed."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Regenerates 3.5% Class Ability per Second."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "6.25% Faster Sprint for 10 seconds. "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Not refreshable."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Additive to Focused Breathing's 3% Class Ability per Second"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.53"
+      },
+      "896224899": {
+         "name": "Relentless Tracker",
+         "item_name": "Foetracer",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Marks Enemies for 5 seconds after hovering reticle over them. Persists briefly through walls."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "If Enemy is below 30% HP: Grants a 1% Damage Increase per percent below 30%"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "(Eg: 10% HP left -> 20% Damage Increase)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Damage Increase applies to both abilities and weapons."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.48"
+      },
+      "903984858": {
+         "name": "Probability Matrix",
+         "item_name": "Lucky Raspberry",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Arcbolt Grenades chain up to 5 times (from 4)"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.13"
+      },
+      "1163283805": {
+         "name": "Misdirection",
+         "item_name": "Gemini Jester",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Applies Misdirection to enemies within 15 metres."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "textClass": "CDCA_desc-pve-",
+                     "text": "PVE"
+                  },
+                  {
+                     "text": " Misdirection disorients minors as well as elites for 5 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "textClass": "CDCA_desc-pvp-",
+                     "text": "PVP"
+                  },
+                  {
+                     "text": " Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Misdirection also deals 1 damage."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.0"
+      },
+      "1219761634": {
+         "name": "Parting Gift",
+         "item_name": "The Bombardiers",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Drops a Parting Gift that explodes and deals 120 Damage over 7.5 metres with a 1(?) second fuse."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Parting Gift has an additional effect based on Subclass:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Blind for 3 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Burn for 3 seconds, dealing 6x5"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Slows for 2 seconds and refreshes existing Slow Stacks. Does not apply Slow Stacks."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Suppress for 7 seconds [Does not apply to Guardians in Super]"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.39"
+      },
+      "1321354572": {
+         "name": "Upgraded Sensor Pack",
+         "item_name": "Knucklehead Radar",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Radar remains active while Aiming Down Sights."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "If crouched: Grants Enhanced Radar. (Posseses 12 sectors instead of 6)"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.6"
+      },
       "1321354573": {
          "name": "Hawkeye Hack",
          "item_name": "Celestial Nighthawk",
@@ -40,6 +365,53 @@
             }
          ],
          "last_edit": "2021.9.4-16.31"
+      },
+      "1474735276": {
+         "name": "Roving Assassin",
+         "item_name": "Gwisin Vest",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "During Spectral Blade"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Restores Super Energy % on Heavy Attack based on the amount of Spectral Blade Kills."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Super Energy % gains based on kills"
+                  }
+               ]
+            },
+            {
+               "lineClass": "CDCA_desc-pve- ",
+               "lineText": [
+                  {
+                     "text": "PVE 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 "
+                  }
+               ]
+            },
+            {
+               "lineClass": "CDCA_desc-pvp- ",
+               "lineText": [
+                  {
+                     "text": "PVP 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.4"
       },
       "2203146422": {
          "name": "Vanishing Execution",
@@ -109,6 +481,261 @@
             }
          ],
          "last_edit": "2021.9.4-16.3"
+      },
+      "2415768376": {
+         "name": "Skittering Stinger",
+         "item_name": "Athrys's Embrace",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Throwing Knife gains greatly increased tracking and a second bounce."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "After 3 Precision Hits within 2.5 seconds of each: Gain Strengthened Throwing Knife."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Additional Precision Hits increase duration by 5 seconds each."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Strengthened Throwing Knife have a 200% [100%] Damage Increase with throwing knife, and staggers unstoppable champions."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Landing a throwing knife hit removes buff."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-17.42"
+      },
+      "2757274117": {
+         "name": "Touch of Venom",
+         "item_name": "Khepri's Sting",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Powered Melee Hit instantly casts Smoke Bomb."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Smoke Bombs have a 150% Damage Increase."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 metres away."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.5"
+      },
+      "2766109874": {
+         "name": "Wraithmetal Mail",
+         "item_name": "The Dragon's Shadow",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Grants Wraithmetal Mail for 9 seconds."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Wraithmetal Mail"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Reloads all weapons"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Grants 100 Handling (w/ 0.95x Scalar), 100 Reload, and 50 Mobility."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Sprint Speed by 6.25%."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Slide Distance by 33%."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.46"
+      },
+      "2773056939": {
+         "name": "Vanishing Shadow",
+         "item_name": "Graviton Forfeit",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Increases the duration of Invisibility effects."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Rat King: 6 -> 10 seconds (66% Increase)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Vanish in Smoke: 7 -> 12 seconds (71% Increase)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Vanishing Step: 4.5 -> 7 seconds (44% Increase) "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Flawless Execution: 9 -> 15 seconds (66% Increase)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "While Invisible:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Regenerates 4.4% (+Y% per Enemy within X metres) of Melee Ability per second."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "X Recovery"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Y Handling (Ready Speed only)"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.2"
+      },
+      "4165919945": {
+         "name": "Cross Counter",
+         "item_name": "Liar's Handshake",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Arcstrider Subclass Only"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Receiving or Dealing Melee Damage grants Cross Counter for 3 seconds or until Melee Hit."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Cross Counter grants a 200% Melee Damage Increase and heals for XHP on Melee Hit."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "One-Two Punch's bonus is reduced to 80% if Cross Counter is active."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.8"
       }
    },
    "exotic_armor_perk": {
@@ -181,6 +808,477 @@
          ],
          "last_edit": "2021.9.4-16.3"
       },
+      "593361144": {
+         "name": "Wraithmetal Mail",
+         "item_name": "The Dragon's Shadow",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Grants Wraithmetal Mail for 9 seconds."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Wraithmetal Mail"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Reloads all weapons"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Grants 100 Handling (w/ 0.95x Scalar), 100 Reload, and 50 Mobility."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Sprint Speed by 6.25%."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Slide Distance by 33%."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.46"
+      },
+      "593361147": {
+         "name": "Probability Matrix",
+         "item_name": "Lucky Raspberry",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Arcbolt Grenades chain up to 5 times (from 4)"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.13"
+      },
+      "595829387": {
+         "name": "Cross Counter",
+         "item_name": "Liar's Handshake",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Arcstrider Subclass Only"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Receiving or Dealing Melee Damage grants Cross Counter for 3 seconds or until Melee Hit."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Cross Counter grants a 200% Melee Damage Increase and heals for XHP on Melee Hit."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "One-Two Punch's bonus is reduced to 80% if Cross Counter is active."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.8"
+      },
+      "897181301": {
+         "name": "Rapid Cooldown",
+         "item_name": "Fr0st-EE5",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "If Sprinting: "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "100% Increased Grenade and Melee Recharge Speed."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Regenerates 3.5% Class Ability per Second."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "6.25% Faster Sprint for 10 seconds. "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Not refreshable."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Additive to Focused Breathing's 3% Class Ability per Second"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.53"
+      },
+      "1694242448": {
+         "name": "Illegally Modded Holster",
+         "item_name": "Lucky Pants",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Intrinsic Hand Cannon Holster"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "100 Handling Ready Speed and Y% Accuracy Increase on Draw for X seconds."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "After readying a Hand Cannon with a Full Magazine that deals Kinetic Damage or matches your Subclass:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "60% Damage Increase per Hit for 5 seconds. Maxes out at 600% after 10 Hits."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Eriana's Vow has a reduced effectiveness of 30% Damage Increase per Hit."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "After the Buff runs out, you swap weapons, or firing after the 5 second period:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "You cannot gain stacks or reacquire the buff for 10 seconds."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.10"
+      },
+      "1844314558": {
+         "name": "Parting Gift",
+         "item_name": "The Bombardiers",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Drops a Parting Gift that explodes and deals 120 Damage over 7.5 metres with a 1(?) second fuse."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Parting Gift has an additional effect based on Subclass:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Blind for 3 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Burn for 3 seconds, dealing 6x5"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Slows for 2 seconds and refreshes existing Slow Stacks. Does not apply Slow Stacks."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Suppress for 7 seconds [Does not apply to Guardians in Super]"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.39"
+      },
+      "2119325971": {
+         "name": "Vanishing Shadow",
+         "item_name": "Graviton Forfeit",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Increases the duration of Invisibility effects."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Rat King: 6 -> 10 seconds (66% Increase)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Vanish in Smoke: 7 -> 12 seconds (71% Increase)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Vanishing Step: 4.5 -> 7 seconds (44% Increase) "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Flawless Execution: 9 -> 15 seconds (66% Increase)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "While Invisible:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Regenerates 4.4% (+Y% per Enemy within X metres) of Melee Ability per second."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "X Recovery"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Y Handling (Ready Speed only)"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.2"
+      },
+      "2192678014": {
+         "name": "Roving Assassin",
+         "item_name": "Gwisin Vest",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "During Spectral Blade"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Restores Super Energy % on Heavy Attack based on the amount of Spectral Blade Kills."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Super Energy % gains based on kills"
+                  }
+               ]
+            },
+            {
+               "lineClass": "CDCA_desc-pve- ",
+               "lineText": [
+                  {
+                     "text": "PVE 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 "
+                  }
+               ]
+            },
+            {
+               "lineClass": "CDCA_desc-pvp- ",
+               "lineText": [
+                  {
+                     "text": "PVP 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.4"
+      },
+      "2663272109": {
+         "name": "Relentless Tracker",
+         "item_name": "Foetracer",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Marks Enemies for 5 seconds after hovering reticle over them. Persists briefly through walls."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "If Enemy is below 30% HP: Grants a 1% Damage Increase per percent below 30%"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "(Eg: 10% HP left -> 20% Damage Increase)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Damage Increase applies to both abilities and weapons."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.48"
+      },
       "2663272110": {
          "name": "Hawkeye Hack",
          "item_name": "Celestial Nighthawk",
@@ -221,6 +1319,162 @@
             }
          ],
          "last_edit": "2021.9.4-16.31"
+      },
+      "2663272111": {
+         "name": "Upgraded Sensor Pack",
+         "item_name": "Knucklehead Radar",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Radar remains active while Aiming Down Sights."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "If crouched: Grants Enhanced Radar. (Posseses 12 sectors instead of 6)"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.6"
+      },
+      "3663096260": {
+         "name": "Skittering Stinger",
+         "item_name": "Athrys's Embrace",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Throwing Knife gains greatly increased tracking and a second bounce."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "After 3 Precision Hits within 2.5 seconds of each: Gain Strengthened Throwing Knife."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Additional Precision Hits increase duration by 5 seconds each."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Strengthened Throwing Knife have a 200% [100%] Damage Increase with throwing knife, and staggers unstoppable champions."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Landing a throwing knife hit removes buff."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-17.42"
+      },
+      "4024170927": {
+         "name": "Misdirection",
+         "item_name": "Gemini Jester",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Applies Misdirection to enemies within 15 metres."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "textClass": "CDCA_desc-pve-",
+                     "text": "PVE"
+                  },
+                  {
+                     "text": " Misdirection disorients minors as well as elites for 5 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "textClass": "CDCA_desc-pvp-",
+                     "text": "PVP"
+                  },
+                  {
+                     "text": " Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Misdirection also deals 1 damage."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.0"
+      },
+      "4102900702": {
+         "name": "Touch of Venom",
+         "item_name": "Khepri's Sting",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Powered Melee Hit instantly casts Smoke Bomb."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Smoke Bombs have a 150% Damage Increase."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 metres away."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.5"
       }
    },
    "armor_mods": {},
