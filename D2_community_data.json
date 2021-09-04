@@ -124,6 +124,27 @@
          ],
          "last_edit": "2021.9.4-18.53"
       },
+      "691578978": {
+         "name": "Adamantine Brace",
+         "item_name": "Oathkeeper",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Bows are able to hold perfect draws indefinitely."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "40ms Faster Draw Time."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.39"
+      },
       "896224899": {
          "name": "Relentless Tracker",
          "item_name": "Foetracer",
@@ -1195,6 +1216,27 @@
             }
          ],
          "last_edit": "2021.9.4-18.53"
+      },
+      "1449897496": {
+         "name": "Adamantine Brace",
+         "item_name": "Oathkeeper",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Bows are able to hold perfect draws indefinitely."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "40ms Faster Draw Time."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.39"
       },
       "1694242448": {
          "name": "Illegally Modded Holster",
