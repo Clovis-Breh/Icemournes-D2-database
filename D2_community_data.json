@@ -609,6 +609,47 @@
             }
          ],
          "last_edit": "2021.9.4-19.2"
+      },
+      "4165919945": {
+         "name": "Cross Counter",
+         "item_name": "Liar's Handshake",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Arcstrider Subclass Only"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Receiving or Dealing Melee Damage grants Cross Counter for 3 seconds or until Melee Hit."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Cross Counter grants a 200% Melee Damage Increase and heals for XHP on Melee Hit."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "One-Two Punch's bonus is reduced to 80% if Cross Counter is active."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.8"
       }
    },
    "exotic_armor_perk": {
@@ -739,6 +780,47 @@
             }
          ],
          "last_edit": "2021.9.4-18.46"
+      },
+      "595829387": {
+         "name": "Cross Counter",
+         "item_name": "Liar's Handshake",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Arcstrider Subclass Only"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Receiving or Dealing Melee Damage grants Cross Counter for 3 seconds or until Melee Hit."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Cross Counter grants a 200% Melee Damage Increase and heals for XHP on Melee Hit."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "One-Two Punch's bonus is reduced to 80% if Cross Counter is active."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.8"
       },
       "897181301": {
          "name": "Rapid Cooldown",
