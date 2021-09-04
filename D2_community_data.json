@@ -210,6 +210,37 @@
          ],
          "last_edit": "2021.9.4-19.13"
       },
+      "978537162": {
+         "name": "Scissor Fingers",
+         "item_name": "Ophidia Spathe",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Grants an additional Melee Charge to Solar Subclasses."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Melee Charges are recharged simultaneously."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "(Eg: Both are recharged on dodge)"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.43"
+      },
       "1163283805": {
          "name": "Misdirection",
          "item_name": "Gemini Jester",
@@ -1716,6 +1747,37 @@
             }
          ],
          "last_edit": "2021.9.4-17.42"
+      },
+      "3666112472": {
+         "name": "Scissor Fingers",
+         "item_name": "Ophidia Spathe",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Grants an additional Melee Charge to Solar Subclasses."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Melee Charges are recharged simultaneously."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "(Eg: Both are recharged on dodge)"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.43"
       },
       "4024170927": {
          "name": "Misdirection",
