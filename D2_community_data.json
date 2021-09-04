@@ -423,6 +423,37 @@
          ],
          "last_edit": "2021.9.4-17.42"
       },
+      "2757274117": {
+         "name": "Touch of Venom",
+         "item_name": "Khepri's Sting",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Powered Melee Hit instantly casts Smoke Bomb."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Smoke Bombs have a 150% Damage Increase."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 metres away."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.5"
+      },
       "2766109874": {
          "name": "Wraithmetal Mail",
          "item_name": "The Dragon's Shadow",
@@ -1117,6 +1148,37 @@
             }
          ],
          "last_edit": "2021.9.4-19.0"
+      },
+      "4102900702": {
+         "name": "Touch of Venom",
+         "item_name": "Khepri's Sting",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Powered Melee Hit instantly casts Smoke Bomb."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Smoke Bombs have a 150% Damage Increase."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 metres away."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.5"
       }
    },
    "armor_mods": {},
