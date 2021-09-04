@@ -1,8 +1,148 @@
 {
-    "exotic_armor": {},
-    "exotic_armor_perk": {},
-    "armor_mods": {},
-    "weapon_perks": {},
-    "weapon_frames": {},
-    "weapon_mods": {}
+   "exotic_armor": {
+      "2203146422": {
+         "name": "Vanishing Execution",
+         "item_name": "Assassin's Cowl",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Gain Invisibility on Powered Melee Kill. (Longer on Finishers)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Heals for X on Powered Melee Kill. (Stronger on Finishers)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Invisibility Duration"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Minor = 6 seconds (10)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Elite = 9 seconds (13)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Miniboss = 12.5 seconds (13)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Boss = 13 seconds (13)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Bosses are not finishable."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-16.3"
+      }
+   },
+   "exotic_armor_perk": {
+      "236605015": {
+         "name": "Vanishing Execution",
+         "item_name": "Assassin's Cowl",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Gain Invisibility on Powered Melee Kill. (Longer on Finishers)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Heals for X on Powered Melee Kill. (Stronger on Finishers)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Invisibility Duration"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Minor = 6 seconds (10)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Elite = 9 seconds (13)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Miniboss = 12.5 seconds (13)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Boss = 13 seconds (13)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Bosses are not finishable."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-16.3"
+      }
+   },
+   "armor_mods": {},
+   "weapon_perks": {},
+   "weapon_frames": {},
+   "weapon_mods": {}
 }
