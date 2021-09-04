@@ -1,5 +1,46 @@
 {
    "exotic_armor": {
+      "896224899": {
+         "name": "Relentless Tracker",
+         "item_name": "Foetracer",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Marks Enemies for 5 seconds after hovering reticle over them. Persists briefly through walls."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "If Enemy is below 30% HP: Grants a 1% Damage Increase per percent below 30%"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "(Eg: 10% HP left -> 20% Damage Increase)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Damage Increase applies to both abilities and weapons."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.48"
+      },
       "1219761634": {
          "name": "Parting Gift",
          "item_name": "The Bombardiers",
@@ -464,6 +505,47 @@
             }
          ],
          "last_edit": "2021.9.4-18.39"
+      },
+      "2663272109": {
+         "name": "Relentless Tracker",
+         "item_name": "Foetracer",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Marks Enemies for 5 seconds after hovering reticle over them. Persists briefly through walls."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "If Enemy is below 30% HP: Grants a 1% Damage Increase per percent below 30%"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "(Eg: 10% HP left -> 20% Damage Increase)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Damage Increase applies to both abilities and weapons."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.48"
       },
       "2663272110": {
          "name": "Hawkeye Hack",
