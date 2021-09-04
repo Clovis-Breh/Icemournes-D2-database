@@ -434,6 +434,82 @@
             }
          ],
          "last_edit": "2021.9.4-18.46"
+      },
+      "2773056939": {
+         "name": "Vanishing Shadow",
+         "item_name": "Graviton Forfeit",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Increases the duration of Invisibility effects."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Rat King: 6 -> 10 seconds (66% Increase)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Vanish in Smoke: 7 -> 12 seconds (71% Increase)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Vanishing Step: 4.5 -> 7 seconds (44% Increase) "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Flawless Execution: 9 -> 15 seconds (66% Increase)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "While Invisible:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Regenerates 4.4% (+Y% per Enemy within X metres) of Melee Ability per second."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "X Recovery"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Y Handling (Ready Speed only)"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.2"
       }
    },
    "exotic_armor_perk": {
@@ -685,6 +761,82 @@
             }
          ],
          "last_edit": "2021.9.4-18.39"
+      },
+      "2119325971": {
+         "name": "Vanishing Shadow",
+         "item_name": "Graviton Forfeit",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Increases the duration of Invisibility effects."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Rat King: 6 -> 10 seconds (66% Increase)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Vanish in Smoke: 7 -> 12 seconds (71% Increase)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Vanishing Step: 4.5 -> 7 seconds (44% Increase) "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Flawless Execution: 9 -> 15 seconds (66% Increase)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "While Invisible:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Regenerates 4.4% (+Y% per Enemy within X metres) of Melee Ability per second."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "X Recovery"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Y Handling (Ready Speed only)"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.2"
       },
       "2663272109": {
          "name": "Relentless Tracker",
