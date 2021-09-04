@@ -413,6 +413,61 @@
          ],
          "last_edit": "2021.9.4-19.4"
       },
+      "1619425569": {
+         "name": "Light Shift",
+         "item_name": "Mask of Bakris",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Stasis Subclass Only"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Replaces Dodge with Shift."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Shift has a distance of 10 metres, and renders you completely invisible except for a trail for the duration of the shift."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Dodging grants Light Shift buff for 10 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "[PVE] Light Shift grants a 10% Damage Increase to Slowed/Frozen targets, as well as granting 10% Damage Increase to Arc Weapons."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Dodge does not recharge while Light Shift buff is active."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.32"
+      },
       "2203146422": {
          "name": "Vanishing Execution",
          "item_name": "Assassin's Cowl",
@@ -931,6 +986,61 @@
             }
          ],
          "last_edit": "2021.9.4-19.8"
+      },
+      "692285813": {
+         "name": "Light Shift",
+         "item_name": "Mask of Bakris",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Stasis Subclass Only"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Replaces Dodge with Shift."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Shift has a distance of 10 metres, and renders you completely invisible except for a trail for the duration of the shift."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Dodging grants Light Shift buff for 10 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "[PVE] Light Shift grants a 10% Damage Increase to Slowed/Frozen targets, as well as granting 10% Damage Increase to Arc Weapons."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Dodge does not recharge while Light Shift buff is active."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.32"
       },
       "897181301": {
          "name": "Rapid Cooldown",
