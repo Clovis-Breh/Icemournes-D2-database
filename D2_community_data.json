@@ -109,6 +109,54 @@
             }
          ],
          "last_edit": "2021.9.4-16.3"
+      },
+      "2415768376": {
+         "name": "Skittering Stinger",
+         "item_name": "Athrys's Embrace",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Throwing Knife gains greatly increased tracking and a second bounce."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "After 3 Precision Hits within 2.5 seconds of each: Gain Strengthened Throwing Knife."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Additional Precision Hits increase duration by 5 seconds each."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Strengthened Throwing Knife have a 200% [100%] Damage Increase with throwing knife, and staggers unstoppable champions."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Landing a throwing knife hit removes buff."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-17.42"
       }
    },
    "exotic_armor_perk": {
@@ -221,6 +269,54 @@
             }
          ],
          "last_edit": "2021.9.4-16.31"
+      },
+      "3663096260": {
+         "name": "Skittering Stinger",
+         "item_name": "Athrys's Embrace",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Throwing Knife gains greatly increased tracking and a second bounce."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "After 3 Precision Hits within 2.5 seconds of each: Gain Strengthened Throwing Knife."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Additional Precision Hits increase duration by 5 seconds each."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Strengthened Throwing Knife have a 200% [100%] Damage Increase with throwing knife, and staggers unstoppable champions."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Landing a throwing knife hit removes buff."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-17.42"
       }
    },
    "armor_mods": {},
