@@ -1,5 +1,64 @@
 {
    "exotic_armor": {
+      "1219761634": {
+         "name": "Parting Gift",
+         "item_name": "The Bombardiers",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Drops a Parting Gift that explodes and deals 120 Damage over 7.5 metres with a 1(?) second fuse."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Parting Gift has an additional effect based on Subclass:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Blind for 3 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Burn for 3 seconds, dealing 6x5"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Slows for 2 seconds and refreshes existing Slow Stacks. Does not apply Slow Stacks."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Suppress for 7 seconds [Does not apply to Guardians in Super]"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-16.28"
+      },
       "2203146422": {
          "name": "Vanishing Execution",
          "item_name": "Assassin's Cowl",
@@ -139,6 +198,65 @@
             }
          ],
          "last_edit": "2021.9.4-16.3"
+      },
+      "1844314558": {
+         "name": "Parting Gift",
+         "item_name": "The Bombardiers",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Drops a Parting Gift that explodes and deals 120 Damage over 7.5 metres with a 1(?) second fuse."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Parting Gift has an additional effect based on Subclass:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Blind for 3 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Burn for 3 seconds, dealing 6x5"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Slows for 2 seconds and refreshes existing Slow Stacks. Does not apply Slow Stacks."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Suppress for 7 seconds [Does not apply to Guardians in Super]"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-16.28"
       }
    },
    "armor_mods": {},
