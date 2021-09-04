@@ -216,6 +216,65 @@
             }
          ],
          "last_edit": "2021.9.4-17.42"
+      },
+      "2766109874": {
+         "name": "Wraithmetal Mail",
+         "item_name": "The Dragon's Shadow",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Grants Wraithmetal Mail for 9 seconds."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Wraithmetal Mail"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Reloads all weapons"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Grants 100 Handling (w/ 0.95x Scalar), 100 Reload, and 50 Mobility."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Sprint Speed by 6.25%."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Slide Distance by 33%."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.46"
       }
    },
    "exotic_armor_perk": {
@@ -287,6 +346,65 @@
             }
          ],
          "last_edit": "2021.9.4-16.3"
+      },
+      "593361144": {
+         "name": "Wraithmetal Mail",
+         "item_name": "The Dragon's Shadow",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Grants Wraithmetal Mail for 9 seconds."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Wraithmetal Mail"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Reloads all weapons"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Grants 100 Handling (w/ 0.95x Scalar), 100 Reload, and 50 Mobility."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Sprint Speed by 6.25%."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Slide Distance by 33%."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.46"
       },
       "1844314558": {
          "name": "Parting Gift",
