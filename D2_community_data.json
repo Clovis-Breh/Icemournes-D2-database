@@ -103,6 +103,54 @@
          ],
          "last_edit": "2021.9.4-18.48"
       },
+      "1163283805": {
+         "name": "Misdirection",
+         "item_name": "Gemini Jester",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Applies Misdirection to enemies within 15 metres."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "[PVE] Misdirection disorients minors as well as elites for 5 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "[PVP] Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Misdirection also deals 1 damage."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.54"
+      },
       "1219761634": {
          "name": "Parting Gift",
          "item_name": "The Bombardiers",
@@ -759,6 +807,54 @@
             }
          ],
          "last_edit": "2021.9.4-17.42"
+      },
+      "4024170927": {
+         "name": "Misdirection",
+         "item_name": "Gemini Jester",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Applies Misdirection to enemies within 15 metres."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "[PVE] Misdirection disorients minors as well as elites for 5 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "[PVP] Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Misdirection also deals 1 damage."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-18.54"
       }
    },
    "armor_mods": {},
