@@ -259,6 +259,53 @@
          ],
          "last_edit": "2021.9.4-16.31"
       },
+      "1474735276": {
+         "name": "Roving Assassin",
+         "item_name": "Gwisin Vest",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "During Spectral Blade"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Restores Super Energy % on Heavy Attack based on the amount of Spectral Blade Kills."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Super Energy % gains based on kills"
+                  }
+               ]
+            },
+            {
+               "lineClass": "CDCA_desc-pve- ",
+               "lineText": [
+                  {
+                     "text": "PVE 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 "
+                  }
+               ]
+            },
+            {
+               "lineClass": "CDCA_desc-pvp- ",
+               "lineText": [
+                  {
+                     "text": "PVP 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.4"
+      },
       "2203146422": {
          "name": "Vanishing Execution",
          "item_name": "Assassin's Cowl",
@@ -837,6 +884,53 @@
             }
          ],
          "last_edit": "2021.9.4-19.2"
+      },
+      "2192678014": {
+         "name": "Roving Assassin",
+         "item_name": "Gwisin Vest",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "During Spectral Blade"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Restores Super Energy % on Heavy Attack based on the amount of Spectral Blade Kills."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Super Energy % gains based on kills"
+                  }
+               ]
+            },
+            {
+               "lineClass": "CDCA_desc-pve- ",
+               "lineText": [
+                  {
+                     "text": "PVE 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 "
+                  }
+               ]
+            },
+            {
+               "lineClass": "CDCA_desc-pvp- ",
+               "lineText": [
+                  {
+                     "text": "PVP 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.4"
       },
       "2663272109": {
          "name": "Relentless Tracker",
