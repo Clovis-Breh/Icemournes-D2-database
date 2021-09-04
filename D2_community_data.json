@@ -535,6 +535,48 @@
          ],
          "last_edit": "2021.9.4-20.37"
       },
+      "1935198785": {
+         "name": "Beyond The Veil",
+         "item_name": "Omnioculus",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Grants an extra Smoke Bomb Charge."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Cloaking allies grants 50% Melee Energy per ally."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "textClass": "CDCA_desc-pve-",
+                     "text": "50%"
+                  },
+                  {
+                     "textClass": "CDCA_desc-pvp-",
+                     "text": " [10%]"
+                  },
+                  {
+                     "text": " Damage Resistance on any Invisible effects. Applies to teammates made invisible."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.42"
+      },
       "2203146422": {
          "name": "Vanishing Execution",
          "item_name": "Assassin's Cowl",
@@ -975,6 +1017,48 @@
             }
          ],
          "last_edit": "2021.9.4-20.37"
+      },
+      "553093017": {
+         "name": "Beyond The Veil",
+         "item_name": "Omnioculus",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Grants an extra Smoke Bomb Charge."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Cloaking allies grants 50% Melee Energy per ally."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "textClass": "CDCA_desc-pve-",
+                     "text": "50%"
+                  },
+                  {
+                     "textClass": "CDCA_desc-pvp-",
+                     "text": " [10%]"
+                  },
+                  {
+                     "text": " Damage Resistance on any Invisible effects. Applies to teammates made invisible."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.42"
       },
       "593361144": {
          "name": "Wraithmetal Mail",
