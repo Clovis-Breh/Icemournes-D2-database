@@ -218,6 +218,27 @@
          ],
          "last_edit": "2021.9.4-18.39"
       },
+      "1321354572": {
+         "name": "Upgraded Sensor Pack",
+         "item_name": "Knucklehead Radar",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Radar remains active while Aiming Down Sights."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "If crouched: Grants Enhanced Radar. (Posseses 12 sectors instead of 6)"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.6"
+      },
       "1321354573": {
          "name": "Hawkeye Hack",
          "item_name": "Celestial Nighthawk",
@@ -1044,6 +1065,27 @@
             }
          ],
          "last_edit": "2021.9.4-16.31"
+      },
+      "2663272111": {
+         "name": "Upgraded Sensor Pack",
+         "item_name": "Knucklehead Radar",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Radar remains active while Aiming Down Sights."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "If crouched: Grants Enhanced Radar. (Posseses 12 sectors instead of 6)"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-19.6"
       },
       "3663096260": {
          "name": "Skittering Stinger",
