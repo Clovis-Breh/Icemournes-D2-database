@@ -127,14 +127,22 @@
             {
                "lineText": [
                   {
-                     "text": "[PVE] Misdirection disorients minors as well as elites for 5 seconds."
+                     "textClass": "CDCA_desc-pve-",
+                     "text": "PVE"
+                  },
+                  {
+                     "text": " Misdirection disorients minors as well as elites for 5 seconds."
                   }
                ]
             },
             {
                "lineText": [
                   {
-                     "text": "[PVP] Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
+                     "textClass": "CDCA_desc-pvp-",
+                     "text": "PVP"
+                  },
+                  {
+                     "text": " Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
                   }
                ]
             },
@@ -149,7 +157,7 @@
                ]
             }
          ],
-         "last_edit": "2021.9.4-18.54"
+         "last_edit": "2021.9.4-19.0"
       },
       "1219761634": {
          "name": "Parting Gift",
@@ -832,14 +840,22 @@
             {
                "lineText": [
                   {
-                     "text": "[PVE] Misdirection disorients minors as well as elites for 5 seconds."
+                     "textClass": "CDCA_desc-pve-",
+                     "text": "PVE"
+                  },
+                  {
+                     "text": " Misdirection disorients minors as well as elites for 5 seconds."
                   }
                ]
             },
             {
                "lineText": [
                   {
-                     "text": "[PVP] Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
+                     "textClass": "CDCA_desc-pvp-",
+                     "text": "PVP"
+                  },
+                  {
+                     "text": " Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
                   }
                ]
             },
@@ -854,7 +870,7 @@
                ]
             }
          ],
-         "last_edit": "2021.9.4-18.54"
+         "last_edit": "2021.9.4-19.0"
       }
    },
    "armor_mods": {},
