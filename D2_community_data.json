@@ -729,6 +729,37 @@
          ],
          "last_edit": "2021.9.4-16.3"
       },
+      "2268523867": {
+         "name": "Mobius Conduit",
+         "item_name": "Raiju's Harness",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Blocking with Whirlwind Guard doesn't consume extra Super Energy."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Can deactivate Arc Staff at any time to preserve a portion of unspent Super Energy."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Instantaneous Deactivation refunds 62.5% Super Energy."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.43"
+      },
       "2415768376": {
          "name": "Skittering Stinger",
          "item_name": "Athrys's Embrace",
@@ -1969,6 +2000,37 @@
             }
          ],
          "last_edit": "2021.9.4-19.5"
+      },
+      "4251375227": {
+         "name": "Mobius Conduit",
+         "item_name": "Raiju's Harness",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Blocking with Whirlwind Guard doesn't consume extra Super Energy."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Can deactivate Arc Staff at any time to preserve a portion of unspent Super Energy."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Instantaneous Deactivation refunds 62.5% Super Energy."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.43"
       }
    },
    "armor_mods": {},
