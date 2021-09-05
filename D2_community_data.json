@@ -2108,6 +2108,37 @@
       ],
       "last_edit": "2021.9.5-9.39"
     },
+    "3883866764": {
+      "name": "Dreaded Visage",
+      "item_name": "Mask of the Quiet One",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Heals up to Max Critical Health on Kill."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Regenerates 5% Barricade, Grenade, and Melee Energy on taking Damage."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "(I think it requires a minimum amount of damage in one hit to proc?, probably has cooldown)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-14.23"
+    },
     "4165919945": {
       "name": "Cross Counter",
       "item_name": "Liar's Handshake",
@@ -3896,6 +3927,37 @@
         }
       ],
       "last_edit": "2021.9.5-9.50"
+    },
+    "3662465906": {
+      "name": "Dreaded Visage",
+      "item_name": "Mask of the Quiet One",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Heals up to Max Critical Health on Kill."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Regenerates 5% Barricade, Grenade, and Melee Energy on taking Damage."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "(I think it requires a minimum amount of damage in one hit to proc?, probably has cooldown)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-14.23"
     },
     "3662465907": {
       "name": "Transfusion Matrix",
