@@ -572,6 +572,27 @@
          ],
          "last_edit": "2021.9.4-20.32"
       },
+      "1688602431": {
+         "name": "Nightmare Fuel",
+         "item_name": "Sealed Ahamkara Grasps",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Melee Hits refresh magazine."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "7 second cooldown."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.50"
+      },
       "1702288800": {
          "name": "The Dance",
          "item_name": "Radiant Dance Machines",
@@ -1936,6 +1957,27 @@
             }
          ],
          "last_edit": "2021.9.4-19.6"
+      },
+      "2805134531": {
+         "name": "Nightmare Fuel",
+         "item_name": "Sealed Ahamkara Grasps",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Melee Hits refresh magazine."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "7 second cooldown."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.50"
       },
       "3663096260": {
          "name": "Skittering Stinger",
