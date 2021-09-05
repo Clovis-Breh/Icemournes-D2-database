@@ -1021,6 +1021,37 @@
       ],
       "last_edit": "2021.9.4-20.37"
     },
+    "1734844650": {
+      "name": "Bring the Heat",
+      "item_name": "Ashen Wake",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Fusion Grenades have Fastball intrinsically and detonate on impact."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Kills with Fusion Grenades grant Grenade Energy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "25% for Minors | 50% for Majors | 100% for Guardians & Bosses"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.40"
+    },
     "1935198785": {
       "name": "Beyond The Veil",
       "item_name": "Omnioculus",
@@ -1715,6 +1746,37 @@
         }
       ],
       "last_edit": "2021.9.5-9.37"
+    },
+    "384759954": {
+      "name": "Bring the Heat",
+      "item_name": "Ashen Wake",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Fusion Grenades have Fastball intrinsically and detonate on impact."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Kills with Fusion Grenades grant Grenade Energy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "25% for Minors | 50% for Majors | 100% for Guardians & Bosses"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.40"
     },
     "481860150": {
       "name": "Wish-Dragon Teeth",
