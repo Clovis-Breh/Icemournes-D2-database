@@ -324,6 +324,82 @@
          ],
          "last_edit": "2021.9.4-20.43"
       },
+      "1001356380": {
+         "name": "Feast of Light",
+         "item_name": "Star-Eater Scales",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Increased Super Energy from Orbs of Power."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "7.1% -> 10% for Super Orbs"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "2.5% -> 4.17% for Masterwork Orbs"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "While Super Energy is full:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Picking up an Orb of Power grants 1 Overcharge Stack. "
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Each Overcharge Stacks grants increased Super Damage, up to 1.7x."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "14% | 27% | 40% | 55% | 62% | 66% | 70%"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Casting Super while Overcharged heals you for X HP"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Casting Super while at 8 Overcharge Stacks grants you a Y HP Overshield for 16 seconds."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.58"
+      },
       "1053737370": {
          "name": "New Tricks",
          "item_name": "Shinobu's Vow",
@@ -2291,6 +2367,82 @@
             }
          ],
          "last_edit": "2021.9.4-19.0"
+      },
+      "4048389864": {
+         "name": "Feast of Light",
+         "item_name": "Star-Eater Scales",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Increased Super Energy from Orbs of Power."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "7.1% -> 10% for Super Orbs"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "2.5% -> 4.17% for Masterwork Orbs"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "While Super Energy is full:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Picking up an Orb of Power grants 1 Overcharge Stack. "
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Each Overcharge Stacks grants increased Super Damage, up to 1.7x."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "14% | 27% | 40% | 55% | 62% | 66% | 70%"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Casting Super while Overcharged heals you for X HP"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Casting Super while at 8 Overcharge Stacks grants you a Y HP Overshield for 16 seconds."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.58"
       },
       "4102900702": {
          "name": "Touch of Venom",
