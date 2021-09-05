@@ -1225,7 +1225,7 @@
         {
           "lineText": [
             {
-              "text": "Generate a 180° frontal shield that reflects damage and projectiles."
+              "text": "Generate a 180Â° frontal shield that reflects damage and projectiles."
             }
           ]
         },
@@ -1501,6 +1501,27 @@
       ],
       "last_edit": "2021.9.5-8.1"
     },
+    "3874247549": {
+      "name": "And Another Thing",
+      "item_name": "Armamentarium",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants an extra Grenade Charge. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Does not Stack with Top Tree Striker"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.39"
+    },
     "4165919945": {
       "name": "Cross Counter",
       "item_name": "Liar's Handshake",
@@ -1678,7 +1699,7 @@
         {
           "lineText": [
             {
-              "text": "Generate a 180° frontal shield that reflects damage and projectiles."
+              "text": "Generate a 180Â° frontal shield that reflects damage and projectiles."
             }
           ]
         },
@@ -2023,6 +2044,27 @@
         }
       ],
       "last_edit": "2021.9.4-20.32"
+    },
+    "883550427": {
+      "name": "And Another Thing",
+      "item_name": "Armamentarium",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants an extra Grenade Charge. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Does not Stack with Top Tree Striker"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.39"
     },
     "897181301": {
       "name": "Rapid Cooldown",
