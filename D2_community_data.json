@@ -572,6 +572,57 @@
          ],
          "last_edit": "2021.9.4-20.32"
       },
+      "1702288800": {
+         "name": "The Dance",
+         "item_name": "Radiant Dance Machines",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "While within 15 metres of an enemy, Multi-Dodge Ready appears on the Buff list."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "After Dodging within 15 metres of an Enemy:"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Unlimited Dodges for 6 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Can dodge up to 6 times per activation."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Effect immediately ends if you are over 15 metres away from an Enemy while Multi-Dodge is active."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.44"
+      },
       "1734144409": {
          "name": "Spring-Loaded Mounting",
          "item_name": "Mechaneer's Tricksleeves",
@@ -1017,6 +1068,57 @@
       }
    },
    "exotic_armor_perk": {
+      "117669763": {
+         "name": "The Dance",
+         "item_name": "Radiant Dance Machines",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "While within 15 metres of an enemy, Multi-Dodge Ready appears on the Buff list."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "After Dodging within 15 metres of an Enemy:"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Unlimited Dodges for 6 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Can dodge up to 6 times per activation."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Effect immediately ends if you are over 15 metres away from an Enemy while Multi-Dodge is active."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.44"
+      },
       "236605015": {
          "name": "Vanishing Execution",
          "item_name": "Assassin's Cowl",
