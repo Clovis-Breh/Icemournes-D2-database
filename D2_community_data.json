@@ -1659,6 +1659,58 @@
       ],
       "last_edit": "2021.9.4-16.3"
     },
+    "2240152949": {
+      "name": "Clenched Fist",
+      "item_name": "Stronghold",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Maxes out Sword's Guard Resistance, Efficiency, and Endurance."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Perfectly timed blocks heal for 80(?) HP."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Blocking Specifics:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Aggressive Frame Swords grant 95% Damage Resistance."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Other Swords grant 90% Damage Resistance."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Sword Energy does not decay from blocking damage or holding guard."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.43"
+    },
     "2255796155": {
       "name": "Peregrine Strike",
       "item_name": "Peregrine Greaves",
@@ -3987,6 +4039,58 @@
         }
       ],
       "last_edit": "2021.9.5-8.0"
+    },
+    "1731450287": {
+      "name": "Clenched Fist",
+      "item_name": "Stronghold",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Maxes out Sword's Guard Resistance, Efficiency, and Endurance."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Perfectly timed blocks heal for 80(?) HP."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Blocking Specifics:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Aggressive Frame Swords grant 95% Damage Resistance."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Other Swords grant 90% Damage Resistance."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Sword Energy does not decay from blocking damage or holding guard."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.43"
     },
     "1828251441": {
       "name": "Assault Barricade",
