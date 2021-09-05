@@ -2199,6 +2199,65 @@
       ],
       "last_edit": "2021.9.5-14.22"
     },
+    "3539357319": {
+      "name": "Mecha Holster",
+      "item_name": "Peacekeepers",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "When an SMG is readied:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "50 Mobility"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Sprint Speed by 6.25%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Slide Distance by 33%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Decreases SMG ADS penalty from 25% to 9%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100 Handling(?)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reloads stowed SMGs in 1.3s"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-14.28"
+    },
     "3562696927": {
       "name": "Burning Souls",
       "item_name": "Wormhusk Crown",
@@ -4133,6 +4192,65 @@
         }
       ],
       "last_edit": "2021.9.5-14.22"
+    },
+    "3241194941": {
+      "name": "Mecha Holster",
+      "item_name": "Peacekeepers",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "When an SMG is readied:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "50 Mobility"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Sprint Speed by 6.25%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Slide Distance by 33%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Decreases SMG ADS penalty from 25% to 9%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100 Handling(?)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reloads stowed SMGs in 1.3s"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-14.28"
     },
     "3241194942": {
       "name": "Linear Actuators",
