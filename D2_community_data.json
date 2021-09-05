@@ -1280,6 +1280,47 @@
       ],
       "last_edit": "2021.9.5-7.43"
     },
+    "2321120637": {
+      "name": "Glorious Charge",
+      "item_name": "Cuirass of the Falling Star",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Thundercrash has a 100% Damage Increase."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Thundercrash Deactivation:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Gain an 100HP Overshield for 7 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Overshield Duration scales with Thundercrash distance, up to a max of 20 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.45"
+    },
     "2415768376": {
       "name": "Skittering Stinger",
       "item_name": "Athrys's Embrace",
@@ -3330,6 +3371,47 @@
         }
       ],
       "last_edit": "2021.9.4-19.5"
+    },
+    "4235122381": {
+      "name": "Glorious Charge",
+      "item_name": "Cuirass of the Falling Star",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Thundercrash has a 100% Damage Increase."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Thundercrash Deactivation:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Gain an 100HP Overshield for 7 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Overshield Duration scales with Thundercrash distance, up to a max of 20 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.45"
     },
     "4251375227": {
       "name": "Mobius Conduit",
