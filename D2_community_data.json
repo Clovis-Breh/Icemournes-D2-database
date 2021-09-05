@@ -784,6 +784,58 @@
       ],
       "last_edit": "2021.9.5-9.43"
     },
+    "1192890598": {
+      "name": "Sunfire Furnace",
+      "item_name": "Hallowfire Heart",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If on Solar Subclass"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Faster Ability Recharge"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "0.9% Melee & Grenade Ability Recharge per Second"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "If Solar Super is Charged."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Significatively faster Ability Recharge"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "4.25% Melee & Grenade Ability Recharge per Second"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-10.19"
+    },
     "1219761634": {
       "name": "Parting Gift",
       "item_name": "The Bombardiers",
@@ -2592,6 +2644,58 @@
         }
       ],
       "last_edit": "2021.9.5-7.54"
+    },
+    "1667892708": {
+      "name": "Sunfire Furnace",
+      "item_name": "Hallowfire Heart",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If on Solar Subclass"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Faster Ability Recharge"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "0.9% Melee & Grenade Ability Recharge per Second"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "If Solar Super is Charged."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Significatively faster Ability Recharge"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "4.25% Melee & Grenade Ability Recharge per Second"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-10.19"
     },
     "1667892710": {
       "name": "Survival Well",
