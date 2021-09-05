@@ -592,6 +592,20 @@
          ],
          "last_edit": "2021.9.4-19.4"
       },
+      "1474735277": {
+         "name": "Double Dodge",
+         "item_name": "The Sixth Coyote",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Adds an extra Dodge Charge."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.56"
+      },
       "1619425569": {
          "name": "Light Shift",
          "item_name": "Mask of Bakris",
@@ -1960,6 +1974,20 @@
             }
          ],
          "last_edit": "2021.9.4-19.4"
+      },
+      "2192678015": {
+         "name": "Double Dodge",
+         "item_name": "The Sixth Coyote",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Adds an extra Dodge Charge."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.56"
       },
       "2663272109": {
          "name": "Relentless Tracker",
