@@ -652,6 +652,54 @@
       ],
       "last_edit": "2021.9.4-19.0"
     },
+    "1190497097": {
+      "name": "Assault Barricade",
+      "item_name": "Citan's Ramparts",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Alters Towering Barricade"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Assault Barricade has reduced health and duration, but enables you and your allies to shoot through it."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Barricade Stats"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "600HP -> 350HP"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20 seconds -> 10 seconds"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.41"
+    },
     "1219761634": {
       "name": "Parting Gift",
       "item_name": "The Bombardiers",
@@ -2507,6 +2555,54 @@
         }
       ],
       "last_edit": "2021.9.5-8.0"
+    },
+    "1828251441": {
+      "name": "Assault Barricade",
+      "item_name": "Citan's Ramparts",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Alters Towering Barricade"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Assault Barricade has reduced health and duration, but enables you and your allies to shoot through it."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Barricade Stats"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "600HP -> 350HP"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20 seconds -> 10 seconds"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.41"
     },
     "1844314558": {
       "name": "Parting Gift",
