@@ -1838,6 +1838,40 @@
       ],
       "last_edit": "2021.9.5-9.33"
     },
+    "2578771006": {
+      "name": "Vengeance",
+      "item_name": "One-Eyed Mask",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Taking damage highlights the enemy that caused it for 8 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Killing the targeted enemy grants Vengeance for 6 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Vengeance grants a 95 HP Overshield."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-14.27"
+    },
     "2757274117": {
       "name": "Touch of Venom",
       "item_name": "Khepri's Sting",
@@ -2890,6 +2924,40 @@
         }
       ],
       "last_edit": "2021.9.4-20.32"
+    },
+    "699693452": {
+      "name": "Vengeance",
+      "item_name": "One-Eyed Mask",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Taking damage highlights the enemy that caused it for 8 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Killing the targeted enemy grants Vengeance for 6 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Vengeance grants a 95 HP Overshield."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-14.27"
     },
     "824488952": {
       "name": "Seriously, Watch Out",
