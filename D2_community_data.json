@@ -324,6 +324,50 @@
          ],
          "last_edit": "2021.9.4-20.43"
       },
+      "1053737370": {
+         "name": "New Tricks",
+         "item_name": "Shinobu's Vow",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "If on Skip Grenades."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Grants an extra Grenade Charge."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Skip Grenades spawn 1 more drone (4 -> 5) and chase enemies much more aggressively."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Hits with Skip Grenades grant X% Grenade Energy."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.55"
+      },
       "1163283805": {
          "name": "Misdirection",
          "item_name": "Gemini Jester",
@@ -2119,6 +2163,50 @@
             }
          ],
          "last_edit": "2021.9.4-20.43"
+      },
+      "3907299874": {
+         "name": "New Tricks",
+         "item_name": "Shinobu's Vow",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "If on Skip Grenades."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Grants an extra Grenade Charge."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Skip Grenades spawn 1 more drone (4 -> 5) and chase enemies much more aggressively."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Hits with Skip Grenades grant X% Grenade Energy."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.55"
       },
       "4024170927": {
          "name": "Misdirection",
