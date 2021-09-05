@@ -1233,6 +1233,65 @@
       ],
       "last_edit": "2021.9.5-7.56"
     },
+    "1537074069": {
+      "name": "Beacons of Empowerment",
+      "item_name": "Phoenix Cradle",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Sun Warrior buff from Sunspots lasts twice as long (5 ->10 seconds)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Sunspots affect the entire team."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Sun Warrior:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "2.8x faster Grenade Recharge"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "4.2x Melee Ability Recharge"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20% Increased Weapon Damage"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "10(?)% slower Super Drain"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.39"
+    },
     "1591207518": {
       "name": "Auto-Loading Link",
       "item_name": "Actium War Rig",
@@ -4276,6 +4335,65 @@
         }
       ],
       "last_edit": "2021.9.5-7.50"
+    },
+    "2951499542": {
+      "name": "Beacons of Empowerment",
+      "item_name": "Phoenix Cradle",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Sun Warrior buff from Sunspots lasts twice as long (5 ->10 seconds)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Sunspots affect the entire team."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Sun Warrior:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "2.8x faster Grenade Recharge"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "4.2x Melee Ability Recharge"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20% Increased Weapon Damage"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "10(?)% slower Super Drain"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.39"
     },
     "3241194940": {
       "name": "Jump Jets",
