@@ -2004,6 +2004,68 @@
       ],
       "last_edit": "2021.9.5-9.35"
     },
+    "3539357318": {
+      "name": "Jump Jets",
+      "item_name": "Lion Rampant",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "No Accuracy Penalty while Airborne when Hipfiring in Lift."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Enables hipfire while in Lift."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Lift Duration to 4 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lift Duration in seconds:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "High Lift: 2.6 -> 4 (1.54x increase)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stafe Lift: 2.2 -> 4 (1.82x increase)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Catapult Lift: 1 -> 4 (4x increase!)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-14.22"
+    },
     "3562696927": {
       "name": "Burning Souls",
       "item_name": "Wormhusk Crown",
@@ -3712,6 +3774,68 @@
         }
       ],
       "last_edit": "2021.9.5-7.50"
+    },
+    "3241194940": {
+      "name": "Jump Jets",
+      "item_name": "Lion Rampant",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "No Accuracy Penalty while Airborne when Hipfiring in Lift."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Enables hipfire while in Lift."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Lift Duration to 4 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lift Duration in seconds:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "High Lift: 2.6 -> 4 (1.54x increase)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stafe Lift: 2.2 -> 4 (1.82x increase)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Catapult Lift: 1 -> 4 (4x increase!)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-14.22"
     },
     "3241194942": {
       "name": "Linear Actuators",
