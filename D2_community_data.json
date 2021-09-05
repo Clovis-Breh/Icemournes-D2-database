@@ -197,6 +197,37 @@
          ],
          "last_edit": "2021.9.4-20.39"
       },
+      "691578979": {
+         "name": "Sharp Edges",
+         "item_name": "Shards of Galanor",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Blade Barrage Hits and Kills grant \"Super Regeneration\" or something buff that grants X% Super per second."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Caps at 50% Super Energy."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Duration depends on Kills and Hits, as well as Enemy Rank"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.51"
+      },
       "896224899": {
          "name": "Relentless Tracker",
          "item_name": "Foetracer",
@@ -1558,6 +1589,37 @@
             }
          ],
          "last_edit": "2021.9.4-20.39"
+      },
+      "1449897497": {
+         "name": "Sharp Edges",
+         "item_name": "Shards of Galanor",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Blade Barrage Hits and Kills grant \"Super Regeneration\" or something buff that grants X% Super per second."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Caps at 50% Super Energy."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Duration depends on Kills and Hits, as well as Enemy Rank"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.51"
       },
       "1694242448": {
          "name": "Illegally Modded Holster",
