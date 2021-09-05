@@ -1056,6 +1056,64 @@
       ],
       "last_edit": "2021.9.5-10.20"
     },
+    "1467044898": {
+      "name": "Glacial Guard",
+      "item_name": "Icefall Mantle",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Replaces Barricade with Glacial Guard"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Glacial Guard Cast:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants Shielded buff and applies 40 Stacks of Slow to Combatants within 7 metres."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Shielded lasts 20 seconds and grants a 100HP Overshield."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Shielded also refreshes on damage taken, prevents sprinting, double jumping, and sliding."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "While Shielded is active, you cannot regain Class Ability Energy."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-10.22"
+    },
     "1474735276": {
       "name": "Roving Assassin",
       "item_name": "Gwisin Vest",
@@ -2042,6 +2100,64 @@
         }
       ],
       "last_edit": "2021.9.5-7.48"
+    },
+    "185514250": {
+      "name": "Glacial Guard",
+      "item_name": "Icefall Mantle",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Replaces Barricade with Glacial Guard"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Glacial Guard Cast:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants Shielded buff and applies 40 Stacks of Slow to Combatants within 7 metres."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Shielded lasts 20 seconds and grants a 100HP Overshield."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Shielded also refreshes on damage taken, prevents sprinting, double jumping, and sliding."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "While Shielded is active, you cannot regain Class Ability Energy."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-10.22"
     },
     "236605015": {
       "name": "Vanishing Execution",
