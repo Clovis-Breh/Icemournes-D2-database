@@ -2062,6 +2062,47 @@
       ],
       "last_edit": "2021.9.5-9.35"
     },
+    "3267996858": {
+      "name": "Force Multiplier",
+      "item_name": "No Backup Plans",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If your Defensive Strike Melee Ability is Charged:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Shotgun Kills activate Defensive Strike and consume your Melee Energy."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Shotgun Final Blows restore Melee Ability Energy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "10% Minors | 25% Anything Else"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-14.25"
+    },
     "3539357318": {
       "name": "Jump Jets",
       "item_name": "Lion Rampant",
@@ -2629,6 +2670,47 @@
         }
       ],
       "last_edit": "2021.9.4-20.42"
+    },
+    "569260333": {
+      "name": "Force Multiplier",
+      "item_name": "No Backup Plans",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If your Defensive Strike Melee Ability is Charged:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Shotgun Kills activate Defensive Strike and consume your Melee Energy."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Shotgun Final Blows restore Melee Ability Energy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "10% Minors | 25% Anything Else"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-14.25"
     },
     "593361144": {
       "name": "Wraithmetal Mail",
