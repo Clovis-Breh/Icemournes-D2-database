@@ -330,6 +330,77 @@
       ],
       "last_edit": "2021.9.5-9.46"
     },
+    "241462142": {
+      "name": "Biotic Enhancements",
+      "item_name": "Synthoceps",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "When Surrounded by "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "3 "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[2] "
+            },
+            {
+              "text": "enemies: Activates Biotic Enhancements"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Biotic Enhancements increases Melee and Super damage for 8 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "50% Super Damage"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDCA_desc-pve-",
+          "lineText": [
+            {
+              "text": "PVE 200% Melee Damage."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDCA_desc-pvp-",
+          "lineText": [
+            {
+              "text": "PVP 100% Melee Damage."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Melee Lunge distance to 7 metres."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.46"
+    },
     "475652357": {
       "name": "Wish-Dragon Teeth",
       "item_name": "Young Ahamkara's Spine",
@@ -3563,6 +3634,77 @@
         }
       ],
       "last_edit": "2021.9.5-10.18"
+    },
+    "1155472384": {
+      "name": "Biotic Enhancements",
+      "item_name": "Synthoceps",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "When Surrounded by "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "3 "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[2] "
+            },
+            {
+              "text": "enemies: Activates Biotic Enhancements"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Biotic Enhancements increases Melee and Super damage for 8 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "50% Super Damage"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDCA_desc-pve-",
+          "lineText": [
+            {
+              "text": "PVE 200% Melee Damage."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDCA_desc-pvp-",
+          "lineText": [
+            {
+              "text": "PVP 100% Melee Damage."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Melee Lunge distance to 7 metres."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.46"
     },
     "1155472386": {
       "name": "Fury Conductors",
