@@ -1425,6 +1425,30 @@
       ],
       "last_edit": "2021.9.4-19.2"
     },
+    "3216110440": {
+      "name": "Transfusion Matrix",
+      "item_name": "An Insurmountable Skullfort",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Arc Melee Kills fully recharge Melee Ability and begins Health Regeneration"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Knockout counts as an Arc Melee Kill"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.35"
+    },
     "3562696927": {
       "name": "Burning Souls",
       "item_name": "Wormhusk Crown",
@@ -2637,6 +2661,30 @@
         }
       ],
       "last_edit": "2021.9.5-7.50"
+    },
+    "3662465907": {
+      "name": "Transfusion Matrix",
+      "item_name": "An Insurmountable Skullfort",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Arc Melee Kills fully recharge Melee Ability and begins Health Regeneration"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Knockout counts as an Arc Melee Kill"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.35"
     },
     "3663096260": {
       "name": "Skittering Stinger",
