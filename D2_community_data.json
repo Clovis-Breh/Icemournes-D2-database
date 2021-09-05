@@ -896,6 +896,44 @@
       ],
       "last_edit": "2021.9.5-9.34"
     },
+    "1591207519": {
+      "name": "Survival Well",
+      "item_name": "Crest of Alpha Lupi",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Generates a Healing Pulse on Barricade Cast which heals both the user and allies."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Healing Pulse heals for the highest between 58 HP OR to 130HP over 12 metres."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Requires Line-of-Sight to allies."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Supers generate 1 extra Orb of Power."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.44"
+    },
     "1619425569": {
       "name": "Light Shift",
       "item_name": "Mask of Bakris",
@@ -2337,6 +2375,44 @@
         }
       ],
       "last_edit": "2021.9.5-7.54"
+    },
+    "1667892710": {
+      "name": "Survival Well",
+      "item_name": "Crest of Alpha Lupi",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Generates a Healing Pulse on Barricade Cast which heals both the user and allies."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Healing Pulse heals for the highest between 58 HP OR to 130HP over 12 metres."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Requires Line-of-Sight to allies."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Supers generate 1 extra Orb of Power."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.44"
     },
     "1667892711": {
       "name": "Auto-Loading Link",
