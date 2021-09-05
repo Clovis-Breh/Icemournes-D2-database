@@ -1211,6 +1211,37 @@
       ],
       "last_edit": "2021.9.4-17.42"
     },
+    "2423243921": {
+      "name": "Reflective Vents",
+      "item_name": "Antaeus Wards",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "During slide after sprinting for at least 1.5 seconds: "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Generate a 180° frontal shield that reflects damage and projectiles."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Slide Distance by 33%"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.37"
+    },
     "2563444729": {
       "name": "Fury Conductors",
       "item_name": "ACD/0 Feedback Fence",
@@ -1632,6 +1663,37 @@
         }
       ],
       "last_edit": "2021.9.4-16.3"
+    },
+    "242794439": {
+      "name": "Reflective Vents",
+      "item_name": "Antaeus Wards",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "During slide after sprinting for at least 1.5 seconds: "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Generate a 180° frontal shield that reflects damage and projectiles."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Slide Distance by 33%"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.37"
     },
     "481860150": {
       "name": "Wish-Dragon Teeth",
