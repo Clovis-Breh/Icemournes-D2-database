@@ -2834,6 +2834,68 @@
       ],
       "last_edit": "2021.9.5-14.23"
     },
+    "3948284065": {
+      "name": "Move to Survive",
+      "item_name": "Astrocyte Verse",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "25% increased Blink distance."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reduces Blink charge cooldown by ~16% on average."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Blink:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100(?) Handling, Radar remains active."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Blink Cooldowns:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "2.5 seconds (3 seconds base)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Cooldown = 4.5 seconds (5 seconds base)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.53"
+    },
     "3974038291": {
       "name": "Kintsugi",
       "item_name": "Precious Scars",
@@ -5303,6 +5365,68 @@
         }
       ],
       "last_edit": "2021.9.5-9.50"
+    },
+    "3295796664": {
+      "name": "Move to Survive",
+      "item_name": "Astrocyte Verse",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "25% increased Blink distance."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reduces Blink charge cooldown by ~16% on average."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Blink:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100(?) Handling, Radar remains active."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Blink Cooldowns:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "2.5 seconds (3 seconds base)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Cooldown = 4.5 seconds (5 seconds base)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.53"
     },
     "3449001998": {
       "name": "Spheromatik Trigger",
