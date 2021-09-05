@@ -1,5 +1,95 @@
 {
    "exotic_armor": {
+      "193869520": {
+         "name": "Hydraulic Boosters",
+         "item_name": "St0mp-EE5",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Increased Jump Height Increase:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "High Jump = 9 metres -> 12 metres (33% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Strafe Jump = 8 metres -> 9 metres (10% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Triple Jump = 6 metres -> 7 metres for First Jump (16% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "9 metres -> 11 metres for Second Jump (22% higher)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Jump Distance Increase: (Includes innate 6.25% faster sprint)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "High Jump = 28 metres -> 33 metres (18% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Strafe Jump = 26 metres -> 31 metres (19% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Triple Jump = 31 metres -> 38 metres. (22% higher)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Sprint Speed by 6.25%"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Slide Distance by 33%"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-8.0"
+      },
       "193869522": {
          "name": "Illegally Modded Holster",
          "item_name": "Lucky Pants",
@@ -1868,6 +1958,96 @@
             }
          ],
          "last_edit": "2021.9.4-20.44"
+      },
+      "1694242450": {
+         "name": "Hydraulic Boosters",
+         "item_name": "St0mp-EE5",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Increased Jump Height Increase:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "High Jump = 9 metres -> 12 metres (33% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Strafe Jump = 8 metres -> 9 metres (10% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Triple Jump = 6 metres -> 7 metres for First Jump (16% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "9 metres -> 11 metres for Second Jump (22% higher)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Jump Distance Increase: (Includes innate 6.25% faster sprint)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "High Jump = 28 metres -> 33 metres (18% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Strafe Jump = 26 metres -> 31 metres (19% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Triple Jump = 31 metres -> 38 metres. (22% higher)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Sprint Speed by 6.25%"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Slide Distance by 33%"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-8.0"
       },
       "1844314558": {
          "name": "Parting Gift",
