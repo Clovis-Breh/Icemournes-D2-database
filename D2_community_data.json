@@ -1301,6 +1301,27 @@
          ],
          "last_edit": "2021.9.4-19.2"
       },
+      "3562696927": {
+         "name": "Burning Souls",
+         "item_name": "Wormhusk Crown",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Heals 44HP"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-8.1"
+      },
       "4165919945": {
          "name": "Cross Counter",
          "item_name": "Liar's Handshake",
@@ -2447,6 +2468,27 @@
             }
          ],
          "last_edit": "2021.9.4-20.43"
+      },
+      "3723531833": {
+         "name": "Burning Souls",
+         "item_name": "Wormhusk Crown",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Heals 44HP"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-8.1"
       },
       "3907299874": {
          "name": "New Tricks",
