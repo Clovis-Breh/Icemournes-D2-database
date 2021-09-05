@@ -1705,6 +1705,47 @@
       ],
       "last_edit": "2021.9.5-9.40"
     },
+    "1848640623": {
+      "name": "Ursine Guard",
+      "item_name": "Ursa Furiosa",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Move forward at 90% your speed while blocking with Sentinel Shield."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Converts damage into Super Energy after Super ends, up to 50%."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Overshields prevent damage into Super Energy conversion."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Don't stand in a Well of Radiance."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.50"
+    },
     "1935198785": {
       "name": "Beyond The Veil",
       "item_name": "Omnioculus",
@@ -5583,6 +5624,47 @@
         }
       ],
       "last_edit": "2021.9.4-19.5"
+    },
+    "4190535237": {
+      "name": "Ursine Guard",
+      "item_name": "Ursa Furiosa",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Move forward at 90% your speed while blocking with Sentinel Shield."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Converts damage into Super Energy after Super ends, up to 50%."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Overshields prevent damage into Super Energy conversion."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Don't stand in a Well of Radiance."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.50"
     },
     "4235122381": {
       "name": "Glorious Charge",
