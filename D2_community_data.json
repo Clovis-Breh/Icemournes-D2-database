@@ -1698,6 +1698,40 @@
       ],
       "last_edit": "2021.9.4-19.2"
     },
+    "2808156426": {
+      "name": "Resolute",
+      "item_name": "Eternal Warrior",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Casting Fists of Havoc grants Resolute."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Resolute is a 75HP Overshield that negates Precision Damage."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Overshield can be refreshed by unequipping and equipping but who is gonna do that to be quite honest."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-10.18"
+    },
     "3216110440": {
       "name": "Transfusion Matrix",
       "item_name": "An Insurmountable Skullfort",
@@ -2400,6 +2434,40 @@
         }
       ],
       "last_edit": "2021.9.4-18.53"
+    },
+    "926976844": {
+      "name": "Resolute",
+      "item_name": "Eternal Warrior",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Casting Fists of Havoc grants Resolute."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Resolute is a 75HP Overshield that negates Precision Damage."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Overshield can be refreshed by unequipping and equipping but who is gonna do that to be quite honest."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-10.18"
     },
     "1155472386": {
       "name": "Fury Conductors",
