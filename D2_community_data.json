@@ -44,6 +44,64 @@
       ],
       "last_edit": "2021.9.5-10.21"
     },
+    "136355432": {
+      "name": "Seriously, Watch Out",
+      "item_name": "Mk. 44 Stand Asides",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If Shoulder Charge Melee Ability is Charged:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Slowly grants 75 HP Overshield over 5 seconds after sprinting for 0.5 seconds"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Overshield disappears instantly when not sprinting. "
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Recharges 50% of Shoulder Charge ability on Shoulder Charge Hit."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Shoulder Charge prerequisites sprinting for at least 1.5 seconds"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Includes Seismic Strike, Ballistic Slam, Hammer Strike, Shield Bash"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-14.24"
+    },
     "193869520": {
       "name": "Hydraulic Boosters",
       "item_name": "St0mp-EE5",
@@ -2750,6 +2808,64 @@
         }
       ],
       "last_edit": "2021.9.4-20.32"
+    },
+    "824488952": {
+      "name": "Seriously, Watch Out",
+      "item_name": "Mk. 44 Stand Asides",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If Shoulder Charge Melee Ability is Charged:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Slowly grants 75 HP Overshield over 5 seconds after sprinting for 0.5 seconds"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Overshield disappears instantly when not sprinting. "
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Recharges 50% of Shoulder Charge ability on Shoulder Charge Hit."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Shoulder Charge prerequisites sprinting for at least 1.5 seconds"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Includes Seismic Strike, Ballistic Slam, Hammer Strike, Shield Bash"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-14.24"
     },
     "883550427": {
       "name": "And Another Thing",
