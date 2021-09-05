@@ -793,6 +793,30 @@
       ],
       "last_edit": "2021.9.5-7.55"
     },
+    "1096253259": {
+      "name": "Insatiable",
+      "item_name": "Apotheosis Veil",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Fully restores Health, Grenade, Melee, and Class Ability Energy on Super Cast."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Allies within 18(?) metres recharge 0.25% of their Class Ability per Second."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.52"
+    },
     "1160559849": {
       "name": "Linear Actuators",
       "item_name": "Dunemarchers",
@@ -5700,6 +5724,30 @@
         }
       ],
       "last_edit": "2021.9.4-19.5"
+    },
+    "4174493725": {
+      "name": "Insatiable",
+      "item_name": "Apotheosis Veil",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Fully restores Health, Grenade, Melee, and Class Ability Energy on Super Cast."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Allies within 18(?) metres recharge 0.25% of their Class Ability per Second."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.52"
     },
     "4190535237": {
       "name": "Ursine Guard",
