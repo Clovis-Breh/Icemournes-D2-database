@@ -1600,6 +1600,79 @@
       ],
       "last_edit": "2021.9.4-16.3"
     },
+    "2255796155": {
+      "name": "Peregrine Strike",
+      "item_name": "Peregrine Greaves",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Shoulder Charges deal more damage if used midair."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Minor"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "155% | 190% | 310%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Elite"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "200% | ? | ?"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Major"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "310% | ? | ?"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Boss"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "360% | 157% | 165%"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.38"
+    },
     "2268523867": {
       "name": "Mobius Conduit",
       "item_name": "Raiju's Harness",
@@ -2482,6 +2555,79 @@
         }
       ],
       "last_edit": "2021.9.5-10.22"
+    },
+    "235075862": {
+      "name": "Peregrine Strike",
+      "item_name": "Peregrine Greaves",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Shoulder Charges deal more damage if used midair."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Minor"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "155% | 190% | 310%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Elite"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "200% | ? | ?"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Major"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "310% | ? | ?"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Boss"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "360% | 157% | 165%"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.38"
     },
     "236605015": {
       "name": "Vanishing Execution",
