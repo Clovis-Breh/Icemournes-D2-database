@@ -620,6 +620,66 @@
       ],
       "last_edit": "2021.9.5-7.55"
     },
+    "1160559849": {
+      "name": "Linear Actuators",
+      "item_name": "Dunemarchers",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After sprinting for 1.5 seconds, gain Linear Actuators for 7 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Linear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 metres. Shocked is refreshed on chain."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineClass": "CDCA_desc-pve-",
+          "lineText": [
+            {
+              "text": "PVE 300%(?) Melee Damage"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDCA_desc-pvp-",
+          "lineText": [
+            {
+              "text": "PVP 85 Damage"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Sprint Speed by 6.25%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Slide Distance by 33%"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.50"
+    },
     "1163283805": {
       "name": "Misdirection",
       "item_name": "Gemini Jester",
@@ -3088,6 +3148,66 @@
         }
       ],
       "last_edit": "2021.9.5-7.50"
+    },
+    "3241194942": {
+      "name": "Linear Actuators",
+      "item_name": "Dunemarchers",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After sprinting for 1.5 seconds, gain Linear Actuators for 7 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Linear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 metres. Shocked is refreshed on chain."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineClass": "CDCA_desc-pve-",
+          "lineText": [
+            {
+              "text": "PVE 300%(?) Melee Damage"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDCA_desc-pvp-",
+          "lineText": [
+            {
+              "text": "PVP 85 Damage"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Sprint Speed by 6.25%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Slide Distance by 33%"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.50"
     },
     "3662465907": {
       "name": "Transfusion Matrix",
