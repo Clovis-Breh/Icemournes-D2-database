@@ -1804,6 +1804,65 @@
       ],
       "last_edit": "2021.9.5-9.45"
     },
+    "2326396534": {
+      "name": "Spheromatik Trigger",
+      "item_name": "Severance Enclosure",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Powered Melee and Finisher Kills unleash an Elemental explosion, centered on the enemy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Explosion Damage and Radius depends on Enemy Rank."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Explosion Damage:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100% = Powered Melee on Minor"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "144% = Finisher on Minor"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "197% = Powered Melee on Major"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "268% = Finisher on Major"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.42"
+    },
     "2384488862": {
       "name": "Solar Rampart",
       "item_name": "Khepri's Horn",
@@ -4685,6 +4744,65 @@
         }
       ],
       "last_edit": "2021.9.5-9.50"
+    },
+    "3449001998": {
+      "name": "Spheromatik Trigger",
+      "item_name": "Severance Enclosure",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Powered Melee and Finisher Kills unleash an Elemental explosion, centered on the enemy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Explosion Damage and Radius depends on Enemy Rank."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Explosion Damage:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100% = Powered Melee on Minor"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "144% = Finisher on Minor"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "197% = Powered Melee on Major"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "268% = Finisher on Major"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.42"
     },
     "3662465906": {
       "name": "Dreaded Visage",
