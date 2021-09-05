@@ -1185,6 +1185,92 @@
       ],
       "last_edit": "2021.9.5-10.20"
     },
+    "1453120846": {
+      "name": "Firewalker",
+      "item_name": "The Path of Burning Steps",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Solar Kills have a chance of granting 1 Stack of Firewalker [1 to 3 Kills, average of 2]"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Being Frozen grants 1 Stack of Firewalker"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Max of "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "3 "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[4] "
+            },
+            {
+              "text": " Stacks."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Firewalker increases Weapon Damage depending on Stacks and lasts 10 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDCA_desc-pve-",
+          "lineText": [
+            {
+              "text": "1x = 20% | 2x = 25% | 3x = 35%"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDCA_desc-pvp-",
+          "lineText": [
+            {
+              "text": "1x = 20% | 2x = 25% | 3x = 20% | 4x = 35%"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Slow Stacks and Duration are halved."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Receive no damage from Stasis Breakout."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stasis Breakout also creates a burst of Solar Energy with a 9m radius, dealing 105 damage."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.49"
+    },
     "1467044898": {
       "name": "Glacial Guard",
       "item_name": "Icefall Mantle",
@@ -4571,6 +4657,92 @@
         }
       ],
       "last_edit": "2021.9.5-10.24"
+    },
+    "2500502982": {
+      "name": "Firewalker",
+      "item_name": "The Path of Burning Steps",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Solar Kills have a chance of granting 1 Stack of Firewalker [1 to 3 Kills, average of 2]"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Being Frozen grants 1 Stack of Firewalker"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Max of "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "3 "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[4] "
+            },
+            {
+              "text": " Stacks."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Firewalker increases Weapon Damage depending on Stacks and lasts 10 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDCA_desc-pve-",
+          "lineText": [
+            {
+              "text": "1x = 20% | 2x = 25% | 3x = 35%"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDCA_desc-pvp-",
+          "lineText": [
+            {
+              "text": "1x = 20% | 2x = 25% | 3x = 20% | 4x = 35%"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Slow Stacks and Duration are halved."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Receive no damage from Stasis Breakout."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stasis Breakout also creates a burst of Solar Energy with a 9m radius, dealing 105 damage."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.49"
     },
     "2663272109": {
       "name": "Relentless Tracker",
