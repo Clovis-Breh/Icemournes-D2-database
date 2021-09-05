@@ -2575,6 +2575,58 @@
       ],
       "last_edit": "2021.9.5-10.18"
     },
+    "3045642045": {
+      "name": "Blessing of Order",
+      "item_name": "Boots of the Assembler",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Standing in a Rift creates Noble Seekers every 5 seconds that seeks out allies within 35 metres and apply a buff depending on the type of Rift."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Each time a Noble Seeker applies a buff, the Rift gets extended by 5 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Healing Rift Noble Seekers heal allies for 75HP and begins Health Regeneration."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Empowering Rift Noble Seekers grant a "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "1.35x "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[1.20x] "
+            },
+            {
+              "text": "Damage Increase for 5 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.56"
+    },
     "3216110440": {
       "name": "Transfusion Matrix",
       "item_name": "An Insurmountable Skullfort",
@@ -3889,6 +3941,58 @@
         }
       ],
       "last_edit": "2021.9.4-18.53"
+    },
+    "902934539": {
+      "name": "Blessing of Order",
+      "item_name": "Boots of the Assembler",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Standing in a Rift creates Noble Seekers every 5 seconds that seeks out allies within 35 metres and apply a buff depending on the type of Rift."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Each time a Noble Seeker applies a buff, the Rift gets extended by 5 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Healing Rift Noble Seekers heal allies for 75HP and begins Health Regeneration."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Empowering Rift Noble Seekers grant a "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "1.35x "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[1.20x] "
+            },
+            {
+              "text": "Damage Increase for 5 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.56"
     },
     "926976844": {
       "name": "Resolute",
