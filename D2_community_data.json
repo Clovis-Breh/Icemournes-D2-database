@@ -2463,6 +2463,61 @@
       ],
       "last_edit": "2021.9.5-14.23"
     },
+    "3974038291": {
+      "name": "Kintsugi",
+      "item_name": "Precious Scars",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Reviving/Getting Revived grants Kintsugi"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Kintsugi "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants you and allies within 15 metres a 100HP Overshield for 10 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Leaving the 15 metre radius removes Overshield"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "If the wearer loses Overshield, so too does everyone else."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Heals for XHP and grants Y Recovery for X seconds after getting a Weapon Kill with a Matching Subclass Element."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.40"
+    },
     "4165919945": {
       "name": "Cross Counter",
       "item_name": "Liar's Handshake",
@@ -4394,6 +4449,61 @@
         }
       ],
       "last_edit": "2021.9.5-17.39"
+    },
+    "2979726427": {
+      "name": "Kintsugi",
+      "item_name": "Precious Scars",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Reviving/Getting Revived grants Kintsugi"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Kintsugi "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants you and allies within 15 metres a 100HP Overshield for 10 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Leaving the 15 metre radius removes Overshield"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "If the wearer loses Overshield, so too does everyone else."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Heals for XHP and grants Y Recovery for X seconds after getting a Weapon Kill with a Matching Subclass Element."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.40"
     },
     "3241194940": {
       "name": "Jump Jets",
