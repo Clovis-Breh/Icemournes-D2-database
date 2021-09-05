@@ -957,6 +957,61 @@
       ],
       "last_edit": "2021.9.4-16.31"
     },
+    "1341951177": {
+      "name": "Overflowing Light",
+      "item_name": "Heart of Inmost Light",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Ability Usage: Gain Empowered for other abilities."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "While Empowered"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants a 30% Ability Damage Increase and 40% Barricade Health Increase per Stack."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "5% Melee and Grenade Energy per Second"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "4% Barricade Energy per Second"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Unpowered Melee Hits also proc Empowered."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-10.20"
+    },
     "1474735276": {
       "name": "Roving Assassin",
       "item_name": "Gwisin Vest",
@@ -3059,6 +3114,61 @@
         }
       ],
       "last_edit": "2021.9.4-18.39"
+    },
+    "1919923227": {
+      "name": "Overflowing Light",
+      "item_name": "Heart of Inmost Light",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Ability Usage: Gain Empowered for other abilities."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "While Empowered"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants a 30% Ability Damage Increase and 40% Barricade Health Increase per Stack."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "5% Melee and Grenade Energy per Second"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "4% Barricade Energy per Second"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Unpowered Melee Hits also proc Empowered."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-10.20"
     },
     "2119325971": {
       "name": "Vanishing Shadow",
