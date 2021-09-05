@@ -1,5 +1,49 @@
 {
   "exotic_armor": {
+    "106575079": {
+      "name": "Starless Night",
+      "item_name": "Helm of Saint-14",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Guarding with Sentinel/Banner Shield blinds enemies within 7 metres for 5 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Any Ward of Dawn that you create grants Starless Night, which gives a 65HP Overshield to any ally that enters."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Overshield persists for up to 6 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Enemies that enter your Ward of Dawn are also blinded for 5 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-10.21"
+    },
     "193869520": {
       "name": "Hydraulic Boosters",
       "item_name": "St0mp-EE5",
@@ -2647,6 +2691,50 @@
         }
       ],
       "last_edit": "2021.9.5-9.46"
+    },
+    "1331592343": {
+      "name": "Starless Night",
+      "item_name": "Helm of Saint-14",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Guarding with Sentinel/Banner Shield blinds enemies within 7 metres for 5 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Any Ward of Dawn that you create grants Starless Night, which gives a 65HP Overshield to any ally that enters."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Overshield persists for up to 6 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Enemies that enter your Ward of Dawn are also blinded for 5 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-10.21"
     },
     "1449897496": {
       "name": "Adamantine Brace",
