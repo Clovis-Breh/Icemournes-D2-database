@@ -1705,6 +1705,44 @@
       ],
       "last_edit": "2021.9.5-9.40"
     },
+    "1734844651": {
+      "name": "Burning Fists",
+      "item_name": "Wormgod Caress",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants Burning Fists on Melee Kill."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Burning Fists lasts 5 seconds and grants Bonus Melee Damage."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Bonus Melee Damage:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "80% | 170% | 390% | 520% | 650%"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.51"
+    },
     "1848640623": {
       "name": "Ursine Guard",
       "item_name": "Ursa Furiosa",
@@ -3182,6 +3220,44 @@
         }
       ],
       "last_edit": "2021.9.5-9.40"
+    },
+    "384759955": {
+      "name": "Burning Fists",
+      "item_name": "Wormgod Caress",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants Burning Fists on Melee Kill."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Burning Fists lasts 5 seconds and grants Bonus Melee Damage."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Bonus Melee Damage:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "80% | 170% | 390% | 520% | 650%"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-17.51"
     },
     "481860150": {
       "name": "Wish-Dragon Teeth",
