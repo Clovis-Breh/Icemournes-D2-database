@@ -834,6 +834,20 @@
       ],
       "last_edit": "2021.9.5-7.56"
     },
+    "1591207518": {
+      "name": "Auto-Loading Link",
+      "item_name": "Actium War Rig",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Refreshes 10% of Readied Auto Rifle/Machine Gun magazine every 1.5 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.34"
+    },
     "1619425569": {
       "name": "Light Shift",
       "item_name": "Mask of Bakris",
@@ -2085,6 +2099,20 @@
         }
       ],
       "last_edit": "2021.9.5-7.54"
+    },
+    "1667892711": {
+      "name": "Auto-Loading Link",
+      "item_name": "Actium War Rig",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Refreshes 10% of Readied Auto Rifle/Machine Gun magazine every 1.5 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.34"
     },
     "1694242448": {
       "name": "Illegally Modded Holster",
