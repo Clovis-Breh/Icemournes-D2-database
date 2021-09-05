@@ -204,6 +204,30 @@
       ],
       "last_edit": "2021.9.4-20.44"
     },
+    "241462141": {
+      "name": "Horns of Doom",
+      "item_name": "Doom Fang Pauldron",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Powered Void Melee Kills grant 20% Super Energy"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Sentinel Shield's Shield Throws regenerate 10% Super Energy"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.46"
+    },
     "475652357": {
       "name": "Wish-Dragon Teeth",
       "item_name": "Young Ahamkara's Spine",
@@ -2364,6 +2388,30 @@
         }
       ],
       "last_edit": "2021.9.5-9.33"
+    },
+    "1155472387": {
+      "name": "Horns of Doom",
+      "item_name": "Doom Fang Pauldron",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Powered Void Melee Kills grant 20% Super Energy"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Sentinel Shield's Shield Throws regenerate 10% Super Energy"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-9.46"
     },
     "1449897496": {
       "name": "Adamantine Brace",
