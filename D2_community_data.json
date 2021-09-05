@@ -1614,6 +1614,45 @@
       ],
       "last_edit": "2021.9.5-9.45"
     },
+    "2384488862": {
+      "name": "Solar Rampart",
+      "item_name": "Khepri's Horn",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Barricade Cast:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Unleashes a Solar Wave that returns back to the Barricade after 18.5 metres."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDCA_desc-pvp-",
+          "lineText": [
+            {
+              "text": "PVP Deals 100 damage."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Solar Kills refresh 25% of Class Ability Energy."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-10.24"
+    },
     "2415768376": {
       "name": "Skittering Stinger",
       "item_name": "Athrys's Embrace",
@@ -3510,6 +3549,45 @@
         }
       ],
       "last_edit": "2021.9.5-7.56"
+    },
+    "2355041704": {
+      "name": "Solar Rampart",
+      "item_name": "Khepri's Horn",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Barricade Cast:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Unleashes a Solar Wave that returns back to the Barricade after 18.5 metres."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDCA_desc-pvp-",
+          "lineText": [
+            {
+              "text": "PVP Deals 100 damage."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Solar Kills refresh 25% of Class Ability Energy."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.5-10.24"
     },
     "2663272109": {
       "name": "Relentless Tracker",
