@@ -204,6 +204,68 @@
          ],
          "last_edit": "2021.9.4-20.44"
       },
+      "475652357": {
+         "name": "Wish-Dragon Teeth",
+         "item_name": "Young Ahamkara's Spine",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Tripmine Grenades are enhanced and have Fastball intrinsically."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Enhanced Tripmine Grenades"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "14% Damage Increase"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "X% Bigger Radius, with no Damage Falloff."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Last 30 seconds (10 -> 30) and have 100HP with 50% Damage Resist."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Deal no Self-Damage"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Ability Damage recharges 33% of Grenade Ability."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-8.2"
+      },
       "609852545": {
          "name": "Rapid Cooldown",
          "item_name": "Fr0st-EE5",
@@ -1484,6 +1546,68 @@
             }
          ],
          "last_edit": "2021.9.4-16.3"
+      },
+      "481860150": {
+         "name": "Wish-Dragon Teeth",
+         "item_name": "Young Ahamkara's Spine",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Tripmine Grenades are enhanced and have Fastball intrinsically."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Enhanced Tripmine Grenades"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "14% Damage Increase"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "X% Bigger Radius, with no Damage Falloff."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Last 30 seconds (10 -> 30) and have 100HP with 50% Damage Resist."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Deal no Self-Damage"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Ability Damage recharges 33% of Grenade Ability."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-8.2"
       },
       "481860151": {
          "name": "Spring-Loaded Mounting",
