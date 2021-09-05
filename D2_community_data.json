@@ -1,5 +1,95 @@
 {
    "exotic_armor": {
+      "193869520": {
+         "name": "Hydraulic Boosters",
+         "item_name": "St0mp-EE5",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Increased Jump Height Increase:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "High Jump = 9 metres -> 12 metres (33% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Strafe Jump = 8 metres -> 9 metres (10% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Triple Jump = 6 metres -> 7 metres for First Jump (16% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "9 metres -> 11 metres for Second Jump (22% higher)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Jump Distance Increase: (Includes innate 6.25% faster sprint)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "High Jump = 28 metres -> 33 metres (18% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Strafe Jump = 26 metres -> 31 metres (19% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Triple Jump = 31 metres -> 38 metres. (22% higher)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Sprint Speed by 6.25%"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Slide Distance by 33%"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-8.0"
+      },
       "193869522": {
          "name": "Illegally Modded Holster",
          "item_name": "Lucky Pants",
@@ -62,6 +152,120 @@
          ],
          "last_edit": "2021.9.4-19.10"
       },
+      "193869523": {
+         "name": "Uncanny Arrows",
+         "item_name": "Orpheus Rig",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Deadfall returns Ability Energy per Enemy Tethered. "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "X% Super Energy. Max of 50% Super Energy."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "10% Grenade"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "10% Melee"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "10% Class Ability Energy."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Moebius Quiver can fire 2 more Arrows per Super Activation."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.44"
+      },
+      "475652357": {
+         "name": "Wish-Dragon Teeth",
+         "item_name": "Young Ahamkara's Spine",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Tripmine Grenades are enhanced and have Fastball intrinsically."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Enhanced Tripmine Grenades"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "14% Damage Increase"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "X% Bigger Radius, with no Damage Falloff."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Last 30 seconds (10 -> 30) and have 100HP with 50% Damage Resist."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Deal no Self-Damage"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Ability Damage recharges 33% of Grenade Ability."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-8.2"
+      },
       "609852545": {
          "name": "Rapid Cooldown",
          "item_name": "Fr0st-EE5",
@@ -123,6 +327,58 @@
             }
          ],
          "last_edit": "2021.9.4-18.53"
+      },
+      "691578978": {
+         "name": "Adamantine Brace",
+         "item_name": "Oathkeeper",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Bows are able to hold perfect draws indefinitely."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "40ms Faster Draw Time."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.39"
+      },
+      "691578979": {
+         "name": "Sharp Edges",
+         "item_name": "Shards of Galanor",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Blade Barrage Hits and Kills grant \"Super Regeneration\" or something buff that grants X% Super per second."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Caps at 50% Super Energy."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Duration depends on Kills and Hits, as well as Enemy Rank"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.54"
       },
       "896224899": {
          "name": "Relentless Tracker",
@@ -188,6 +444,157 @@
             }
          ],
          "last_edit": "2021.9.4-19.13"
+      },
+      "978537162": {
+         "name": "Scissor Fingers",
+         "item_name": "Ophidia Spathe",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Grants an additional Melee Charge to Solar Subclasses."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Melee Charges are recharged simultaneously."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "(Eg: Both are recharged on dodge)"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.43"
+      },
+      "1001356380": {
+         "name": "Feast of Light",
+         "item_name": "Star-Eater Scales",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Increased Super Energy from Orbs of Power."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "7.1% -> 10% for Super Orbs"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "2.5% -> 4.17% for Masterwork Orbs"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "While Super Energy is full:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Picking up an Orb of Power grants 1 Overcharge Stack. "
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Each Overcharge Stacks grants increased Super Damage, up to 1.7x."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "14% | 27% | 40% | 55% | 62% | 66% | 70%"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Casting Super while Overcharged heals you for X HP"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Casting Super while at 8 Overcharge Stacks grants you a Y HP Overshield for 16 seconds."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.58"
+      },
+      "1053737370": {
+         "name": "New Tricks",
+         "item_name": "Shinobu's Vow",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "If on Skip Grenades."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Grants an extra Grenade Charge."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Skip Grenades spawn 1 more drone (4 -> 5) and chase enemies much more aggressively."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Hits with Skip Grenades grant X% Grenade Energy."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.55"
       },
       "1163283805": {
          "name": "Misdirection",
@@ -413,6 +820,235 @@
          ],
          "last_edit": "2021.9.4-19.4"
       },
+      "1474735277": {
+         "name": "Double Dodge",
+         "item_name": "The Sixth Coyote",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Adds an extra Dodge Charge."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.56"
+      },
+      "1619425569": {
+         "name": "Light Shift",
+         "item_name": "Mask of Bakris",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Stasis Subclass Only"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Replaces Dodge with Shift."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Shift has a distance of 10 metres, and renders you completely invisible except for a trail for the duration of the shift."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Dodging grants Light Shift buff for 10 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "[PVE] Light Shift grants a 10% Damage Increase to Slowed/Frozen targets, as well as granting 10% Damage Increase to Arc Weapons."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Dodge does not recharge while Light Shift buff is active."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.32"
+      },
+      "1688602431": {
+         "name": "Nightmare Fuel",
+         "item_name": "Sealed Ahamkara Grasps",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Melee Hits refresh magazine."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "7 second cooldown."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.50"
+      },
+      "1702288800": {
+         "name": "The Dance",
+         "item_name": "Radiant Dance Machines",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "While within 15 metres of an enemy, Multi-Dodge Ready appears on the Buff list."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "After Dodging within 15 metres of an Enemy:"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Unlimited Dodges for 6 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Can dodge up to 6 times per activation."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Effect immediately ends if you are over 15 metres away from an Enemy while Multi-Dodge is active."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.48"
+      },
+      "1734144409": {
+         "name": "Spring-Loaded Mounting",
+         "item_name": "Mechaneer's Tricksleeves",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Readying sidearm on critical health: "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "textClass": "CDCA_desc-pve-",
+                     "text": "100%"
+                  },
+                  {
+                     "textClass": "CDCA_desc-pvp-",
+                     "text": " [35%]"
+                  },
+                  {
+                     "text": " Damage Increase until no longer critical."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Refreshes sidearm magazine. (Generates ammo if reserves are empty)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "100 Handling to Sidearm Stow and Ready speed."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.37"
+      },
+      "1935198785": {
+         "name": "Beyond The Veil",
+         "item_name": "Omnioculus",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Grants an extra Smoke Bomb Charge."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Cloaking allies grants 50% Melee Energy per ally."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "textClass": "CDCA_desc-pve-",
+                     "text": "50%"
+                  },
+                  {
+                     "textClass": "CDCA_desc-pvp-",
+                     "text": " [10%]"
+                  },
+                  {
+                     "text": " Damage Resistance on any Invisible effects. Applies to teammates made invisible."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.42"
+      },
       "2203146422": {
          "name": "Vanishing Execution",
          "item_name": "Assassin's Cowl",
@@ -481,6 +1117,37 @@
             }
          ],
          "last_edit": "2021.9.4-16.3"
+      },
+      "2268523867": {
+         "name": "Mobius Conduit",
+         "item_name": "Raiju's Harness",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Blocking with Whirlwind Guard doesn't consume extra Super Energy."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Can deactivate Arc Staff at any time to preserve a portion of unspent Super Energy."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Instantaneous Deactivation refunds 62.5% Super Energy."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.43"
       },
       "2415768376": {
          "name": "Skittering Stinger",
@@ -696,6 +1363,27 @@
          ],
          "last_edit": "2021.9.4-19.2"
       },
+      "3562696927": {
+         "name": "Burning Souls",
+         "item_name": "Wormhusk Crown",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Heals 44HP"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-8.1"
+      },
       "4165919945": {
          "name": "Cross Counter",
          "item_name": "Liar's Handshake",
@@ -739,6 +1427,57 @@
       }
    },
    "exotic_armor_perk": {
+      "117669763": {
+         "name": "The Dance",
+         "item_name": "Radiant Dance Machines",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "While within 15 metres of an enemy, Multi-Dodge Ready appears on the Buff list."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "After Dodging within 15 metres of an Enemy:"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Unlimited Dodges for 6 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Can dodge up to 6 times per activation."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Effect immediately ends if you are over 15 metres away from an Enemy while Multi-Dodge is active."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.48"
+      },
       "236605015": {
          "name": "Vanishing Execution",
          "item_name": "Assassin's Cowl",
@@ -807,6 +1546,156 @@
             }
          ],
          "last_edit": "2021.9.4-16.3"
+      },
+      "481860150": {
+         "name": "Wish-Dragon Teeth",
+         "item_name": "Young Ahamkara's Spine",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Tripmine Grenades are enhanced and have Fastball intrinsically."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Enhanced Tripmine Grenades"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "14% Damage Increase"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "X% Bigger Radius, with no Damage Falloff."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Last 30 seconds (10 -> 30) and have 100HP with 50% Damage Resist."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Deal no Self-Damage"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Ability Damage recharges 33% of Grenade Ability."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-8.2"
+      },
+      "481860151": {
+         "name": "Spring-Loaded Mounting",
+         "item_name": "Mechaneer's Tricksleeves",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Readying sidearm on critical health: "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "textClass": "CDCA_desc-pve-",
+                     "text": "100%"
+                  },
+                  {
+                     "textClass": "CDCA_desc-pvp-",
+                     "text": " [35%]"
+                  },
+                  {
+                     "text": " Damage Increase until no longer critical."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Refreshes sidearm magazine. (Generates ammo if reserves are empty)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "100 Handling to Sidearm Stow and Ready speed."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.37"
+      },
+      "553093017": {
+         "name": "Beyond The Veil",
+         "item_name": "Omnioculus",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Grants an extra Smoke Bomb Charge."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Cloaking allies grants 50% Melee Energy per ally."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "textClass": "CDCA_desc-pve-",
+                     "text": "50%"
+                  },
+                  {
+                     "textClass": "CDCA_desc-pvp-",
+                     "text": " [10%]"
+                  },
+                  {
+                     "text": " Damage Resistance on any Invisible effects. Applies to teammates made invisible."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.42"
       },
       "593361144": {
          "name": "Wraithmetal Mail",
@@ -932,6 +1821,61 @@
          ],
          "last_edit": "2021.9.4-19.8"
       },
+      "692285813": {
+         "name": "Light Shift",
+         "item_name": "Mask of Bakris",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Stasis Subclass Only"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Replaces Dodge with Shift."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Shift has a distance of 10 metres, and renders you completely invisible except for a trail for the duration of the shift."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Dodging grants Light Shift buff for 10 seconds."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "[PVE] Light Shift grants a 10% Damage Increase to Slowed/Frozen targets, as well as granting 10% Damage Increase to Arc Weapons."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Dodge does not recharge while Light Shift buff is active."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.32"
+      },
       "897181301": {
          "name": "Rapid Cooldown",
          "item_name": "Fr0st-EE5",
@@ -994,6 +1938,58 @@
          ],
          "last_edit": "2021.9.4-18.53"
       },
+      "1449897496": {
+         "name": "Adamantine Brace",
+         "item_name": "Oathkeeper",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Bows are able to hold perfect draws indefinitely."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "40ms Faster Draw Time."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.39"
+      },
+      "1449897497": {
+         "name": "Sharp Edges",
+         "item_name": "Shards of Galanor",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Blade Barrage Hits and Kills grant \"Super Regeneration\" or something buff that grants X% Super per second."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Caps at 50% Super Energy."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Duration depends on Kills and Hits, as well as Enemy Rank"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.54"
+      },
       "1694242448": {
          "name": "Illegally Modded Holster",
          "item_name": "Lucky Pants",
@@ -1055,6 +2051,148 @@
             }
          ],
          "last_edit": "2021.9.4-19.10"
+      },
+      "1694242449": {
+         "name": "Uncanny Arrows",
+         "item_name": "Orpheus Rig",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Deadfall returns Ability Energy per Enemy Tethered. "
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "X% Super Energy. Max of 50% Super Energy."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "10% Grenade"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "10% Melee"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "10% Class Ability Energy."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Moebius Quiver can fire 2 more Arrows per Super Activation."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.44"
+      },
+      "1694242450": {
+         "name": "Hydraulic Boosters",
+         "item_name": "St0mp-EE5",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Increased Jump Height Increase:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "High Jump = 9 metres -> 12 metres (33% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Strafe Jump = 8 metres -> 9 metres (10% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Triple Jump = 6 metres -> 7 metres for First Jump (16% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "9 metres -> 11 metres for Second Jump (22% higher)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Jump Distance Increase: (Includes innate 6.25% faster sprint)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "High Jump = 28 metres -> 33 metres (18% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Strafe Jump = 26 metres -> 31 metres (19% higher)"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Triple Jump = 31 metres -> 38 metres. (22% higher)"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Sprint Speed by 6.25%"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Increases Slide Distance by 33%"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-8.0"
       },
       "1844314558": {
          "name": "Parting Gift",
@@ -1238,6 +2376,20 @@
          ],
          "last_edit": "2021.9.4-19.4"
       },
+      "2192678015": {
+         "name": "Double Dodge",
+         "item_name": "The Sixth Coyote",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Adds an extra Dodge Charge."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.56"
+      },
       "2663272109": {
          "name": "Relentless Tracker",
          "item_name": "Foetracer",
@@ -1341,6 +2493,27 @@
          ],
          "last_edit": "2021.9.4-19.6"
       },
+      "2805134531": {
+         "name": "Nightmare Fuel",
+         "item_name": "Sealed Ahamkara Grasps",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Melee Hits refresh magazine."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "7 second cooldown."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.50"
+      },
       "3663096260": {
          "name": "Skittering Stinger",
          "item_name": "Athrys's Embrace",
@@ -1388,6 +2561,102 @@
             }
          ],
          "last_edit": "2021.9.4-17.42"
+      },
+      "3666112472": {
+         "name": "Scissor Fingers",
+         "item_name": "Ophidia Spathe",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Grants an additional Melee Charge to Solar Subclasses."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Melee Charges are recharged simultaneously."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "(Eg: Both are recharged on dodge)"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.4-20.43"
+      },
+      "3723531833": {
+         "name": "Burning Souls",
+         "item_name": "Wormhusk Crown",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "On Dodge"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Heals 44HP"
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-8.1"
+      },
+      "3907299874": {
+         "name": "New Tricks",
+         "item_name": "Shinobu's Vow",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "If on Skip Grenades."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Grants an extra Grenade Charge."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Skip Grenades spawn 1 more drone (4 -> 5) and chase enemies much more aggressively."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Hits with Skip Grenades grant X% Grenade Energy."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.55"
       },
       "4024170927": {
          "name": "Misdirection",
@@ -1445,6 +2714,82 @@
          ],
          "last_edit": "2021.9.4-19.0"
       },
+      "4048389864": {
+         "name": "Feast of Light",
+         "item_name": "Star-Eater Scales",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Increased Super Energy from Orbs of Power."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "7.1% -> 10% for Super Orbs"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "2.5% -> 4.17% for Masterwork Orbs"
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "While Super Energy is full:"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Picking up an Orb of Power grants 1 Overcharge Stack. "
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Each Overcharge Stacks grants increased Super Damage, up to 1.7x."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "14% | 27% | 40% | 55% | 62% | 66% | 70%"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Casting Super while Overcharged heals you for X HP"
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Casting Super while at 8 Overcharge Stacks grants you a Y HP Overshield for 16 seconds."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.58"
+      },
       "4102900702": {
          "name": "Touch of Venom",
          "item_name": "Khepri's Sting",
@@ -1475,6 +2820,37 @@
             }
          ],
          "last_edit": "2021.9.4-19.5"
+      },
+      "4251375227": {
+         "name": "Mobius Conduit",
+         "item_name": "Raiju's Harness",
+         "description": [
+            {
+               "lineText": [
+                  {
+                     "text": "Blocking with Whirlwind Guard doesn't consume extra Super Energy."
+                  }
+               ]
+            },
+            {
+               "lineClass": "spacer_class"
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Can deactivate Arc Staff at any time to preserve a portion of unspent Super Energy."
+                  }
+               ]
+            },
+            {
+               "lineText": [
+                  {
+                     "text": "Instantaneous Deactivation refunds 62.5% Super Energy."
+                  }
+               ]
+            }
+         ],
+         "last_edit": "2021.9.5-7.43"
       }
    },
    "armor_mods": {},
