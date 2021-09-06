@@ -3458,6 +3458,64 @@
       ],
       "last_edit": "2021.9.6-18.2"
     },
+    "4136768282": {
+      "name": "Alchemical Etchings",
+      "item_name": "Lunafaction Boots",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While inside a Rift or Well of Radiance."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "+100 Reload with 0.9x Duration Scale to all Guardians inside."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "While inside an Empowering Rift or Well of Radiance."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "2.35x to 1.98x Falloff Distance Increase."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "The higher your Range Stat, the lower the Multiplier."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "This is a multiplier to effective range."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.14"
+    },
     "4165919945": {
       "name": "Cross Counter",
       "item_name": "Liar's Handshake",
@@ -6338,6 +6396,64 @@
         }
       ],
       "last_edit": "2021.9.5-17.53"
+    },
+    "3347978672": {
+      "name": "Alchemical Etchings",
+      "item_name": "Lunafaction Boots",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While inside a Rift or Well of Radiance."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "+100 Reload with 0.9x Duration Scale to all Guardians inside."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "While inside an Empowering Rift or Well of Radiance."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "2.35x to 1.98x Falloff Distance Increase."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "The higher your Range Stat, the lower the Multiplier."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "This is a multiplier to effective range."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.14"
     },
     "3449001998": {
       "name": "Spheromatik Trigger",
