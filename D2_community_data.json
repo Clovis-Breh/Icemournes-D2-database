@@ -3209,6 +3209,47 @@
       ],
       "last_edit": "2021.9.5-8.1"
     },
+    "3844826440": {
+      "name": "Vampire's Caress",
+      "item_name": "Karnstein Armlets",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Melee Kill:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Heal for XHP and constantly regenerate XHP/s."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lasts for 8.5 seconds. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Can be Refreshed."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.13"
+    },
     "3874247549": {
       "name": "And Another Thing",
       "item_name": "Armamentarium",
@@ -5758,6 +5799,47 @@
         }
       ],
       "last_edit": "2021.9.4-19.6"
+    },
+    "2731901710": {
+      "name": "Vampire's Caress",
+      "item_name": "Karnstein Armlets",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Melee Kill:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Heal for XHP and constantly regenerate XHP/s."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lasts for 8.5 seconds. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Can be Refreshed."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.13"
     },
     "2799418574": {
       "name": "Rites of Ember",
