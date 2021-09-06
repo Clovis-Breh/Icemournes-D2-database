@@ -2834,6 +2834,57 @@
       ],
       "last_edit": "2021.9.5-17.56"
     },
+    "3084282676": {
+      "name": "Dynamic Duo",
+      "item_name": "Getaway Artist",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Holding [Grenade] summons a Sentient Arc Soul for 20 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Sentient Arc Souls target enemies up to 29 metres away, shooting an improved burst of 6 homing bolts that deal "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "11 Damage"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "If the Sentient Arc Soul hits during a burst, gain 4.5% Grenade Energy."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Standing in an Arc Soul Rift refreshes the duration of Sentient Arc Soul."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.12"
+    },
     "3216110440": {
       "name": "Transfusion Matrix",
       "item_name": "An Insurmountable Skullfort",
@@ -5797,6 +5848,57 @@
         }
       ],
       "last_edit": "2021.9.5-7.50"
+    },
+    "2818140350": {
+      "name": "Dynamic Duo",
+      "item_name": "Getaway Artist",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Holding [Grenade] summons a Sentient Arc Soul for 20 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Sentient Arc Souls target enemies up to 29 metres away, shooting an improved burst of 6 homing bolts that deal "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "11 Damage"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "If the Sentient Arc Soul hits during a burst, gain 4.5% Grenade Energy."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Standing in an Arc Soul Rift refreshes the duration of Sentient Arc Soul."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.12"
     },
     "2951499542": {
       "name": "Beacons of Empowerment",
