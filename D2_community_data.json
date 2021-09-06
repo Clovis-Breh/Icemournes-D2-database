@@ -2692,6 +2692,75 @@
       ],
       "last_edit": "2021.9.5-10.18"
     },
+    "2822465023": {
+      "name": "Warlord's End",
+      "item_name": "Felwinter's Helm",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Melee Kills, as well as Finishers weaken (1.3x Debuff) and blind."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Duration and Range are dependant on Enemy Rank. "
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Enemy Ranks are Minor/Elite/Major/Boss."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Finishers add 5 seconds to Duration. Bosses are not finishable."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Warlord's End."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Range: 10/15/20/25 metres, centered on enemy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Duration: 5/10/15/20 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Finisher Duration: 10/15/20 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.9"
+    },
     "3045642045": {
       "name": "Blessing of Order",
       "item_name": "Boots of the Assembler",
@@ -4032,6 +4101,75 @@
         }
       ],
       "last_edit": "2021.9.4-19.8"
+    },
+    "622433369": {
+      "name": "Warlord's End",
+      "item_name": "Felwinter's Helm",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Melee Kills, as well as Finishers weaken (1.3x Debuff) and blind."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Duration and Range are dependant on Enemy Rank. "
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Enemy Ranks are Minor/Elite/Major/Boss."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Finishers add 5 seconds to Duration. Bosses are not finishable."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Warlord's End."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Range: 10/15/20/25 metres, centered on enemy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Duration: 5/10/15/20 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Finisher Duration: 10/15/20 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.9"
     },
     "692285813": {
       "name": "Light Shift",
