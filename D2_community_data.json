@@ -44,6 +44,27 @@
       ],
       "last_edit": "2021.9.5-10.21"
     },
+    "121305948": {
+      "name": "Close Enough",
+      "item_name": "Geomag Stabilizers",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Chaos Reach recovers 10% Super Charge on hit. 0.75s Cooldown."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Can increase Super Duration by up to 100%."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.10"
+    },
     "136355432": {
       "name": "Seriously, Watch Out",
       "item_name": "Mk. 44 Stand Asides",
@@ -5247,6 +5268,27 @@
         }
       ],
       "last_edit": "2021.9.5-10.20"
+    },
+    "1939153390": {
+      "name": "Close Enough",
+      "item_name": "Geomag Stabilizers",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Chaos Reach recovers 10% Super Charge on hit. 0.75s Cooldown."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Can increase Super Duration by up to 100%."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.10"
     },
     "2119325971": {
       "name": "Vanishing Shadow",
