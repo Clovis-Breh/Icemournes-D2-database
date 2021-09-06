@@ -2895,6 +2895,37 @@
       ],
       "last_edit": "2021.9.6-18.6"
     },
+    "3381022970": {
+      "name": "Cerebral Uplink",
+      "item_name": "Eye of Another World",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Highlights enemies below 33% HP in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Passively regenerates 0.6% of Grenade, Melee, and Class Ability Energy per second."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Stasis Grenades recharge at .45% Ability Energy per Second)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.8"
+    },
     "3539357318": {
       "name": "Jump Jets",
       "item_name": "Lion Rampant",
@@ -6201,6 +6232,37 @@
         }
       ],
       "last_edit": "2021.9.5-7.55"
+    },
+    "3927963100": {
+      "name": "Cerebral Uplink",
+      "item_name": "Eye of Another World",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Highlights enemies below 33% HP in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Passively regenerates 0.6% of Grenade, Melee, and Class Ability Energy per second."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Stasis Grenades recharge at .45% Ability Energy per Second)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.8"
     },
     "3927963103": {
       "name": "Conduction Tines",
