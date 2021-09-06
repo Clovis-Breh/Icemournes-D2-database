@@ -1808,6 +1808,54 @@
       ],
       "last_edit": "2021.9.5-17.50"
     },
+    "1906093346": {
+      "name": "Chaotic Exchanger",
+      "item_name": "Contraverse Hold",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Grenade Charge: Grants Chaotic Exchanger."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Chaotic Exchanger grants 20% Damage Resist."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grenade Hits return between 15% to 85% Grenade Energy. (RNG oof)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "4 second cooldown between proc."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Charged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.4"
+    },
     "1935198785": {
       "name": "Beyond The Veil",
       "item_name": "Omnioculus",
@@ -3099,6 +3147,54 @@
     }
   },
   "exotic_armor_perk": {
+    "8507332": {
+      "name": "Chaotic Exchanger",
+      "item_name": "Contraverse Hold",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Grenade Charge: Grants Chaotic Exchanger."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Chaotic Exchanger grants 20% Damage Resist."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grenade Hits return between 15% to 85% Grenade Energy. (RNG oof)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "4 second cooldown between proc."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Charged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.4"
+    },
     "117669763": {
       "name": "The Dance",
       "item_name": "Radiant Dance Machines",
