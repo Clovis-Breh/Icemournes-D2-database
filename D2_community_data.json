@@ -3003,6 +3003,45 @@
       ],
       "last_edit": "2021.9.5-17.40"
     },
+    "4057299718": {
+      "name": "Crystalline Transistor",
+      "item_name": "Chromatic Fire",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Kinetic Precision Kill: "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Enemy explodes in an elemental explosion of your currently selected Light Subclass."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Explosion Radius and Falloff Distance scale with your Weapon's Range Stat."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineClass": "CDCA_desc-pvp-",
+          "lineText": [
+            {
+              "text": "PVP Deals ~200 Damage at epicenter."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.2"
+    },
     "4165919945": {
       "name": "Cross Counter",
       "item_name": "Liar's Handshake",
@@ -4925,6 +4964,45 @@
         }
       ],
       "last_edit": "2021.9.5-7.56"
+    },
+    "2204713148": {
+      "name": "Crystalline Transistor",
+      "item_name": "Chromatic Fire",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Kinetic Precision Kill: "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Enemy explodes in an elemental explosion of your currently selected Light Subclass."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Explosion Radius and Falloff Distance scale with your Weapon's Range Stat."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineClass": "CDCA_desc-pvp-",
+          "lineText": [
+            {
+              "text": "PVP Deals ~200 Damage at epicenter."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-18.2"
     },
     "2355041704": {
       "name": "Solar Rampart",
