@@ -2964,6 +2964,122 @@
       ],
       "last_edit": "2021.9.6-18.3"
     },
+    "3301944824": {
+      "name": "Absorption Cells",
+      "item_name": "Mantle of Battle Harmony",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Weapon Kills with a Matching Subclass Element grant a buff, depending on whether Super is charged or not."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "If Super is not Full:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Energy Siphon for 2 seconds. (Essentially a Cooldown)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Energy Siphon grants "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": " 3(?)%"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [+1.45%]"
+            },
+            {
+              "text": " Super Energy."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "If Super is Full:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Receive "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": " 6s"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [3.5]"
+            },
+            {
+              "text": " ("
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "+4"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [2]"
+            },
+            {
+              "text": " per additional kill) of Absorption Cells, granting a 20% Damage Increase for Weapons Matching your Subclass Element."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Absorption Cells maxes out at a "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": " 10"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [6]"
+            },
+            {
+              "text": " second duration."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Absorption Cells disappears on Weapon Swap."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-19.14"
+    },
     "3381022969": {
       "name": "Conduction Tines",
       "item_name": "Crown of Tempests",
@@ -5740,6 +5856,122 @@
         }
       ],
       "last_edit": "2021.9.5-17.49"
+    },
+    "2618534366": {
+      "name": "Absorption Cells",
+      "item_name": "Mantle of Battle Harmony",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Weapon Kills with a Matching Subclass Element grant a buff, depending on whether Super is charged or not."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "If Super is not Full:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Energy Siphon for 2 seconds. (Essentially a Cooldown)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Energy Siphon grants "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": " 3(?)%"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [+1.45%]"
+            },
+            {
+              "text": " Super Energy."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "If Super is Full:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Receive "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": " 6s"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [3.5]"
+            },
+            {
+              "text": " ("
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "+4"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [2]"
+            },
+            {
+              "text": " per additional kill) of Absorption Cells, granting a 20% Damage Increase for Weapons Matching your Subclass Element."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Absorption Cells maxes out at a "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": " 10"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [6]"
+            },
+            {
+              "text": " second duration."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Absorption Cells disappears on Weapon Swap."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.6-19.14"
     },
     "2637025676": {
       "name": "The Whispers",
