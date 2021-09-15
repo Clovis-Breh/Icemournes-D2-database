@@ -3753,6 +3753,47 @@
       ],
       "last_edit": "2021.9.15-20.26"
     },
+    "3787517196": {
+      "name": "Helium Spirals",
+      "item_name": "Sunbracers",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Solar Grenades have Fastball intrinsically and last twice as long (5 -> 10 seconds)."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Doesn't stack with Fastball."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Powered Melee Kills grant 5 seconds of Sunbracers Ready."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Throwing or consuming a grenade while Sunbracers Ready is active grants Sunbracers buff, granting unlimited Solar Grenades for 5 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.43"
+    },
     "3844826440": {
       "name": "Vampire's Caress",
       "item_name": "Karnstein Armlets",
@@ -6896,6 +6937,47 @@
         }
       ],
       "last_edit": "2021.9.6-18.13"
+    },
+    "2731901711": {
+      "name": "Helium Spirals",
+      "item_name": "Sunbracers",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Solar Grenades have Fastball intrinsically and last twice as long (5 -> 10 seconds)."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Doesn't stack with Fastball."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Powered Melee Kills grant 5 seconds of Sunbracers Ready."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Throwing or consuming a grenade while Sunbracers Ready is active grants Sunbracers buff, granting unlimited Solar Grenades for 5 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.43"
     },
     "2799418574": {
       "name": "Rites of Ember",
