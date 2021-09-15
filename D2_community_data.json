@@ -2052,6 +2052,60 @@
       ],
       "last_edit": "2021.9.4-20.42"
     },
+    "2082483156": {
+      "name": "Fusion Harness",
+      "item_name": "Starfire Protocol",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If on Fusion Grenades."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Gain an extra Grenade Charge."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "20% Grenade Energy per Weapon Damage Instance while Empowered (0.5s Cooldown)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "100% Class Ability Energy on Grenade Kill"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Empowered is either Well of Radiance, Empowering Rift or Guiding Flame."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.39"
+    },
     "2203146422": {
       "name": "Vanishing Execution",
       "item_name": "Assassin's Cowl",
@@ -5161,6 +5215,60 @@
         }
       ],
       "last_edit": "2021.9.5-17.56"
+    },
+    "926349161": {
+      "name": "Fusion Harness",
+      "item_name": "Starfire Protocol",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If on Fusion Grenades."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Gain an extra Grenade Charge."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "20% Grenade Energy per Weapon Damage Instance while Empowered (0.5s Cooldown)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "100% Class Ability Energy on Grenade Kill"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Empowered is either Well of Radiance, Empowering Rift or Guiding Flame."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.39"
     },
     "926976844": {
       "name": "Resolute",
