@@ -2052,6 +2052,40 @@
       ],
       "last_edit": "2021.9.4-20.42"
     },
+    "1996008488": {
+      "name": "Ascending Amplitude",
+      "item_name": "Stormdancer's Brace",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Kills during Stormtrance grant Stacks of Ascending Amplitude for 8 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ascending Amplitude increases Stormtrance Damage by 10% per Stack, caps at 10 Stacks which provides a 100% damage increase. "
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refunds up to 50% of Super Energy based on Enemy Kills."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.41"
+    },
     "2082483156": {
       "name": "Fusion Harness",
       "item_name": "Starfire Protocol",
@@ -5528,6 +5562,40 @@
         }
       ],
       "last_edit": "2021.9.5-9.46"
+    },
+    "1211775759": {
+      "name": "Ascending Amplitude",
+      "item_name": "Stormdancer's Brace",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Kills during Stormtrance grant Stacks of Ascending Amplitude for 8 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ascending Amplitude increases Stormtrance Damage by 10% per Stack, caps at 10 Stacks which provides a 100% damage increase. "
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refunds up to 50% of Super Energy based on Enemy Kills."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.41"
     },
     "1331592343": {
       "name": "Starless Night",
