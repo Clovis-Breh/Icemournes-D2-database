@@ -2679,6 +2679,75 @@
       ],
       "last_edit": "2021.9.4-19.2"
     },
+    "2780717641": {
+      "name": "Grasp of the Devourer",
+      "item_name": "Necrotic Grip",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Melee Hit applies poison. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Poison deals up to 680% the total damage of Melee Damage"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [30 Damage]"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Bosses take an additional 80% damage."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Initial Poison tick deals 18% of Melee damage, while the last tick deals 54%."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Each successive Poison tick deals 9% more damage. Lasts 19 ticks."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Poisoned enemies spread the poison on death on a 3 metre radius."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Thorn Kills (by bullet) spreads poison."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.9"
+    },
     "2808156426": {
       "name": "Resolute",
       "item_name": "Eternal Warrior",
@@ -6952,6 +7021,75 @@
         }
       ],
       "last_edit": "2021.9.5-8.1"
+    },
+    "3824622015": {
+      "name": "Grasp of the Devourer",
+      "item_name": "Necrotic Grip",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Melee Hit applies poison. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Poison deals up to 680% the total damage of Melee Damage"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [30 Damage]"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Bosses take an additional 80% damage."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Initial Poison tick deals 18% of Melee damage, while the last tick deals 54%."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Each successive Poison tick deals 9% more damage. Lasts 19 ticks."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Poisoned enemies spread the poison on death on a 3 metre radius."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Thorn Kills (by bullet) spreads poison."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.9"
     },
     "3907299874": {
       "name": "New Tricks",
