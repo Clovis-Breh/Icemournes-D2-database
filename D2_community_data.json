@@ -422,6 +422,40 @@
       ],
       "last_edit": "2021.9.5-17.46"
     },
+    "300502917": {
+      "name": "Scatter Charge",
+      "item_name": "Nothing Manacles",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If on Scatter Grenades:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Gain an extra Grenade Charge"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Scatter Grenades track enemies within 2 metres"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.19"
+    },
     "475652357": {
       "name": "Wish-Dragon Teeth",
       "item_name": "Young Ahamkara's Spine",
@@ -4208,6 +4242,40 @@
         }
       ],
       "last_edit": "2021.9.5-17.51"
+    },
+    "395373724": {
+      "name": "Scatter Charge",
+      "item_name": "Nothing Manacles",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If on Scatter Grenades:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Gain an extra Grenade Charge"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Scatter Grenades track enemies within 2 metres"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.19"
     },
     "481860150": {
       "name": "Wish-Dragon Teeth",
