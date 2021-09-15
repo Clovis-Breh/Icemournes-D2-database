@@ -504,6 +504,72 @@
       ],
       "last_edit": "2021.9.15-20.19"
     },
+    "370930766": {
+      "name": "Tome of Dawn",
+      "item_name": "Wings of Sacred Dawn",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If on Solar Subclass:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Aiming Down Sights while Airborne grants Tome of Dawn."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Tomes of Dawn: "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Holds you in place midair"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Reduces Accuracy Penalty while Airborne by X% (Needs testing)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Reduces Flinch received (Equivalent to an Unflinching Mod)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants 15% Damage Resistance. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lasts for 2.8 seconds. Hits refresh Y seconds. (Needs testing)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.51"
+    },
     "475652357": {
       "name": "Wish-Dragon Teeth",
       "item_name": "Young Ahamkara's Spine",
@@ -5540,6 +5606,72 @@
         }
       ],
       "last_edit": "2021.9.5-17.56"
+    },
+    "926349160": {
+      "name": "Tome of Dawn",
+      "item_name": "Wings of Sacred Dawn",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If on Solar Subclass:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Aiming Down Sights while Airborne grants Tome of Dawn."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Tomes of Dawn: "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Holds you in place midair"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Reduces Accuracy Penalty while Airborne by X% (Needs testing)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Reduces Flinch received (Equivalent to an Unflinching Mod)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants 15% Damage Resistance. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lasts for 2.8 seconds. Hits refresh Y seconds. (Needs testing)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.51"
     },
     "926349161": {
       "name": "Fusion Harness",
