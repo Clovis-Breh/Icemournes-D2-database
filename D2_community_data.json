@@ -3259,7 +3259,14 @@
         {
           "lineText": [
             {
-              "text": "Void Kills grant Abyssal Extractors for 2.5 seconds."
+              "text": "Void Kills grant "
+            },
+            {
+              "textClass": "CDCA_desc-buff-",
+              "text": "Abyssal Extractors"
+            },
+            {
+              "text": " for 2.5 seconds."
             }
           ]
         },
@@ -3276,7 +3283,14 @@
         {
           "lineText": [
             {
-              "text": "While Abyssal Extractor is active:"
+              "text": "While "
+            },
+            {
+              "textClass": "CDCA_desc-buff-",
+              "text": "Abyssal Extractors"
+            },
+            {
+              "text": " is active:"
             }
           ]
         },
@@ -3302,7 +3316,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.15-20.13"
+      "last_edit": "2021.9.15-20.17"
     },
     "3539357318": {
       "name": "Jump Jets",
@@ -7173,7 +7187,14 @@
         {
           "lineText": [
             {
-              "text": "Void Kills grant Abyssal Extractors for 2.5 seconds."
+              "text": "Void Kills grant "
+            },
+            {
+              "textClass": "CDCA_desc-buff-",
+              "text": "Abyssal Extractors"
+            },
+            {
+              "text": " for 2.5 seconds."
             }
           ]
         },
@@ -7190,7 +7211,14 @@
         {
           "lineText": [
             {
-              "text": "While Abyssal Extractor is active:"
+              "text": "While "
+            },
+            {
+              "textClass": "CDCA_desc-buff-",
+              "text": "Abyssal Extractors"
+            },
+            {
+              "text": " is active:"
             }
           ]
         },
@@ -7216,7 +7244,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.15-20.13"
+      "last_edit": "2021.9.15-20.17"
     },
     "3927963103": {
       "name": "Conduction Tines",
