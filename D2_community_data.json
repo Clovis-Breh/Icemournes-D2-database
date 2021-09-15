@@ -3183,6 +3183,58 @@
       ],
       "last_edit": "2021.9.6-18.8"
     },
+    "3381022971": {
+      "name": "Abyssal Extractors",
+      "item_name": "Nezarec's Sin",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Void Kills grant Abyssal Extractors for 2.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Maxes out at 20 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "While Abyssal Extractor is active:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "2.35% Rift Recharge per second"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "3.65% Grenade and Melee Recharge per second"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "0.67% Super Recharge per second"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-19.58"
+    },
     "3539357318": {
       "name": "Jump Jets",
       "item_name": "Lion Rampant",
@@ -6975,6 +7027,58 @@
         }
       ],
       "last_edit": "2021.9.6-18.8"
+    },
+    "3927963101": {
+      "name": "Abyssal Extractors",
+      "item_name": "Nezarec's Sin",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Void Kills grant Abyssal Extractors for 2.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Maxes out at 20 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "While Abyssal Extractor is active:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "2.35% Rift Recharge per second"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "3.65% Grenade and Melee Recharge per second"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "0.67% Super Recharge per second"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-19.58"
     },
     "3927963103": {
       "name": "Conduction Tines",
