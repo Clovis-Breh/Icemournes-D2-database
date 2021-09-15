@@ -1806,6 +1806,69 @@
       ],
       "last_edit": "2021.9.5-7.48"
     },
+    "1725917554": {
+      "name": "Planetary Torrent",
+      "item_name": "Vesper of Radius",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "When surrounded by at least X enemies within Y metres, gain Class Ability Recharge"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "X% per Enemy"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Needs testing)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Rift Cast:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Arc Shockwave that deals "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "300 "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[100]"
+            },
+            {
+              "text": " damage on a X metre radius."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Needs testing)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.49"
+    },
     "1734144409": {
       "name": "Spring-Loaded Mounting",
       "item_name": "Mechaneer's Tricksleeves",
@@ -5613,6 +5676,69 @@
         }
       ],
       "last_edit": "2021.9.15-20.32"
+    },
+    "1142806944": {
+      "name": "Planetary Torrent",
+      "item_name": "Vesper of Radius",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "When surrounded by at least X enemies within Y metres, gain Class Ability Recharge"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "X% per Enemy"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Needs testing)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Rift Cast:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Arc Shockwave that deals "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "300 "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[100]"
+            },
+            {
+              "text": " damage on a X metre radius."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Needs testing)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.49"
     },
     "1147638875": {
       "name": "Cobra Totemic",
