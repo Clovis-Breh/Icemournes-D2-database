@@ -2985,6 +2985,44 @@
       ],
       "last_edit": "2021.9.5-17.56"
     },
+    "3070555693": {
+      "name": "Blood Magic",
+      "item_name": "Sanguine Alchemy",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Weapon Kills while inside an Empowering or Healing Rift grant Blood Magic"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Blood Magic stops the timer of the Rift thus extending its duration."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Blood Magic Duration:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "5 seconds of per Kill. Caps at 15 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.35"
+    },
     "3084282676": {
       "name": "Dynamic Duo",
       "item_name": "Getaway Artist",
@@ -5375,6 +5413,44 @@
         }
       ],
       "last_edit": "2021.9.5-10.21"
+    },
+    "1420473289": {
+      "name": "Blood Magic",
+      "item_name": "Sanguine Alchemy",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Weapon Kills while inside an Empowering or Healing Rift grant Blood Magic"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Blood Magic stops the timer of the Rift thus extending its duration."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Blood Magic Duration:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "5 seconds of per Kill. Caps at 15 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.35"
     },
     "1449897496": {
       "name": "Adamantine Brace",
