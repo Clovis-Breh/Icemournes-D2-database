@@ -852,6 +852,57 @@
       ],
       "last_edit": "2021.9.5-7.58"
     },
+    "1030017949": {
+      "name": "Actual Grandeur",
+      "item_name": "Skull of Dire Ahamkara",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Increases Damage Resist during Nova Bomb cast to 80% (from 50%)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Nova Bomb returns Super Energy on Kills"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "X% -> X% -> X% -> X% -> X% -> X%..."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Needs testing.)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Caps at 50% Super Energy."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.37"
+    },
     "1053737370": {
       "name": "New Tricks",
       "item_name": "Shinobu's Vow",
@@ -7649,6 +7700,57 @@
         }
       ],
       "last_edit": "2021.9.15-20.17"
+    },
+    "3927963102": {
+      "name": "Actual Grandeur",
+      "item_name": "Skull of Dire Ahamkara",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Increases Damage Resist during Nova Bomb cast to 80% (from 50%)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Nova Bomb returns Super Energy on Kills"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "X% -> X% -> X% -> X% -> X% -> X%..."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Needs testing.)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Caps at 50% Super Energy."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.37"
     },
     "3927963103": {
       "name": "Conduction Tines",
