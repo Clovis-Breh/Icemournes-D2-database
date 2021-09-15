@@ -2718,6 +2718,61 @@
       ],
       "last_edit": "2021.9.5-9.37"
     },
+    "2428181146": {
+      "name": "The Fourth Magic",
+      "item_name": "Verity's Brow",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Weapons Kills with a Matching Subclass Element grant Stacks of Death Throes."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Each Stack of Death Throes grants 20% faster Grenade Recharge and 20% Grenade Damage Increase. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Max of 5 Stacks. Lasts 10 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Grenade Ability Usage:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Allies within 18(?) metres receive Feel The Flame."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Feel the Flame grants 6x (verify!) faster Grenade Recharge for (2 * Stacks) seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.47"
+    },
     "2563444729": {
       "name": "Fury Conductors",
       "item_name": "ACD/0 Feedback Fence",
@@ -6446,6 +6501,61 @@
         }
       ],
       "last_edit": "2021.9.6-18.10"
+    },
+    "1971489086": {
+      "name": "The Fourth Magic",
+      "item_name": "Verity's Brow",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Weapons Kills with a Matching Subclass Element grant Stacks of Death Throes."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Each Stack of Death Throes grants 20% faster Grenade Recharge and 20% Grenade Damage Increase. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Max of 5 Stacks. Lasts 10 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Grenade Ability Usage:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Allies within 18(?) metres receive Feel The Flame."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Feel the Flame grants 6x (verify!) faster Grenade Recharge for (2 * Stacks) seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.47"
     },
     "2119325971": {
       "name": "Vanishing Shadow",
