@@ -4085,6 +4085,44 @@
       ],
       "last_edit": "2021.9.6-18.13"
     },
+    "3844826443": {
+      "name": "Warlord's Sigil",
+      "item_name": "Winter's Guile",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants Warlord's Sigil on Melee Kill"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Warlord's Sigil lasts 5 seconds and grants Bonus Melee Damage"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Bonus Melee Damage:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "130% | 260% | 390% | 520% | 650%"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.52"
+    },
     "3874247549": {
       "name": "And Another Thing",
       "item_name": "Armamentarium",
@@ -7396,6 +7434,44 @@
         }
       ],
       "last_edit": "2021.9.4-19.6"
+    },
+    "2731901709": {
+      "name": "Warlord's Sigil",
+      "item_name": "Winter's Guile",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants Warlord's Sigil on Melee Kill"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Warlord's Sigil lasts 5 seconds and grants Bonus Melee Damage"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Bonus Melee Damage:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "130% | 260% | 390% | 520% | 650%"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.52"
     },
     "2731901710": {
       "name": "Vampire's Caress",
