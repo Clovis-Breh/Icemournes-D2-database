@@ -2140,6 +2140,72 @@
       ],
       "last_edit": "2021.9.15-20.39"
     },
+    "2177524718": {
+      "name": "Dearly Departed",
+      "item_name": "The Stag",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "25%"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [15%]"
+            },
+            {
+              "text": " Damage Resist to Guardians inside your Rift."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Upon reaching Critical Health:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Dearly Departed grants 55% Class Ability Energy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff lasts until no longer Critical."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Death:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Spawns a Healing Rift for 15 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.45"
+    },
     "2203146422": {
       "name": "Vanishing Execution",
       "item_name": "Assassin's Cowl",
@@ -5097,6 +5163,72 @@
         }
       ],
       "last_edit": "2021.9.5-14.27"
+    },
+    "722862450": {
+      "name": "Dearly Departed",
+      "item_name": "The Stag",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "25%"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [15%]"
+            },
+            {
+              "text": " Damage Resist to Guardians inside your Rift."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Upon reaching Critical Health:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Dearly Departed grants 55% Class Ability Energy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff lasts until no longer Critical."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Death:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Spawns a Healing Rift for 15 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.45"
     },
     "824488952": {
       "name": "Seriously, Watch Out",
