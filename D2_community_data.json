@@ -3777,6 +3777,54 @@
       ],
       "last_edit": "2021.9.6-18.2"
     },
+    "4057299719": {
+      "name": "Battle-Hearth",
+      "item_name": "Phoenix Protocol",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Kills while inside a Well of Radiance return Super Energy, up to 50%."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "10% Super Energy on First Kill."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Each Kill grants 1.5% less than the previous. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Minimum of 4% Super Energy."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "10% -> 8.5% -> 6% -> 4.5% -> 4% -> 4% ..."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.30"
+    },
     "4136768282": {
       "name": "Alchemical Etchings",
       "item_name": "Lunafaction Boots",
@@ -6002,6 +6050,54 @@
         }
       ],
       "last_edit": "2021.9.6-18.2"
+    },
+    "2204713149": {
+      "name": "Battle-Hearth",
+      "item_name": "Phoenix Protocol",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Kills while inside a Well of Radiance return Super Energy, up to 50%."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "10% Super Energy on First Kill."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Each Kill grants 1.5% less than the previous. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Minimum of 4% Super Energy."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "10% -> 8.5% -> 6% -> 4.5% -> 4% -> 4% ..."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.30"
     },
     "2355041704": {
       "name": "Solar Rampart",
