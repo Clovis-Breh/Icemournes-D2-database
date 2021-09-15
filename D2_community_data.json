@@ -3494,6 +3494,40 @@
       ],
       "last_edit": "2021.9.5-8.1"
     },
+    "3627185503": {
+      "name": "Cobra Totemic",
+      "item_name": "Ophidian Aspect",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "+32 Reload and Handling stat to all weapons. Caps out at 100."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "+1 metre Lunge range (6.25 -> 7.25)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Base Melee Range is 5.25 metres, 6.25 for Warlocks)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.26"
+    },
     "3844826440": {
       "name": "Vampire's Caress",
       "item_name": "Karnstein Armlets",
@@ -4976,6 +5010,40 @@
         }
       ],
       "last_edit": "2021.9.5-10.18"
+    },
+    "1147638875": {
+      "name": "Cobra Totemic",
+      "item_name": "Ophidian Aspect",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "+32 Reload and Handling stat to all weapons. Caps out at 100."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "+1 metre Lunge range (6.25 -> 7.25)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Base Melee Range is 5.25 metres, 6.25 for Warlocks)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.15-20.26"
     },
     "1155472384": {
       "name": "Biotic Enhancements",
