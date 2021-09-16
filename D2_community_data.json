@@ -8960,7 +8960,56 @@
     }
   },
   "armor_mods": {},
-  "weapon_perks": {},
+  "weapon_perks": {
+    "280464955": {
+      "name": "Firmly Planted",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If Crouched:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "30 Handling,"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20 Stability,"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "-40% Accuracy Cone Size,"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "-17% Accuracy Cone Growth,"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "-80% Recoil Yaw (Horizontal Recoil)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.16-10.4"
+    }
+  },
   "weapon_frames": {},
   "weapon_mods": {}
 }
