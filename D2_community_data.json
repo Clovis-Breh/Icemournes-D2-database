@@ -9530,6 +9530,43 @@
       },
       "last_edit": "2021.9.19-17.56"
     },
+    "1359896290": {
+      "name": "Dynamic Sway Reduction",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Gradually during Sustained Fire, maxing its effect after 0.6 seconds:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Greatly increases Accuracy, and adds up to 9 Stability."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Accuracy improvement is greater than initial accuracy, but isn't perfectly accurate while Airborne."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Accuracy increase is gradual, almost completely negating the effects of bloom."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.16"
+    },
     "1600092898": {
       "name": "Backup Plan",
       "description": [
