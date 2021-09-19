@@ -3007,7 +3007,7 @@
         {
           "lineText": [
             {
-              "text": "Fury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks."
+              "text": "Fury Conductors grants 33%|55%|70% Damage Resistance to Melee Attacks depending on number of Stacks."
             }
           ]
         },
@@ -3022,7 +3022,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.5-9.33"
+      "last_edit": "2021.9.19-16.12"
     },
     "2578771006": {
       "name": "Vengeance",
@@ -6224,7 +6224,7 @@
         {
           "lineText": [
             {
-              "text": "Fury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks."
+              "text": "Fury Conductors grants 33%|55%|70% Damage Resistance to Melee Attacks depending on number of Stacks."
             }
           ]
         },
@@ -6239,7 +6239,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.5-9.33"
+      "last_edit": "2021.9.19-16.12"
     },
     "1155472387": {
       "name": "Horns of Doom",
