@@ -9422,7 +9422,7 @@
         {
           "lineText": [
             {
-              "text": "Damage Increase and Slower Rate of Fire/Charge Time for 5 seconds"
+              "text": "Damage Increase and Slower Rate of Fire/Charge Time for 5 seconds."
             }
           ]
         },
@@ -9432,7 +9432,7 @@
         {
           "lineText": [
             {
-              "text": "Hand Cannon: 25% Damage Increase and -15% RoF."
+              "text": "Hand Cannon: 25% Damage Increase and -15% RoF"
             }
           ]
         },
@@ -9460,14 +9460,14 @@
         {
           "lineText": [
             {
-              "text": "Fusion Rifle: 27% Damage Increase and -15% CR"
+              "text": "Grenade Launcher: 25% Damage Increase and -20% RoF"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Grenade Launcher: 25% Damage Increase and -20% RoF."
+              "text": "Fusion Rifle: 27% Damage Increase and -15% CR"
             }
           ]
         },
@@ -9479,7 +9479,10 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-17.12"
+      "duration": [
+        5
+      ],
+      "last_edit": "2021.9.19-17.15"
     }
   },
   "weapon_frames": {},
