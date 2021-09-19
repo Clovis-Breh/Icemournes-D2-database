@@ -10209,6 +10209,33 @@
       ],
       "last_edit": "2021.9.19-18.4"
     },
+    "3096702027": {
+      "name": "Genesis",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Elemental or Barrier Champion's Shield Break:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Refreshes magazine."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Energy Weapons generate 1 Ammo against Matching Elemental Shields per hit"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-19.41"
+    },
     "3194351027": {
       "name": "Explosive Light",
       "description": [
