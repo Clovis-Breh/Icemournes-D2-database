@@ -9366,6 +9366,33 @@
       },
       "last_edit": "2021.9.19-18.15"
     },
+    "124408337": {
+      "name": "Headstone",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Spawns a Stasis Crystal on Enemy Death Location."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Minors = Medium | Anything Else = Large"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-20.30"
+    },
     "201365942": {
       "name": "Archer's Tempo",
       "description": [
