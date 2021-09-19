@@ -10426,6 +10426,80 @@
         }
       ],
       "last_edit": "2021.9.19-18.11"
+    },
+    "4104185692": {
+      "name": "Frenzy",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After being in Combat for 12 seconds:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " 15% Damage Increase, 50(?) Handling, and 50 Reload Speed."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Lasts until you're out of combat."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "It's technically a \"state\" so it works when stowed, and it also applies to all of your weapons with Frenzy."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Being \"In Combat\" is defined as having either dealt or received damage within 5 seconds."
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "conditional": {
+          "stat": [
+            50
+          ],
+          "multiplayer": []
+        }
+      },
+      "handling": {
+        "conditional": {
+          "stat": [
+            50
+          ],
+          "multiplayer": []
+        }
+      },
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            15
+          ]
+        }
+      },
+      "duration": [
+        5
+      ],
+      "last_edit": "2021.9.19-19.6"
     }
   },
   "weapon_frames": {},
