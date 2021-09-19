@@ -9545,6 +9545,33 @@
       ],
       "last_edit": "2021.9.19-17.51"
     },
+    "1799762209": {
+      "name": "Cornered",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While within 15(?) metres of 2 enemies:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100ms Faster Charge Rate/Draw Time."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lingers for 1.5 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-17.59"
+    },
     "1968497646": {
       "name": "Armor-Piercing Rounds",
       "description": [
