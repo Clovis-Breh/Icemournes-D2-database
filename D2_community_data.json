@@ -1889,9 +1889,6 @@
           ]
         },
         {
-          "lineClass": "spacer_class"
-        },
-        {
           "lineText": [
             {
               "text": "Unlimited Dodges for 6 seconds."
@@ -1911,12 +1908,22 @@
         {
           "lineText": [
             {
+              "text": "Multi-Dodge Dodges are unaffected by Mods that activate on Class Ability Use, alongside Winter's Shroud."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
               "text": "Effect immediately ends if you are over 15 metres away from an Enemy while Multi-Dodge is active."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.5-7.48"
+      "last_edit": "2021.9.19-16.8"
     },
     "1725917554": {
       "name": "Planetary Torrent",
@@ -4669,9 +4676,6 @@
           ]
         },
         {
-          "lineClass": "spacer_class"
-        },
-        {
           "lineText": [
             {
               "text": "Unlimited Dodges for 6 seconds."
@@ -4691,12 +4695,22 @@
         {
           "lineText": [
             {
+              "text": "Multi-Dodge Dodges are unaffected by Mods that activate on Class Ability Use, alongside Winter's Shroud."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
               "text": "Effect immediately ends if you are over 15 metres away from an Enemy while Multi-Dodge is active."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.5-7.48"
+      "last_edit": "2021.9.19-16.8"
     },
     "185514250": {
       "name": "Glacial Guard",
