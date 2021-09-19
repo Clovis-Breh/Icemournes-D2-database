@@ -2751,7 +2751,7 @@
         {
           "lineText": [
             {
-              "text": "Explosion Damage and Radius depends on Enemy Rank."
+              "text": " Explosion Damage and Radius depends on Enemy Rank."
             }
           ]
         },
@@ -2792,9 +2792,19 @@
               "text": "268% = Finisher on Major"
             }
           ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "4 second cooldown per Explosion."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.5-17.42"
+      "last_edit": "2021.9.19-16.15"
     },
     "2384488862": {
       "name": "Solar Rampart",
@@ -8362,7 +8372,7 @@
         {
           "lineText": [
             {
-              "text": "Explosion Damage and Radius depends on Enemy Rank."
+              "text": " Explosion Damage and Radius depends on Enemy Rank."
             }
           ]
         },
@@ -8403,9 +8413,19 @@
               "text": "268% = Finisher on Major"
             }
           ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "4 second cooldown per Explosion."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.5-17.42"
+      "last_edit": "2021.9.19-16.15"
     },
     "3662465906": {
       "name": "Dreaded Visage",
