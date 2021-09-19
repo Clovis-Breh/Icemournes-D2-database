@@ -9409,40 +9409,20 @@
         {
           "lineText": [
             {
-              "text": "30 Handling,"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "20 Stability,"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "-40% Accuracy Cone Size,"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "-17% Accuracy Cone Growth,"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "-80% Recoil Yaw (Horizontal Recoil)"
+              "text": "30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.16-10.4"
+      "handling": {
+        "conditional": {
+          "stat": [
+            30
+          ],
+          "multiplayer": []
+        }
+      },
+      "last_edit": "2021.9.19-18.59"
     },
     "354401740": {
       "name": "Assassin's Blade",
