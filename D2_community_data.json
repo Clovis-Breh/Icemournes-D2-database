@@ -9971,6 +9971,54 @@
       },
       "last_edit": "2021.9.19-18.43"
     },
+    "2869569095": {
+      "name": "Field Prep",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While Crouched:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "45 Reload Speed with 0.8x Multiplier and 0.8x Ready/Stow Animation Duration Multiplier."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "+30 Inventory Size. (Ammo Reserves, they're very weird)"
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "conditional": {
+          "stat": [
+            45
+          ],
+          "multiplayer": [
+            0.8
+          ]
+        }
+      },
+      "handling": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            0.8
+          ]
+        }
+      },
+      "last_edit": "2021.9.19-18.54"
+    },
     "3016987351": {
       "name": "Counterattack",
       "description": [
