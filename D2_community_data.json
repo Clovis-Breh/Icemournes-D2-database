@@ -1082,6 +1082,13 @@
         {
           "lineText": [
             {
+              "text": "On Melee Hit:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
               "text": "Linear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 metres. Shocked is refreshed on chain."
             }
           ]
@@ -1090,18 +1097,18 @@
           "lineClass": "spacer_class"
         },
         {
-          "lineClass": "CDCA_desc-pve-",
           "lineText": [
             {
-              "text": "PVE 300%(?) Melee Damage"
+              "textClass": "CDCA_desc-pve-",
+              "text": "[PVE] 300%(?) Melee Damage"
             }
           ]
         },
         {
-          "lineClass": "CDCA_desc-pvp-",
           "lineText": [
             {
-              "text": "PVP 85 Damage"
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[PVP] 85 Damage"
             }
           ]
         },
@@ -1123,7 +1130,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.5-9.50"
+      "last_edit": "2021.9.19-16.14"
     },
     "1163283805": {
       "name": "Misdirection",
@@ -8171,6 +8178,13 @@
         {
           "lineText": [
             {
+              "text": "On Melee Hit:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
               "text": "Linear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 metres. Shocked is refreshed on chain."
             }
           ]
@@ -8179,18 +8193,18 @@
           "lineClass": "spacer_class"
         },
         {
-          "lineClass": "CDCA_desc-pve-",
           "lineText": [
             {
-              "text": "PVE 300%(?) Melee Damage"
+              "textClass": "CDCA_desc-pve-",
+              "text": "[PVE] 300%(?) Melee Damage"
             }
           ]
         },
         {
-          "lineClass": "CDCA_desc-pvp-",
           "lineText": [
             {
-              "text": "PVP 85 Damage"
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[PVP] 85 Damage"
             }
           ]
         },
@@ -8212,7 +8226,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.5-9.50"
+      "last_edit": "2021.9.19-16.14"
     },
     "3295796664": {
       "name": "Move to Survive",
