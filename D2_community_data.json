@@ -9472,6 +9472,52 @@
       },
       "last_edit": "2021.9.19-17.40"
     },
+    "1195158366": {
+      "name": "Encore",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Kill: 10 Range per Stack. Max of 3 Stacks. "
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Non-Precision Kill: Removes a Stack and grants X% Accuracy Cone Growth, Y% Accuracy Cone, and 30 Stability when all stacks have been removed."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lasts 7 seconds. Refreshed on Kill."
+            }
+          ]
+        }
+      ],
+      "range": {
+        "conditional": {
+          "stat": [
+            10,
+            20,
+            30
+          ],
+          "multiplayer": []
+        }
+      },
+      "duration": [
+        7
+      ],
+      "last_edit": "2021.9.19-18.40"
+    },
     "1264398905": {
       "name": "Celerity",
       "description": [
