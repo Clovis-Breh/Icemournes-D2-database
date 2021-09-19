@@ -9452,6 +9452,48 @@
       },
       "last_edit": "2021.9.19-17.40"
     },
+    "438098033": {
+      "name": "Harmony",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Ready within 3 seconds of getting a Kill with a Different Weapon:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "20% Damage Increase, and 15 Handling for 7 seconds."
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            15
+          ],
+          "multiplayer": []
+        }
+      },
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            20
+          ]
+        }
+      },
+      "duration": [
+        7
+      ],
+      "last_edit": "2021.9.19-20.27"
+    },
     "699525795": {
       "name": "Eye of the Storm",
       "description": [
