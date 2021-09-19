@@ -9328,6 +9328,44 @@
       ],
       "last_edit": "2021.9.19-17.17"
     },
+    "25606670": {
+      "name": "Dual Loader",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Loads 2 Ammo at a time."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reduces Reload Speed by 45"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Full magazine reload is faster with the perk)"
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "always_active": {
+          "stat": [
+            -45
+          ],
+          "multiplayer": []
+        }
+      },
+      "last_edit": "2021.9.19-18.15"
+    },
     "201365942": {
       "name": "Archer's Tempo",
       "description": [
