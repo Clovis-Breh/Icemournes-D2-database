@@ -9271,6 +9271,63 @@
   },
   "armor_mods": {},
   "weapon_perks": {
+    "11612903": {
+      "name": "Adrenaline Junkie",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grenade Kills grant a Stacking Damage Increase and Handling for 10 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Duration refreshed on Grenade Kill."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "1x = 10% Damage and Y Handling"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "2x = 21% Damage and Y Handling"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "3x = 33% Damage and Y Handling"
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            10,
+            21,
+            33
+          ]
+        }
+      },
+      "duration": [
+        10
+      ],
+      "last_edit": "2021.9.19-17.14"
+    },
     "201365942": {
       "name": "Archer's Tempo",
       "description": [
