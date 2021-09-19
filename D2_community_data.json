@@ -9875,6 +9875,33 @@
         5
       ],
       "last_edit": "2021.9.19-17.15"
+    },
+    "3865257976": {
+      "name": "Dragonfly",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Explode the target, dealing the Weapon's Elemental Damage over a 3 metre radius. Damage is not increased by Weapon Perks."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Dragonfly Spec increases Damage and Radius by 50%."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.11"
     }
   },
   "weapon_frames": {},
