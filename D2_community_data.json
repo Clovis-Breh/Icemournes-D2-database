@@ -9406,6 +9406,34 @@
       ],
       "last_edit": "2021.9.16-10.4"
     },
+    "354401740": {
+      "name": "Assassin's Blade",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Sword Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "15% Damage Increase and sets Forward Movement Speed to 9 metres / second (Max Sprint Speed)"
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            15
+          ]
+        }
+      },
+      "last_edit": "2021.9.19-17.40"
+    },
     "1968497646": {
       "name": "Armor-Piercing Rounds",
       "description": [
