@@ -9878,6 +9878,44 @@
       ],
       "last_edit": "2021.9.19-17.54"
     },
+    "2621346526": {
+      "name": "Ensemble",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While within 15 metres of 1 Allies:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "30 Handling and Y Reload Speed. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lingers for 1.5 seconds."
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            30
+          ]
+        }
+      },
+      "last_edit": "2021.9.19-18.43"
+    },
     "3016987351": {
       "name": "Counterattack",
       "description": [
