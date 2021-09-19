@@ -10527,6 +10527,33 @@
         5
       ],
       "last_edit": "2021.9.19-19.6"
+    },
+    "4267945040": {
+      "name": "Full Auto Trigger System",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Automatically queues up the next shot after firing if you hold the trigger."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "10% Faster Rate of Fire on Shotguns."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Other weapons do not receive a Rate of Fire Increase."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-19.12"
     }
   },
   "weapon_frames": {},
