@@ -2582,6 +2582,13 @@
         {
           "lineText": [
             {
+              "text": "While in Arc Staff:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
               "text": "Blocking with Whirlwind Guard doesn't consume extra Super Energy."
             }
           ]
@@ -2604,7 +2611,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.5-7.43"
+      "last_edit": "2021.9.19-16.7"
     },
     "2316914168": {
       "name": "Rites of Ember",
@@ -9158,6 +9165,13 @@
         {
           "lineText": [
             {
+              "text": "While in Arc Staff:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
               "text": "Blocking with Whirlwind Guard doesn't consume extra Super Energy."
             }
           ]
@@ -9180,7 +9194,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.5-7.43"
+      "last_edit": "2021.9.19-16.7"
     }
   },
   "armor_mods": {},
