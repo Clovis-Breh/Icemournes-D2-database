@@ -9008,6 +9008,78 @@
         }
       ],
       "last_edit": "2021.9.16-10.4"
+    },
+    "3673922083": {
+      "name": "Adagio",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Damage Increase and Slower Rate of Fire/Charge Time for 6 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Hand Cannon: +25% Damage -15% RoF"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Auto Rifle: +25% Damage -20% RoF"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Bow: +20% Damage -20% CR"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Shotgun: +20% Damage -20% RoF"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Fusion Rifle: +27% Damage -15% CR"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grenade Launcher: +25% Damage -20% RoF"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Linear Fusion Rifle: +25% Damage -15% CR"
+            }
+          ]
+        }
+      ],
+      "duration": [
+        6
+      ],
+      "last_edit": "2021.9.19-12.32"
     }
   },
   "weapon_frames": {},
