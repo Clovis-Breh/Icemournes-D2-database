@@ -9592,6 +9592,26 @@
       ],
       "last_edit": "2021.9.19-17.21"
     },
+    "2284787283": {
+      "name": "Clown Cartridge",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Reload:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Randomly increases Magazine Capacity between 10% to 50%. Always rounds magazine up."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-17.58"
+    },
     "2551157718": {
       "name": "Box Breathing",
       "description": [
