@@ -351,7 +351,7 @@
         {
           "lineText": [
             {
-              "text": "Solar Weapon Kills grant X% Class Ability Energy. (Needs testing)"
+              "text": "Solar Weapon Kills grant X% Class Ability Energy."
             }
           ]
         },
@@ -368,12 +368,12 @@
         {
           "lineText": [
             {
-              "text": "Solar Weapon Kills fully uses your Class Ability Energy and spawn a Healing+Empowering Rift at the Target's Location."
+              "text": "Weapon Kills consume your Class Ability Energy and spawn a Healing+Empowering Rift at the Target's Location."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.15-20.32"
+      "last_edit": "2021.9.19-16.20"
     },
     "241462141": {
       "name": "Horns of Doom",
@@ -6028,7 +6028,7 @@
         {
           "lineText": [
             {
-              "text": "Solar Weapon Kills grant X% Class Ability Energy. (Needs testing)"
+              "text": "Solar Weapon Kills grant X% Class Ability Energy."
             }
           ]
         },
@@ -6045,12 +6045,12 @@
         {
           "lineText": [
             {
-              "text": "Solar Weapon Kills fully uses your Class Ability Energy and spawn a Healing+Empowering Rift at the Target's Location."
+              "text": "Weapon Kills consume your Class Ability Energy and spawn a Healing+Empowering Rift at the Target's Location."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.15-20.32"
+      "last_edit": "2021.9.19-16.20"
     },
     "1142806944": {
       "name": "Planetary Torrent",
