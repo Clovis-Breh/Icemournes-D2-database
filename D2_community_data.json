@@ -9434,6 +9434,64 @@
       },
       "last_edit": "2021.9.19-17.40"
     },
+    "1264398905": {
+      "name": "Celerity",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While Last Guardian Standing:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100 Handling, 100 Reload, 100 Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Passively grants 18 Handling and 18 Reload Speed"
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "always_active": {
+          "stat": [
+            18
+          ],
+          "multiplayer": []
+        },
+        "conditional": {
+          "stat": [
+            100
+          ],
+          "multiplayer": []
+        }
+      },
+      "handling": {
+        "always_active": {
+          "stat": [
+            18
+          ],
+          "multiplayer": []
+        },
+        "conditional": {
+          "stat": [
+            100
+          ],
+          "multiplayer": []
+        }
+      },
+      "last_edit": "2021.9.19-17.56"
+    },
     "1600092898": {
       "name": "Backup Plan",
       "description": [
