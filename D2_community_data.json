@@ -2775,7 +2775,7 @@
         {
           "lineText": [
             {
-              "text": "Throwing Knife gains greatly increased tracking and a second bounce."
+              "text": "Weighted Throwing Knives gain a second bounce with greatly increased tracking."
             }
           ]
         },
@@ -2802,19 +2802,33 @@
         {
           "lineText": [
             {
-              "text": "Strengthened Throwing Knife have a 200% [100%] Damage Increase with throwing knife, and staggers unstoppable champions."
+              "text": "Strengthened Throwing Knife deal "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "200%"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [100%]"
+            },
+            {
+              "text": " increased damage and stagger unstoppable champions."
             }
           ]
         },
         {
+          "lineClass": "spacer_class"
+        },
+        {
           "lineText": [
             {
-              "text": "Landing a throwing knife hit removes buff."
+              "text": " Landing a Knife Hit consumes Strengthened Throwing Knife."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-17.42"
+      "last_edit": "2021.9.19-15.43"
     },
     "2423243921": {
       "name": "Reflective Vents",
@@ -8232,7 +8246,7 @@
         {
           "lineText": [
             {
-              "text": "Throwing Knife gains greatly increased tracking and a second bounce."
+              "text": "Weighted Throwing Knives gain a second bounce with greatly increased tracking."
             }
           ]
         },
@@ -8259,19 +8273,33 @@
         {
           "lineText": [
             {
-              "text": "Strengthened Throwing Knife have a 200% [100%] Damage Increase with throwing knife, and staggers unstoppable champions."
+              "text": "Strengthened Throwing Knife deal "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "200%"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [100%]"
+            },
+            {
+              "text": " increased damage and stagger unstoppable champions."
             }
           ]
         },
         {
+          "lineClass": "spacer_class"
+        },
+        {
           "lineText": [
             {
-              "text": "Landing a throwing knife hit removes buff."
+              "text": " Landing a Knife Hit consumes Strengthened Throwing Knife."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-17.42"
+      "last_edit": "2021.9.19-15.43"
     },
     "3666112472": {
       "name": "Scissor Fingers",
