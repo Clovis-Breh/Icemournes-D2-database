@@ -3048,7 +3048,7 @@
         {
           "lineText": [
             {
-              "text": "Smoke Bombs have a 150% Damage Increase."
+              "text": "Smoke Bombs deal 150% increased damage."
             }
           ]
         },
@@ -3058,12 +3058,12 @@
         {
           "lineText": [
             {
-              "text": "Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 metres away."
+              "text": " Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 metres away."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.5"
+      "last_edit": "2021.9.19-15.55"
     },
     "2766109874": {
       "name": "Wraithmetal Mail",
@@ -8918,7 +8918,7 @@
         {
           "lineText": [
             {
-              "text": "Smoke Bombs have a 150% Damage Increase."
+              "text": "Smoke Bombs deal 150% increased damage."
             }
           ]
         },
@@ -8928,12 +8928,12 @@
         {
           "lineText": [
             {
-              "text": "Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 metres away."
+              "text": " Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 metres away."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.5"
+      "last_edit": "2021.9.19-15.55"
     },
     "4174493725": {
       "name": "Insatiable",
