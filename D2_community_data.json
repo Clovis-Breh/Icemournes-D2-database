@@ -9782,6 +9782,48 @@
       ],
       "last_edit": "2021.9.19-18.24"
     },
+    "1771339417": {
+      "name": "Firing Line",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While within X metres of 2+ Allies:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "13.8% Precision Damage Increase on Sniper Rifles."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "5.7% Precision Damage Increase on Machine Guns."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Bugged. It should be 20%."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            20
+          ]
+        }
+      },
+      "last_edit": "2021.9.19-18.57"
+    },
     "1799762209": {
       "name": "Cornered",
       "description": [
