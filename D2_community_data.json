@@ -9697,6 +9697,44 @@
       ],
       "last_edit": "2021.9.19-18.1"
     },
+    "3047969693": {
+      "name": "Desperado",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After Reloading within 6 seconds of a Precision Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Rate of Fire Increases to 600RPM for 7 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "Reduces damage by 20% against Combatants."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Can be refreshed."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        7
+      ],
+      "last_edit": "2021.9.19-18.4"
+    },
     "3300816228": {
       "name": "Auto-Loading Holster",
       "description": [
