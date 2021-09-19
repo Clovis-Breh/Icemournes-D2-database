@@ -244,13 +244,15 @@
         {
           "lineText": [
             {
-              "text": "60% Damage Increase per Hit for 5 seconds. Maxes out at 600% after 10 Hits."
+              "textClass": "CDCA_desc-pve-",
+              "text": "60% Increased damage per Hit for 5 seconds. Maxes out at 600% after 10 Hits."
             }
           ]
         },
         {
           "lineText": [
             {
+              "textClass": "CDCA_desc-pve-",
               "text": "Eriana's Vow has a reduced effectiveness of 30% Damage Increase per Hit."
             }
           ]
@@ -273,7 +275,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.10"
+      "last_edit": "2021.9.19-16.25"
     },
     "193869523": {
       "name": "Uncanny Arrows",
@@ -6595,13 +6597,15 @@
         {
           "lineText": [
             {
-              "text": "60% Damage Increase per Hit for 5 seconds. Maxes out at 600% after 10 Hits."
+              "textClass": "CDCA_desc-pve-",
+              "text": "60% Increased damage per Hit for 5 seconds. Maxes out at 600% after 10 Hits."
             }
           ]
         },
         {
           "lineText": [
             {
+              "textClass": "CDCA_desc-pve-",
               "text": "Eriana's Vow has a reduced effectiveness of 30% Damage Increase per Hit."
             }
           ]
@@ -6624,7 +6628,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.10"
+      "last_edit": "2021.9.19-16.25"
     },
     "1694242449": {
       "name": "Uncanny Arrows",
