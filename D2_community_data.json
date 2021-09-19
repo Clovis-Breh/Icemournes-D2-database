@@ -9710,6 +9710,29 @@
       ],
       "last_edit": "2021.9.19-17.43"
     },
+    "3523296417": {
+      "name": "Demolitionist",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Kills with Primary Weapons and Power Weapons grant 10% Grenade Ability Energy. Special Weapons grant 20%."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Using your Grenade Ability refreshes Magazine. 3 Second Cooldown."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.3"
+    },
     "3673922083": {
       "name": "Adagio",
       "description": [
