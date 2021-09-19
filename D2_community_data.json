@@ -9545,6 +9545,36 @@
       ],
       "last_edit": "2021.9.19-17.51"
     },
+    "1683379515": {
+      "name": "Disruption Break",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Elemental/Barrier or Guardian Shield Break:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Weakens the enemy, granting a 50% Kinetic Damage Increase for 5.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacks with other Debuffs, as it is a Weapon Perk."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        5.5
+      ],
+      "last_edit": "2021.9.19-18.9"
+    },
     "1799762209": {
       "name": "Cornered",
       "description": [
