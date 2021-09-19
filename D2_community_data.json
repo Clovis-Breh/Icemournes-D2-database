@@ -9481,6 +9481,19 @@
       ],
       "last_edit": "2021.9.19-17.21"
     },
+    "3300816228": {
+      "name": "Auto-Loading Holster",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Reloads stowed weapon from reserves after 3 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-17.43"
+    },
     "3673922083": {
       "name": "Adagio",
       "description": [
