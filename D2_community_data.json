@@ -9853,6 +9853,50 @@
       ],
       "last_edit": "2021.9.19-17.43"
     },
+    "3511092054": {
+      "name": "Elemental Capacitor",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants different Stat Bonuses based on your selected Subclass."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Solar: 45 Reload Speed"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Arc: 45 Handling"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Void: 18 Stability"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stasis: 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.23"
+    },
     "3523296417": {
       "name": "Demolitionist",
       "description": [
