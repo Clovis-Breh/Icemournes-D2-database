@@ -9701,6 +9701,26 @@
       ],
       "last_edit": "2021.9.19-17.51"
     },
+    "1631667848": {
+      "name": "Grave Robber",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Melee Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "All weapons get relaoded from reserves."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-20.21"
+    },
     "1683379515": {
       "name": "Disruption Break",
       "description": [
