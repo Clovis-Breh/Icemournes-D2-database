@@ -9908,6 +9908,29 @@
       ],
       "last_edit": "2021.9.19-18.42"
     },
+    "2244851822": {
+      "name": "Flash Counter",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After Blocking a Melee Attack within 0.5(?) seconds of starting to Block:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Suppresses and Weakens the enemy, granting a 20% Damage Increase for 4 seconds."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        4
+      ],
+      "last_edit": "2021.9.19-19.2"
+    },
     "2284787283": {
       "name": "Clown Cartridge",
       "description": [
