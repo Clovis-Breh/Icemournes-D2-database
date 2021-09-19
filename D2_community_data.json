@@ -1360,14 +1360,24 @@
           ]
         },
         {
+          "lineClass": "spacer_class"
+        },
+        {
           "lineText": [
             {
-              "text": "If crouched: Grants Enhanced Radar. (Posseses 12 sectors instead of 6)"
+              "text": "If crouched: "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants Enhanced Radar. (Posseses 12 sectors instead of 6)"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.6"
+      "last_edit": "2021.9.19-15.56"
     },
     "1321354573": {
       "name": "Hawkeye Hack",
@@ -7518,14 +7528,24 @@
           ]
         },
         {
+          "lineClass": "spacer_class"
+        },
+        {
           "lineText": [
             {
-              "text": "If crouched: Grants Enhanced Radar. (Posseses 12 sectors instead of 6)"
+              "text": "If crouched: "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants Enhanced Radar. (Posseses 12 sectors instead of 6)"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.6"
+      "last_edit": "2021.9.19-15.56"
     },
     "2731901709": {
       "name": "Warlord's Sigil",
