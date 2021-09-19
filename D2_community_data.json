@@ -9346,9 +9346,6 @@
           ]
         },
         {
-          "lineClass": "spacer_class"
-        },
-        {
           "lineText": [
             {
               "text": "Perfect Draws are not accurate with the Draw Time Stat, you can be up to 40ms too early and still achieve them."
@@ -9359,7 +9356,7 @@
       "duration": [
         3
       ],
-      "last_edit": "2021.9.19-16.55"
+      "last_edit": "2021.9.19-17.23"
     },
     "280464955": {
       "name": "Firmly Planted",
