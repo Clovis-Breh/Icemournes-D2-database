@@ -3900,9 +3900,19 @@
               "text": "(Stasis Grenades recharge at .45% Ability Energy per Second)"
             }
           ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "No, it is not \"+30 to all your Abilities\", and yes, it scales past 100 because it's a % per second."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.6-18.8"
+      "last_edit": "2021.9.19-16.18"
     },
     "3381022971": {
       "name": "Abyssal Extractors",
@@ -8736,9 +8746,19 @@
               "text": "(Stasis Grenades recharge at .45% Ability Energy per Second)"
             }
           ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "No, it is not \"+30 to all your Abilities\", and yes, it scales past 100 because it's a % per second."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.6-18.8"
+      "last_edit": "2021.9.19-16.18"
     },
     "3927963101": {
       "name": "Abyssal Extractors",
