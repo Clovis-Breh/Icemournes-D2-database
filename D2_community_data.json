@@ -953,7 +953,14 @@
         {
           "lineText": [
             {
-              "text": "Increases Damage Resist during Nova Bomb cast to 80% (from 50%)"
+              "text": "Massively Increases Damage Resist during Nova Bomb "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Over 99.5% on Wind-Up)"
             }
           ]
         },
@@ -978,13 +985,6 @@
           ]
         },
         {
-          "lineText": [
-            {
-              "text": "(Needs testing.)"
-            }
-          ]
-        },
-        {
           "lineClass": "spacer_class"
         },
         {
@@ -995,7 +995,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.15-20.37"
+      "last_edit": "2021.9.19-16.22"
     },
     "1053737370": {
       "name": "New Tricks",
@@ -8833,7 +8833,14 @@
         {
           "lineText": [
             {
-              "text": "Increases Damage Resist during Nova Bomb cast to 80% (from 50%)"
+              "text": "Massively Increases Damage Resist during Nova Bomb "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Over 99.5% on Wind-Up)"
             }
           ]
         },
@@ -8858,13 +8865,6 @@
           ]
         },
         {
-          "lineText": [
-            {
-              "text": "(Needs testing.)"
-            }
-          ]
-        },
-        {
           "lineClass": "spacer_class"
         },
         {
@@ -8875,7 +8875,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.15-20.37"
+      "last_edit": "2021.9.19-16.22"
     },
     "3927963103": {
       "name": "Conduction Tines",
