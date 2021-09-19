@@ -9534,6 +9534,33 @@
       ],
       "last_edit": "2021.9.19-17.21"
     },
+    "2551157718": {
+      "name": "Box Breathing",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After being scoped-in for 1.5 seconds without firing:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "X Range, Y% increased Accuracy, and increased Precision Damage for one shot."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Verify range someday, no box scout to test)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-17.54"
+    },
     "3300816228": {
       "name": "Auto-Loading Holster",
       "description": [
