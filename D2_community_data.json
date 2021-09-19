@@ -10074,6 +10074,42 @@
       ],
       "last_edit": "2021.9.19-17.43"
     },
+    "3365897133": {
+      "name": "Explosive Head",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Splits 50% of Damage into an Explosive Damage portion that has a "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "30% Damage Increase"
+            },
+            {
+              "text": " and no damage falloff."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[PVP] Total damage remains (almost) the same. I don't like decimals"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.48"
+    },
     "3511092054": {
       "name": "Elemental Capacitor",
       "description": [
