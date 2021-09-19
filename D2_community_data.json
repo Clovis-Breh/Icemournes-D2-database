@@ -3053,7 +3053,7 @@
         {
           "lineText": [
             {
-              "text": "Wraithmetal Mail"
+              "text": "Wraithmetal Mail:"
             }
           ]
         },
@@ -3067,14 +3067,14 @@
         {
           "lineText": [
             {
-              "text": "Grants 100 Handling (w/ 0.95x Scalar), 100 Reload, and 50 Mobility."
+              "text": "Grants 100 Handling (w/ 0.95x Animation Duration Multiplier), 100 Reload, and 50 Mobility."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Increases Sprint Speed by 6.25%."
+              "text": " Increases Sprint Speed by 6.25%."
             }
           ]
         },
@@ -3086,7 +3086,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-18.46"
+      "last_edit": "2021.9.19-15.45"
     },
     "2773056939": {
       "name": "Vanishing Shadow",
@@ -5142,7 +5142,7 @@
         {
           "lineText": [
             {
-              "text": "Wraithmetal Mail"
+              "text": "Wraithmetal Mail:"
             }
           ]
         },
@@ -5156,14 +5156,14 @@
         {
           "lineText": [
             {
-              "text": "Grants 100 Handling (w/ 0.95x Scalar), 100 Reload, and 50 Mobility."
+              "text": "Grants 100 Handling (w/ 0.95x Animation Duration Multiplier), 100 Reload, and 50 Mobility."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Increases Sprint Speed by 6.25%."
+              "text": " Increases Sprint Speed by 6.25%."
             }
           ]
         },
@@ -5175,7 +5175,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-18.46"
+      "last_edit": "2021.9.19-15.45"
     },
     "593361147": {
       "name": "Probability Matrix",
