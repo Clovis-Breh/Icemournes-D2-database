@@ -9434,6 +9434,59 @@
       },
       "last_edit": "2021.9.19-17.40"
     },
+    "1600092898": {
+      "name": "Backup Plan",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "For 4 seconds after switching to Fusion Rifle:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Multiplies Charge Time by 0.8"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20% Reduced Damage"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100 Handling"
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            100
+          ],
+          "multiplayer": []
+        }
+      },
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            -20
+          ]
+        }
+      },
+      "duration": [
+        4
+      ],
+      "last_edit": "2021.9.19-17.50"
+    },
     "1968497646": {
       "name": "Armor-Piercing Rounds",
       "description": [
