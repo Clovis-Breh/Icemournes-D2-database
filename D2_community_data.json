@@ -3075,6 +3075,51 @@
       ],
       "last_edit": "2021.9.19-15.55"
     },
+    "2766109872": {
+      "name": "Synapse Junctions",
+      "item_name": "Raiden Flux",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While in Arc Staff:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Hits grant Synapse Junctions for 5 seconds. Stacks up to 3x"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "x1 = 13.5% Damage Increase and X% Slower Passive Super Drain"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "x2 = 28.8% Damage Increase and X% Slower Passive Super Drain"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "x3 = 46.2% Damage Increase and X% Slower Passive Drain"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-16.6"
+    },
     "2766109874": {
       "name": "Wraithmetal Mail",
       "item_name": "The Dragon's Shadow",
@@ -5229,6 +5274,51 @@
         }
       ],
       "last_edit": "2021.9.19-15.45"
+    },
+    "593361146": {
+      "name": "Synapse Junctions",
+      "item_name": "Raiden Flux",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While in Arc Staff:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Hits grant Synapse Junctions for 5 seconds. Stacks up to 3x"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "x1 = 13.5% Damage Increase and X% Slower Passive Super Drain"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "x2 = 28.8% Damage Increase and X% Slower Passive Super Drain"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "x3 = 46.2% Damage Increase and X% Slower Passive Drain"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-16.6"
     },
     "593361147": {
       "name": "Probability Matrix",
