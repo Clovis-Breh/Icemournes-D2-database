@@ -3179,26 +3179,33 @@
         {
           "lineText": [
             {
-              "text": "Regenerates 4.4% (+Y% per Enemy within X metres) of Melee Ability per second."
+              "text": "Regenerates 4% of Melee Ability per second."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "X Recovery"
+              "text": "Additional Enemies within 15 metres will instead increase it to 4.66% | 6.9% | 8.88%"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Y Handling (Ready Speed only)"
+              "text": "(Equivalent of) 100 Recovery"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100 Reload Speed"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.2"
+      "last_edit": "2021.9.19-15.53"
     },
     "2780717641": {
       "name": "Grasp of the Devourer",
@@ -6958,26 +6965,33 @@
         {
           "lineText": [
             {
-              "text": "Regenerates 4.4% (+Y% per Enemy within X metres) of Melee Ability per second."
+              "text": "Regenerates 4% of Melee Ability per second."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "X Recovery"
+              "text": "Additional Enemies within 15 metres will instead increase it to 4.66% | 6.9% | 8.88%"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Y Handling (Ready Speed only)"
+              "text": "(Equivalent of) 100 Recovery"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100 Reload Speed"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.2"
+      "last_edit": "2021.9.19-15.53"
     },
     "2192678014": {
       "name": "Roving Assassin",
