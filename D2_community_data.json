@@ -1139,7 +1139,7 @@
         {
           "lineText": [
             {
-              "text": "Applies Misdirection to enemies within 15 metres."
+              "text": "Applies Misdirection to enemies within 22 metres."
             }
           ]
         },
@@ -1150,10 +1150,14 @@
           "lineText": [
             {
               "textClass": "CDCA_desc-pve-",
-              "text": "PVE"
+              "text": "[PVE]"
             },
             {
-              "text": " Misdirection disorients minors as well as elites for 5 seconds."
+              "text": " Misdirection "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "disorients minors and elites for 5 seconds."
             }
           ]
         },
@@ -1161,10 +1165,14 @@
           "lineText": [
             {
               "textClass": "CDCA_desc-pvp-",
-              "text": "PVP"
+              "text": "[PVP]"
             },
             {
-              "text": " Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
+              "text": " Misdirection "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "warps audio and removes radar for 5 seconds, as well as briefly blinding."
             }
           ]
         },
@@ -1179,7 +1187,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.0"
+      "last_edit": "2021.9.19-15.50"
     },
     "1190497097": {
       "name": "Assault Barricade",
@@ -8756,7 +8764,7 @@
         {
           "lineText": [
             {
-              "text": "Applies Misdirection to enemies within 15 metres."
+              "text": "Applies Misdirection to enemies within 22 metres."
             }
           ]
         },
@@ -8767,10 +8775,14 @@
           "lineText": [
             {
               "textClass": "CDCA_desc-pve-",
-              "text": "PVE"
+              "text": "[PVE]"
             },
             {
-              "text": " Misdirection disorients minors as well as elites for 5 seconds."
+              "text": " Misdirection "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "disorients minors and elites for 5 seconds."
             }
           ]
         },
@@ -8778,10 +8790,14 @@
           "lineText": [
             {
               "textClass": "CDCA_desc-pvp-",
-              "text": "PVP"
+              "text": "[PVP]"
             },
             {
-              "text": " Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
+              "text": " Misdirection "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "warps audio and removes radar for 5 seconds, as well as briefly blinding."
             }
           ]
         },
@@ -8796,7 +8812,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.0"
+      "last_edit": "2021.9.19-15.50"
     },
     "4048389864": {
       "name": "Feast of Light",
