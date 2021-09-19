@@ -9271,6 +9271,36 @@
   },
   "armor_mods": {},
   "weapon_perks": {
+    "201365942": {
+      "name": "Archer's Tempo",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Hit:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Decreases Draw Time by 180ms for 3 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Perfect Draws are not accurate with the Draw Time Stat, you can be up to 40ms too early and still achieve them."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-16.53"
+    },
     "280464955": {
       "name": "Firmly Planted",
       "description": [
