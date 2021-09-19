@@ -9409,6 +9409,33 @@
       ],
       "last_edit": "2021.9.16-10.4"
     },
+    "2010801679": {
+      "name": "Ambitious Assassin",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After Reload within X seconds of Weapon Kills:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "10% Increased Magazine Capacity per kill. Maxes out at 50% increased Magazine Capacity."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Always rounds up. "
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-17.21"
+    },
     "3673922083": {
       "name": "Adagio",
       "description": [
