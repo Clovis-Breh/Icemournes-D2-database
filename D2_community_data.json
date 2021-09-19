@@ -9666,6 +9666,37 @@
       ],
       "last_edit": "2021.9.19-17.54"
     },
+    "3016987351": {
+      "name": "Counterattack",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After Blocking an attack within 0.5(?) seconds of starting to Block:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "50% Damage Increase for 2 seconds."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            50
+          ]
+        }
+      },
+      "duration": [
+        2
+      ],
+      "last_edit": "2021.9.19-18.1"
+    },
     "3300816228": {
       "name": "Auto-Loading Holster",
       "description": [
