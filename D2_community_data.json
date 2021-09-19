@@ -9985,6 +9985,46 @@
       ],
       "last_edit": "2021.9.19-18.4"
     },
+    "3194351027": {
+      "name": "Explosive Light",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Wendigo: 70% Damage Increase and Y Blast Radius."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ascendancy & Hothead: 25% Damage Increase and Y Blast Radius"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Consumes 1 Stack per Shot."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.44"
+    },
     "3300816228": {
       "name": "Auto-Loading Holster",
       "description": [
