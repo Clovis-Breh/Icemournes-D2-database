@@ -2359,7 +2359,7 @@
         {
           "lineText": [
             {
-              "text": "Invisibility Duration"
+              "text": "Invisibility Duration:"
             }
           ]
         },
@@ -2402,7 +2402,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-16.3"
+      "last_edit": "2021.9.19-15.40"
     },
     "2240152949": {
       "name": "Clenched Fist",
@@ -4734,7 +4734,7 @@
         {
           "lineText": [
             {
-              "text": "Invisibility Duration"
+              "text": "Invisibility Duration:"
             }
           ]
         },
@@ -4777,7 +4777,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-16.3"
+      "last_edit": "2021.9.19-15.40"
     },
     "242794439": {
       "name": "Reflective Vents",
