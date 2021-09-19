@@ -10091,6 +10091,19 @@
       },
       "last_edit": "2021.9.19-18.54"
     },
+    "2888557110": {
+      "name": "Full Court",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Increases Explosive Damage by 0.63% for every metre past 10 metres, up to 25% at 50 metres."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-19.36"
+    },
     "3016987351": {
       "name": "Counterattack",
       "description": [
