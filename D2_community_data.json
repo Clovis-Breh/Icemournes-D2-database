@@ -722,7 +722,7 @@
         {
           "lineText": [
             {
-              "text": "Blade Barrage Hits and Kills grant \"Super Regeneration\" or something buff that grants X% Super per second."
+              "text": "Blade Barrage Hits and Kills refund Super Energy."
             }
           ]
         },
@@ -739,12 +739,12 @@
         {
           "lineText": [
             {
-              "text": "Duration depends on Kills and Hits, as well as Enemy Rank"
+              "text": "Refund Amount depends on Kills and Hits, as well as Enemy Rank."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.5-7.54"
+      "last_edit": "2021.9.19-16.10"
     },
     "896224899": {
       "name": "Relentless Tracker",
@@ -6409,7 +6409,7 @@
         {
           "lineText": [
             {
-              "text": "Blade Barrage Hits and Kills grant \"Super Regeneration\" or something buff that grants X% Super per second."
+              "text": "Blade Barrage Hits and Kills refund Super Energy."
             }
           ]
         },
@@ -6426,12 +6426,12 @@
         {
           "lineText": [
             {
-              "text": "Duration depends on Kills and Hits, as well as Enemy Rank"
+              "text": "Refund Amount depends on Kills and Hits, as well as Enemy Rank."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.5-7.54"
+      "last_edit": "2021.9.19-16.10"
     },
     "1667892708": {
       "name": "Sunfire Furnace",
