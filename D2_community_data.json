@@ -9801,6 +9801,36 @@
       ],
       "last_edit": "2021.9.19-17.21"
     },
+    "2030760728": {
+      "name": "Energy Transfer",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While Blocking:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants Class Ability Energy based on the amount of damage taken."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "No known method to calculate the amount, it is too inconsistent."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.42"
+    },
     "2284787283": {
       "name": "Clown Cartridge",
       "description": [
