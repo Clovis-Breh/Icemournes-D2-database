@@ -753,7 +753,14 @@
         {
           "lineText": [
             {
-              "text": "Marks Enemies for 5 seconds after hovering reticle over them. Persists briefly through walls."
+              "text": "Marks enemies for 5 seconds after hovering reticle near them for 1 second."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Mark persists through walls."
             }
           ]
         },
@@ -763,14 +770,35 @@
         {
           "lineText": [
             {
-              "text": "If Enemy is below 30% HP: Grants a 1% Damage Increase per percent below 30%"
+              "text": "If "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "Enemy"
+            },
+            {
+              "text": " is below "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "30%"
+            },
+            {
+              "text": " HP: Grants a 1% Damage Increase per percent below 30%"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "(Eg: 10% HP left -> 20% Damage Increase)"
+              "text": "(Eg: "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "10%"
+            },
+            {
+              "text": " HP left -> 20% Damage Increase)"
             }
           ]
         },
@@ -785,7 +813,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-18.48"
+      "last_edit": "2021.9.19-15.48"
     },
     "903984858": {
       "name": "Probability Matrix",
@@ -7353,7 +7381,14 @@
         {
           "lineText": [
             {
-              "text": "Marks Enemies for 5 seconds after hovering reticle over them. Persists briefly through walls."
+              "text": "Marks enemies for 5 seconds after hovering reticle near them for 1 second."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Mark persists through walls."
             }
           ]
         },
@@ -7363,14 +7398,35 @@
         {
           "lineText": [
             {
-              "text": "If Enemy is below 30% HP: Grants a 1% Damage Increase per percent below 30%"
+              "text": "If "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "Enemy"
+            },
+            {
+              "text": " is below "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "30%"
+            },
+            {
+              "text": " HP: Grants a 1% Damage Increase per percent below 30%"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "(Eg: 10% HP left -> 20% Damage Increase)"
+              "text": "(Eg: "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "10%"
+            },
+            {
+              "text": " HP left -> 20% Damage Increase)"
             }
           ]
         },
@@ -7385,7 +7441,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-18.48"
+      "last_edit": "2021.9.19-15.48"
     },
     "2663272110": {
       "name": "Hawkeye Hack",
