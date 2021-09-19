@@ -4614,7 +4614,7 @@
         {
           "lineText": [
             {
-              "text": "Cross Counter grants 200% increased Melee Damage and heals for XHP on Melee Hit. (Needs Testing)"
+              "text": "Cross Counter grants 200% increased Melee Damage and heals for XHP on Melee Hit."
             }
           ]
         },
@@ -4629,7 +4629,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-15.58"
+      "last_edit": "2021.9.19-16.24"
     }
   },
   "exotic_armor_perk": {
@@ -5416,7 +5416,7 @@
         {
           "lineText": [
             {
-              "text": "Cross Counter grants 200% increased Melee Damage and heals for XHP on Melee Hit. (Needs Testing)"
+              "text": "Cross Counter grants 200% increased Melee Damage and heals for XHP on Melee Hit."
             }
           ]
         },
@@ -5431,7 +5431,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-15.58"
+      "last_edit": "2021.9.19-16.24"
     },
     "622433369": {
       "name": "Warlord's End",
