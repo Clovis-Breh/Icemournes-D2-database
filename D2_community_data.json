@@ -9494,6 +9494,19 @@
       ],
       "last_edit": "2021.9.19-20.27"
     },
+    "460017080": {
+      "name": "Headseeker",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Headshots mid burst after hitting at least one bodyshot receive an 8% Precision Damage Increase."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-20.29"
+    },
     "699525795": {
       "name": "Eye of the Storm",
       "description": [
