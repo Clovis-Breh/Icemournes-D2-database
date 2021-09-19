@@ -9406,6 +9406,26 @@
       ],
       "last_edit": "2021.9.16-10.4"
     },
+    "1968497646": {
+      "name": "Armor-Piercing Rounds",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "5% Damage Increase against Combatant Shields"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Bullets are able to penetrate up to 1 enemy."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-17.31"
+    },
     "2010801679": {
       "name": "Ambitious Assassin",
       "description": [
