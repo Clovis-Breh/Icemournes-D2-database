@@ -9650,6 +9650,37 @@
       ],
       "last_edit": "2021.9.19-18.9"
     },
+    "1685431615": {
+      "name": "En Garde",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Sword Ready:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "30% Damage Increase for 1.5 seconds."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            30
+          ]
+        }
+      },
+      "duration": [
+        1.5
+      ],
+      "last_edit": "2021.9.19-18.24"
+    },
     "1799762209": {
       "name": "Cornered",
       "description": [
