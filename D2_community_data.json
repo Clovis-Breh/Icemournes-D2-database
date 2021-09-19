@@ -9358,71 +9358,71 @@
         {
           "lineText": [
             {
-              "text": "On Kill:"
+              "text": "On Weapon Kill:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Damage Increase and Slower Rate of Fire/Charge Time for 6 seconds."
+              "text": "Damage Increase and Slower Rate of Fire/Charge Time for 5 seconds"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Hand Cannon: 25% Damage Increase and -15% RoF."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Hand Cannon: +25% Damage -15% RoF"
+              "text": "Auto Rifle: 25% Damage Increase and -20% RoF"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Auto Rifle: +25% Damage -20% RoF"
+              "text": "Bow: 20% Damage Increase and -20% CR "
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Bow: +20% Damage -20% CR"
+              "text": "Shotgun: 20% Damage Increase and -20% RoF"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Shotgun: +20% Damage -20% RoF"
+              "text": "Fusion Rifle: 27% Damage Increase and -15% CR"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Fusion Rifle: +27% Damage -15% CR"
+              "text": "Grenade Launcher: 25% Damage Increase and -20% RoF."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Grenade Launcher: +25% Damage -20% RoF"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "Linear Fusion Rifle: +25% Damage -15% CR"
+              "text": "Linear Fusion Rifle: 25% Damage Increase and -15% CR"
             }
           ]
         }
       ],
-      "duration": [
-        6
-      ],
-      "last_edit": "2021.9.19-12.50"
+      "last_edit": "2021.9.19-17.12"
     }
   },
   "weapon_frames": {},
