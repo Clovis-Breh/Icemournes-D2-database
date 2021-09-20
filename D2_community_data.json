@@ -9277,7 +9277,7 @@
         {
           "lineText": [
             {
-              "text": "Grenade Kills grant a Stacking Damage Increase and Handling for 10 seconds."
+              "text": "Grenade Kills grant stacking damage increases and Handling for 10 seconds."
             }
           ]
         },
@@ -9294,39 +9294,46 @@
         {
           "lineText": [
             {
-              "text": "1x = 10% Damage and Y Handling"
+              "text": "1x = 10% Damage and 10 Handling"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "2x = 21% Damage and Y Handling"
+              "text": "2x = 21% Damage and 20 Handling"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "3x = 33% Damage and Y Handling"
+              "text": "3x = 33% Damage and 30 Handling"
             }
           ]
         }
       ],
+      "handling": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            10,
+            20,
+            30
+          ]
+        }
+      },
       "damage": {
         "conditional": {
           "stat": [],
-          "multiplayer": [
+          "multiplier": [
             10,
             21,
             33
           ]
         }
       },
-      "duration": [
-        10
-      ],
-      "last_edit": "2021.9.19-17.17"
+      "last_edit": "2021.9.20-21.14"
     },
     "25606670": {
       "name": "Dual Loader",
