@@ -10523,6 +10523,36 @@
       },
       "last_edit": "2021.9.20-21.15"
     },
+    "2866798147": {
+      "name": "No Distractions",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After being scoped-in for 1 second without firing:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " 35% Flinch Reduction."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacks multiplicatively with Unflinching Armor Mods."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.39"
+    },
     "2869569095": {
       "name": "Field Prep",
       "description": [
