@@ -9394,6 +9394,43 @@
       },
       "last_edit": "2021.9.19-18.15"
     },
+    "47981717": {
+      "name": "Opening Shot",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "For the first bullet only, and after a 3.1s after not firing:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20 AA, 20 Range, 5% Damage Falloff Distance Increase, -5% Accuracy Cone, -10% Accuracy Cone Growth"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Shotguns do not receive the Damage Falloff Distance Increase."
+            }
+          ]
+        }
+      ],
+      "range": {
+        "conditional": {
+          "stat": [
+            20
+          ],
+          "multiplier": [
+            1.05
+          ]
+        }
+      },
+      "last_edit": "2021.9.20-21.42"
+    },
     "124408337": {
       "name": "Headstone",
       "description": [
