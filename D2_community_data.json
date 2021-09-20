@@ -10724,6 +10724,33 @@
       ],
       "last_edit": "2021.9.20-21.41"
     },
+    "2846385770": {
+      "name": "Rangefinder",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "10% Increased Zoom when ADS."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "5% Faster Projectile Speed when ADS. god this is so bad"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Zoom acts as a multiplier to hipfire range and maximum falloff distance. Range stat affects accuracy and the minimum drop off distance."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.51"
+    },
     "2866798147": {
       "name": "No Distractions",
       "description": [
