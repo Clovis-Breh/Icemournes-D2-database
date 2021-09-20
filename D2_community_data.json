@@ -9562,6 +9562,27 @@
       ],
       "last_edit": "2021.9.19-20.29"
     },
+    "591790007": {
+      "name": "Iron Reach",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "18 Range and -28 Stability"
+            }
+          ]
+        }
+      ],
+      "range": {
+        "always_active": {
+          "stat": [
+            18
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.20-21.27"
+    },
     "699525795": {
       "name": "Eye of the Storm",
       "description": [
