@@ -10413,6 +10413,43 @@
       },
       "last_edit": "2021.9.20-21.31"
     },
+    "2458213969": {
+      "name": "Multikill Clip",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Reload, within 3.8 seconds of a Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "17% | 33% | 50% Damage Increase, depending on the amount of enemies killed within X seconds of each."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff is overwritten every time you refresh it."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            17,
+            33,
+            50
+          ]
+        }
+      },
+      "last_edit": "2021.9.20-21.37"
+    },
     "2551157718": {
       "name": "Box Breathing",
       "description": [
