@@ -10130,7 +10130,7 @@
         {
           "lineText": [
             {
-              "text": "30 Handling and Y Reload Speed. "
+              "text": "30 Handling and 40 Reload Speed. "
             }
           ]
         },
@@ -10142,15 +10142,23 @@
           ]
         }
       ],
-      "handling": {
+      "reload": {
         "conditional": {
-          "stat": [],
-          "multiplayer": [
-            30
-          ]
+          "stat": [
+            40
+          ],
+          "multiplier": []
         }
       },
-      "last_edit": "2021.9.19-18.43"
+      "handling": {
+        "conditional": {
+          "stat": [
+            30
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.20-21.15"
     },
     "2869569095": {
       "name": "Field Prep",
