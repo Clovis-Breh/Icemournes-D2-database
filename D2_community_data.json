@@ -10168,6 +10168,26 @@
       },
       "last_edit": "2021.9.19-18.57"
     },
+    "1774574192": {
+      "name": "Osmosis",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Using your Grenade Ability changes the Weapon Element to match your selected Subclass until stowed. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Does not work with Verity's Brow)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.43"
+    },
     "1799762209": {
       "name": "Cornered",
       "description": [
