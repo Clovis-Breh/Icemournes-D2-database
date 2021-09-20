@@ -9562,6 +9562,19 @@
       ],
       "last_edit": "2021.9.19-20.29"
     },
+    "588594999": {
+      "name": "Moving Target",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Passively grants 10 Aim Assist, and 3% Reduced Movement Speed Penalty from ADS and Strafing."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.33"
+    },
     "591790007": {
       "name": "Iron Reach",
       "description": [
