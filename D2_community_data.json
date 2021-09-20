@@ -9271,6 +9271,27 @@
   },
   "armor_mods": {},
   "weapon_perks": {
+    "11551321": {
+      "name": "Iron Grip",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "18 Stability and -28 Reload Speed."
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "always_active": {
+          "stat": [
+            -28
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.20-21.26"
+    },
     "11612903": {
       "name": "Adrenaline Junkie",
       "description": [
