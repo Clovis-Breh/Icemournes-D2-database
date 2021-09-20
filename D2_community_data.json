@@ -9897,6 +9897,39 @@
       ],
       "last_edit": "2021.9.19-18.16"
     },
+    "1528281896": {
+      "name": "Outlaw",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " 63 Reload Speed with 0.9x Multiplier for 6 seconds."
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "conditional": {
+          "stat": [
+            63
+          ],
+          "multiplier": [
+            0.9
+          ]
+        }
+      },
+      "duration": [
+        6
+      ],
+      "last_edit": "2021.9.20-21.44"
+    },
     "1561002382": {
       "name": "High-Caliber Rounds",
       "description": [
