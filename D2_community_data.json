@@ -9596,6 +9596,36 @@
       ],
       "last_edit": "2021.9.19-18.52"
     },
+    "951095735": {
+      "name": "Impulse Amplifier",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "X% Faster Projectile Velocity (Varies between Weapon Type apparently?)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "10 Reload with 0.8x Multiplier."
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "always_active": {
+          "stat": [
+            10
+          ],
+          "multiplier": [
+            0.8
+          ]
+        }
+      },
+      "last_edit": "2021.9.20-21.24"
+    },
     "1195158366": {
       "name": "Encore",
       "description": [
