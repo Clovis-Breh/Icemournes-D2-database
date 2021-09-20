@@ -10812,6 +10812,26 @@
       ],
       "last_edit": "2021.9.19-18.23"
     },
+    "3513791699": {
+      "name": "Mulligan",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Miss:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20% Chance to generate 1 Ammo to Magazine."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.35"
+    },
     "3523296417": {
       "name": "Demolitionist",
       "description": [
