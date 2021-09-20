@@ -9737,6 +9737,36 @@
       ],
       "last_edit": "2021.9.19-18.16"
     },
+    "1570042021": {
+      "name": "Heating Up",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Kills increase Accuracy and Stability while improving vertical recoil for 5.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "1x = -15% Accuracy Cone Growth, 15 Stability and ~20 Recoil Direction."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "2x = -30% Accuracy Cone Growth, 30 Stability, and ~40 Recoil Direction."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        5.5
+      ],
+      "last_edit": "2021.9.20-21.17"
+    },
     "1600092898": {
       "name": "Backup Plan",
       "description": [
