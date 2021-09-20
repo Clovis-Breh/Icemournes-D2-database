@@ -11071,6 +11071,44 @@
       ],
       "last_edit": "2021.9.20-21.32"
     },
+    "4049631843": {
+      "name": "One for All",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After Damaging 3 Separate Enemies within 3 seconds of each:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "35% Damage Increase for 10 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff can't be refreshed."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            35
+          ]
+        }
+      },
+      "duration": [
+        10
+      ],
+      "last_edit": "2021.9.20-21.40"
+    },
     "4104185692": {
       "name": "Frenzy",
       "description": [
