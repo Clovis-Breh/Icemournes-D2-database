@@ -9688,6 +9688,34 @@
       ],
       "last_edit": "2021.9.19-18.52"
     },
+    "706527188": {
+      "name": "Quickdraw",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Ready:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " 100 Ready/Stow Handling for 1 second, or until ADS."
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            100
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.20-21.48"
+    },
     "830282363": {
       "name": "Phase Magazine",
       "description": [
