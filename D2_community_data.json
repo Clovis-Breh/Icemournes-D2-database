@@ -9668,6 +9668,44 @@
       },
       "last_edit": "2021.9.20-21.24"
     },
+    "1015611457": {
+      "name": "Kill Clip",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Reload, within 3.8 seconds of a Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "33% Damage Increase for 5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff can't be refreshed."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            33
+          ]
+        }
+      },
+      "duration": [
+        5
+      ],
+      "last_edit": "2021.9.20-21.29"
+    },
     "1195158366": {
       "name": "Encore",
       "description": [
