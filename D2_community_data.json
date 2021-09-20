@@ -10828,6 +10828,27 @@
       ],
       "last_edit": "2021.9.19-19.6"
     },
+    "4152709778": {
+      "name": "Iron Gaze",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "20 Aim Assist and -28 Range."
+            }
+          ]
+        }
+      ],
+      "range": {
+        "always_active": {
+          "stat": [
+            -28
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.20-21.25"
+    },
     "4267945040": {
       "name": "Full Auto Trigger System",
       "description": [
