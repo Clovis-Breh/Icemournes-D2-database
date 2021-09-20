@@ -10348,6 +10348,58 @@
       ],
       "last_edit": "2021.9.19-17.58"
     },
+    "2450788523": {
+      "name": "Killing Wind",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " 20 Range, 50 Mobility, 40 Handling, 30% reduced ADS Movement Penalty, and a 1.05x Damage Falloff Distance Multiplier"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Lasts 6 seconds, additional kills add 6 seconds, maxing out at 8 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Verify handling)"
+            }
+          ]
+        }
+      ],
+      "range": {
+        "conditional": {
+          "stat": [
+            20
+          ],
+          "multiplier": [
+            1.05
+          ]
+        }
+      },
+      "handling": {
+        "conditional": {
+          "stat": [
+            40
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.20-21.31"
+    },
     "2551157718": {
       "name": "Box Breathing",
       "description": [
