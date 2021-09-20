@@ -10924,6 +10924,33 @@
       ],
       "last_edit": "2021.9.19-18.11"
     },
+    "3927722942": {
+      "name": "Lasting Impression",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 20% Explosive Damage."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "+25 Blast Radius "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Doesn't go past 100 stat)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.32"
+    },
     "4104185692": {
       "name": "Frenzy",
       "description": [
