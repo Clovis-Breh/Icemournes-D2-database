@@ -10128,6 +10128,35 @@
       ],
       "last_edit": "2021.9.19-19.11"
     },
+    "2213355989": {
+      "name": "High-Impact Reserves",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Starting at 50% of magazine left."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "[PVE] 12.1% to 25.6% Damage Increase. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[PVP] 3% to 6% Damage Increase."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.21"
+    },
     "2244851822": {
       "name": "Flash Counter",
       "description": [
