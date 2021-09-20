@@ -11140,6 +11140,36 @@
       ],
       "last_edit": "2021.9.19-18.3"
     },
+    "3551326236": {
+      "name": "Rampage",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacking 10% | 23% | 33% Damage Increase for 3.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff Refreshed on Kill. "
+            }
+          ]
+        }
+      ],
+      "duration": [
+        3.5
+      ],
+      "last_edit": "2021.9.20-21.49"
+    },
     "3643424744": {
       "name": "Overflow",
       "description": [
