@@ -10000,6 +10000,44 @@
       ],
       "last_edit": "2021.9.19-18.24"
     },
+    "1754714824": {
+      "name": "Kickstart",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "During Slide, after Sprinting for 1.5s."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20% Damage Increase and 100ms Faster Charge Time."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff can expire mid-burst if you don't immediately start charging. "
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            20
+          ]
+        }
+      },
+      "duration": [
+        1.5
+      ],
+      "last_edit": "2021.9.20-21.28"
+    },
     "1771339417": {
       "name": "Firing Line",
       "description": [
