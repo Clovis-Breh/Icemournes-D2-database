@@ -9737,6 +9737,33 @@
       ],
       "last_edit": "2021.9.19-18.16"
     },
+    "1561002382": {
+      "name": "High-Caliber Rounds",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Increased Flinch on Enemies."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stronger Flinch on Combatants. Allows Primaries to affect higher ranked enemies and consistently stunlock Minors."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Varies between Archetypes, from 6% to 11% Increased Flinch received."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.18"
+    },
     "1570042021": {
       "name": "Heating Up",
       "description": [
