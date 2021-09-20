@@ -9997,6 +9997,33 @@
       ],
       "last_edit": "2021.9.19-17.59"
     },
+    "1866048759": {
+      "name": "Hip-Fire Grip",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While hipfiring:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " 1.2x Aim Assist and Reticle Stickiness Falloff Distance, 15 Aim Assist, +2.7 degrees precision angle threshold, ~30% more Accuracy and ~30 Stability."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Verify stability)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.20"
+    },
     "1968497646": {
       "name": "Armor-Piercing Rounds",
       "description": [
