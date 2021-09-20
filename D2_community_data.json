@@ -10523,6 +10523,43 @@
       },
       "last_edit": "2021.9.20-21.15"
     },
+    "2679249093": {
+      "name": "One-Two Punch",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If All Pellets from a Shotgun Hit:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "200% Melee Damage Increase for 1.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "350% Melee Damage Increase against Bosses and Vehicles."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "80% Melee Damage Increase if combined with Liar's Handshake."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        1.5
+      ],
+      "last_edit": "2021.9.20-21.41"
+    },
     "2866798147": {
       "name": "No Distractions",
       "description": [
