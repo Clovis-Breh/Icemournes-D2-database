@@ -9731,6 +9731,36 @@
       },
       "last_edit": "2021.9.20-21.24"
     },
+    "972757866": {
+      "name": "Pulse Monitor",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Critical Health:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Fully refreshes weapon (Held or Stowed), 45 Handling, 5% Faster Swap Speed."
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            45
+          ],
+          "multiplier": [
+            1.05
+          ]
+        }
+      },
+      "last_edit": "2021.9.20-21.47"
+    },
     "1015611457": {
       "name": "Kill Clip",
       "description": [
