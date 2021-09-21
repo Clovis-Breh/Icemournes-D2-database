@@ -10575,6 +10575,33 @@
       ],
       "last_edit": "2021.9.19-17.59"
     },
+    "1820235745": {
+      "name": "Subsistence",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reloads 10-17% of Magazine from Reserves."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Amount varies between Weapon Archetypes"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.32"
+    },
     "1866048759": {
       "name": "Hip-Fire Grip",
       "description": [
