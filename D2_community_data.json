@@ -11048,6 +11048,26 @@
       ],
       "last_edit": "2021.9.19-17.54"
     },
+    "2590710093": {
+      "name": "Tireless Blade",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Powered Swords gain 1 Ammo every other kill."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "First Kill will proc this as well."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.51"
+    },
     "2621346526": {
       "name": "Ensemble",
       "description": [
