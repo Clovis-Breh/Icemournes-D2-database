@@ -9791,6 +9791,45 @@
       ],
       "last_edit": "2021.9.20-21.50"
     },
+    "806159697": {
+      "name": "Trench Barrel",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After dealing Non-Ranged Melee Damage:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "50% Damage Increase, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots."
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            30
+          ],
+          "multiplier": []
+        }
+      },
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            50
+          ]
+        }
+      },
+      "duration": [
+        5
+      ],
+      "last_edit": "2021.9.21-12.5"
+    },
     "818211479": {
       "name": "Shattering Blade",
       "description": [
