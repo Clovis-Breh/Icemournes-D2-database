@@ -12174,7 +12174,25 @@
         {
           "lineText": [
             {
-              "text": "Buff Refreshed on Kill. "
+              "text": "Buff Refreshed on Kill."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Huckleberry specific:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "[PVE] Stacking 20% | 41% | 66% Damage Increase for 3.5 seconds."
             }
           ]
         }
@@ -12182,7 +12200,7 @@
       "duration": [
         3.5
       ],
-      "last_edit": "2021.9.20-21.49"
+      "last_edit": "2021.9.21-12.56"
     },
     "3592538738": {
       "name": "Wellspring",
