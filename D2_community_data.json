@@ -10682,6 +10682,35 @@
       ],
       "last_edit": "2021.9.21-11.44"
     },
+    "1954620775": {
+      "name": "Timed Payload",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Splits 55% of Damage into an Explosive Damage portion that has a 30% Damage Increase and no damage falloff. Detonates after X seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "[PVE] 16% Increased Body Shot Damage. Precision Damage Increase varies depending on Crit Ratio."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[PVP] Total damage remains (almost) the same."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.50"
+    },
     "1968497646": {
       "name": "Armor-Piercing Rounds",
       "description": [
