@@ -10642,6 +10642,46 @@
       ],
       "last_edit": "2021.9.21-11.15"
     },
+    "1890422124": {
+      "name": "Tap the Trigger",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Immediately upon firing:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " 25 Stability and -10%(?) Accuracy Cone Size for 0.6 seconds. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refreshes immediately after not firing."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "[Controller-Only] Weapon fires the instant trigger pressure is applied."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        0.6
+      ],
+      "last_edit": "2021.9.21-11.44"
+    },
     "1968497646": {
       "name": "Armor-Piercing Rounds",
       "description": [
