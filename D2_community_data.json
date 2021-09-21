@@ -10642,6 +10642,51 @@
       ],
       "last_edit": "2021.9.19-18.42"
     },
+    "2039302152": {
+      "name": "Slideways",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Slide:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "15% Magazine Reloaded from Reserves, ~20 Stability and ~25 Handling. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lasts 3 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Verify stability and handling)"
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            25
+          ],
+          "multiplier": []
+        }
+      },
+      "duration": [
+        3
+      ],
+      "last_edit": "2021.9.21-11.29"
+    },
     "2117683199": {
       "name": "Full Auto Trigger System",
       "description": [
