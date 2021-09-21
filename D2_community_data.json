@@ -11222,10 +11222,18 @@
           ]
         }
       ],
+      "range": {
+        "conditional": {
+          "stat": [
+            20
+          ],
+          "multiplier": []
+        }
+      },
       "duration": [
         3
       ],
-      "last_edit": "2021.9.21-11.24"
+      "last_edit": "2021.9.21-11.27"
     },
     "3194351027": {
       "name": "Explosive Light",
