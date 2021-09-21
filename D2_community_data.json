@@ -11102,6 +11102,34 @@
       ],
       "last_edit": "2021.9.20-21.41"
     },
+    "2726471870": {
+      "name": "Thresh",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Primary/Heavy Weapon Kills grant an additional 1% Super Energy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Special Weapon Kills grant an additional 1.5% Super Energy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[PVP] Weapon Kills grant an additional 1% Super Energy."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.48"
+    },
     "2846385770": {
       "name": "Rangefinder",
       "description": [
