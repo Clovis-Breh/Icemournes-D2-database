@@ -10294,6 +10294,19 @@
       ],
       "last_edit": "2021.9.19-18.24"
     },
+    "1749209109": {
+      "name": "Relentless Strikes",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Powered Swords gain 1 Ammo after 3 Hits within 2(?) seconds of each."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.11"
+    },
     "1754714824": {
       "name": "Kickstart",
       "description": [
