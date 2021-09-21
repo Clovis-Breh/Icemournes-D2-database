@@ -9902,6 +9902,34 @@
       ],
       "last_edit": "2021.9.20-21.29"
     },
+    "1140096971": {
+      "name": "Seraph Rounds",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Combines the Penetration from Armor-Piercing Rounds, the Ricochet aspect of Ricochet Rounds, and the Flinch Increase from High-Caliber Rounds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Also increases the Damage Falloff by 10%, identically to the old Ricochet Rounds."
+            }
+          ]
+        }
+      ],
+      "range": {
+        "always_active": {
+          "stat": [],
+          "multiplier": [
+            1.1
+          ]
+        }
+      },
+      "last_edit": "2021.9.21-11.17"
+    },
     "1195158366": {
       "name": "Encore",
       "description": [
