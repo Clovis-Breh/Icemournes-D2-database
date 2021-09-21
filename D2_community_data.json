@@ -9862,6 +9862,36 @@
       },
       "last_edit": "2021.9.20-21.24"
     },
+    "957782887": {
+      "name": "Snapshot Sights",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Greatly faster Aiming-Down-Sights. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(33% Faster than 100 Handling)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacks with ADS Scalar effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.30"
+    },
     "972757866": {
       "name": "Pulse Monitor",
       "description": [
