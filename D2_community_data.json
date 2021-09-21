@@ -9488,6 +9488,26 @@
       ],
       "last_edit": "2021.9.19-17.23"
     },
+    "205890336": {
+      "name": "Underdog",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Once below 150(?) HP:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increased Reload Speed. Effect increases linearly as health decreases, up to 100 Reload Speed with 0.9x Duration Multiplier"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-12.11"
+    },
     "247725512": {
       "name": "Rapid Hit",
       "description": [
