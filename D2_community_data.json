@@ -10043,6 +10043,41 @@
       ],
       "last_edit": "2021.9.19-18.16"
     },
+    "1427256713": {
+      "name": "Reservoir Burst",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If Magazine is Full:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "25% Damage Increase and causes enemies to explode on death."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Passively grants 30 Magazine Size"
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            25
+          ]
+        }
+      },
+      "last_edit": "2021.9.21-11.13"
+    },
     "1523832109": {
       "name": "Reconstruction",
       "description": [
