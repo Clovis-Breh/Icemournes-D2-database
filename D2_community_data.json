@@ -9634,6 +9634,43 @@
       ],
       "last_edit": "2021.9.19-20.29"
     },
+    "469285294": {
+      "name": "Recombination",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Damage Increase On Elemental Kills, and for one shot:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "8% | 15% | 24% | 33% | 42% | 50% | 59% | 70% | 80% | 88% for Heritage."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "8% | 17% | 27% | 38% | 46% | 57% | 68% | 80% | 89% | 100% for Succession."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% for Heritage and Succession."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-8.12"
+    },
     "588594999": {
       "name": "Moving Target",
       "description": [
