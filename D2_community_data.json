@@ -10989,6 +10989,14 @@
           ]
         }
       ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            30
+          ],
+          "multiplier": []
+        }
+      },
       "damage": {
         "conditional": {
           "stat": [],
@@ -11000,7 +11008,7 @@
       "duration": [
         5
       ],
-      "last_edit": "2021.9.21-12.4"
+      "last_edit": "2021.9.21-12.6"
     },
     "2450788523": {
       "name": "Killing Wind",
