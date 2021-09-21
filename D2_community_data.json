@@ -12117,6 +12117,33 @@
       ],
       "last_edit": "2021.9.20-21.49"
     },
+    "3592538738": {
+      "name": "Wellspring",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Grants 7.5% Ability Energy split equally to all uncharged abilities."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "*BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES*"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-12.15"
+    },
     "3643424744": {
       "name": "Overflow",
       "description": [
