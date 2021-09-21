@@ -9791,6 +9791,34 @@
       ],
       "last_edit": "2021.9.20-21.50"
     },
+    "818211479": {
+      "name": "Shattering Blade",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If Heavy Attack consumes the last Ammo:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "67% Damage Increase to Grounded Heavy Attack."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            67
+          ]
+        }
+      },
+      "last_edit": "2021.9.21-11.20"
+    },
     "830282363": {
       "name": "Phase Magazine",
       "description": [
