@@ -11535,6 +11535,41 @@
       ],
       "last_edit": "2021.9.20-21.35"
     },
+    "3350417888": {
+      "name": "Sympathetic Arsenal",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Reload within 6 seconds of a Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reloads stowed weapons from Reserves."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Passively grants 18 Reload Speed."
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "always_active": {
+          "stat": [
+            18
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.21-11.42"
+    },
     "3365897133": {
       "name": "Explosive Head",
       "description": [
