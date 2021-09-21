@@ -11305,6 +11305,36 @@
       ],
       "last_edit": "2021.9.21-11.9"
     },
+    "3275789089": {
+      "name": "Shield Disorient",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Matching Elemental Shield Break:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Explosion disorients enemies within 7 metres for 5 seconds"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(verify)"
+            }
+          ]
+        }
+      ],
+      "duration": [
+        5
+      ],
+      "last_edit": "2021.9.21-11.21"
+    },
     "3300816228": {
       "name": "Auto-Loading Holster",
       "description": [
