@@ -11079,6 +11079,33 @@
       ],
       "last_edit": "2021.9.21-12.6"
     },
+    "2387244414": {
+      "name": "Zen Moment",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Stacking Hits:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Reduces the Maximum Recoil Angle (Maximum Horizontal Recoil), removes Reticle Bounce, and reduces Weapon Shake"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " *Noticeable mostly on controllers, as their reticle bounce on fire, akin to MGs on MnK*"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-12.18"
+    },
     "2450788523": {
       "name": "Killing Wind",
       "description": [
