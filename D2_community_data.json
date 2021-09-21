@@ -11598,6 +11598,46 @@
       ],
       "last_edit": "2021.9.21-11.14"
     },
+    "3436462433": {
+      "name": "Surplus",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants 5-22-50 Reload Speed, 5-15-25 Stability, and 10-25-50 Handling depending on the amount of Charged Abilities."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Max x3. Each Ability Charge contributes to this. Works with double Ability Charges."
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "conditional": {
+          "stat": [
+            5,
+            22,
+            50
+          ],
+          "multiplier": []
+        }
+      },
+      "handling": {
+        "conditional": {
+          "stat": [
+            10,
+            25,
+            50
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.21-11.35"
+    },
     "3511092054": {
       "name": "Elemental Capacitor",
       "description": [
