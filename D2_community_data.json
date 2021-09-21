@@ -10303,6 +10303,35 @@
       ],
       "last_edit": "2021.9.20-21.44"
     },
+    "1546637391": {
+      "name": "Vorpal Weapon",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "15% Damage Increase against Minibosses, Champions, Vehicles, and Bosses."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "Against Supers Only:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "40% to 50% Damage Increase for Primary Weapons | 10% to 20% Damage Increase for Special Weapons"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-12.13"
+    },
     "1561002382": {
       "name": "High-Caliber Rounds",
       "description": [
