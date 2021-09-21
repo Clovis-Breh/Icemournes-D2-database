@@ -12118,6 +12118,51 @@
       ],
       "last_edit": "2021.9.20-21.40"
     },
+    "4071163871": {
+      "name": "Threat Detector",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If within 15 metres of an enemy: ~15 Stability, 15 Reload, and 0.75x Handling Animation Duration Multiplier."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "If within 15 metres of 2+ enemies: ~40 Stability, 55 Reload, and 0.56x Handling Animation Duration Multiplier."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Verify stability)"
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "conditional": {
+          "stat": [
+            15,
+            55
+          ],
+          "multiplier": []
+        }
+      },
+      "handling": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            0.75,
+            0.56
+          ]
+        }
+      },
+      "last_edit": "2021.9.21-11.46"
+    },
     "4082225868": {
       "name": "Swashbuckler",
       "description": [
