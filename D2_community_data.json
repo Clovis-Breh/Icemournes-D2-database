@@ -10496,6 +10496,19 @@
       ],
       "last_edit": "2021.9.20-21.20"
     },
+    "1885400500": {
+      "name": "Ricochet Rounds",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Bullets have a 100% chance to Ricochet off of Surfaces."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.15"
+    },
     "1968497646": {
       "name": "Armor-Piercing Rounds",
       "description": [
