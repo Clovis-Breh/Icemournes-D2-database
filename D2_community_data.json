@@ -11570,6 +11570,33 @@
       ],
       "last_edit": "2021.9.19-19.41"
     },
+    "3108830275": {
+      "name": "Unrelenting",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Rank-And-File give ONE point. Guardians give TWO points. Elites/Minibosses/Bosses give THREE points."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Weapon Kills must be within 8(?) seconds of each."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-12.12"
+    },
     "3161816588": {
       "name": "Slideshot",
       "description": [
