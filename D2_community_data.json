@@ -12367,6 +12367,48 @@
       ],
       "last_edit": "2021.9.19-18.11"
     },
+    "3913600130": {
+      "name": "Whirlwind Blade",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Hit:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacking 6% | 12% | 18% | 24% | 30% Damage Increase for 3(?) seconds. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Blocking removes all Stacks."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            6,
+            12,
+            18,
+            24,
+            30
+          ]
+        }
+      },
+      "duration": [
+        3
+      ],
+      "last_edit": "2021.9.21-12.16"
+    },
     "3927722942": {
       "name": "Lasting Impression",
       "description": [
