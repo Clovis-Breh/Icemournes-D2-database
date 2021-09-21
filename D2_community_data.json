@@ -11987,6 +11987,46 @@
       ],
       "last_edit": "2021.9.21-11.14"
     },
+    "3425386926": {
+      "name": "Rampage",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacking 10% | 23% | 33% Damage Increase for 3.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff Refreshed on Kill. "
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            10,
+            23,
+            33
+          ]
+        }
+      },
+      "duration": [
+        3.5
+      ],
+      "last_edit": "2021.9.21-12.53"
+    },
     "3436462433": {
       "name": "Surplus",
       "description": [
