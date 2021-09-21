@@ -10932,6 +10932,37 @@
       ],
       "last_edit": "2021.9.19-17.58"
     },
+    "2360754333": {
+      "name": "Trench Barrel",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After dealing Non-Ranged Melee Damage:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "50% Damage Increase, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            50
+          ]
+        }
+      },
+      "duration": [
+        5
+      ],
+      "last_edit": "2021.9.21-12.4"
+    },
     "2450788523": {
       "name": "Killing Wind",
       "description": [
