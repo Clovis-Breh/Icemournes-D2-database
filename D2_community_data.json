@@ -9488,6 +9488,41 @@
       ],
       "last_edit": "2021.9.19-17.23"
     },
+    "247725512": {
+      "name": "Rapid Hit",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Precision Hits grant Rapid Hit Stacks, granting 5/27/32/40/54 Reload Speed and 5/10/15/20/23 Stability for 2 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Verify the actual ramp up on stability, max of 23 is accurate)"
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "conditional": {
+          "stat": [
+            5,
+            27,
+            32,
+            40,
+            54
+          ],
+          "multiplier": []
+        }
+      },
+      "duration": [
+        2
+      ],
+      "last_edit": "2021.9.21-8.8"
+    },
     "280464955": {
       "name": "Firmly Planted",
       "description": [
