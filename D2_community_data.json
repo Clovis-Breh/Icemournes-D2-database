@@ -10043,6 +10043,33 @@
       ],
       "last_edit": "2021.9.19-18.16"
     },
+    "1523832109": {
+      "name": "Reconstruction",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After not shooting for 4 seconds:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reloads 10% of Magazine Capacity From Reserves. Maxes out at Double Magazine Capacity."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1))"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-8.14"
+    },
     "1528281896": {
       "name": "Outlaw",
       "description": [
