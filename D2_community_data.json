@@ -11877,6 +11877,42 @@
       ],
       "last_edit": "2021.9.21-11.22"
     },
+    "3708227201": {
+      "name": "Surrounded",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If within 8 metres of 3+ Enemies:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "25% to 30% Increased Damage"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Surrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds "
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            25,
+            30
+          ]
+        }
+      },
+      "last_edit": "2021.9.21-11.36"
+    },
     "3865257976": {
       "name": "Dragonfly",
       "description": [
