@@ -11375,6 +11375,29 @@
       ],
       "last_edit": "2021.9.19-19.36"
     },
+    "2946784966": {
+      "name": "Tunnel Vision",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After Reloading within 6 seconds of a Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20 Aim Assist, 20% increased Accuracy and Y to ADS Handling (With a small Duration Scalar) for 5 seconds."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        5
+      ],
+      "last_edit": "2021.9.21-12.9"
+    },
     "3016987351": {
       "name": "Counterattack",
       "description": [
