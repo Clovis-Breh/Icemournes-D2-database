@@ -11113,6 +11113,81 @@
       ],
       "last_edit": "2021.9.19-18.44"
     },
+    "3201496230": {
+      "name": "Redirection",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants a Stacking Damage Bonus Against High-Tier Minors, Elites, Minibosses, Bosses, and Vehicles."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants 1 Stack of Redirection on Lower Tier Minor Hits."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Check out https://claritycomp.page.link/combatant for Combatant Classifications)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "1x stack:    20%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "2x stack:    40%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "3x stack:    60%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "4x stack:    80%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "5-20x stack: 100%"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacks are consumed by 1 when between 1x-4x and by 5 when between 5x-20x."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.9"
+    },
     "3300816228": {
       "name": "Auto-Loading Holster",
       "description": [
