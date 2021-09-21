@@ -11643,6 +11643,33 @@
       ],
       "last_edit": "2021.9.19-17.15"
     },
+    "3700496672": {
+      "name": "Shoot to Loot",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After Shooting an Ammo Pickup:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Picks up the Ammo and Reloads all your Weapons from Reserves."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Triggers Ammo Pickup effects. 4 second Cooldown."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.22"
+    },
     "3865257976": {
       "name": "Dragonfly",
       "description": [
