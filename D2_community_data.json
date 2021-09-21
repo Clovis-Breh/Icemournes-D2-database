@@ -9832,6 +9832,26 @@
       ],
       "last_edit": "2021.9.20-21.46"
     },
+    "908147344": {
+      "name": "Sneak Bow",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If Crouched:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Prevents Radar Ping from shooting, X Reload Speed (with Scalar!), and increases hold time by 25%"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.31"
+    },
     "951095735": {
       "name": "Impulse Amplifier",
       "description": [
