@@ -11190,6 +11190,43 @@
       ],
       "last_edit": "2021.9.19-19.41"
     },
+    "3161816588": {
+      "name": "Slideshot",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Slide:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "15% Magazine Reloaded from Reserves, 20 Range, and 30 Stability. Only buffs first shot (of the burst)."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Lasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Verify stability)"
+            }
+          ]
+        }
+      ],
+      "duration": [
+        3
+      ],
+      "last_edit": "2021.9.21-11.24"
+    },
     "3194351027": {
       "name": "Explosive Light",
       "description": [
