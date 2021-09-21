@@ -11913,6 +11913,44 @@
       },
       "last_edit": "2021.9.21-11.36"
     },
+    "3721627275": {
+      "name": "Swap Mag",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Upon emptying Magazine:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "All Weapons are granted 100 Handling for 4(?) seconds. (Identical to Quick Access Sling) "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Only availabe in Season 3's Trials of the Nine Weapons."
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            100
+          ],
+          "multiplier": []
+        }
+      },
+      "duration": [
+        4
+      ],
+      "last_edit": "2021.9.21-11.39"
+    },
     "3865257976": {
       "name": "Dragonfly",
       "description": [
