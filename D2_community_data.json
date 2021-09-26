@@ -244,13 +244,15 @@
         {
           "lineText": [
             {
-              "text": "60% Damage Increase per Hit for 5 seconds. Maxes out at 600% after 10 Hits."
+              "textClass": "CDCA_desc-pve-",
+              "text": "60% Increased damage per Hit for 5 seconds. Maxes out at 600% after 10 Hits."
             }
           ]
         },
         {
           "lineText": [
             {
+              "textClass": "CDCA_desc-pve-",
               "text": "Eriana's Vow has a reduced effectiveness of 30% Damage Increase per Hit."
             }
           ]
@@ -273,7 +275,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.10"
+      "last_edit": "2021.9.19-16.25"
     },
     "193869523": {
       "name": "Uncanny Arrows",
@@ -351,7 +353,7 @@
         {
           "lineText": [
             {
-              "text": "Solar Weapon Kills grant X% Class Ability Energy. (Needs testing)"
+              "text": "Solar Weapon Kills grant X% Class Ability Energy."
             }
           ]
         },
@@ -368,12 +370,12 @@
         {
           "lineText": [
             {
-              "text": "Solar Weapon Kills fully uses your Class Ability Energy and spawn a Healing+Empowering Rift at the Target's Location."
+              "text": "Weapon Kills consume your Class Ability Energy and spawn a Healing+Empowering Rift at the Target's Location."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.15-20.32"
+      "last_edit": "2021.9.19-16.20"
     },
     "241462141": {
       "name": "Horns of Doom",
@@ -722,7 +724,7 @@
         {
           "lineText": [
             {
-              "text": "Blade Barrage Hits and Kills grant \"Super Regeneration\" or something buff that grants X% Super per second."
+              "text": "Blade Barrage Hits and Kills refund Super Energy."
             }
           ]
         },
@@ -739,12 +741,12 @@
         {
           "lineText": [
             {
-              "text": "Duration depends on Kills and Hits, as well as Enemy Rank"
+              "text": "Refund Amount depends on Kills and Hits, as well as Enemy Rank."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.5-7.54"
+      "last_edit": "2021.9.19-16.10"
     },
     "896224899": {
       "name": "Relentless Tracker",
@@ -753,7 +755,14 @@
         {
           "lineText": [
             {
-              "text": "Marks Enemies for 5 seconds after hovering reticle over them. Persists briefly through walls."
+              "text": "Marks enemies for 5 seconds after hovering reticle near them for 1 second."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Mark persists through walls."
             }
           ]
         },
@@ -763,14 +772,35 @@
         {
           "lineText": [
             {
-              "text": "If Enemy is below 30% HP: Grants a 1% Damage Increase per percent below 30%"
+              "text": "If "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "Enemy"
+            },
+            {
+              "text": " is below "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "30%"
+            },
+            {
+              "text": " HP: Grants a 1% Damage Increase per percent below 30%"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "(Eg: 10% HP left -> 20% Damage Increase)"
+              "text": "(Eg: "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "10%"
+            },
+            {
+              "text": " HP left -> 20% Damage Increase)"
             }
           ]
         },
@@ -785,7 +815,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-18.48"
+      "last_edit": "2021.9.19-15.48"
     },
     "903984858": {
       "name": "Probability Matrix",
@@ -835,12 +865,12 @@
         {
           "lineText": [
             {
-              "text": "(Eg: Both are recharged on dodge)"
+              "text": "(Eg: Both are recharged on Gambler's Dodge)"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-20.43"
+      "last_edit": "2021.9.19-16.5"
     },
     "1001356380": {
       "name": "Feast of Light",
@@ -925,7 +955,14 @@
         {
           "lineText": [
             {
-              "text": "Increases Damage Resist during Nova Bomb cast to 80% (from 50%)"
+              "text": "Massively Increases Damage Resist during Nova Bomb "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Over 99.5% on Wind-Up)"
             }
           ]
         },
@@ -950,13 +987,6 @@
           ]
         },
         {
-          "lineText": [
-            {
-              "text": "(Needs testing.)"
-            }
-          ]
-        },
-        {
           "lineClass": "spacer_class"
         },
         {
@@ -967,7 +997,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.15-20.37"
+      "last_edit": "2021.9.19-16.22"
     },
     "1053737370": {
       "name": "New Tricks",
@@ -1035,7 +1065,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.5-17.52"
+      "last_edit": "2021.9.19-16.17"
     },
     "1160559849": {
       "name": "Linear Actuators",
@@ -1054,6 +1084,13 @@
         {
           "lineText": [
             {
+              "text": "On Melee Hit:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
               "text": "Linear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 metres. Shocked is refreshed on chain."
             }
           ]
@@ -1062,18 +1099,18 @@
           "lineClass": "spacer_class"
         },
         {
-          "lineClass": "CDCA_desc-pve-",
           "lineText": [
             {
-              "text": "PVE 300%(?) Melee Damage"
+              "textClass": "CDCA_desc-pve-",
+              "text": "[PVE] 300%(?) Melee Damage"
             }
           ]
         },
         {
-          "lineClass": "CDCA_desc-pvp-",
           "lineText": [
             {
-              "text": "PVP 85 Damage"
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[PVP] 85 Damage"
             }
           ]
         },
@@ -1095,7 +1132,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.5-9.50"
+      "last_edit": "2021.9.19-16.14"
     },
     "1163283805": {
       "name": "Misdirection",
@@ -1111,7 +1148,7 @@
         {
           "lineText": [
             {
-              "text": "Applies Misdirection to enemies within 15 metres."
+              "text": "Applies Misdirection to enemies within 22 metres."
             }
           ]
         },
@@ -1122,10 +1159,14 @@
           "lineText": [
             {
               "textClass": "CDCA_desc-pve-",
-              "text": "PVE"
+              "text": "[PVE]"
             },
             {
-              "text": " Misdirection disorients minors as well as elites for 5 seconds."
+              "text": " Misdirection "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "disorients minors and elites for 5 seconds."
             }
           ]
         },
@@ -1133,10 +1174,14 @@
           "lineText": [
             {
               "textClass": "CDCA_desc-pvp-",
-              "text": "PVP"
+              "text": "[PVP]"
             },
             {
-              "text": " Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
+              "text": " Misdirection "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "warps audio and removes radar for 5 seconds, as well as briefly blinding."
             }
           ]
         },
@@ -1151,7 +1196,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.0"
+      "last_edit": "2021.9.19-15.50"
     },
     "1190497097": {
       "name": "Assault Barricade",
@@ -1324,14 +1369,24 @@
           ]
         },
         {
+          "lineClass": "spacer_class"
+        },
+        {
           "lineText": [
             {
-              "text": "If crouched: Grants Enhanced Radar. (Posseses 12 sectors instead of 6)"
+              "text": "If crouched: "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants Enhanced Radar. (Posseses 12 sectors instead of 6)"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.6"
+      "last_edit": "2021.9.19-15.56"
     },
     "1321354573": {
       "name": "Hawkeye Hack",
@@ -1843,9 +1898,6 @@
           ]
         },
         {
-          "lineClass": "spacer_class"
-        },
-        {
           "lineText": [
             {
               "text": "Unlimited Dodges for 6 seconds."
@@ -1865,12 +1917,22 @@
         {
           "lineText": [
             {
+              "text": "Multi-Dodge Dodges are unaffected by Mods that activate on Class Ability Use, alongside Winter's Shroud."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
               "text": "Effect immediately ends if you are over 15 metres away from an Enemy while Multi-Dodge is active."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.5-7.48"
+      "last_edit": "2021.9.19-16.8"
     },
     "1725917554": {
       "name": "Planetary Torrent",
@@ -2359,7 +2421,7 @@
         {
           "lineText": [
             {
-              "text": "Invisibility Duration"
+              "text": "Invisibility Duration:"
             }
           ]
         },
@@ -2402,7 +2464,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-16.3"
+      "last_edit": "2021.9.19-15.40"
     },
     "2240152949": {
       "name": "Clenched Fist",
@@ -2536,6 +2598,13 @@
         {
           "lineText": [
             {
+              "text": "While in Arc Staff:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
               "text": "Blocking with Whirlwind Guard doesn't consume extra Super Energy."
             }
           ]
@@ -2558,7 +2627,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.5-7.43"
+      "last_edit": "2021.9.19-16.7"
     },
     "2316914168": {
       "name": "Rites of Ember",
@@ -2684,7 +2753,7 @@
         {
           "lineText": [
             {
-              "text": "Explosion Damage and Radius depends on Enemy Rank."
+              "text": " Explosion Damage and Radius depends on Enemy Rank."
             }
           ]
         },
@@ -2725,9 +2794,19 @@
               "text": "268% = Finisher on Major"
             }
           ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "4 second cooldown per Explosion."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.5-17.42"
+      "last_edit": "2021.9.19-16.15"
     },
     "2384488862": {
       "name": "Solar Rampart",
@@ -2775,7 +2854,7 @@
         {
           "lineText": [
             {
-              "text": "Throwing Knife gains greatly increased tracking and a second bounce."
+              "text": "Weighted Throwing Knives gain a second bounce with greatly increased tracking."
             }
           ]
         },
@@ -2802,19 +2881,33 @@
         {
           "lineText": [
             {
-              "text": "Strengthened Throwing Knife have a 200% [100%] Damage Increase with throwing knife, and staggers unstoppable champions."
+              "text": "Strengthened Throwing Knife deal "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "200%"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [100%]"
+            },
+            {
+              "text": " increased damage and stagger unstoppable champions."
             }
           ]
         },
         {
+          "lineClass": "spacer_class"
+        },
+        {
           "lineText": [
             {
-              "text": "Landing a throwing knife hit removes buff."
+              "text": " Landing a Knife Hit consumes Strengthened Throwing Knife."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-17.42"
+      "last_edit": "2021.9.19-15.43"
     },
     "2423243921": {
       "name": "Reflective Vents",
@@ -2933,7 +3026,7 @@
         {
           "lineText": [
             {
-              "text": "Fury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks."
+              "text": "Fury Conductors grants 33%|55%|70% Damage Resistance to Melee Attacks depending on number of Stacks."
             }
           ]
         },
@@ -2948,7 +3041,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.5-9.33"
+      "last_edit": "2021.9.19-16.12"
     },
     "2578771006": {
       "name": "Vengeance",
@@ -2998,7 +3091,7 @@
         {
           "lineText": [
             {
-              "text": "Smoke Bombs have a 150% Damage Increase."
+              "text": "Smoke Bombs deal 150% increased damage."
             }
           ]
         },
@@ -3008,12 +3101,57 @@
         {
           "lineText": [
             {
-              "text": "Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 metres away."
+              "text": " Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 metres away."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.5"
+      "last_edit": "2021.9.19-15.55"
+    },
+    "2766109872": {
+      "name": "Synapse Junctions",
+      "item_name": "Raiden Flux",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While in Arc Staff:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Hits grant Synapse Junctions for 5 seconds. Stacks up to 3x"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "x1 = 13.5% Damage Increase and X% Slower Passive Super Drain"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "x2 = 28.8% Damage Increase and X% Slower Passive Super Drain"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "x3 = 46.2% Damage Increase and X% Slower Passive Drain"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-16.6"
     },
     "2766109874": {
       "name": "Wraithmetal Mail",
@@ -3039,7 +3177,7 @@
         {
           "lineText": [
             {
-              "text": "Wraithmetal Mail"
+              "text": "Wraithmetal Mail:"
             }
           ]
         },
@@ -3053,14 +3191,14 @@
         {
           "lineText": [
             {
-              "text": "Grants 100 Handling (w/ 0.95x Scalar), 100 Reload, and 50 Mobility."
+              "text": "Grants 100 Handling (w/ 0.95x Animation Duration Multiplier), 100 Reload, and 50 Mobility."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Increases Sprint Speed by 6.25%."
+              "text": " Increases Sprint Speed by 6.25%."
             }
           ]
         },
@@ -3072,7 +3210,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-18.46"
+      "last_edit": "2021.9.19-15.45"
     },
     "2773056939": {
       "name": "Vanishing Shadow",
@@ -3129,26 +3267,33 @@
         {
           "lineText": [
             {
-              "text": "Regenerates 4.4% (+Y% per Enemy within X metres) of Melee Ability per second."
+              "text": "Regenerates 4% of Melee Ability per second."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "X Recovery"
+              "text": "Additional Enemies within 15 metres will instead increase it to 4.66% | 6.9% | 8.88%"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Y Handling (Ready Speed only)"
+              "text": "(Equivalent of) 100 Recovery"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100 Reload Speed"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.2"
+      "last_edit": "2021.9.19-15.53"
     },
     "2780717641": {
       "name": "Grasp of the Devourer",
@@ -3757,9 +3902,19 @@
               "text": "(Stasis Grenades recharge at .45% Ability Energy per Second)"
             }
           ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "No, it is not \"+30 to all your Abilities\", and yes, it scales past 100 because it's a % per second."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.6-18.8"
+      "last_edit": "2021.9.19-16.18"
     },
     "3381022971": {
       "name": "Abyssal Extractors",
@@ -4461,7 +4616,7 @@
         {
           "lineText": [
             {
-              "text": "Cross Counter grants a 200% Melee Damage Increase and heals for XHP on Melee Hit."
+              "text": "Cross Counter grants 200% increased Melee Damage and heals for XHP on Melee Hit."
             }
           ]
         },
@@ -4476,7 +4631,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.8"
+      "last_edit": "2021.9.19-16.24"
     }
   },
   "exotic_armor_perk": {
@@ -4550,9 +4705,6 @@
           ]
         },
         {
-          "lineClass": "spacer_class"
-        },
-        {
           "lineText": [
             {
               "text": "Unlimited Dodges for 6 seconds."
@@ -4572,12 +4724,22 @@
         {
           "lineText": [
             {
+              "text": "Multi-Dodge Dodges are unaffected by Mods that activate on Class Ability Use, alongside Winter's Shroud."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
               "text": "Effect immediately ends if you are over 15 metres away from an Enemy while Multi-Dodge is active."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.5-7.48"
+      "last_edit": "2021.9.19-16.8"
     },
     "185514250": {
       "name": "Glacial Guard",
@@ -4734,7 +4896,7 @@
         {
           "lineText": [
             {
-              "text": "Invisibility Duration"
+              "text": "Invisibility Duration:"
             }
           ]
         },
@@ -4777,7 +4939,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-16.3"
+      "last_edit": "2021.9.19-15.40"
     },
     "242794439": {
       "name": "Reflective Vents",
@@ -5128,7 +5290,7 @@
         {
           "lineText": [
             {
-              "text": "Wraithmetal Mail"
+              "text": "Wraithmetal Mail:"
             }
           ]
         },
@@ -5142,14 +5304,14 @@
         {
           "lineText": [
             {
-              "text": "Grants 100 Handling (w/ 0.95x Scalar), 100 Reload, and 50 Mobility."
+              "text": "Grants 100 Handling (w/ 0.95x Animation Duration Multiplier), 100 Reload, and 50 Mobility."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Increases Sprint Speed by 6.25%."
+              "text": " Increases Sprint Speed by 6.25%."
             }
           ]
         },
@@ -5161,7 +5323,52 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-18.46"
+      "last_edit": "2021.9.19-15.45"
+    },
+    "593361146": {
+      "name": "Synapse Junctions",
+      "item_name": "Raiden Flux",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While in Arc Staff:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Hits grant Synapse Junctions for 5 seconds. Stacks up to 3x"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "x1 = 13.5% Damage Increase and X% Slower Passive Super Drain"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "x2 = 28.8% Damage Increase and X% Slower Passive Super Drain"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "x3 = 46.2% Damage Increase and X% Slower Passive Drain"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-16.6"
     },
     "593361147": {
       "name": "Probability Matrix",
@@ -5211,7 +5418,7 @@
         {
           "lineText": [
             {
-              "text": "Cross Counter grants a 200% Melee Damage Increase and heals for XHP on Melee Hit."
+              "text": "Cross Counter grants 200% increased Melee Damage and heals for XHP on Melee Hit."
             }
           ]
         },
@@ -5226,7 +5433,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.8"
+      "last_edit": "2021.9.19-16.24"
     },
     "622433369": {
       "name": "Warlord's End",
@@ -5823,7 +6030,7 @@
         {
           "lineText": [
             {
-              "text": "Solar Weapon Kills grant X% Class Ability Energy. (Needs testing)"
+              "text": "Solar Weapon Kills grant X% Class Ability Energy."
             }
           ]
         },
@@ -5840,12 +6047,12 @@
         {
           "lineText": [
             {
-              "text": "Solar Weapon Kills fully uses your Class Ability Energy and spawn a Healing+Empowering Rift at the Target's Location."
+              "text": "Weapon Kills consume your Class Ability Energy and spawn a Healing+Empowering Rift at the Target's Location."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.15-20.32"
+      "last_edit": "2021.9.19-16.20"
     },
     "1142806944": {
       "name": "Planetary Torrent",
@@ -6046,7 +6253,7 @@
         {
           "lineText": [
             {
-              "text": "Fury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks."
+              "text": "Fury Conductors grants 33%|55%|70% Damage Resistance to Melee Attacks depending on number of Stacks."
             }
           ]
         },
@@ -6061,7 +6268,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.5-9.33"
+      "last_edit": "2021.9.19-16.12"
     },
     "1155472387": {
       "name": "Horns of Doom",
@@ -6231,7 +6438,7 @@
         {
           "lineText": [
             {
-              "text": "Blade Barrage Hits and Kills grant \"Super Regeneration\" or something buff that grants X% Super per second."
+              "text": "Blade Barrage Hits and Kills refund Super Energy."
             }
           ]
         },
@@ -6248,12 +6455,12 @@
         {
           "lineText": [
             {
-              "text": "Duration depends on Kills and Hits, as well as Enemy Rank"
+              "text": "Refund Amount depends on Kills and Hits, as well as Enemy Rank."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.5-7.54"
+      "last_edit": "2021.9.19-16.10"
     },
     "1667892708": {
       "name": "Sunfire Furnace",
@@ -6390,13 +6597,15 @@
         {
           "lineText": [
             {
-              "text": "60% Damage Increase per Hit for 5 seconds. Maxes out at 600% after 10 Hits."
+              "textClass": "CDCA_desc-pve-",
+              "text": "60% Increased damage per Hit for 5 seconds. Maxes out at 600% after 10 Hits."
             }
           ]
         },
         {
           "lineText": [
             {
+              "textClass": "CDCA_desc-pve-",
               "text": "Eriana's Vow has a reduced effectiveness of 30% Damage Increase per Hit."
             }
           ]
@@ -6419,7 +6628,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.10"
+      "last_edit": "2021.9.19-16.25"
     },
     "1694242449": {
       "name": "Uncanny Arrows",
@@ -6908,26 +7117,33 @@
         {
           "lineText": [
             {
-              "text": "Regenerates 4.4% (+Y% per Enemy within X metres) of Melee Ability per second."
+              "text": "Regenerates 4% of Melee Ability per second."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "X Recovery"
+              "text": "Additional Enemies within 15 metres will instead increase it to 4.66% | 6.9% | 8.88%"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Y Handling (Ready Speed only)"
+              "text": "(Equivalent of) 100 Recovery"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100 Reload Speed"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.2"
+      "last_edit": "2021.9.19-15.53"
     },
     "2192678014": {
       "name": "Roving Assassin",
@@ -7339,7 +7555,14 @@
         {
           "lineText": [
             {
-              "text": "Marks Enemies for 5 seconds after hovering reticle over them. Persists briefly through walls."
+              "text": "Marks enemies for 5 seconds after hovering reticle near them for 1 second."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Mark persists through walls."
             }
           ]
         },
@@ -7349,14 +7572,35 @@
         {
           "lineText": [
             {
-              "text": "If Enemy is below 30% HP: Grants a 1% Damage Increase per percent below 30%"
+              "text": "If "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "Enemy"
+            },
+            {
+              "text": " is below "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "30%"
+            },
+            {
+              "text": " HP: Grants a 1% Damage Increase per percent below 30%"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "(Eg: 10% HP left -> 20% Damage Increase)"
+              "text": "(Eg: "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "10%"
+            },
+            {
+              "text": " HP left -> 20% Damage Increase)"
             }
           ]
         },
@@ -7371,7 +7615,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-18.48"
+      "last_edit": "2021.9.19-15.48"
     },
     "2663272110": {
       "name": "Hawkeye Hack",
@@ -7426,14 +7670,24 @@
           ]
         },
         {
+          "lineClass": "spacer_class"
+        },
+        {
           "lineText": [
             {
-              "text": "If crouched: Grants Enhanced Radar. (Posseses 12 sectors instead of 6)"
+              "text": "If crouched: "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants Enhanced Radar. (Posseses 12 sectors instead of 6)"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.6"
+      "last_edit": "2021.9.19-15.56"
     },
     "2731901709": {
       "name": "Warlord's Sigil",
@@ -7948,6 +8202,13 @@
         {
           "lineText": [
             {
+              "text": "On Melee Hit:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
               "text": "Linear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 metres. Shocked is refreshed on chain."
             }
           ]
@@ -7956,18 +8217,18 @@
           "lineClass": "spacer_class"
         },
         {
-          "lineClass": "CDCA_desc-pve-",
           "lineText": [
             {
-              "text": "PVE 300%(?) Melee Damage"
+              "textClass": "CDCA_desc-pve-",
+              "text": "[PVE] 300%(?) Melee Damage"
             }
           ]
         },
         {
-          "lineClass": "CDCA_desc-pvp-",
           "lineText": [
             {
-              "text": "PVP 85 Damage"
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[PVP] 85 Damage"
             }
           ]
         },
@@ -7989,7 +8250,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.5-9.50"
+      "last_edit": "2021.9.19-16.14"
     },
     "3295796664": {
       "name": "Move to Survive",
@@ -8125,7 +8386,7 @@
         {
           "lineText": [
             {
-              "text": "Explosion Damage and Radius depends on Enemy Rank."
+              "text": " Explosion Damage and Radius depends on Enemy Rank."
             }
           ]
         },
@@ -8166,9 +8427,19 @@
               "text": "268% = Finisher on Major"
             }
           ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "4 second cooldown per Explosion."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.5-17.42"
+      "last_edit": "2021.9.19-16.15"
     },
     "3662465906": {
       "name": "Dreaded Visage",
@@ -8232,7 +8503,7 @@
         {
           "lineText": [
             {
-              "text": "Throwing Knife gains greatly increased tracking and a second bounce."
+              "text": "Weighted Throwing Knives gain a second bounce with greatly increased tracking."
             }
           ]
         },
@@ -8259,19 +8530,33 @@
         {
           "lineText": [
             {
-              "text": "Strengthened Throwing Knife have a 200% [100%] Damage Increase with throwing knife, and staggers unstoppable champions."
+              "text": "Strengthened Throwing Knife deal "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "200%"
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": " [100%]"
+            },
+            {
+              "text": " increased damage and stagger unstoppable champions."
             }
           ]
         },
         {
+          "lineClass": "spacer_class"
+        },
+        {
           "lineText": [
             {
-              "text": "Landing a throwing knife hit removes buff."
+              "text": " Landing a Knife Hit consumes Strengthened Throwing Knife."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-17.42"
+      "last_edit": "2021.9.19-15.43"
     },
     "3666112472": {
       "name": "Scissor Fingers",
@@ -8297,12 +8582,12 @@
         {
           "lineText": [
             {
-              "text": "(Eg: Both are recharged on dodge)"
+              "text": "(Eg: Both are recharged on Gambler's Dodge)"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-20.43"
+      "last_edit": "2021.9.19-16.5"
     },
     "3723531833": {
       "name": "Burning Souls",
@@ -8465,9 +8750,19 @@
               "text": "(Stasis Grenades recharge at .45% Ability Energy per Second)"
             }
           ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "No, it is not \"+30 to all your Abilities\", and yes, it scales past 100 because it's a % per second."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.6-18.8"
+      "last_edit": "2021.9.19-16.18"
     },
     "3927963101": {
       "name": "Abyssal Extractors",
@@ -8542,7 +8837,14 @@
         {
           "lineText": [
             {
-              "text": "Increases Damage Resist during Nova Bomb cast to 80% (from 50%)"
+              "text": "Massively Increases Damage Resist during Nova Bomb "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Over 99.5% on Wind-Up)"
             }
           ]
         },
@@ -8567,13 +8869,6 @@
           ]
         },
         {
-          "lineText": [
-            {
-              "text": "(Needs testing.)"
-            }
-          ]
-        },
-        {
           "lineClass": "spacer_class"
         },
         {
@@ -8584,7 +8879,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.15-20.37"
+      "last_edit": "2021.9.19-16.22"
     },
     "3927963103": {
       "name": "Conduction Tines",
@@ -8672,7 +8967,7 @@
         {
           "lineText": [
             {
-              "text": "Applies Misdirection to enemies within 15 metres."
+              "text": "Applies Misdirection to enemies within 22 metres."
             }
           ]
         },
@@ -8683,10 +8978,14 @@
           "lineText": [
             {
               "textClass": "CDCA_desc-pve-",
-              "text": "PVE"
+              "text": "[PVE]"
             },
             {
-              "text": " Misdirection disorients minors as well as elites for 5 seconds."
+              "text": " Misdirection "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "disorients minors and elites for 5 seconds."
             }
           ]
         },
@@ -8694,10 +8993,14 @@
           "lineText": [
             {
               "textClass": "CDCA_desc-pvp-",
-              "text": "PVP"
+              "text": "[PVP]"
             },
             {
-              "text": " Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
+              "text": " Misdirection "
+            },
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "warps audio and removes radar for 5 seconds, as well as briefly blinding."
             }
           ]
         },
@@ -8712,7 +9015,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.0"
+      "last_edit": "2021.9.19-15.50"
     },
     "4048389864": {
       "name": "Feast of Light",
@@ -8804,7 +9107,7 @@
         {
           "lineText": [
             {
-              "text": "Smoke Bombs have a 150% Damage Increase."
+              "text": "Smoke Bombs deal 150% increased damage."
             }
           ]
         },
@@ -8814,12 +9117,12 @@
         {
           "lineText": [
             {
-              "text": "Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 metres away."
+              "text": " Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 metres away."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.4-19.5"
+      "last_edit": "2021.9.19-15.55"
     },
     "4174493725": {
       "name": "Insatiable",
@@ -8843,7 +9146,7 @@
           ]
         }
       ],
-      "last_edit": "2021.9.5-17.52"
+      "last_edit": "2021.9.19-16.17"
     },
     "4190535237": {
       "name": "Ursine Guard",
@@ -8934,6 +9237,13 @@
         {
           "lineText": [
             {
+              "text": "While in Arc Staff:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
               "text": "Blocking with Whirlwind Guard doesn't consume extra Super Energy."
             }
           ]
@@ -8956,11 +9266,283 @@
           ]
         }
       ],
-      "last_edit": "2021.9.5-7.43"
+      "last_edit": "2021.9.19-16.7"
     }
   },
   "armor_mods": {},
   "weapon_perks": {
+    "11551321": {
+      "name": "Iron Grip",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "18 Stability and -28 Reload Speed."
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "always_active": {
+          "stat": [
+            -28
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.20-21.26"
+    },
+    "11612903": {
+      "name": "Adrenaline Junkie",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grenade Kills grant stacking damage increases and Handling for 10 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Duration refreshed on Grenade Kill."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "1x = 10% Damage and 10 Handling"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "2x = 21% Damage and 20 Handling"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "3x = 33% Damage and 30 Handling"
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            10,
+            20,
+            30
+          ]
+        }
+      },
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            10,
+            21,
+            33
+          ]
+        }
+      },
+      "last_edit": "2021.9.20-21.14"
+    },
+    "25606670": {
+      "name": "Dual Loader",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Loads 2 Ammo at a time."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reduces Reload Speed by 45"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Full magazine reload is faster with the perk)"
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "always_active": {
+          "stat": [
+            -45
+          ],
+          "multiplayer": []
+        }
+      },
+      "last_edit": "2021.9.19-18.15"
+    },
+    "47981717": {
+      "name": "Opening Shot",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "For the first bullet only, and after a 3.1s after not firing:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20 AA, 20 Range, 5% Damage Falloff Distance Increase, -5% Accuracy Cone, -10% Accuracy Cone Growth"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Shotguns do not receive the Damage Falloff Distance Increase."
+            }
+          ]
+        }
+      ],
+      "range": {
+        "conditional": {
+          "stat": [
+            20
+          ],
+          "multiplier": [
+            1.05
+          ]
+        }
+      },
+      "last_edit": "2021.9.20-21.42"
+    },
+    "124408337": {
+      "name": "Headstone",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Spawns a Stasis Crystal on Enemy Death Location."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Minors = Medium | Anything Else = Large"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-20.31"
+    },
+    "201365942": {
+      "name": "Archer's Tempo",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Hit:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Decreases Draw Time by 180ms for 3 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Perfect Draws are not accurate with the Draw Time Stat, you can be up to 40ms too early and still achieve them."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        3
+      ],
+      "last_edit": "2021.9.19-17.23"
+    },
+    "205890336": {
+      "name": "Underdog",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Once below 150(?) HP:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increased Reload Speed. Effect increases linearly as health decreases, up to 100 Reload Speed with 0.9x Duration Multiplier"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-12.11"
+    },
+    "247725512": {
+      "name": "Rapid Hit",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Precision Hits grant Rapid Hit Stacks, granting 5/27/32/40/54 Reload Speed and 5/10/15/20/23 Stability for 2 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Verify the actual ramp up on stability, max of 23 is accurate)"
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "conditional": {
+          "stat": [
+            5,
+            27,
+            32,
+            40,
+            54
+          ],
+          "multiplier": []
+        }
+      },
+      "duration": [
+        2
+      ],
+      "last_edit": "2021.9.21-8.8"
+    },
     "280464955": {
       "name": "Firmly Planted",
       "description": [
@@ -8974,40 +9556,3217 @@
         {
           "lineText": [
             {
-              "text": "30 Handling,"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "20 Stability,"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "-40% Accuracy Cone Size,"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "-17% Accuracy Cone Growth,"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "-80% Recoil Yaw (Horizontal Recoil)"
+              "text": "30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.16-10.4"
+      "handling": {
+        "conditional": {
+          "stat": [
+            30
+          ],
+          "multiplayer": []
+        }
+      },
+      "last_edit": "2021.9.19-18.59"
+    },
+    "354401740": {
+      "name": "Assassin's Blade",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Sword Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "15% Damage Increase and sets Forward Movement Speed to 9 metres / second (Max Sprint Speed)"
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            15
+          ]
+        }
+      },
+      "last_edit": "2021.9.19-17.40"
+    },
+    "438098033": {
+      "name": "Harmony",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Ready within 3 seconds of getting a Kill with a Different Weapon:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "20% Damage Increase, and 15 Handling for 7 seconds."
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            15
+          ],
+          "multiplayer": []
+        }
+      },
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            20
+          ]
+        }
+      },
+      "duration": [
+        7
+      ],
+      "last_edit": "2021.9.19-20.27"
+    },
+    "460017080": {
+      "name": "Headseeker",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Headshots mid burst after hitting at least one bodyshot receive an 8% Precision Damage Increase."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-20.29"
+    },
+    "469285294": {
+      "name": "Recombination",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Damage Increase On Elemental Kills, and for one shot:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "8% | 15% | 24% | 33% | 42% | 50% | 59% | 70% | 80% | 88% for Heritage."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "8% | 17% | 27% | 38% | 46% | 57% | 68% | 80% | 89% | 100% for Succession."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% for Heritage and Succession."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-8.12"
+    },
+    "588594999": {
+      "name": "Moving Target",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Passively grants 10 Aim Assist, and 3% Reduced Movement Speed Penalty from ADS and Strafing."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.33"
+    },
+    "591790007": {
+      "name": "Iron Reach",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "18 Range and -28 Stability"
+            }
+          ]
+        }
+      ],
+      "range": {
+        "always_active": {
+          "stat": [
+            18
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.20-21.27"
+    },
+    "699525795": {
+      "name": "Eye of the Storm",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Weapon Kills increase Reload Speed for 3.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "10 | 45 | 55 | 70 | 100 Reload Speed."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "- | 0.9x | 0.88x | 0.85x | 0.8x Reload Animation Length Multiplier."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refreshes on kill."
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "conditional": {
+          "stat": [
+            10,
+            45,
+            55,
+            70,
+            100
+          ],
+          "multiplayer": [
+            1,
+            0.9,
+            0.88,
+            0.85,
+            0.8
+          ]
+        }
+      },
+      "duration": [
+        3.5
+      ],
+      "last_edit": "2021.9.19-18.52"
+    },
+    "706527188": {
+      "name": "Quickdraw",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Ready:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " 100 Ready/Stow Handling for 1 second, or until ADS."
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            100
+          ],
+          "multiplier": []
+        }
+      },
+      "duration": [
+        1
+      ],
+      "last_edit": "2021.9.20-21.50"
+    },
+    "806159697": {
+      "name": "Trench Barrel",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After dealing Non-Ranged Melee Damage:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "50% Damage Increase, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots."
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            30
+          ],
+          "multiplier": []
+        }
+      },
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            50
+          ]
+        }
+      },
+      "duration": [
+        5
+      ],
+      "last_edit": "2021.9.21-12.5"
+    },
+    "818211479": {
+      "name": "Shattering Blade",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If Heavy Attack consumes the last Ammo:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "67% Damage Increase to Grounded Heavy Attack."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            67
+          ]
+        }
+      },
+      "last_edit": "2021.9.21-11.20"
+    },
+    "830282363": {
+      "name": "Phase Magazine",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Sets the Lightweight Frame Submachine Gun's Damage Profile into that of a Precision Frame."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.46"
+    },
+    "908147344": {
+      "name": "Sneak Bow",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If Crouched:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Prevents Radar Ping from shooting, X Reload Speed (with Scalar!), and increases hold time by 25%"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.31"
+    },
+    "951095735": {
+      "name": "Impulse Amplifier",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "X% Faster Projectile Velocity (Varies between Weapon Type apparently?)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "10 Reload with 0.8x Multiplier."
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "always_active": {
+          "stat": [
+            10
+          ],
+          "multiplier": [
+            0.8
+          ]
+        }
+      },
+      "last_edit": "2021.9.20-21.24"
+    },
+    "957782887": {
+      "name": "Snapshot Sights",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Greatly faster Aiming-Down-Sights. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(33% Faster than 100 Handling)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacks with ADS Scalar effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.30"
+    },
+    "972757866": {
+      "name": "Pulse Monitor",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Critical Health:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Fully refreshes weapon (Held or Stowed), 45 Handling, 5% Faster Swap Speed."
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            45
+          ],
+          "multiplier": [
+            1.05
+          ]
+        }
+      },
+      "last_edit": "2021.9.20-21.47"
+    },
+    "1015611457": {
+      "name": "Kill Clip",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Reload, within 3.8 seconds of a Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "33% Damage Increase for 5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff can't be refreshed."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            33
+          ]
+        }
+      },
+      "duration": [
+        5
+      ],
+      "last_edit": "2021.9.20-21.29"
+    },
+    "1140096971": {
+      "name": "Seraph Rounds",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Combines the Penetration from Armor-Piercing Rounds, the Ricochet aspect of Ricochet Rounds, and the Flinch Increase from High-Caliber Rounds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Also increases the Damage Falloff by 10%, identically to the old Ricochet Rounds."
+            }
+          ]
+        }
+      ],
+      "range": {
+        "always_active": {
+          "stat": [],
+          "multiplier": [
+            1.1
+          ]
+        }
+      },
+      "last_edit": "2021.9.21-11.17"
+    },
+    "1195158366": {
+      "name": "Encore",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Kill: 10 Range per Stack. Max of 3 Stacks. "
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Non-Precision Kill: Removes a Stack and grants X% Accuracy Cone Growth, Y% Accuracy Cone, and 30 Stability when all stacks have been removed."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lasts 7 seconds. Refreshed on Kill."
+            }
+          ]
+        }
+      ],
+      "range": {
+        "conditional": {
+          "stat": [
+            10,
+            20,
+            30
+          ],
+          "multiplayer": []
+        }
+      },
+      "duration": [
+        7
+      ],
+      "last_edit": "2021.9.19-18.40"
+    },
+    "1264398905": {
+      "name": "Celerity",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While Last Guardian Standing:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100 Handling, 100 Reload, 100 Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Passively grants 18 Handling and 18 Reload Speed"
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "always_active": {
+          "stat": [
+            18
+          ],
+          "multiplayer": []
+        },
+        "conditional": {
+          "stat": [
+            100
+          ],
+          "multiplayer": []
+        }
+      },
+      "handling": {
+        "always_active": {
+          "stat": [
+            18
+          ],
+          "multiplayer": []
+        },
+        "conditional": {
+          "stat": [
+            100
+          ],
+          "multiplayer": []
+        }
+      },
+      "last_edit": "2021.9.19-17.56"
+    },
+    "1359896290": {
+      "name": "Dynamic Sway Reduction",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Gradually during Sustained Fire, maxing its effect after 0.6 seconds:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Greatly increases Accuracy, and adds up to 9 Stability."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Accuracy improvement is greater than initial accuracy, but isn't perfectly accurate while Airborne."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Accuracy increase is gradual, almost completely negating the effects of bloom."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.16"
+    },
+    "1427256713": {
+      "name": "Reservoir Burst",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If Magazine is Full:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "25% Damage Increase and causes enemies to explode on death."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Passively grants 30 Magazine Size"
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            25
+          ]
+        }
+      },
+      "last_edit": "2021.9.21-11.13"
+    },
+    "1523832109": {
+      "name": "Reconstruction",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After not shooting for 4 seconds:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reloads 10% of Magazine Capacity From Reserves. Maxes out at Double Magazine Capacity."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1))"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-8.14"
+    },
+    "1528281896": {
+      "name": "Outlaw",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " 63 Reload Speed with 0.9x Multiplier for 6 seconds."
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "conditional": {
+          "stat": [
+            63
+          ],
+          "multiplier": [
+            0.9
+          ]
+        }
+      },
+      "duration": [
+        6
+      ],
+      "last_edit": "2021.9.20-21.44"
+    },
+    "1546637391": {
+      "name": "Vorpal Weapon",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "15% Damage Increase against Minibosses, Champions, Vehicles, and Bosses."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "Against Supers Only:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "40% to 50% Damage Increase for Primary Weapons | 10% to 20% Damage Increase for Special Weapons"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-12.13"
+    },
+    "1561002382": {
+      "name": "High-Caliber Rounds",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Increased Flinch on Enemies."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stronger Flinch on Combatants. Allows Primaries to affect higher ranked enemies and consistently stunlock Minors."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Varies between Archetypes, from 6% to 11% Increased Flinch received."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.18"
+    },
+    "1570042021": {
+      "name": "Heating Up",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Kills increase Accuracy and Stability while improving vertical recoil for 5.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "1x = -15% Accuracy Cone Growth, 15 Stability and ~20 Recoil Direction."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "2x = -30% Accuracy Cone Growth, 30 Stability, and ~40 Recoil Direction."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        5.5
+      ],
+      "last_edit": "2021.9.20-21.17"
+    },
+    "1600092898": {
+      "name": "Backup Plan",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "For 4 seconds after switching to Fusion Rifle:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Multiplies Charge Time by 0.8"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20% Reduced Damage"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100 Handling"
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            100
+          ],
+          "multiplayer": []
+        }
+      },
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            -20
+          ]
+        }
+      },
+      "duration": [
+        4
+      ],
+      "last_edit": "2021.9.19-17.51"
+    },
+    "1631667848": {
+      "name": "Grave Robber",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Melee Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "All weapons get relaoded from reserves."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-20.21"
+    },
+    "1645158859": {
+      "name": "Under Pressure",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "As Magazine goes below 50% until empty:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "25% to 50% increased Accuracy and up to 20 stability."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-12.10"
+    },
+    "1683379515": {
+      "name": "Disruption Break",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Elemental/Barrier or Guardian Shield Break:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Weakens the enemy, granting a 50% Kinetic Damage Increase for 5.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacks with other Debuffs, as it is a Weapon Perk."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        5.5
+      ],
+      "last_edit": "2021.9.19-18.9"
+    },
+    "1685431615": {
+      "name": "En Garde",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Sword Ready:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "30% Damage Increase for 1.5 seconds."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            30
+          ]
+        }
+      },
+      "duration": [
+        1.5
+      ],
+      "last_edit": "2021.9.19-18.24"
+    },
+    "1749209109": {
+      "name": "Relentless Strikes",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Powered Swords gain 1 Ammo after 3 Hits within 2(?) seconds of each."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.11"
+    },
+    "1754714824": {
+      "name": "Kickstart",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "During Slide, after Sprinting for 1.5s."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20% Damage Increase and 100ms Faster Charge Time."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff can expire mid-burst if you don't immediately start charging. "
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            20
+          ]
+        }
+      },
+      "duration": [
+        1.5
+      ],
+      "last_edit": "2021.9.20-21.28"
+    },
+    "1771339417": {
+      "name": "Firing Line",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While within X metres of 2+ Allies:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "13.8% Precision Damage Increase on Sniper Rifles."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "5.7% Precision Damage Increase on Machine Guns."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Bugged. It should be 20%."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            20
+          ]
+        }
+      },
+      "last_edit": "2021.9.19-18.57"
+    },
+    "1774574192": {
+      "name": "Osmosis",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Using your Grenade Ability changes the Weapon Element to match your selected Subclass until stowed. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Does not work with Verity's Brow)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.43"
+    },
+    "1799762209": {
+      "name": "Cornered",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While within 15(?) metres of 2 enemies:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100ms Faster Charge Rate/Draw Time."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lingers for 1.5 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-17.59"
+    },
+    "1820235745": {
+      "name": "Subsistence",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reloads 10-17% of Magazine from Reserves."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Amount varies between Weapon Archetypes"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.32"
+    },
+    "1866048759": {
+      "name": "Hip-Fire Grip",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While hipfiring:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " 1.2x Aim Assist and Reticle Stickiness Falloff Distance, 15 Aim Assist, +2.7 degrees precision angle threshold, ~30% more Accuracy and ~30 Stability."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Verify stability)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.20"
+    },
+    "1885400500": {
+      "name": "Ricochet Rounds",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Bullets have a 100% chance to Ricochet off of Surfaces."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.15"
+    },
+    "1890422124": {
+      "name": "Tap the Trigger",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Immediately upon firing:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " 25 Stability and -10%(?) Accuracy Cone Size for 0.6 seconds. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refreshes immediately after not firing."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "[Controller-Only] Weapon fires the instant trigger pressure is applied."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        0.6
+      ],
+      "last_edit": "2021.9.21-11.44"
+    },
+    "1954620775": {
+      "name": "Timed Payload",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Splits 55% of Damage into an Explosive Damage portion that has a 30% Damage Increase and no damage falloff. Detonates after X seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "[PVE] 16% Increased Body Shot Damage. Precision Damage Increase varies depending on Crit Ratio."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[PVP] Total damage remains (almost) the same."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.50"
+    },
+    "1968497646": {
+      "name": "Armor-Piercing Rounds",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "5% Damage Increase against Combatant Shields"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Bullets are able to penetrate up to 1 enemy."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-17.31"
+    },
+    "2010801679": {
+      "name": "Ambitious Assassin",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After Reload within X seconds of Weapon Kills:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "10% Increased Magazine Capacity per kill. Maxes out at 50% increased Magazine Capacity."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Always rounds up. "
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-17.21"
+    },
+    "2030760728": {
+      "name": "Energy Transfer",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While Blocking:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants Class Ability Energy based on the amount of damage taken."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "No known method to calculate the amount, it is too inconsistent."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.42"
+    },
+    "2039302152": {
+      "name": "Slideways",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Slide:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "15% Magazine Reloaded from Reserves, ~20 Stability and ~25 Handling. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lasts 3 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Verify stability and handling)"
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            25
+          ],
+          "multiplier": []
+        }
+      },
+      "duration": [
+        3
+      ],
+      "last_edit": "2021.9.21-11.29"
+    },
+    "2117683199": {
+      "name": "Full Auto Trigger System",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Automatically queues up the next shot after firing if you hold the trigger."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "10% Faster Rate of Fire on Shotguns."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Other weapons do not receive a Rate of Fire Increase."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-19.11"
+    },
+    "2213355989": {
+      "name": "High-Impact Reserves",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Starting at 50% of magazine left."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "[PVE] 12.1% to 25.6% Damage Increase. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[PVP] 3% to 6% Damage Increase."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.21"
+    },
+    "2244851822": {
+      "name": "Flash Counter",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After Blocking a Melee Attack within 0.5(?) seconds of starting to Block:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Suppresses and Weakens the enemy, granting a 20% Damage Increase for 4 seconds."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        4
+      ],
+      "last_edit": "2021.9.19-19.2"
+    },
+    "2284787283": {
+      "name": "Clown Cartridge",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Reload:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Randomly increases Magazine Capacity between 10% to 50%. Always rounds magazine up."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-17.58"
+    },
+    "2360754333": {
+      "name": "Trench Barrel",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After dealing Non-Ranged Melee Damage:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "50% Damage Increase, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots."
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            30
+          ],
+          "multiplier": []
+        }
+      },
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            50
+          ]
+        }
+      },
+      "duration": [
+        5
+      ],
+      "last_edit": "2021.9.21-12.6"
+    },
+    "2387244414": {
+      "name": "Zen Moment",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Stacking Hits:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Reduces the Maximum Recoil Angle (Maximum Horizontal Recoil), removes Reticle Bounce, and reduces Weapon Shake"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " *Noticeable mostly on controllers, as their reticle bounce on fire, akin to MGs on MnK*"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-12.18"
+    },
+    "2450788523": {
+      "name": "Killing Wind",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " 20 Range, 50 Mobility, 40 Handling, 30% reduced ADS Movement Penalty, and a 1.05x Damage Falloff Distance Multiplier"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Lasts 6 seconds, additional kills add 6 seconds, maxing out at 8 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Verify handling)"
+            }
+          ]
+        }
+      ],
+      "range": {
+        "conditional": {
+          "stat": [
+            20
+          ],
+          "multiplier": [
+            1.05
+          ]
+        }
+      },
+      "handling": {
+        "conditional": {
+          "stat": [
+            40
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.20-21.31"
+    },
+    "2458213969": {
+      "name": "Multikill Clip",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Reload, within 3.8 seconds of a Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "17% | 33% | 50% Damage Increase, depending on the amount of enemies killed within X seconds of each."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff is overwritten every time you refresh it."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            17,
+            33,
+            50
+          ]
+        }
+      },
+      "last_edit": "2021.9.20-21.37"
+    },
+    "2551157718": {
+      "name": "Box Breathing",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After being scoped-in for 1.5 seconds without firing:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "X Range, Y% increased Accuracy, and increased Precision Damage for one shot."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Verify range someday, no box scout to test)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-17.54"
+    },
+    "2590710093": {
+      "name": "Tireless Blade",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Powered Swords gain 1 Ammo every other kill."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "First Kill will proc this as well."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.54"
+    },
+    "2621346526": {
+      "name": "Ensemble",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While within 15 metres of 1 Allies:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "30 Handling and 40 Reload Speed. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lingers for 1.5 seconds."
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "conditional": {
+          "stat": [
+            40
+          ],
+          "multiplier": []
+        }
+      },
+      "handling": {
+        "conditional": {
+          "stat": [
+            30
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.20-21.15"
+    },
+    "2679249093": {
+      "name": "One-Two Punch",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If All Pellets from a Shotgun Hit:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "200% Melee Damage Increase for 1.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "350% Melee Damage Increase against Bosses and Vehicles."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "80% Melee Damage Increase if combined with Liar's Handshake."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        1.5
+      ],
+      "last_edit": "2021.9.20-21.41"
+    },
+    "2726471870": {
+      "name": "Thresh",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Primary/Heavy Weapon Kills grant an additional 1% Super Energy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Special Weapon Kills grant an additional 1.5% Super Energy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[PVP] Weapon Kills grant an additional 1% Super Energy."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.48"
+    },
+    "2846385770": {
+      "name": "Rangefinder",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "10% Increased Zoom when ADS."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "5% Faster Projectile Speed when ADS. god this is so bad"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Zoom acts as a multiplier to hipfire range and maximum falloff distance. Range stat affects accuracy and the minimum drop off distance."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.51"
+    },
+    "2866798147": {
+      "name": "No Distractions",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After being scoped-in for 1 second without firing:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " 35% Flinch Reduction."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacks multiplicatively with Unflinching Armor Mods."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.39"
+    },
+    "2869569095": {
+      "name": "Field Prep",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While Crouched:"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "45 Reload Speed with 0.8x Multiplier and 0.8x Ready/Stow Animation Duration Multiplier."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "+30 Inventory Size. (Ammo Reserves, they're very weird)"
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "conditional": {
+          "stat": [
+            45
+          ],
+          "multiplayer": [
+            0.8
+          ]
+        }
+      },
+      "handling": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            0.8
+          ]
+        }
+      },
+      "last_edit": "2021.9.19-18.54"
+    },
+    "2888557110": {
+      "name": "Full Court",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Increases Explosive Damage by 0.63% for every metre past 10 metres, up to 25% at 50 metres."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-19.36"
+    },
+    "2946784966": {
+      "name": "Tunnel Vision",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After Reloading within 6 seconds of a Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20 Aim Assist, 20% increased Accuracy and Y to ADS Handling (With a small Duration Scalar) for 5 seconds."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        5
+      ],
+      "last_edit": "2021.9.21-12.9"
+    },
+    "3016987351": {
+      "name": "Counterattack",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After Blocking an attack within 0.5(?) seconds of starting to Block:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "50% Damage Increase for 2 seconds."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            50
+          ]
+        }
+      },
+      "duration": [
+        2
+      ],
+      "last_edit": "2021.9.19-18.1"
+    },
+    "3038247973": {
+      "name": "Explosive Payload",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Splits 50% of Damage into an Explosive Damage portion that has a "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "30% Damage Increase"
+            },
+            {
+              "text": " and no damage falloff."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[PVP] Total damage remains (almost) the same. I don't like decimals"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.47"
+    },
+    "3047969693": {
+      "name": "Desperado",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After Reloading within 6 seconds of a Precision Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Rate of Fire Increases to 600RPM for 7 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "Reduces damage by 20% against Combatants."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Can be refreshed."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        7
+      ],
+      "last_edit": "2021.9.19-18.4"
+    },
+    "3096702027": {
+      "name": "Genesis",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Elemental or Barrier Champion's Shield Break:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Refreshes magazine."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Energy Weapons generate 1 Ammo against Matching Elemental Shields per hit"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-19.41"
+    },
+    "3108830275": {
+      "name": "Unrelenting",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Rank-And-File give ONE point. Guardians give TWO points. Elites/Minibosses/Bosses give THREE points."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Weapon Kills must be within 8(?) seconds of each."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-12.12"
+    },
+    "3161816588": {
+      "name": "Slideshot",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Slide:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "15% Magazine Reloaded from Reserves, 20 Range, and 30 Stability. Only buffs first shot (of the burst)."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Lasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Verify stability)"
+            }
+          ]
+        }
+      ],
+      "range": {
+        "conditional": {
+          "stat": [
+            20
+          ],
+          "multiplier": []
+        }
+      },
+      "duration": [
+        3
+      ],
+      "last_edit": "2021.9.21-11.27"
+    },
+    "3194351027": {
+      "name": "Explosive Light",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Wendigo: 70% Damage Increase and Y Blast Radius."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ascendancy & Hothead: 25% Damage Increase and Y Blast Radius"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Consumes 1 Stack per Shot."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.44"
+    },
+    "3201496230": {
+      "name": "Redirection",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants a Stacking Damage Bonus Against High-Tier Minors, Elites, Minibosses, Bosses, and Vehicles."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants 1 Stack of Redirection on Lower Tier Minor Hits."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Check out https://claritycomp.page.link/combatant for Combatant Classifications)"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "1x stack:    20%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "2x stack:    40%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "3x stack:    60%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "4x stack:    80%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "5-20x stack: 100%"
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacks are consumed by 1 when between 1x-4x and by 5 when between 5x-20x."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.9"
+    },
+    "3275789089": {
+      "name": "Shield Disorient",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Matching Elemental Shield Break:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Explosion disorients enemies within 7 metres for 5 seconds"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(verify)"
+            }
+          ]
+        }
+      ],
+      "duration": [
+        5
+      ],
+      "last_edit": "2021.9.21-11.21"
+    },
+    "3300816228": {
+      "name": "Auto-Loading Holster",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Reloads stowed weapon from reserves after 3 seconds."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-17.43"
+    },
+    "3337692349": {
+      "name": "Mulligan",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Miss:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20% Chance to generate 1 Ammo to Magazine."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.35"
+    },
+    "3350417888": {
+      "name": "Sympathetic Arsenal",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Reload within 6 seconds of a Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reloads stowed weapons from Reserves."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Passively grants 18 Reload Speed."
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "always_active": {
+          "stat": [
+            18
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.21-11.42"
+    },
+    "3365897133": {
+      "name": "Explosive Head",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Splits 50% of Damage into an Explosive Damage portion that has a "
+            },
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "30% Damage Increase"
+            },
+            {
+              "text": " and no damage falloff."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pvp-",
+              "text": "[PVP] Total damage remains (almost) the same. I don't like decimals"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.48"
+    },
+    "3400784728": {
+      "name": "Triple Tap",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Precision Hits within 2.5 seconds generate 1 Ammo to Magazine."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-12.7"
+    },
+    "3418782618": {
+      "name": "Rewind Rounds",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Upon emptying the Magazine:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reloads Magazine from Reserves based on the Number of Hits."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "50-60% for Primaries | 30-40% for Specials"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.14"
+    },
+    "3425386926": {
+      "name": "Rampage",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacking 10% | 23% | 33% Damage Increase for 3.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff Refreshed on Kill. "
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            10,
+            23,
+            33
+          ]
+        }
+      },
+      "duration": [
+        3.5
+      ],
+      "last_edit": "2021.9.21-12.53"
+    },
+    "3436462433": {
+      "name": "Surplus",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants 5-22-50 Reload Speed, 5-15-25 Stability, and 10-25-50 Handling depending on the amount of Charged Abilities."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Max x3. Each Ability Charge contributes to this. Works with double Ability Charges."
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "conditional": {
+          "stat": [
+            5,
+            22,
+            50
+          ],
+          "multiplier": []
+        }
+      },
+      "handling": {
+        "conditional": {
+          "stat": [
+            10,
+            25,
+            50
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.21-11.35"
+    },
+    "3511092054": {
+      "name": "Elemental Capacitor",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grants different Stat Bonuses based on your selected Subclass."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Solar: 45 Reload Speed"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Arc: 45 Handling"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Void: 18 Stability"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stasis: 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.23"
+    },
+    "3513791699": {
+      "name": "Mulligan",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Miss:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "20% Chance to generate 1 Ammo to Magazine."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.35"
+    },
+    "3523296417": {
+      "name": "Demolitionist",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Kills with Primary Weapons and Power Weapons grant 10% Grenade Ability Energy. Special Weapons grant 20%."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Using your Grenade Ability refreshes Magazine. 3 Second Cooldown."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.3"
+    },
+    "3551326236": {
+      "name": "Rampage",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacking 10% | 23% | 33% Damage Increase for 3.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff Refreshed on Kill."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Huckleberry specific:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDCA_desc-pve-",
+              "text": "[PVE] Stacking 20% | 41% | 66% Damage Increase for 3.5 seconds."
+            }
+          ]
+        }
+      ],
+      "duration": [
+        3.5
+      ],
+      "last_edit": "2021.9.21-12.56"
+    },
+    "3592538738": {
+      "name": "Wellspring",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Grants 7.5% Ability Energy split equally to all uncharged abilities."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "*BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES*"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-12.15"
+    },
+    "3643424744": {
+      "name": "Overflow",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Special | Power Ammo Pickup:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refills Magazine to 2x Magazine Capacity "
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.45"
+    },
+    "3673922083": {
+      "name": "Adagio",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Damage Increase and Slower Rate of Fire/Charge Time for 5 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Hand Cannon: 25% Damage Increase and -15% RoF"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Auto Rifle: 25% Damage Increase and -20% RoF"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Bow: 20% Damage Increase and -20% CR "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Shotgun: 20% Damage Increase and -20% RoF"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grenade Launcher: 25% Damage Increase and -20% RoF"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Fusion Rifle: 27% Damage Increase and -15% CR"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Linear Fusion Rifle: 25% Damage Increase and -15% CR"
+            }
+          ]
+        }
+      ],
+      "duration": [
+        5
+      ],
+      "last_edit": "2021.9.19-17.15"
+    },
+    "3700496672": {
+      "name": "Shoot to Loot",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After Shooting an Ammo Pickup:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Picks up the Ammo and Reloads all your Weapons from Reserves."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Triggers Ammo Pickup effects. 4 second Cooldown."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.21-11.22"
+    },
+    "3708227201": {
+      "name": "Surrounded",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If within 8 metres of 3+ Enemies:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "25% to 30% Increased Damage"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Surrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds "
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            25,
+            30
+          ]
+        }
+      },
+      "last_edit": "2021.9.21-11.36"
+    },
+    "3721627275": {
+      "name": "Swap Mag",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Upon emptying Magazine:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "All Weapons are granted 100 Handling for 4(?) seconds. (Identical to Quick Access Sling) "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Only availabe in Season 3's Trials of the Nine Weapons."
+            }
+          ]
+        }
+      ],
+      "handling": {
+        "conditional": {
+          "stat": [
+            100
+          ],
+          "multiplier": []
+        }
+      },
+      "duration": [
+        4
+      ],
+      "last_edit": "2021.9.21-11.39"
+    },
+    "3865257976": {
+      "name": "Dragonfly",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Explode the target, dealing the Weapon's Elemental Damage over a 3 metre radius. Damage is not increased by Weapon Perks."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Dragonfly Spec increases Damage and Radius by 50%."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-18.11"
+    },
+    "3913600130": {
+      "name": "Whirlwind Blade",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Hit:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacking 6% | 12% | 18% | 24% | 30% Damage Increase for 3(?) seconds. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Blocking removes all Stacks."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            6,
+            12,
+            18,
+            24,
+            30
+          ]
+        }
+      },
+      "duration": [
+        3
+      ],
+      "last_edit": "2021.9.21-12.16"
+    },
+    "3927722942": {
+      "name": "Lasting Impression",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 20% Explosive Damage."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "+25 Blast Radius "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Doesn't go past 100 stat)"
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.20-21.32"
+    },
+    "4049631843": {
+      "name": "One for All",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After Damaging 3 Separate Enemies within 3 seconds of each:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "35% Damage Increase for 10 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff can't be refreshed."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            35
+          ]
+        }
+      },
+      "duration": [
+        10
+      ],
+      "last_edit": "2021.9.20-21.40"
+    },
+    "4071163871": {
+      "name": "Threat Detector",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "If within 15 metres of an enemy: ~15 Stability, 15 Reload, and 0.75x Handling Animation Duration Multiplier."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "If within 15 metres of 2+ enemies: ~40 Stability, 55 Reload, and 0.56x Handling Animation Duration Multiplier."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Verify stability)"
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "conditional": {
+          "stat": [
+            15,
+            55
+          ],
+          "multiplier": []
+        }
+      },
+      "handling": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            0.75,
+            0.56
+          ]
+        }
+      },
+      "last_edit": "2021.9.21-11.46"
+    },
+    "4082225868": {
+      "name": "Swashbuckler",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon or Melee Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stacking 6.6% | 13.2% | 20% | 26.6% | 33% Increased Damage for 4.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly."
+            }
+          ]
+        }
+      ],
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplier": [
+            6.6,
+            13.2,
+            20,
+            26.6,
+            33
+          ]
+        }
+      },
+      "duration": [
+        4.5
+      ],
+      "last_edit": "2021.9.21-11.41"
+    },
+    "4104185692": {
+      "name": "Frenzy",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "After being in Combat for 12 seconds:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " 15% Damage Increase, 50(?) Handling, and 50 Reload Speed."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Lasts until you're out of combat."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "It's technically a \"state\" so it works when stowed, and it also applies to all of your weapons with Frenzy."
+            }
+          ]
+        },
+        {
+          "lineClass": "spacer_class"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Being \"In Combat\" is defined as having either dealt or received damage within 5 seconds."
+            }
+          ]
+        }
+      ],
+      "reload": {
+        "conditional": {
+          "stat": [
+            50
+          ],
+          "multiplayer": []
+        }
+      },
+      "handling": {
+        "conditional": {
+          "stat": [
+            50
+          ],
+          "multiplayer": []
+        }
+      },
+      "damage": {
+        "conditional": {
+          "stat": [],
+          "multiplayer": [
+            15
+          ]
+        }
+      },
+      "duration": [
+        5
+      ],
+      "last_edit": "2021.9.19-19.6"
+    },
+    "4152709778": {
+      "name": "Iron Gaze",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "20 Aim Assist and -28 Range."
+            }
+          ]
+        }
+      ],
+      "range": {
+        "always_active": {
+          "stat": [
+            -28
+          ],
+          "multiplier": []
+        }
+      },
+      "last_edit": "2021.9.20-21.25"
+    },
+    "4267945040": {
+      "name": "Full Auto Trigger System",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Automatically queues up the next shot after firing if you hold the trigger."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "10% Faster Rate of Fire on Shotguns."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Other weapons do not receive a Rate of Fire Increase."
+            }
+          ]
+        }
+      ],
+      "last_edit": "2021.9.19-19.12"
     }
   },
   "weapon_frames": {},
