@@ -7858,7 +7858,28 @@
         {
           "lineText": [
             {
-              "text": "Kills with Primary Weapons and Power Weapons grant 10% Grenade Ability Energy. Special Weapons grant 20%."
+              "text": "Kills with "
+            },
+            {
+              "textClass": "CDB-primary",
+              "text": "Primary"
+            },
+            {
+              "text": " Weapons and "
+            },
+            {
+              "textClass": "CDB-heavy",
+              "text": " Power Weapons "
+            },
+            {
+              "text": " grant 10% Grenade Ability Energy. "
+            },
+            {
+              "textClass": "CDB-special",
+              "text": " Special "
+            },
+            {
+              "text": " Weapons grant 20%."
             }
           ]
         },
@@ -7868,12 +7889,20 @@
         {
           "lineText": [
             {
-              "text": "Using your Grenade Ability refreshes Magazine. 3 Second Cooldown."
+              "text": "Using your Grenade Ability refreshes Magazine."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "3 Second Cooldown."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.19-18.3"
+      "stats": {},
+      "last_edit": "2021.10.17-17.22"
     },
     "3551326236": {
       "name": "Rampage",
