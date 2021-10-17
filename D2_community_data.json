@@ -6659,6 +6659,30 @@
       ],
       "last_edit": "2021.9.21-12.18"
     },
+    "2396489472": {
+      "name": "Chain Reaction",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Weapon Kills create an Elemental Explosion."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Not affected by Dragonfly Spec."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "last_edit": "2021.10.17-17.2"
+    },
     "2450788523": {
       "name": "Killing Wind",
       "description": [
