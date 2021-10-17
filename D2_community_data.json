@@ -7567,12 +7567,23 @@
         {
           "lineText": [
             {
-              "text": "Reloads stowed weapon from reserves after 3 seconds."
+              "text": "Refeshes stowed weapon from reserves after 3 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.19-17.43"
+      "stats": {},
+      "last_edit": "2021.10.17-17.25"
     },
     "3337692349": {
       "name": "Mulligan",
