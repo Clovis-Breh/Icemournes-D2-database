@@ -7873,24 +7873,24 @@
             },
             {
               "textClass": "CDB-primary",
-              "text": "Primary"
+              "text": "Primary Weapons"
             },
             {
-              "text": " Weapons and "
+              "text": " and "
             },
             {
               "textClass": "CDB-heavy",
-              "text": " Power Weapons "
+              "text": "Power Weapons "
             },
             {
               "text": " grant 10% Grenade Ability Energy. "
             },
             {
               "textClass": "CDB-special",
-              "text": " Special "
+              "text": "Special Weapons "
             },
             {
-              "text": " Weapons grant 20%."
+              "text": " grant 20%."
             }
           ]
         },
@@ -7900,20 +7900,23 @@
         {
           "lineText": [
             {
-              "text": "Using your Grenade Ability refreshes Magazine."
+              "text": "Using your Grenade Ability refreshes Magazine. 3 Second Cooldown."
             }
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
-              "text": "3 Second Cooldown."
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
             }
           ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.17-17.22"
+      "last_edit": "2021.10.17-17.30"
     },
     "3551326236": {
       "name": "Rampage",
