@@ -7797,61 +7797,122 @@
           "lineClass": "CDB-spacer"
         },
         {
-          "lineText": [
+          "table": [
             {
-              "text": "Hand Cannon: 25% Damage Increase and -15% RoF"
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Weapon Type"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "+Damage"
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
             {
-              "text": "Auto Rifle: 25% Damage Increase and -20% RoF"
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Hand Cannon"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-15% RoF"
+                }
+              ]
+            },
             {
-              "text": "Bow: 20% Damage Increase and -20% CR "
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineText": [
+                {
+                  "text": "Auto Rifle"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-20% RoF"
+                }
+              ]
+            },
             {
-              "text": "Shotgun: 20% Damage Increase and -20% RoF"
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Bow"
+                },
+                {
+                  "text": "20%"
+                },
+                {
+                  "text": "-20% CR"
+                }
+              ]
+            },
             {
-              "text": "Grenade Launcher: 25% Damage Increase and -20% RoF"
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineText": [
+                {
+                  "text": "Shotgun"
+                },
+                {
+                  "text": "20%"
+                },
+                {
+                  "text": "-20% RoF"
+                }
+              ]
+            },
             {
-              "text": "Fusion Rifle: 27% Damage Increase and -15% CR"
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Grenade Launcher"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-20% RoF"
+                }
+              ]
+            },
             {
-              "text": "Linear Fusion Rifle: 25% Damage Increase and -15% CR"
+              "lineText": [
+                {
+                  "text": "Fusion Rifle"
+                },
+                {
+                  "text": "27%"
+                },
+                {
+                  "text": "-15% CR"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Linear Fusion Rifle"
+                },
+                {
+                  "text": "25%"
+                },
+                {
+                  "text": "-15% CR"
+                }
+              ]
             }
           ]
         }
       ],
-      "stats": {
-        "duration": [
-          5
-        ]
-      },
-      "last_edit": "2021.9.19-17.15"
+      "stats": {},
+      "last_edit": "2021.10.17-16.42"
     },
     "3700496672": {
       "name": "Shoot to Loot",
