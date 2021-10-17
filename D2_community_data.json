@@ -7427,14 +7427,14 @@
         {
           "lineText": [
             {
-              "text": "Wendigo: 70% Damage Increase and Y Blast Radius."
+              "text": "Wendigo: 70% Damage Increase and sets Blast Radius to 55(?)."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Ascendancy & Hothead: 25% Damage Increase and Y Blast Radius"
+              "text": "Ascendancy & Hothead: 25% Damage Increase and sets Blast Radius to 100(?)."
             }
           ]
         },
@@ -7449,7 +7449,8 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-18.44"
+      "stats": {},
+      "last_edit": "2021.10.17-17.50"
     },
     "3201496230": {
       "name": "Redirection",
