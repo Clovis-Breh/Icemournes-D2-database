@@ -4934,9 +4934,12 @@
         {
           "lineText": [
             {
-              "text": "Decreases Draw Time by 180ms for 3 seconds."
+              "text": "Decreases Draw Time by 30% for 3 seconds."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
@@ -4946,12 +4949,8 @@
           ]
         }
       ],
-      "stats": {
-        "duration": [
-          3
-        ]
-      },
-      "last_edit": "2021.9.19-17.23"
+      "stats": {},
+      "last_edit": "2021.10.17-16.45"
     },
     "205890336": {
       "name": "Underdog",
