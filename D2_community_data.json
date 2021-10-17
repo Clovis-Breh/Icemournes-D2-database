@@ -8281,9 +8281,123 @@
               "text": "Dragonfly Spec increases Damage and Radius by 50%."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Weapon Type"
+                },
+                {
+                  "text": "Damage"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Linear Fusions"
+                },
+                {
+                  "text": "0.5x"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Snipers"
+                },
+                {
+                  "text": "0.6x"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Bows"
+                },
+                {
+                  "text": "0.9x"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Hand Cannons"
+                },
+                {
+                  "text": "2x"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Sidearms"
+                },
+                {
+                  "text": "2x"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Scout Rifles"
+                },
+                {
+                  "text": "2.5x"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Machine Guns"
+                },
+                {
+                  "text": "2.5x"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Auto RIfles"
+                },
+                {
+                  "text": "5x"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Pulse Rifles (Individual bullets)"
+                },
+                {
+                  "text": "6x"
+                }
+              ]
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.19-18.11"
+      "stats": {},
+      "last_edit": "2021.10.17-17.37"
     },
     "3913600130": {
       "name": "Whirlwind Blade",
