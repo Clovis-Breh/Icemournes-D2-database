@@ -7815,33 +7815,38 @@
         {
           "lineText": [
             {
-              "text": "Solar: 45 Reload Speed"
+              "textClass": "CDB-solar",
+              "text": ": 45 Reload Speed"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Arc: 45 Handling"
+              "textClass": "CDB-arc",
+              "text": ": 45 Handling"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Void: 18 Stability"
+              "textClass": "CDB-void",
+              "text": ": 18 Stability"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Stasis: 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty"
+              "textClass": "CDB-stasis",
+              "text": ": 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.19-18.23"
+      "stats": {},
+      "last_edit": "2021.10.17-17.39"
     },
     "3513791699": {
       "name": "Mulligan",
