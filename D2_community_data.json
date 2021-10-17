@@ -5089,7 +5089,21 @@
         {
           "lineText": [
             {
-              "text": "15% Damage Increase and sets Forward Movement Speed to 9 metres / second (Max Sprint Speed)"
+              "text": "15% Increased damage and sets Forward Movement Speed to 9 metres / second (Max Sprint Speed)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Sword Lunge Distance to X meters."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Doesn't expire on stow."
             }
           ]
         }
@@ -5104,7 +5118,7 @@
           }
         }
       },
-      "last_edit": "2021.9.19-17.40"
+      "last_edit": "2021.10.17-16.48"
     },
     "438098033": {
       "name": "Harmony",
