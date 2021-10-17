@@ -5499,6 +5499,34 @@
       ],
       "last_edit": "2021.9.21-11.30"
     },
+    "960810156": {
+      "name": "Danger Zone",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While within 15 metres of 3 enemies:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Sets Blast Radius to 100(?) "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lingers for 4(?) seconds."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "last_edit": "2021.10.17-17.18"
+    },
     "972757866": {
       "name": "Pulse Monitor",
       "description": [
