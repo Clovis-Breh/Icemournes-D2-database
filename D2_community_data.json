@@ -8394,6 +8394,40 @@
       },
       "last_edit": "2021.9.20-21.25"
     },
+    "4252909580": {
+      "name": "Bottomless Grief",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While Last Guardian Standing:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Weapon Kills fully refresh Magazine."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Passively grants +30 Magazine Stat."
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "magazine_size": {
+          "always_active": {
+            "stat": 30
+          }
+        }
+      },
+      "last_edit": "2021.10.17-16.51"
+    },
     "4267945040": {
       "name": "Full Auto Trigger System",
       "description": [
