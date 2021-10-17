@@ -4765,7 +4765,7 @@
         {
           "lineText": [
             {
-              "text": " Duration refreshed on Grenade Kill."
+              "text": "Duration refreshed on Grenade Kill."
             }
           ]
         },
@@ -4773,23 +4773,60 @@
           "lineClass": "CDB-spacer"
         },
         {
-          "lineText": [
+          "table": [
             {
-              "text": "1x = 10% Damage and 10 Handling"
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineText": [
+                {
+                  "text": "Stacks"
+                },
+                {
+                  "text": "+Damage"
+                },
+                {
+                  "text": "+Handling"
+                }
+              ]
+            },
             {
-              "text": "2x = 21% Damage and 20 Handling"
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "1x"
+                },
+                {
+                  "text": "10%"
+                },
+                {
+                  "text": "10"
+                }
+              ]
+            },
             {
-              "text": "3x = 33% Damage and 30 Handling"
+              "lineText": [
+                {
+                  "text": "2x"
+                },
+                {
+                  "text": "21%"
+                },
+                {
+                  "text": "20"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "3x"
+                },
+                {
+                  "text": "33%"
+                },
+                {
+                  "text": "30"
+                }
+              ]
             }
           ]
         }
@@ -4816,7 +4853,7 @@
           }
         }
       },
-      "last_edit": "2021.9.20-21.14"
+      "last_edit": "2021.10.17-16.47"
     },
     "25606670": {
       "name": "Dual Loader",
