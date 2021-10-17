@@ -5015,7 +5015,7 @@
         {
           "lineText": [
             {
-              "text": "Precision Hits grant Rapid Hit Stacks, granting 5/27/32/40/54 Reload Speed and 5/10/15/20/23 Stability for 2 seconds."
+              "text": "Precision Hits grant Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds."
             }
           ]
         },
@@ -5023,6 +5023,97 @@
           "lineText": [
             {
               "text": "(Verify the actual ramp up on stability, max of 23 is accurate)"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stacks"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Reload Speed"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stability"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "1x"
+                },
+                {
+                  "text": "5"
+                },
+                {
+                  "text": "5"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "2x"
+                },
+                {
+                  "text": "27"
+                },
+                {
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "3x"
+                },
+                {
+                  "text": "32"
+                },
+                {
+                  "text": "15"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "4x"
+                },
+                {
+                  "text": "40"
+                },
+                {
+                  "text": "20"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "5x"
+                },
+                {
+                  "text": "54"
+                },
+                {
+                  "text": "23"
+                }
+              ]
             }
           ]
         }
@@ -5039,12 +5130,9 @@
             ],
             "multiplier": []
           }
-        },
-        "duration": [
-          2
-        ]
+        }
       },
-      "last_edit": "2021.9.21-8.8"
+      "last_edit": "2021.10.17-18.47"
     },
     "280464955": {
       "name": "Firmly Planted",
