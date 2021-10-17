@@ -5700,6 +5700,27 @@
       },
       "last_edit": "2021.9.19-17.56"
     },
+    "1275731761": {
+      "name": "Cluster Bomb",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Explosion releases 8 Cluster Bombs, which further increase the effective damage radius and the overall damage."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Each Cluster Bomb deals 3% of the Explosive Damage."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "last_edit": "2021.10.17-17.12"
+    },
     "1359896290": {
       "name": "Dynamic Sway Reduction",
       "description": [
