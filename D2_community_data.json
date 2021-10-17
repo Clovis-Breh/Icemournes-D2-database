@@ -6778,9 +6778,82 @@
               "text": "(Verify range someday, no box scout to test)"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Weapon Frame"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Precision Damage Increase"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Rapid Fire Sniper"
+                },
+                {
+                  "text": "31%"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Adaptive Sniper"
+                },
+                {
+                  "text": "31%"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Aggressive Sniper"
+                },
+                {
+                  "text": "37%"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Linear Fusion"
+                },
+                {
+                  "text": "33%"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Scout Rifle"
+                },
+                {
+                  "text": "66%"
+                }
+              ]
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.19-17.54"
+      "stats": {},
+      "last_edit": "2021.10.17-16.57"
     },
     "2590710093": {
       "name": "Tireless Blade",
