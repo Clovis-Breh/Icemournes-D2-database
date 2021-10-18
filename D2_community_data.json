@@ -5140,14 +5140,14 @@
         {
           "lineText": [
             {
-              "text": "If Crouched:"
+              "text": "While Crouched:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)"
+              "text": " 30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)"
             }
           ]
         }
@@ -5160,9 +5160,17 @@
             ],
             "multiplier": []
           }
+        },
+        "stability": {
+          "conditional": {
+            "stat": [
+              20
+            ],
+            "multiplier": []
+          }
         }
       },
-      "last_edit": "2021.9.19-18.59"
+      "last_edit": "2021.10.18-7.59"
     },
     "354401740": {
       "name": "Assassin's Blade",
