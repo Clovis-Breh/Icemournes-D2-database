@@ -5767,29 +5767,37 @@
       ],
       "stats": {
         "reload": {
+          "always_active": {
+            "stat": 18
+          },
           "conditional": {
             "stat": [
               100
             ],
             "multiplier": []
-          },
-          "always_active": {
-            "stat": 18
           }
         },
         "handling": {
+          "always_active": {
+            "stat": 18
+          },
           "conditional": {
             "stat": [
               100
             ],
             "multiplier": []
-          },
-          "always_active": {
-            "stat": 18
+          }
+        },
+        "aim_assist": {
+          "conditional": {
+            "stat": [
+              100
+            ],
+            "multiplier": []
           }
         }
       },
-      "last_edit": "2021.9.19-17.56"
+      "last_edit": "2021.10.18-7.55"
     },
     "1275731761": {
       "name": "Cluster Bomb",
