@@ -6270,21 +6270,7 @@
         {
           "lineText": [
             {
-              "text": "13.8% Precision Damage Increase on Sniper Rifles."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "5.7% Precision Damage Increase on Machine Guns."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "Bugged. It should be 20%."
+              "text": "20% Increased Precision Damage"
             }
           ]
         }
@@ -6299,7 +6285,7 @@
           }
         }
       },
-      "last_edit": "2021.9.19-18.57"
+      "last_edit": "2021.10.18-7.58"
     },
     "1774574192": {
       "name": "Osmosis",
