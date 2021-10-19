@@ -7414,7 +7414,7 @@
         {
           "lineText": [
             {
-              "text": " 35% Flinch Reduction."
+              "text": "35% Flinch Reduction."
             }
           ]
         },
@@ -7427,9 +7427,17 @@
               "text": "Stacks multiplicatively with Unflinching Armor Mods."
             }
           ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Equivalent to 2 Unflinching Armor Mods."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.20-21.39"
+      "stats": {},
+      "last_edit": "2021.10.19-8.46"
     },
     "2869569095": {
       "name": "Field Prep",
