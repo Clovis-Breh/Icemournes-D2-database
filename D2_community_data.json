@@ -7748,11 +7748,16 @@
         }
       ],
       "stats": {
-        "duration": [
-          5
-        ]
+        "aim_assist": {
+          "conditional": {
+            "stat": [
+              20
+            ],
+            "multiplier": []
+          }
+        }
       },
-      "last_edit": "2021.9.21-12.9"
+      "last_edit": "2021.10.19-9.57"
     },
     "3016987351": {
       "name": "Counterattack",
