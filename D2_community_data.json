@@ -5327,7 +5327,14 @@
           ]
         }
       ],
-      "last_edit": "2021.9.20-21.33"
+      "stats": {
+        "aim_assist": {
+          "always_active": {
+            "stat": 10
+          }
+        }
+      },
+      "last_edit": "2021.10.19-8.45"
     },
     "591790007": {
       "name": "Iron Reach",
