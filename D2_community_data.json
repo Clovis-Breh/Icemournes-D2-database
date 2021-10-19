@@ -6194,6 +6194,9 @@
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
               "textClass": "CDB-pvp",
@@ -6205,12 +6208,37 @@
           "lineText": [
             {
               "textClass": "CDB-pvp",
-              "text": "40% to 50% Damage Increase for Primary Weapons | 10% to 20% Damage Increase for Special Weapons"
+              "text": "40% or 50% Damage Increase for Primary Weapons"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-pvp",
+              "text": "10% or 20% Damage Increase for Special Weapons"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-pvp",
+              "text": "5% or 10% Damage Increase for Power Weapons"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-pvp",
+              "text": "The lower Damage Increase is against supers with no extra Damage Resistance."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.21-12.13"
+      "stats": {},
+      "last_edit": "2021.10.19-10.2"
     },
     "1556840489": {
       "name": "Lead from Gold",
