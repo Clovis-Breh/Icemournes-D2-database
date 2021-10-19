@@ -9388,7 +9388,7 @@
         {
           "lineText": [
             {
-              "text": "Stacking 6.6% | 13.2% | 20% | 26.6% | 33% Increased Damage for 4.5 seconds."
+              "text": "Stacking Increased Damage for 4.5 seconds."
             }
           ]
         },
@@ -9396,6 +9396,78 @@
           "lineText": [
             {
               "text": "Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stacks"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Damage Increase"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "1x"
+                },
+                {
+                  "text": "6.6%"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "2x"
+                },
+                {
+                  "text": "13.2%"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "3x"
+                },
+                {
+                  "text": "20%"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "4x"
+                },
+                {
+                  "text": "26.6%"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "5x"
+                },
+                {
+                  "text": "33%"
+                }
+              ]
             }
           ]
         }
@@ -9412,12 +9484,9 @@
               33
             ]
           }
-        },
-        "duration": [
-          4.5
-        ]
+        }
       },
-      "last_edit": "2021.9.21-11.41"
+      "last_edit": "2021.10.19-9.44"
     },
     "4104185692": {
       "name": "Frenzy",
