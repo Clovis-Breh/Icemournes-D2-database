@@ -8304,14 +8304,14 @@
         {
           "lineText": [
             {
-              "text": "Reloads Magazine from Reserves based on the Number of Hits."
+              "text": "Refreshes Magazine based on the Number of Hits."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "50-60% for Primaries | 30-40% for Specials"
+              "text": "50-60% for Primaries | 30-40% for Special"
             }
           ]
         },
@@ -8327,7 +8327,7 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-9.23"
+      "last_edit": "2021.10.19-9.27"
     },
     "3425386926": {
       "name": "Rampage",
