@@ -6124,7 +6124,7 @@
         {
           "lineText": [
             {
-              "text": "Reloads 10% of Magazine Capacity From Reserves. Maxes out at Double Magazine Capacity."
+              "text": "Refreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity."
             }
           ]
         },
@@ -6134,9 +6134,20 @@
               "text": "(Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1))"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks.Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.21-8.14"
+      "stats": {},
+      "last_edit": "2021.10.19-9.10"
     },
     "1528281896": {
       "name": "Outlaw",
