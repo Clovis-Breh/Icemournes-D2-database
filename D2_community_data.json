@@ -8314,9 +8314,20 @@
               "text": "50-60% for Primaries | 30-40% for Specials"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.21-11.14"
+      "stats": {},
+      "last_edit": "2021.10.19-9.23"
     },
     "3425386926": {
       "name": "Rampage",
