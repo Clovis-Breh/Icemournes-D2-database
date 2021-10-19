@@ -8330,12 +8330,23 @@
         {
           "lineText": [
             {
-              "text": "Precision Hits within 2.5 seconds generate 1 Ammo to Magazine."
+              "text": "3 Precision Hits within 2.5 seconds generate 1 Ammo to Magazine."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Generates = Generates 1 ammo from nothingness into the magazine after 3 precision hits."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.21-12.7"
+      "stats": {},
+      "last_edit": "2021.10.19-9.56"
     },
     "3418782618": {
       "name": "Rewind Rounds",
