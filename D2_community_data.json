@@ -6464,8 +6464,25 @@
           ]
         }
       ],
-      "stats": {},
-      "last_edit": "2021.10.19-8.13"
+      "stats": {
+        "aim_assist": {
+          "conditional": {
+            "stat": [
+              15
+            ],
+            "multiplier": []
+          }
+        },
+        "stability": {
+          "conditional": {
+            "stat": [
+              30
+            ],
+            "multiplier": []
+          }
+        }
+      },
+      "last_edit": "2021.10.19-8.14"
     },
     "1885400500": {
       "name": "Ricochet Rounds",
