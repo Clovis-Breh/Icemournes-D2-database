@@ -6874,7 +6874,7 @@
         {
           "lineText": [
             {
-              "text": "15% Magazine Reloaded from Reserves, ~20 Stability and ~25 Handling. "
+              "text": "15% Magazine Refreshed, ~20 Stability and ~25 Handling. "
             }
           ]
         },
@@ -6891,6 +6891,16 @@
               "text": "(Verify stability and handling)"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
+            }
+          ]
         }
       ],
       "stats": {
@@ -6902,11 +6912,16 @@
             "multiplier": []
           }
         },
-        "duration": [
-          3
-        ]
+        "stability": {
+          "conditional": {
+            "stat": [
+              20
+            ],
+            "multiplier": []
+          }
+        }
       },
-      "last_edit": "2021.9.21-11.29"
+      "last_edit": "2021.10.19-9.31"
     },
     "2117683199": {
       "name": "Full Auto Trigger System",
