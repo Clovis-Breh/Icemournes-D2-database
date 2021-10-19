@@ -8800,7 +8800,7 @@
         {
           "lineText": [
             {
-              "text": "Picks up the Ammo and Reloads all your Weapons from Reserves."
+              "text": "Picks up the Ammo and Refreshes all your Weapons."
             }
           ]
         },
@@ -8810,9 +8810,20 @@
               "text": "Triggers Ammo Pickup effects. 4 second Cooldown."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.21-11.22"
+      "stats": {},
+      "last_edit": "2021.10.19-9.29"
     },
     "3708227201": {
       "name": "Surrounded",
