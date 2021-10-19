@@ -6452,7 +6452,7 @@
         {
           "lineText": [
             {
-              "text": " 1.2x Aim Assist and Reticle Stickiness Falloff Distance, 15 Aim Assist, +2.7 degrees precision angle threshold, ~30% more Accuracy and ~30 Stability."
+              "text": " 1.2x Aim Assist and Reticle Stickiness Falloff Distance, 15 Aim Assist, +2.7 degrees precision angle threshold, ~30% Accuracy Cone Size and ~30 Stability."
             }
           ]
         },
@@ -6464,7 +6464,8 @@
           ]
         }
       ],
-      "last_edit": "2021.9.20-21.20"
+      "stats": {},
+      "last_edit": "2021.10.19-8.13"
     },
     "1885400500": {
       "name": "Ricochet Rounds",
