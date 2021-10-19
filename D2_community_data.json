@@ -9412,8 +9412,36 @@
           ]
         }
       ],
-      "stats": {},
-      "last_edit": "2021.10.19-9.52"
+      "stats": {
+        "reload": {
+          "conditional": {
+            "stat": [
+              15,
+              55
+            ],
+            "multiplier": []
+          }
+        },
+        "handling": {
+          "conditional": {
+            "stat": [],
+            "multiplier": [
+              0.75,
+              0.56
+            ]
+          }
+        },
+        "stability": {
+          "conditional": {
+            "stat": [
+              15,
+              40
+            ],
+            "multiplier": []
+          }
+        }
+      },
+      "last_edit": "2021.10.19-9.53"
     },
     "4082225868": {
       "name": "Swashbuckler",
