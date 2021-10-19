@@ -5271,7 +5271,18 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-20.29"
+      "stats": {
+        "damage": {
+          "conditional": {
+            "stat": [],
+            "multiplier": [
+              1,
+              8
+            ]
+          }
+        }
+      },
+      "last_edit": "2021.10.19-8.9"
     },
     "469285294": {
       "name": "Recombination",
