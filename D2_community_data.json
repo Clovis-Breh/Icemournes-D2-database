@@ -890,11 +890,16 @@
     "692285813": {
       "name": "Light Shift",
       "item_name": "Mask of Bakris",
+      "item_id": "1619425569",
       "description": [
         {
           "lineText": [
             {
-              "text": "Stasis Subclass Only"
+              "textClass": "CDB-stasis",
+              "text": "Stasis"
+            },
+            {
+              "text": " Subclass Only"
             }
           ]
         },
@@ -925,6 +930,7 @@
         {
           "lineText": [
             {
+              "textClass": "CDB-pve",
               "text": "[PVE] Light Shift grants a 10% Damage Increase to Slowed/Frozen targets, as well as granting 10% Damage Increase to Arc Weapons."
             }
           ]
@@ -940,8 +946,8 @@
           ]
         }
       ],
-      "armor_id": "1619425569",
-      "last_edit": "2021.9.4-20.32"
+      "stats": {},
+      "last_edit": "2021.10.19-20.9"
     },
     "699693452": {
       "name": "Vengeance",
