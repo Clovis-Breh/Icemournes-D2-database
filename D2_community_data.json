@@ -4743,19 +4743,8 @@
           ]
         }
       ],
-      "stats": {
-        "reload": {
-          "always_active": {
-            "stat": -28
-          }
-        },
-        "stability": {
-          "always_active": {
-            "stat": 18
-          }
-        }
-      },
-      "last_edit": "2021.10.19-8.27"
+      "stats": {},
+      "last_edit": "2021.10.19-8.30"
     },
     "11612903": {
       "name": "Adrenaline Junkie",
