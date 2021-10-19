@@ -7411,7 +7411,14 @@
           ]
         }
       ],
-      "last_edit": "2021.9.20-21.51"
+      "stats": {
+        "zoom": {
+          "always_active": {
+            "multiplier": 1.1
+          }
+        }
+      },
+      "last_edit": "2021.10.19-8.57"
     },
     "2866798147": {
       "name": "No Distractions",
