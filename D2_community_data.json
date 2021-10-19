@@ -4410,6 +4410,7 @@
     "4024170927": {
       "name": "Misdirection",
       "item_name": "Gemini Jester",
+      "item_id": "1163283805",
       "description": [
         {
           "lineText": [
@@ -4432,14 +4433,7 @@
           "lineText": [
             {
               "textClass": "CDB-pve",
-              "text": "[PVE]"
-            },
-            {
-              "text": " Misdirection "
-            },
-            {
-              "textClass": "CDB-pve",
-              "text": "disorients minors and elites for 5 seconds."
+              "text": "[PVE] Misdirection disorients minors and elites for 5 seconds."
             }
           ]
         },
@@ -4447,14 +4441,7 @@
           "lineText": [
             {
               "textClass": "CDB-pvp",
-              "text": "[PVP]"
-            },
-            {
-              "text": " Misdirection "
-            },
-            {
-              "textClass": "CDB-pvp",
-              "text": "warps audio and removes radar for 5 seconds, as well as briefly blinding."
+              "text": "[PVP] Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
             }
           ]
         },
@@ -4469,8 +4456,8 @@
           ]
         }
       ],
-      "armor_id": "1163283805",
-      "last_edit": "2021.9.19-15.50"
+      "stats": {},
+      "last_edit": "2021.10.19-20.0"
     },
     "4048389864": {
       "name": "Feast of Light",
