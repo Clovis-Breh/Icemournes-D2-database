@@ -6736,7 +6736,7 @@
         {
           "lineText": [
             {
-              "text": " 25 Stability and -10%(?) Accuracy Cone Size for 0.6 seconds. "
+              "text": " 25 Stability and -10% Accuracy Cone Size for 0.6 seconds. "
             }
           ]
         },
@@ -6753,17 +6753,23 @@
         {
           "lineText": [
             {
-              "text": "[Controller-Only] Weapon fires the instant trigger pressure is applied."
+              "textClass": "CDB-highlight",
+              "text": " [Controller-Only] Weapon fires the instant trigger pressure is applied."
             }
           ]
         }
       ],
       "stats": {
-        "duration": [
-          0.6
-        ]
+        "stability": {
+          "conditional": {
+            "stat": [
+              25
+            ],
+            "multiplier": []
+          }
+        }
       },
-      "last_edit": "2021.9.21-11.44"
+      "last_edit": "2021.10.19-9.46"
     },
     "1954620775": {
       "name": "Timed Payload",
