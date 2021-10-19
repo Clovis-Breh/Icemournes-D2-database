@@ -8976,9 +8976,12 @@
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
-              "text": "Surrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds "
+              "text": "Surrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds"
             }
           ]
         }
@@ -8994,7 +8997,7 @@
           }
         }
       },
-      "last_edit": "2021.9.21-11.36"
+      "last_edit": "2021.10.19-9.41"
     },
     "3721627275": {
       "name": "Swap Mag",
