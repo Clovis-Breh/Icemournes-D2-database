@@ -9064,9 +9064,14 @@
           "always_active": {
             "stat": -28
           }
+        },
+        "aim_assist": {
+          "always_active": {
+            "stat": 20
+          }
         }
       },
-      "last_edit": "2021.9.20-21.25"
+      "last_edit": "2021.10.19-8.26"
     },
     "4252909580": {
       "name": "Bottomless Grief",
