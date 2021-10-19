@@ -9340,21 +9340,67 @@
         {
           "lineText": [
             {
-              "text": "If within 15 metres of an enemy: ~15 Stability, 15 Reload, and 0.75x Handling Animation Duration Multiplier."
+              "text": "Grants the following while within 15 metres of enemies:"
             }
           ]
         },
         {
-          "lineText": [
-            {
-              "text": "If within 15 metres of 2+ enemies: ~40 Stability, 55 Reload, and 0.56x Handling Animation Duration Multiplier."
-            }
-          ]
+          "lineClass": "CDB-spacer"
         },
         {
-          "lineText": [
+          "table": [
             {
-              "text": "(Verify stability)"
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Enemy Count"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Reload"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stability"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Handling Animation Duration"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "1"
+                },
+                {
+                  "text": "15"
+                },
+                {
+                  "text": "15"
+                },
+                {
+                  "text": "0.75x"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "2+"
+                },
+                {
+                  "text": "55"
+                },
+                {
+                  "text": "40"
+                },
+                {
+                  "text": "0.56x"
+                }
+              ]
             }
           ]
         }
@@ -9377,9 +9423,18 @@
               0.56
             ]
           }
+        },
+        "stability": {
+          "conditional": {
+            "stat": [
+              15,
+              40
+            ],
+            "multiplier": []
+          }
         }
       },
-      "last_edit": "2021.9.21-11.46"
+      "last_edit": "2021.10.19-9.51"
     },
     "4082225868": {
       "name": "Swashbuckler",
