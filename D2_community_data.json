@@ -5622,7 +5622,24 @@
         {
           "lineText": [
             {
-              "text": "Fully refreshes weapon (Held or Stowed), 45 Handling, 5% Faster Swap Speed."
+              "text": "Refreshes weapon, 45 Handling, 5% Faster Swap Speed."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Works even while stowed)"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
             }
           ]
         }
@@ -5634,12 +5651,12 @@
               45
             ],
             "multiplier": [
-              1.05
+              0.95
             ]
           }
         }
       },
-      "last_edit": "2021.9.20-21.47"
+      "last_edit": "2021.10.19-8.55"
     },
     "1015611457": {
       "name": "Kill Clip",
