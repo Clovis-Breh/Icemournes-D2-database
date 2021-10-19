@@ -6640,7 +6640,7 @@
         {
           "lineText": [
             {
-              "text": "Reloads 10-17% of Magazine from Reserves."
+              "text": "Refreshes 10-17% of Magazine."
             }
           ]
         },
@@ -6650,9 +6650,20 @@
               "text": "Amount varies between Weapon Archetypes"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.21-11.32"
+      "stats": {},
+      "last_edit": "2021.10.19-9.34"
     },
     "1866048759": {
       "name": "Hip-Fire Grip",
