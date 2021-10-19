@@ -5781,9 +5781,6 @@
       ],
       "stats": {
         "reload": {
-          "always_active": {
-            "stat": 18
-          },
           "conditional": {
             "stat": [
               100
@@ -5792,9 +5789,6 @@
           }
         },
         "handling": {
-          "always_active": {
-            "stat": 18
-          },
           "conditional": {
             "stat": [
               100
@@ -5811,7 +5805,7 @@
           }
         }
       },
-      "last_edit": "2021.10.18-7.55"
+      "last_edit": "2021.10.19-8.33"
     },
     "1275731761": {
       "name": "Cluster Bomb",
