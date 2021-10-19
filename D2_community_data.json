@@ -6011,6 +6011,27 @@
       ],
       "last_edit": "2021.9.21-12.13"
     },
+    "1556840489": {
+      "name": "Lead from Gold",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Power Ammo Pickup:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Grants the equivalent of 1 Special Ammo Pickup."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "last_edit": "2021.10.19-8.43"
+    },
     "1561002382": {
       "name": "High-Caliber Rounds",
       "description": [
