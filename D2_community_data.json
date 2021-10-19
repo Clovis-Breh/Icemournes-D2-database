@@ -7916,7 +7916,7 @@
         {
           "lineText": [
             {
-              "text": "15% Magazine Reloaded from Reserves, 20 Range, and 30 Stability. Only buffs first shot (of the burst)."
+              "text": "15% Magazine Refreshed, 20 Range, and 30 Stability. Only buffs first shot."
             }
           ]
         },
@@ -7933,6 +7933,16 @@
               "text": "(Verify stability)"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
+            }
+          ]
         }
       ],
       "stats": {
@@ -7944,11 +7954,16 @@
             "multiplier": []
           }
         },
-        "duration": [
-          3
-        ]
+        "stability": {
+          "conditional": {
+            "stat": [
+              30
+            ],
+            "multiplier": []
+          }
+        }
       },
-      "last_edit": "2021.9.21-11.27"
+      "last_edit": "2021.10.19-9.30"
     },
     "3194351027": {
       "name": "Explosive Light",
