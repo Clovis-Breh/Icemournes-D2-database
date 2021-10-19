@@ -8417,14 +8417,97 @@
         {
           "lineText": [
             {
-              "text": "Grants 5-22-50 Reload Speed, 5-15-25 Stability, and 10-25-50 Handling depending on the amount of Charged Abilities."
+              "text": "Grants Reload Speed, Stability, and Handling depending on the amount of Charged Abilities."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
             {
               "text": "Max x3. Each Ability Charge contributes to this. Works with double Ability Charges."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Abilities"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Reload"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stability"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Handling"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "1x"
+                },
+                {
+                  "text": "5"
+                },
+                {
+                  "text": "5"
+                },
+                {
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "2x"
+                },
+                {
+                  "text": "22"
+                },
+                {
+                  "text": "15"
+                },
+                {
+                  "text": "25"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "3x"
+                },
+                {
+                  "text": "50"
+                },
+                {
+                  "text": "25"
+                },
+                {
+                  "text": "50"
+                }
+              ]
             }
           ]
         }
@@ -8449,9 +8532,19 @@
             ],
             "multiplier": []
           }
+        },
+        "stability": {
+          "conditional": {
+            "stat": [
+              5,
+              15,
+              25
+            ],
+            "multiplier": []
+          }
         }
       },
-      "last_edit": "2021.9.21-11.35"
+      "last_edit": "2021.10.19-9.39"
     },
     "3511092054": {
       "name": "Elemental Capacitor",
