@@ -1977,6 +1977,7 @@
     "1694242448": {
       "name": "Illegally Modded Holster",
       "item_name": "Lucky Pants",
+      "item_id": "193869522",
       "description": [
         {
           "lineText": [
@@ -1988,7 +1989,7 @@
         {
           "lineText": [
             {
-              "text": "100 Handling Ready Speed and Y% Accuracy Increase on Draw for X seconds."
+              "text": "100 Handling Ready Speed and ~40% smaller Accuracy Cone Size on Draw for X seconds."
             }
           ]
         },
@@ -2036,8 +2037,8 @@
           ]
         }
       ],
-      "armor_id": "193869522",
-      "last_edit": "2021.9.19-16.25"
+      "stats": {},
+      "last_edit": "2021.10.19-20.7"
     },
     "1694242449": {
       "name": "Uncanny Arrows",
