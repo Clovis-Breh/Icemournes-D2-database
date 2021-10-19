@@ -5290,31 +5290,197 @@
           ]
         },
         {
-          "lineText": [
+          "table": [
             {
-              "textClass": "CDB-pve",
-              "text": "8% | 15% | 24% | 33% | 42% | 50% | 59% | 70% | 80% | 88% for Heritage."
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stacks"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Heritage"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Succession"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Both in PVP"
+                }
+              ]
+            },
             {
-              "textClass": "CDB-pve",
-              "text": "8% | 17% | 27% | 38% | 46% | 57% | 68% | 80% | 89% | 100% for Succession."
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "1x"
+                },
+                {
+                  "text": "8%"
+                },
+                {
+                  "text": "8%"
+                },
+                {
+                  "text": "5%"
+                }
+              ]
+            },
             {
-              "textClass": "CDB-pvp",
-              "text": "5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% for Heritage and Succession."
+              "lineText": [
+                {
+                  "text": "2x"
+                },
+                {
+                  "text": "15%"
+                },
+                {
+                  "text": "17%"
+                },
+                {
+                  "text": "10%"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "3x"
+                },
+                {
+                  "text": "24%"
+                },
+                {
+                  "text": "27%"
+                },
+                {
+                  "text": "15%"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "4x"
+                },
+                {
+                  "text": "33%"
+                },
+                {
+                  "text": "38%"
+                },
+                {
+                  "text": "20%"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "5x"
+                },
+                {
+                  "text": "42%"
+                },
+                {
+                  "text": "46%"
+                },
+                {
+                  "text": "25%"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "6x"
+                },
+                {
+                  "text": "50%"
+                },
+                {
+                  "text": "57%"
+                },
+                {
+                  "text": "30%"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "7x"
+                },
+                {
+                  "text": "59%"
+                },
+                {
+                  "text": "68%"
+                },
+                {
+                  "text": "35%"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "8x"
+                },
+                {
+                  "text": "70%"
+                },
+                {
+                  "text": "80%"
+                },
+                {
+                  "text": "40%"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "9x"
+                },
+                {
+                  "text": "80%"
+                },
+                {
+                  "text": "89%"
+                },
+                {
+                  "text": "45%"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "10x"
+                },
+                {
+                  "text": "88%"
+                },
+                {
+                  "text": "100%"
+                },
+                {
+                  "text": "50%"
+                }
+              ]
             }
           ]
         }
       ],
-      "last_edit": "2021.9.21-8.12"
+      "stats": {},
+      "last_edit": "2021.10.19-9.7"
     },
     "588594999": {
       "name": "Moving Target",
