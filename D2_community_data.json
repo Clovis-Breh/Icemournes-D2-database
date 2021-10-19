@@ -5346,14 +5346,8 @@
           ]
         }
       ],
-      "stats": {
-        "range": {
-          "always_active": {
-            "stat": 18
-          }
-        }
-      },
-      "last_edit": "2021.9.20-21.27"
+      "stats": {},
+      "last_edit": "2021.10.19-8.32"
     },
     "699525795": {
       "name": "Eye of the Storm",
