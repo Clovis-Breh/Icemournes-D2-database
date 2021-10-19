@@ -4877,14 +4877,8 @@
           ]
         }
       ],
-      "stats": {
-        "reload": {
-          "always_active": {
-            "stat": -45
-          }
-        }
-      },
-      "last_edit": "2021.9.19-18.15"
+      "stats": {},
+      "last_edit": "2021.10.19-8.38"
     },
     "47981717": {
       "name": "Opening Shot",
