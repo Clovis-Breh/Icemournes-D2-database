@@ -8497,6 +8497,43 @@
       },
       "last_edit": "2021.9.21-11.39"
     },
+    "3824105627": {
+      "name": "Firefly",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Explodes the enemy, dealing Solar Damage in a 3 metre Radius. Same size as Dragonfly, but deals 25% more Damage. It cannot use Dragonfly Spec."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "45 Reload Speed for 6 seconds."
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "reload": {
+          "conditional": {
+            "stat": [
+              45
+            ],
+            "multiplier": []
+          }
+        }
+      },
+      "last_edit": "2021.10.19-7.52"
+    },
     "3865257976": {
       "name": "Dragonfly",
       "description": [
