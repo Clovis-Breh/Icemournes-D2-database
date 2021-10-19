@@ -4944,7 +4944,14 @@
         {
           "lineText": [
             {
-              "text": "Spawns a Stasis Crystal on Enemy Death Location."
+              "text": "Spawns a "
+            },
+            {
+              "textClass": "CDB-stasis",
+              "text": "Stasis "
+            },
+            {
+              "text": " Crystal on Enemy Death Location."
             }
           ]
         },
@@ -4956,7 +4963,8 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-20.31"
+      "stats": {},
+      "last_edit": "2021.10.19-8.10"
     },
     "201365942": {
       "name": "Archer's Tempo",
