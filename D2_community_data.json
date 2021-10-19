@@ -7559,19 +7559,40 @@
         {
           "lineText": [
             {
-              "text": " Refreshes magazine."
+              "text": "Refreshes magazine."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": " Energy Weapons generate 1 Ammo against Matching Elemental Shields per hit"
+              "text": "Energy Weapons generate 1 Ammo against Matching Elemental Shields per hit"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Generates = Generates 1 ammo from nothingness into the magazine after hitting a Barrier or a Matching Elemental shield."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.19-19.41"
+      "stats": {},
+      "last_edit": "2021.10.19-8.6"
     },
     "3108830275": {
       "name": "Unrelenting",
