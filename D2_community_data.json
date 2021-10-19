@@ -5730,22 +5730,21 @@
         {
           "lineText": [
             {
-              "text": "(33% Faster than 100 Handling)"
+              "text": "Stacks with ADS Scalar effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow."
             }
           ]
-        },
-        {
-          "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
             {
-              "text": "Stacks with ADS Scalar effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow."
+              "textClass": "CDB-highlight",
+              "text": " Needs retesting, F."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.21-11.30"
+      "stats": {},
+      "last_edit": "2021.10.19-9.32"
     },
     "960810156": {
       "name": "Danger Zone",
