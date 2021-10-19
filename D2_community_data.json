@@ -5284,13 +5284,12 @@
           "conditional": {
             "stat": [],
             "multiplier": [
-              1,
               8
             ]
           }
         }
       },
-      "last_edit": "2021.10.19-8.9"
+      "last_edit": "2021.10.19-8.20"
     },
     "469285294": {
       "name": "Recombination",
