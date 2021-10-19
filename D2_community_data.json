@@ -6157,12 +6157,23 @@
         {
           "lineText": [
             {
-              "text": "All weapons get relaoded from reserves."
+              "text": "All weapons are refreshed."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.19-20.21"
+      "stats": {},
+      "last_edit": "2021.10.19-8.8"
     },
     "1645158859": {
       "name": "Under Pressure",
