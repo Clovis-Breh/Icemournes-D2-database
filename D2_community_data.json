@@ -6401,16 +6401,10 @@
               "text": "Using your Grenade Ability changes the Weapon Element to match your selected Subclass until stowed. "
             }
           ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "(Does not work with Verity's Brow)"
-            }
-          ]
         }
       ],
-      "last_edit": "2021.9.20-21.43"
+      "stats": {},
+      "last_edit": "2021.10.19-8.49"
     },
     "1799762209": {
       "name": "Cornered",
