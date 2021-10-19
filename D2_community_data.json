@@ -9365,7 +9365,7 @@
                 },
                 {
                   "textClass": "CDB-bold",
-                  "text": "Handling Animation Duration"
+                  "text": "Handling Animation Duration Multiplier"
                 }
               ]
             },
@@ -9403,38 +9403,17 @@
               ]
             }
           ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(verify stability)"
+            }
+          ]
         }
       ],
-      "stats": {
-        "reload": {
-          "conditional": {
-            "stat": [
-              15,
-              55
-            ],
-            "multiplier": []
-          }
-        },
-        "handling": {
-          "conditional": {
-            "stat": [],
-            "multiplier": [
-              0.75,
-              0.56
-            ]
-          }
-        },
-        "stability": {
-          "conditional": {
-            "stat": [
-              15,
-              40
-            ],
-            "multiplier": []
-          }
-        }
-      },
-      "last_edit": "2021.10.19-9.51"
+      "stats": {},
+      "last_edit": "2021.10.19-9.52"
     },
     "4082225868": {
       "name": "Swashbuckler",
