@@ -7033,17 +7033,13 @@
         {
           "lineText": [
             {
-              "text": "Suppresses and Weakens the enemy, granting a 20% Damage Increase for 4 seconds."
+              "text": "Suppresses and Weakens the enemy, granting 20% increased damage for 4 seconds."
             }
           ]
         }
       ],
-      "stats": {
-        "duration": [
-          4
-        ]
-      },
-      "last_edit": "2021.9.19-19.2"
+      "stats": {},
+      "last_edit": "2021.10.21-14.9"
     },
     "2284787283": {
       "name": "Clown Cartridge",
