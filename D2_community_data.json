@@ -8246,7 +8246,7 @@
         {
           "lineText": [
             {
-              "text": "Refeshes stowed weapon from reserves after 3 seconds."
+              "text": "Refreshes stowed weapon from reserves after 3 seconds."
             }
           ]
         },
@@ -8262,7 +8262,7 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.17-17.25"
+      "last_edit": "2021.10.21-14.3"
     },
     "3337692349": {
       "name": "Mulligan",
