@@ -5699,7 +5699,7 @@
         {
           "lineText": [
             {
-              "text": "10 Reload with 0.8x Multiplier."
+              "text": "10 Reload Speed with 0.8x Multiplier."
             }
           ]
         }
@@ -5707,12 +5707,12 @@
       "stats": {
         "reload": {
           "always_active": {
-            "multiplier": 0.8,
-            "stat": 10
+            "stat": 10,
+            "multiplier": 0.8
           }
         }
       },
-      "last_edit": "2021.9.20-21.24"
+      "last_edit": "2021.10.22-13.47"
     },
     "957782887": {
       "name": "Snapshot Sights",
