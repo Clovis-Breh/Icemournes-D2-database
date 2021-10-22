@@ -6425,7 +6425,7 @@
         {
           "lineText": [
             {
-              "text": "All weapons are refreshed."
+              "text": "All weapons get refreshed."
             }
           ]
         },
@@ -6441,7 +6441,7 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-8.8"
+      "last_edit": "2021.10.22-13.51"
     },
     "1645158859": {
       "name": "Under Pressure",
