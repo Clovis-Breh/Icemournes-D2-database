@@ -8070,7 +8070,7 @@
           "lineText": [
             {
               "textClass": "CDB-bold",
-              "text": " (Check out https://d2clarity.page.link/combatant for Combatant Classifications)"
+              "text": " (Check out d2clarity.page.link/combatant for Combatant Classifications)"
             }
           ]
         },
@@ -8202,7 +8202,7 @@
           }
         }
       },
-      "last_edit": "2021.10.19-9.21"
+      "last_edit": "2021.10.23-15.26"
     },
     "3275789089": {
       "name": "Shield Disorient",
