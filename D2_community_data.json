@@ -7192,14 +7192,14 @@
         {
           "lineText": [
             {
-              "text": "{rang_0} In-Game Range Increase"
+              "text": "{rang_0}m In-Game Range Increase"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "{hand_0} Ready/Stow Speed"
+              "text": "{hand_0}s Ready/Stow Animation Duration"
             }
           ]
         },
@@ -7241,7 +7241,7 @@
           }
         }
       },
-      "last_edit": "2021.10.29-14.27"
+      "last_edit": "2021.10.29-14.42"
     },
     "2458213969": {
       "name": "Multikill Clip",
