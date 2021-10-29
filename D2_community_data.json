@@ -7192,7 +7192,7 @@
         {
           "lineText": [
             {
-              "text": "{rang_0}m In-Game Range Increase"
+              "text": "{rang_0}m In-Game Range"
             }
           ]
         },
@@ -7241,7 +7241,7 @@
           }
         }
       },
-      "last_edit": "2021.10.29-14.43"
+      "last_edit": "2021.10.29-14.44"
     },
     "2458213969": {
       "name": "Multikill Clip",
