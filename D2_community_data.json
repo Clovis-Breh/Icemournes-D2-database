@@ -7538,6 +7538,10 @@
                 {
                   "textClass": "CDB-bold",
                   "text": "Reload Animation Length"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Reload time"
                 }
               ]
             },
@@ -7552,6 +7556,9 @@
                 },
                 {
                   "text": "1x"
+                },
+                {
+                  "text": "{relo_}"
                 }
               ]
             },
@@ -7565,6 +7572,9 @@
                 },
                 {
                   "text": "0.9x"
+                },
+                {
+                  "text": "{relo_}"
                 }
               ]
             },
@@ -7579,6 +7589,9 @@
                 },
                 {
                   "text": "0.88x"
+                },
+                {
+                  "text": "{relo_}"
                 }
               ]
             },
@@ -7592,6 +7605,9 @@
                 },
                 {
                   "text": "0.85x"
+                },
+                {
+                  "text": "{relo_}"
                 }
               ]
             },
@@ -7606,6 +7622,9 @@
                 },
                 {
                   "text": "0.8x"
+                },
+                {
+                  "text": "{relo_}"
                 }
               ]
             }
@@ -7632,7 +7651,7 @@
           }
         }
       },
-      "last_edit": "2021.10.17-18.1"
+      "last_edit": "2021.10.29-14.23"
     },
     "2846385770": {
       "name": "Rangefinder",
