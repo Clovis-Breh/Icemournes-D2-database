@@ -7185,7 +7185,21 @@
         {
           "lineText": [
             {
-              "text": " 20 Range, 50 Mobility, 40 Handling, 30% reduced ADS Movement Penalty, and a 1.05x Damage Falloff Distance Multiplier"
+              "text": "20 Range, 50 Mobility, 40 Handling, 30% reduced ADS Movement Penalty, and a 1.05x Damage Falloff Distance Multiplier"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "{rang_0} In-Game Range Increase"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "{hand_0} Ready/Stow Speed"
             }
           ]
         },
@@ -7195,7 +7209,7 @@
         {
           "lineText": [
             {
-              "text": " Lasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds."
+              "text": "Lasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds."
             }
           ]
         },
@@ -7227,7 +7241,7 @@
           }
         }
       },
-      "last_edit": "2021.10.19-8.41"
+      "last_edit": "2021.10.29-14.27"
     },
     "2458213969": {
       "name": "Multikill Clip",
