@@ -452,6 +452,7 @@
     "481860150": {
       "name": "Wish-Dragon Teeth",
       "item_name": "Young Ahamkara's Spine",
+      "item_id": "475652357",
       "description": [
         {
           "lineText": [
@@ -487,7 +488,14 @@
         {
           "lineText": [
             {
-              "text": "Last 30 seconds (10 -> 30) and have 100HP with 50% Damage Resist."
+              "text": "Last 30 seconds (10 -> 30) and have "
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": "100HP "
+            },
+            {
+              "text": " with 50% Damage Resist."
             }
           ]
         },
@@ -509,8 +517,8 @@
           ]
         }
       ],
-      "armor_id": "475652357",
-      "last_edit": "2021.9.5-8.2"
+      "stats": {},
+      "last_edit": "2021.11.1-15.28"
     },
     "481860151": {
       "name": "Spring-Loaded Mounting",
