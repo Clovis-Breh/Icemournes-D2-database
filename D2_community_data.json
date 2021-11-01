@@ -5979,6 +5979,45 @@
       },
       "last_edit": "2021.9.21-11.17"
     },
+    "1168162263": {
+      "name": "Outlaw",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "63 Reload Speed with 0.9x Multiplier for 6 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "In-Game Reload: {relo_0}s"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "reload": {
+          "conditional": {
+            "stat": [
+              63
+            ],
+            "multiplier": [
+              0.9
+            ]
+          }
+        }
+      },
+      "last_edit": "2021.11.1-20.35"
+    },
     "1195158366": {
       "name": "Encore",
       "description": [
