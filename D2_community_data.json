@@ -4744,15 +4744,11 @@
       "name": "Iron Grip",
       "description": [
         {
-          "lineText": [
-            {
-              "text": "18 Stability and -28 Reload Speed."
-            }
-          ]
+          "lineClass": "CDB-spacer"
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-8.30"
+      "last_edit": "2021.11.1-17.30"
     },
     "11612903": {
       "name": "Adrenaline Junkie",
