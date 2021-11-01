@@ -515,11 +515,12 @@
     "481860151": {
       "name": "Spring-Loaded Mounting",
       "item_name": "Mechaneer's Tricksleeves",
+      "item_id": "1734144409",
       "description": [
         {
           "lineText": [
             {
-              "text": "Readying sidearm on critical health: "
+              "text": "Upon readying a sidearm while at Critical Health:"
             }
           ]
         },
@@ -527,21 +528,21 @@
           "lineText": [
             {
               "textClass": "CDB-pve",
-              "text": "100%"
+              "text": "100% "
             },
             {
               "textClass": "CDB-pvp",
-              "text": " [35%]"
+              "text": "[35%]"
             },
             {
-              "text": " Damage Increase until no longer critical."
+              "text": " increased damage until no longer critical."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Refreshes sidearm magazine. (Generates ammo if reserves are empty)"
+              "text": "Refreshes sidearm magazine."
             }
           ]
         },
@@ -556,8 +557,8 @@
           ]
         }
       ],
-      "armor_id": "1734144409",
-      "last_edit": "2021.9.4-20.37"
+      "stats": {},
+      "last_edit": "2021.11.1-15.25"
     },
     "553093017": {
       "name": "Beyond The Veil",
