@@ -5592,15 +5592,11 @@
       "name": "Iron Reach",
       "description": [
         {
-          "lineText": [
-            {
-              "text": "18 Range and -28 Stability"
-            }
-          ]
+          "lineClass": "CDB-spacer"
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-8.32"
+      "last_edit": "2021.11.1-17.31"
     },
     "699525795": {
       "name": "Eye of the Storm",
