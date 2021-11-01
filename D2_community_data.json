@@ -7142,6 +7142,9 @@
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
               "text": "10% Faster Rate of Fire on Shotguns."
@@ -7156,7 +7159,8 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-19.11"
+      "stats": {},
+      "last_edit": "2021.11.1-17.52"
     },
     "2213355989": {
       "name": "High-Impact Reserves",
