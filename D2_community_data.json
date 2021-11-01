@@ -8828,19 +8828,20 @@
         {
           "lineText": [
             {
-              "text": " Grants 7.5% Ability Energy split equally to all uncharged abilities."
+              "text": "Grants 7.5% Ability Energy split equally to all uncharged abilities."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "*BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES*"
+              "text": "*BUGGED WITH ABILITIES THAT POSSESS CHARGES*"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.21-12.15"
+      "stats": {},
+      "last_edit": "2021.11.1-15.15"
     },
     "3643424744": {
       "name": "Overflow",
