@@ -9944,15 +9944,11 @@
       "name": "Iron Gaze",
       "description": [
         {
-          "lineText": [
-            {
-              "text": "20 Aim Assist and -28 Range."
-            }
-          ]
+          "lineClass": "CDB-spacer"
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-8.29"
+      "last_edit": "2021.11.1-17.29"
     },
     "4252909580": {
       "name": "Bottomless Grief",
