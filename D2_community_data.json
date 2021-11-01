@@ -9991,6 +9991,9 @@
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
               "text": "10% Faster Rate of Fire on Shotguns."
@@ -10005,7 +10008,8 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-19.12"
+      "stats": {},
+      "last_edit": "2021.11.1-17.53"
     }
   },
   "weapon_frames": {},
