@@ -6098,7 +6098,14 @@
         {
           "lineText": [
             {
-              "text": "Draw/Stow Speed: {hand_0}s"
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         },
@@ -6139,7 +6146,7 @@
           }
         }
       },
-      "last_edit": "2021.11.1-16.27"
+      "last_edit": "2021.11.1-18.29"
     },
     "1275731761": {
       "name": "Cluster Bomb",
