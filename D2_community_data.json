@@ -5992,6 +5992,20 @@
           ]
         },
         {
+          "lineText": [
+            {
+              "text": "In-Game Reload Speed: {relo_0}"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Draw/Stow Speed: {hand_0}"
+            }
+          ]
+        },
+        {
           "lineClass": "CDB-spacer"
         },
         {
@@ -6028,7 +6042,7 @@
           }
         }
       },
-      "last_edit": "2021.10.19-8.33"
+      "last_edit": "2021.11.1-16.23"
     },
     "1275731761": {
       "name": "Cluster Bomb",
