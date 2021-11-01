@@ -9827,14 +9827,35 @@
         {
           "lineText": [
             {
-              "text": " 15% Damage Increase, 50(?) Handling, and 50 Reload Speed."
+              "text": "15% Damage Increase, 50(?) Handling, and 50 Reload Speed."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": " Lasts until you're out of combat."
+              "text": "Lasts until you're out of combat."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "In-Game Reload: {relo_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         },
@@ -9883,12 +9904,9 @@
               15
             ]
           }
-        },
-        "duration": [
-          5
-        ]
+        }
       },
-      "last_edit": "2021.9.19-19.6"
+      "last_edit": "2021.11.1-16.43"
     },
     "4152709778": {
       "name": "Iron Gaze",
