@@ -5940,6 +5940,55 @@
           ]
         },
         {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stacks"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "In-Game Range"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "1"
+                },
+                {
+                  "text": "{rang_0}m"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "2"
+                },
+                {
+                  "text": "{rang_1}m"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "3"
+                },
+                {
+                  "text": "{rang_2}m"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "lineClass": "CDB-spacer"
         },
         {
@@ -5972,7 +6021,7 @@
           }
         }
       },
-      "last_edit": "2021.11.1-15.54"
+      "last_edit": "2021.11.1-16.32"
     },
     "1264398905": {
       "name": "Celerity",
