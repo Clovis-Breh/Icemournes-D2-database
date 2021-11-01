@@ -5002,17 +5002,8 @@
           ]
         }
       ],
-      "stats": {
-        "recoil_dir": {
-          "conditional": {
-            "stat": [
-              20
-            ],
-            "multiplier": []
-          }
-        }
-      },
-      "last_edit": "2021.11.1-16.14"
+      "stats": {},
+      "last_edit": "2021.11.1-16.17"
     },
     "205890336": {
       "name": "Underdog",
