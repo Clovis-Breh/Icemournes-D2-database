@@ -6443,6 +6443,13 @@
               "text": "100 Handling"
             }
           ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Draw/Stow Speed: {hand_0}s"
+            }
+          ]
         }
       ],
       "stats": {
@@ -6461,12 +6468,9 @@
               -20
             ]
           }
-        },
-        "duration": [
-          4
-        ]
+        }
       },
-      "last_edit": "2021.9.19-17.51"
+      "last_edit": "2021.11.1-16.26"
     },
     "1631667848": {
       "name": "Grave Robber",
