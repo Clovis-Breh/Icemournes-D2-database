@@ -7952,7 +7952,14 @@
         {
           "lineText": [
             {
-              "text": "Ready/Stow Speed: {hand_0}"
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         }
@@ -7977,7 +7984,7 @@
           }
         }
       },
-      "last_edit": "2021.11.1-16.36"
+      "last_edit": "2021.11.1-17.22"
     },
     "2888557110": {
       "name": "Full Court",
