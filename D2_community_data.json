@@ -9025,13 +9025,13 @@
         {
           "lineText": [
             {
-              "text": "*BUGGED WITH ABILITIES THAT POSSESS CHARGES*"
+              "text": "*BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES*"
             }
           ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.11.1-15.15"
+      "last_edit": "2021.11.1-17.15"
     },
     "3643424744": {
       "name": "Overflow",
