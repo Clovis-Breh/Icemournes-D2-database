@@ -6554,7 +6554,14 @@
         {
           "lineText": [
             {
-              "text": "Draw/Stow Speed: {hand_0}s"
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         }
@@ -6577,7 +6584,7 @@
           }
         }
       },
-      "last_edit": "2021.11.1-16.26"
+      "last_edit": "2021.11.1-18.25"
     },
     "1631667848": {
       "name": "Grave Robber",
