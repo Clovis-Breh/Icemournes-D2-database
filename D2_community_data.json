@@ -4474,6 +4474,7 @@
     "4048389864": {
       "name": "Feast of Light",
       "item_name": "Star-Eater Scales",
+      "item_id": "1001356380",
       "description": [
         {
           "lineText": [
@@ -4509,7 +4510,7 @@
         {
           "lineText": [
             {
-              "text": "Picking up an Orb of Power grants 1 Overcharge Stack. "
+              "text": "Picking up an Orb of Power grants 1 Overcharge Stack."
             }
           ]
         },
@@ -4519,7 +4520,7 @@
         {
           "lineText": [
             {
-              "text": "Each Overcharge Stacks grants increased Super Damage, up to 1.7x."
+              "text": "Each Overcharge Stacks grants increased Super Damage, up to 70%."
             }
           ]
         },
@@ -4545,8 +4546,8 @@
           ]
         }
       ],
-      "armor_id": "1001356380",
-      "last_edit": "2021.9.5-7.58"
+      "stats": {},
+      "last_edit": "2021.11.1-15.27"
     },
     "4102900702": {
       "name": "Touch of Venom",
