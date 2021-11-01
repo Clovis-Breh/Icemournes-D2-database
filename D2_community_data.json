@@ -7513,7 +7513,7 @@
         {
           "lineText": [
             {
-              "text": "30 Handling and 40 Reload Speed. "
+              "text": "30 Handling and 40 Reload Speed."
             }
           ]
         },
@@ -7521,6 +7521,23 @@
           "lineText": [
             {
               "text": "Lingers for 1.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "In-Game Reload:  {relo_0}"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Draw/Stow Speed: {hand_0}"
             }
           ]
         }
@@ -7543,7 +7560,7 @@
           }
         }
       },
-      "last_edit": "2021.9.20-21.15"
+      "last_edit": "2021.11.1-16.35"
     },
     "2679249093": {
       "name": "One-Two Punch",
