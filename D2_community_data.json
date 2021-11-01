@@ -5002,8 +5002,17 @@
           ]
         }
       ],
-      "stats": {},
-      "last_edit": "2021.11.1-16.17"
+      "stats": {
+        "charge_draw_time": {
+          "conditional": {
+            "stat": [],
+            "multiplier": [
+              0.7
+            ]
+          }
+        }
+      },
+      "last_edit": "2021.11.1-16.36"
     },
     "205890336": {
       "name": "Underdog",
