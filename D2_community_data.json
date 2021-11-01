@@ -890,13 +890,13 @@
     "692285813": {
       "name": "Light Shift",
       "item_name": "Mask of Bakris",
-      "item_id": "1619425569",
+      "item_id": "",
       "description": [
         {
           "lineText": [
             {
               "textClass": "CDB-stasis",
-              "text": "Stasis"
+              "text": "Stasis "
             },
             {
               "text": " Subclass Only"
@@ -913,7 +913,7 @@
         {
           "lineText": [
             {
-              "text": "Shift has a distance of 10 metres, and renders you completely invisible except for a trail for the duration of the shift."
+              "text": " Shift has a distance of 10 metres, and renders you completely invisible except for a trail for the duration of the shift."
             }
           ]
         },
@@ -931,7 +931,7 @@
           "lineText": [
             {
               "textClass": "CDB-pve",
-              "text": "[PVE] Light Shift grants a 10% Damage Increase to Slowed/Frozen targets, as well as granting 10% Damage Increase to Arc Weapons."
+              "text": " [PVE] Light Shift grants 10% increased damage to Slowed/Frozen targets, as well as granting 10% increased damage to Arc Weapons."
             }
           ]
         },
@@ -947,7 +947,7 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-20.9"
+      "last_edit": "2021.11.1-15.23"
     },
     "699693452": {
       "name": "Vengeance",
