@@ -5954,6 +5954,7 @@
               ]
             },
             {
+              "lineClass": "CDB-bg",
               "lineText": [
                 {
                   "textClass": "CDB-bold",
@@ -5976,6 +5977,7 @@
               ]
             },
             {
+              "lineClass": "CDB-bg",
               "lineText": [
                 {
                   "textClass": "CDB-bold",
@@ -5987,6 +5989,9 @@
               ]
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
         },
         {
           "lineClass": "CDB-spacer"
@@ -6021,7 +6026,7 @@
           }
         }
       },
-      "last_edit": "2021.11.1-16.32"
+      "last_edit": "2021.11.1-16.34"
     },
     "1264398905": {
       "name": "Celerity",
