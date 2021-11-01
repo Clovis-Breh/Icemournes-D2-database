@@ -7608,7 +7608,14 @@
         {
           "lineText": [
             {
-              "text": "Draw/Stow Speed: {hand_0}"
+              "text": "Ready Speed: {hand_r_0}"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}"
             }
           ]
         }
@@ -7631,7 +7638,7 @@
           }
         }
       },
-      "last_edit": "2021.11.1-16.35"
+      "last_edit": "2021.11.1-18.32"
     },
     "2679249093": {
       "name": "One-Two Punch",
