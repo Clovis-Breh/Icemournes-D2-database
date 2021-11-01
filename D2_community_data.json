@@ -4758,6 +4758,18 @@
       "name": "Adrenaline Junkie",
       "description": [
         {
+          "lineClass": "CDB-center",
+          "lineText": [
+            {
+              "textClass": "CDB-highlight_2",
+              "text": "Keep guns with this perk, it's getting reworked soon!"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
               "text": "Grenade Kills grant stacking damage increases and Handling for 10 seconds."
@@ -4855,7 +4867,7 @@
           }
         }
       },
-      "last_edit": "2021.10.19-19.53"
+      "last_edit": "2021.11.1-15.47"
     },
     "25606670": {
       "name": "Dual Loader",
