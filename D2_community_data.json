@@ -6371,7 +6371,7 @@
         {
           "lineText": [
             {
-              "text": "In-Game Reload: {relo_0}"
+              "text": "In-Game Reload: {relo_0}s"
             }
           ]
         }
@@ -6388,7 +6388,7 @@
           }
         }
       },
-      "last_edit": "2021.11.1-20.36"
+      "last_edit": "2021.11.1-20.37"
     },
     "1546637391": {
       "name": "Vorpal Weapon",
