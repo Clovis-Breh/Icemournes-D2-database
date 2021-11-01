@@ -5191,7 +5191,17 @@
         {
           "lineText": [
             {
-              "text": " 30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)"
+              "text": "30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Draw/Stow Speed: {hand_0}s"
             }
           ]
         }
@@ -5214,7 +5224,7 @@
           }
         }
       },
-      "last_edit": "2021.10.18-7.59"
+      "last_edit": "2021.11.1-16.42"
     },
     "354401740": {
       "name": "Assassin's Blade",
