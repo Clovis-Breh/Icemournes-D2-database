@@ -708,6 +708,7 @@
     "593361146": {
       "name": "Synapse Junctions",
       "item_name": "Raiden Flux",
+      "item_id": "2766109872",
       "description": [
         {
           "lineText": [
@@ -719,7 +720,7 @@
         {
           "lineText": [
             {
-              "text": "Hits grant Synapse Junctions for 5 seconds. Stacks up to 3x"
+              "text": "Hits grant Synapse Junctions for 5 seconds. Stacks up to 3."
             }
           ]
         },
@@ -743,13 +744,13 @@
         {
           "lineText": [
             {
-              "text": "x3 = 46.2% Damage Increase and X% Slower Passive Drain"
+              "text": "x3 = 46.2% Damage Increase and X% Slower Passive Super Drain"
             }
           ]
         }
       ],
-      "armor_id": "2766109872",
-      "last_edit": "2021.9.19-16.6"
+      "stats": {},
+      "last_edit": "2021.11.1-15.26"
     },
     "593361147": {
       "name": "Probability Matrix",
