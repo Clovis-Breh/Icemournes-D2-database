@@ -5935,7 +5935,7 @@
         {
           "lineText": [
             {
-              "text": "On Precision Kill: 10 Range per Stack. Max of 3 Stacks. "
+              "text": "On Precision Kill: 10 Range per Stack. Max of 3 Stacks."
             }
           ]
         },
@@ -5972,7 +5972,7 @@
           }
         }
       },
-      "last_edit": "2021.10.17-17.47"
+      "last_edit": "2021.11.1-15.54"
     },
     "1264398905": {
       "name": "Celerity",
