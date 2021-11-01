@@ -6430,6 +6430,16 @@
               "text": "45 Reload Speed for 6 seconds."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "In-Game Reload: {relo_0}"
+            }
+          ]
         }
       ],
       "stats": {
@@ -6442,7 +6452,7 @@
           }
         }
       },
-      "last_edit": "2021.10.19-7.50"
+      "last_edit": "2021.11.1-16.37"
     },
     "1570042021": {
       "name": "Heating Up",
