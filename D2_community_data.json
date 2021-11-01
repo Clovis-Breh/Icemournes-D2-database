@@ -4791,13 +4791,24 @@
             {
               "lineText": [
                 {
+                  "textClass": "CDB-bold",
                   "text": "Stacks"
                 },
                 {
+                  "textClass": "CDB-bold",
                   "text": "+Damage"
                 },
                 {
+                  "textClass": "CDB-bold",
                   "text": "+Handling"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Ready Speed"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stow Speed"
                 }
               ]
             },
@@ -4805,6 +4816,7 @@
               "lineClass": "CDB-bg",
               "lineText": [
                 {
+                  "textClass": "CDB-bold",
                   "text": "1x"
                 },
                 {
@@ -4812,12 +4824,19 @@
                 },
                 {
                   "text": "10"
+                },
+                {
+                  "text": "{hand_r_0}s"
+                },
+                {
+                  "text": "{hand_s_0}s"
                 }
               ]
             },
             {
               "lineText": [
                 {
+                  "textClass": "CDB-bold",
                   "text": "2x"
                 },
                 {
@@ -4825,6 +4844,12 @@
                 },
                 {
                   "text": "20"
+                },
+                {
+                  "text": "{hand_r_1}s"
+                },
+                {
+                  "text": "{hand_s_1}s"
                 }
               ]
             },
@@ -4832,6 +4857,7 @@
               "lineClass": "CDB-bg",
               "lineText": [
                 {
+                  "textClass": "CDB-bold",
                   "text": "3x"
                 },
                 {
@@ -4839,6 +4865,12 @@
                 },
                 {
                   "text": "30"
+                },
+                {
+                  "text": "{hand_r_2}s"
+                },
+                {
+                  "text": "{hand_s_2}s"
                 }
               ]
             }
@@ -4867,7 +4899,7 @@
           }
         }
       },
-      "last_edit": "2021.11.1-15.47"
+      "last_edit": "2021.11.1-16.48"
     },
     "25606670": {
       "name": "Dual Loader",
