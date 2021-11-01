@@ -7877,6 +7877,23 @@
               "text": "+30 Inventory Size. (Ammo Reserves, they're very weird)"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "In-Game Reload:   {relo_0}"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready/Stow Speed: {hand_0}"
+            }
+          ]
         }
       ],
       "stats": {
@@ -7899,7 +7916,7 @@
           }
         }
       },
-      "last_edit": "2021.9.19-18.54"
+      "last_edit": "2021.11.1-16.36"
     },
     "2888557110": {
       "name": "Full Court",
