@@ -6364,7 +6364,14 @@
         {
           "lineText": [
             {
-              "text": " 63 Reload Speed with 0.9x Multiplier for 6 seconds."
+              "text": "63 Reload Speed with 0.9x Multiplier for 6 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "In-Game Reload: {relo_0}"
             }
           ]
         }
@@ -6379,12 +6386,9 @@
               0.9
             ]
           }
-        },
-        "duration": [
-          6
-        ]
+        }
       },
-      "last_edit": "2021.9.20-21.44"
+      "last_edit": "2021.11.1-20.36"
     },
     "1546637391": {
       "name": "Vorpal Weapon",
