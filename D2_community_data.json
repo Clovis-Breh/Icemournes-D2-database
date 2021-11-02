@@ -10119,11 +10119,11 @@
                 },
                 {
                   "textClass": "CDB-bold",
-                  "text": "Reload"
+                  "text": "Stability"
                 },
                 {
                   "textClass": "CDB-bold",
-                  "text": "Stability"
+                  "text": "Reload"
                 },
                 {
                   "textClass": "CDB-bold",
@@ -10240,6 +10240,9 @@
           "lineClass": "CDB-spacer"
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
               "text": "(verify stability)"
@@ -10276,7 +10279,7 @@
           }
         }
       },
-      "last_edit": "2021.11.2-19.2"
+      "last_edit": "2021.11.2-19.5"
     },
     "4082225868": {
       "name": "Swashbuckler",
