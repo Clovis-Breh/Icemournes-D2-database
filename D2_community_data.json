@@ -5110,7 +5110,7 @@
                 },
                 {
                   "textClass": "CDB-bold",
-                  "text": "Reload time"
+                  "text": "Reload Time"
                 }
               ]
             },
@@ -5127,7 +5127,7 @@
                   "text": "5"
                 },
                 {
-                  "text": "{relo_0}"
+                  "text": "{relo_0}s"
                 }
               ]
             },
@@ -5143,7 +5143,7 @@
                   "text": "10"
                 },
                 {
-                  "text": "{relo_1}"
+                  "text": "{relo_1}s"
                 }
               ]
             },
@@ -5160,7 +5160,7 @@
                   "text": "15"
                 },
                 {
-                  "text": "{relo_2}"
+                  "text": "{relo_2}s"
                 }
               ]
             },
@@ -5176,7 +5176,7 @@
                   "text": "20"
                 },
                 {
-                  "text": "{relo_3}"
+                  "text": "{relo_3}s"
                 }
               ]
             },
@@ -5193,7 +5193,7 @@
                   "text": "23"
                 },
                 {
-                  "text": "{relo_4}"
+                  "text": "{relo_4}s"
                 }
               ]
             }
@@ -5214,7 +5214,7 @@
           }
         }
       },
-      "last_edit": "2021.10.29-13.25"
+      "last_edit": "2021.11.2-18.33"
     },
     "280464955": {
       "name": "Firmly Planted",
