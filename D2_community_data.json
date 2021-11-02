@@ -7624,7 +7624,7 @@
         {
           "lineText": [
             {
-              "text": "While within 15 metres of 1 Allies:"
+              "text": "While within 15 metres of at least 1 Ally:"
             }
           ]
         },
@@ -7688,7 +7688,7 @@
           }
         }
       },
-      "last_edit": "2021.11.1-18.32"
+      "last_edit": "2021.11.2-17.37"
     },
     "2679249093": {
       "name": "One-Two Punch",
