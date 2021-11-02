@@ -10155,10 +10155,10 @@
                   "text": "In-Game"
                 },
                 {
-                  "text": "{relo_0}s"
+                  "text": ""
                 },
                 {
-                  "text": ""
+                  "text": "{relo_0}s"
                 },
                 {
                   "text": "Ready: {hand_r_0}s"
@@ -10189,10 +10189,10 @@
                   "text": "2+"
                 },
                 {
-                  "text": "55"
+                  "text": "40"
                 },
                 {
-                  "text": "40"
+                  "text": "55"
                 },
                 {
                   "text": "0.56x"
@@ -10205,10 +10205,10 @@
                   "text": "In-Game"
                 },
                 {
-                  "text": "{relo_1}s"
+                  "text": ""
                 },
                 {
-                  "text": ""
+                  "text": "{relo_1}s"
                 },
                 {
                   "text": "Ready: {hand_r_1}s"
@@ -10232,6 +10232,9 @@
               ]
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
         },
         {
           "lineClass": "CDB-spacer"
@@ -10273,7 +10276,7 @@
           }
         }
       },
-      "last_edit": "2021.11.2-18.49"
+      "last_edit": "2021.11.2-19.2"
     },
     "4082225868": {
       "name": "Swashbuckler",
