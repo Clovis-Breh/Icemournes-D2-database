@@ -9085,6 +9085,39 @@
             {
               "lineText": [
                 {
+                  "text": "In-Game"
+                },
+                {
+                  "text": "{relo_0}s"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Ready: {hand_r_0}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Values:"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Stow: {hand_s_0}s"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
                   "textClass": "CDB-bold",
                   "text": "2x"
                 },
@@ -9096,6 +9129,38 @@
                 },
                 {
                   "text": "25"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "In-Game"
+                },
+                {
+                  "text": "{relo_1}s"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Ready: {hand_r_1}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Values:"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Stow: {hand_s_1}s"
                 }
               ]
             },
@@ -9114,6 +9179,38 @@
                 },
                 {
                   "text": "50"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "In-Game"
+                },
+                {
+                  "text": "{relo_2}s"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Ready: {hand_r_2}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Values:"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Stow: {hand_s_2}s"
                 }
               ]
             }
@@ -9152,7 +9249,7 @@
           }
         }
       },
-      "last_edit": "2021.10.19-9.39"
+      "last_edit": "2021.11.2-18.46"
     },
     "3511092054": {
       "name": "Elemental Capacitor",
