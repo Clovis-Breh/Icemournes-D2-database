@@ -7217,7 +7217,7 @@
         {
           "lineText": [
             {
-              "text": "15% Magazine Refreshed, ~20 Stability and ~25 Handling. "
+              "text": "15% Magazine Refreshed, ~20 Stability and ~25 Handling."
             }
           ]
         },
@@ -7232,6 +7232,23 @@
           "lineText": [
             {
               "text": "(Verify stability and handling)"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         },
@@ -7264,7 +7281,7 @@
           }
         }
       },
-      "last_edit": "2021.10.19-9.31"
+      "last_edit": "2021.11.2-18.36"
     },
     "2117683199": {
       "name": "Full Auto Trigger System",
