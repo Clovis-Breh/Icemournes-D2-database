@@ -5324,6 +5324,23 @@
               "text": "20% Damage Increase, and 15 Handling for 7 seconds."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
+            }
+          ]
         }
       ],
       "stats": {
@@ -5342,12 +5359,9 @@
               20
             ]
           }
-        },
-        "duration": [
-          7
-        ]
+        }
       },
-      "last_edit": "2021.9.19-20.27"
+      "last_edit": "2021.11.2-17.39"
     },
     "460017080": {
       "name": "Headseeker",
