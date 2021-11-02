@@ -5808,6 +5808,16 @@
               "text": "10 Reload Speed with 0.8x Multiplier."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reload Time: {relo_0}s"
+            }
+          ]
         }
       ],
       "stats": {
@@ -5818,7 +5828,7 @@
           }
         }
       },
-      "last_edit": "2021.10.22-13.47"
+      "last_edit": "2021.11.2-18.8"
     },
     "957782887": {
       "name": "Snapshot Sights",
