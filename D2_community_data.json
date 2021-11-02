@@ -9870,7 +9870,7 @@
                 },
                 {
                   "textClass": "CDB-bold",
-                  "text": "Handling Animation Duration Multiplier"
+                  "text": "Handling Animation Duration"
                 }
               ]
             },
@@ -9894,6 +9894,39 @@
             {
               "lineText": [
                 {
+                  "text": "In-Game"
+                },
+                {
+                  "text": "{relo_0}s"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Ready: {hand_r_0}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Values:"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Stow: {hand_s_0}s"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
                   "text": "2+"
                 },
                 {
@@ -9906,8 +9939,43 @@
                   "text": "0.56x"
                 }
               ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "In-Game"
+                },
+                {
+                  "text": "{relo_1}s"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Ready: {hand_r_1}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Values:"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Stow: {hand_s_1}s"
+                }
+              ]
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
@@ -9946,7 +10014,7 @@
           }
         }
       },
-      "last_edit": "2021.10.19-9.53"
+      "last_edit": "2021.11.2-17.31"
     },
     "4082225868": {
       "name": "Swashbuckler",
