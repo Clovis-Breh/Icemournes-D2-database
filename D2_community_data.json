@@ -6542,7 +6542,7 @@
         {
           "lineText": [
             {
-              "text": "In-Game Reload: {relo_0}"
+              "text": "Reload Time: {relo_0}"
             }
           ]
         }
@@ -6557,7 +6557,7 @@
           }
         }
       },
-      "last_edit": "2021.11.1-16.37"
+      "last_edit": "2021.11.2-18.3"
     },
     "1570042021": {
       "name": "Heating Up",
