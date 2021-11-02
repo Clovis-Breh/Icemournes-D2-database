@@ -5927,6 +5927,23 @@
         {
           "lineText": [
             {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
               "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
             }
           ]
@@ -5944,7 +5961,7 @@
           }
         }
       },
-      "last_edit": "2021.10.19-8.55"
+      "last_edit": "2021.11.2-18.16"
     },
     "1015611457": {
       "name": "Kill Clip",
