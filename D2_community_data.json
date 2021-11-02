@@ -6151,7 +6151,7 @@
         {
           "lineText": [
             {
-              "text": "In-Game Reload Speed: {relo_0}s"
+              "text": "Reload Time: {relo_0}s"
             }
           ]
         },
@@ -6206,7 +6206,7 @@
           }
         }
       },
-      "last_edit": "2021.11.1-18.29"
+      "last_edit": "2021.11.2-17.42"
     },
     "1275731761": {
       "name": "Cluster Bomb",
