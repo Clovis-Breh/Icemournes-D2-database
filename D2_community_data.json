@@ -9718,7 +9718,7 @@
         {
           "lineText": [
             {
-              "text": "All Weapons are granted 100 Handling for 4(?) seconds. (Identical to Quick Access Sling) "
+              "text": "All Weapons are granted 100 Handling for 4(?) seconds. (Identical to Quick Access Sling)"
             }
           ]
         },
@@ -9726,6 +9726,23 @@
           "lineText": [
             {
               "text": "Only availabe in Season 3's Trials of the Nine Weapons."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         }
@@ -9738,12 +9755,9 @@
             ],
             "multiplier": []
           }
-        },
-        "duration": [
-          4
-        ]
+        }
       },
-      "last_edit": "2021.9.21-11.39"
+      "last_edit": "2021.11.2-18.47"
     },
     "3824105627": {
       "name": "Firefly",
