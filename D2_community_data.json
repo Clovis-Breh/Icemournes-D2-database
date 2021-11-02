@@ -7809,7 +7809,7 @@
                 },
                 {
                   "textClass": "CDB-bold",
-                  "text": "Reload time"
+                  "text": "Reload Time"
                 }
               ]
             },
@@ -7919,7 +7919,7 @@
           }
         }
       },
-      "last_edit": "2021.11.2-17.21"
+      "last_edit": "2021.11.2-17.44"
     },
     "2846385770": {
       "name": "Rangefinder",
