@@ -7400,6 +7400,23 @@
               "text": "50% Damage Increase, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
+            }
+          ]
         }
       ],
       "stats": {
@@ -7418,12 +7435,9 @@
               50
             ]
           }
-        },
-        "duration": [
-          5
-        ]
+        }
       },
-      "last_edit": "2021.9.21-12.6"
+      "last_edit": "2021.11.2-18.50"
     },
     "2387244414": {
       "name": "Zen Moment",
