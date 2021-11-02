@@ -8868,6 +8868,16 @@
               "text": "Passively grants 18 Reload Speed."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reload Time: {relo_0}s"
+            }
+          ]
         }
       ],
       "stats": {
@@ -8877,7 +8887,7 @@
           }
         }
       },
-      "last_edit": "2021.9.21-11.42"
+      "last_edit": "2021.11.2-18.48"
     },
     "3365897133": {
       "name": "Explosive Head",
