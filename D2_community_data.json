@@ -7430,16 +7430,26 @@
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
-              "text": "{rang_0}m In-Game Range"
+              "text": "In-Game Range: {rang_0}m"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "{hand_0}s Ready/Stow Animation Duration"
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         },
@@ -7481,7 +7491,7 @@
           }
         }
       },
-      "last_edit": "2021.10.29-14.44"
+      "last_edit": "2021.11.2-18.9"
     },
     "2458213969": {
       "name": "Multikill Clip",
