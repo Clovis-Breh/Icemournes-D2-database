@@ -10107,6 +10107,7 @@
               "lineClass": "CDB-bg",
               "lineText": [
                 {
+                  "textClass": "CDB-bold",
                   "text": "1"
                 },
                 {
@@ -10156,6 +10157,7 @@
               "lineClass": "CDB-bg",
               "lineText": [
                 {
+                  "textClass": "CDB-bold",
                   "text": "2+"
                 },
                 {
@@ -10243,7 +10245,7 @@
           }
         }
       },
-      "last_edit": "2021.11.2-17.31"
+      "last_edit": "2021.11.2-18.49"
     },
     "4082225868": {
       "name": "Swashbuckler",
