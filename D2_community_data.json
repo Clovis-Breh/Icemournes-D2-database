@@ -9090,11 +9090,11 @@
                 },
                 {
                   "textClass": "CDB-bold",
-                  "text": "Reload"
+                  "text": "Stability"
                 },
                 {
                   "textClass": "CDB-bold",
-                  "text": "Stability"
+                  "text": "Reload"
                 },
                 {
                   "textClass": "CDB-bold",
@@ -9126,10 +9126,10 @@
                   "text": "In-Game"
                 },
                 {
-                  "text": "{relo_0}s"
+                  "text": ""
                 },
                 {
-                  "text": ""
+                  "text": "{relo_0}s"
                 },
                 {
                   "text": "Ready: {hand_r_0}s"
@@ -9160,10 +9160,10 @@
                   "text": "2x"
                 },
                 {
-                  "text": "22"
+                  "text": "15"
                 },
                 {
-                  "text": "15"
+                  "text": "22"
                 },
                 {
                   "text": "25"
@@ -9176,10 +9176,10 @@
                   "text": "In-Game"
                 },
                 {
-                  "text": "{relo_1}s"
+                  "text": ""
                 },
                 {
-                  "text": ""
+                  "text": "{relo_1}s"
                 },
                 {
                   "text": "Ready: {hand_r_1}s"
@@ -9210,10 +9210,10 @@
                   "text": "3x"
                 },
                 {
-                  "text": "50"
+                  "text": "25"
                 },
                 {
-                  "text": "25"
+                  "text": "50"
                 },
                 {
                   "text": "50"
@@ -9226,10 +9226,10 @@
                   "text": "In-Game"
                 },
                 {
-                  "text": "{relo_2}s"
+                  "text": ""
                 },
                 {
-                  "text": ""
+                  "text": "{relo_2}s"
                 },
                 {
                   "text": "Ready: {hand_r_2}s"
@@ -9287,7 +9287,7 @@
           }
         }
       },
-      "last_edit": "2021.11.2-18.46"
+      "last_edit": "2021.11.2-19.4"
     },
     "3511092054": {
       "name": "Elemental Capacitor",
