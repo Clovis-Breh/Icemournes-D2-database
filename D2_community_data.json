@@ -5677,7 +5677,24 @@
         {
           "lineText": [
             {
-              "text": " 100 Ready/Stow Handling for 1 second, or until ADS."
+              "text": "100 Ready/Stow Handling for 1 second, or until ADS. (Doesn't affect ADS Speed)"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         }
@@ -5690,12 +5707,9 @@
             ],
             "multiplier": []
           }
-        },
-        "duration": [
-          1
-        ]
+        }
       },
-      "last_edit": "2021.9.20-21.50"
+      "last_edit": "2021.11.2-18.32"
     },
     "806159697": {
       "name": "Trench Barrel",
