@@ -8518,7 +8518,7 @@
         {
           "lineText": [
             {
-              "text": " Lasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide."
+              "text": "Lasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide."
             }
           ]
         },
@@ -8526,6 +8526,16 @@
           "lineText": [
             {
               "text": "(Verify stability)"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "In_Game Range: {rang_0}m"
             }
           ]
         },
@@ -8558,7 +8568,7 @@
           }
         }
       },
-      "last_edit": "2021.10.19-9.30"
+      "last_edit": "2021.11.2-18.35"
     },
     "3194351027": {
       "name": "Explosive Light",
