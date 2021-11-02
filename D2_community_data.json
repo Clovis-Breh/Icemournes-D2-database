@@ -6403,9 +6403,12 @@
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
-              "text": "In-Game Reload: {relo_0}s"
+              "text": "Reload Time: {relo_0}s"
             }
           ]
         }
@@ -6422,7 +6425,7 @@
           }
         }
       },
-      "last_edit": "2021.11.1-20.39"
+      "last_edit": "2021.11.2-18.13"
     },
     "1546637391": {
       "name": "Vorpal Weapon",
