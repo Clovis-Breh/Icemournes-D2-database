@@ -7665,21 +7665,21 @@
         {
           "lineText": [
             {
-              "text": "In-Game Reload:  {relo_0}"
+              "text": "Reload Time:  {relo_0}s"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Ready Speed: {hand_r_0}"
+              "text": "Ready Speed: {hand_r_0}s"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Stow Speed: {hand_s_0}"
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         }
@@ -7702,7 +7702,7 @@
           }
         }
       },
-      "last_edit": "2021.11.2-17.37"
+      "last_edit": "2021.11.2-17.41"
     },
     "2679249093": {
       "name": "One-Two Punch",
