@@ -4951,6 +4951,16 @@
               "text": "Shotguns do not receive the Damage Falloff Distance Increase."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "In-Game Range: {rang_0}"
+            }
+          ]
         }
       ],
       "stats": {
@@ -4965,7 +4975,7 @@
           }
         }
       },
-      "last_edit": "2021.9.20-21.42"
+      "last_edit": "2021.11.2-18.11"
     },
     "124408337": {
       "name": "Headstone",
