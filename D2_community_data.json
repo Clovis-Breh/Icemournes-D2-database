@@ -8226,15 +8226,18 @@
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
-              "text": "Equivalent of 2 Unflinching Armor Mods."
+              "text": "Would be the equivalent of 2 Unflinching Armor Mods if the second one wasn't bugged."
             }
           ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-8.47"
+      "last_edit": "2021.11.7-0.12"
     },
     "2869569095": {
       "name": "Field Prep",
