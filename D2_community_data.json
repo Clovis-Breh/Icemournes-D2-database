@@ -8046,6 +8046,16 @@
               "text": "Zoom acts as a multiplier to hipfire range and maximum falloff distance. Range stat affects accuracy and the minimum drop off distance."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "The range increase is factored into the normal calculation."
+            }
+          ]
         }
       ],
       "stats": {
@@ -8055,7 +8065,7 @@
           }
         }
       },
-      "last_edit": "2021.10.19-8.57"
+      "last_edit": "2021.11.8-22.38"
     },
     "2848615171": {
       "name": "Dragonfly",
