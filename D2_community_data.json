@@ -7116,7 +7116,14 @@
         {
           "lineText": [
             {
-              "text": "Splits 55% of Damage into an Explosive Damage portion that has a 30% Damage Increase and no damage falloff. Detonates after X seconds."
+              "text": "Splits 55% of Damage into an Explosive Damage portion that deals "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": " 30% Increased Damage"
+            },
+            {
+              "text": " and has no damage falloff. Detonates after 0.6 seconds."
             }
           ]
         },
@@ -7137,7 +7144,8 @@
           ]
         }
       ],
-      "last_edit": "2021.9.21-11.50"
+      "stats": {},
+      "last_edit": "2021.11.12-19.39"
     },
     "1968497646": {
       "name": "Armor-Piercing Rounds",
