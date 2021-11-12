@@ -7145,7 +7145,7 @@
         {
           "lineText": [
             {
-              "text": "5% Damage Increase against Combatant Shields"
+              "text": "5% Increased damage against Combatant Shields"
             }
           ]
         },
@@ -7157,7 +7157,8 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-17.31"
+      "stats": {},
+      "last_edit": "2021.11.12-19.32"
     },
     "2010801679": {
       "name": "Ambitious Assassin",
