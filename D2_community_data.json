@@ -8936,11 +8936,11 @@
         {
           "lineText": [
             {
-              "text": "Splits 50% of Damage into an Explosive Damage portion that deals"
+              "text": "Splits 50% of Damage into an Explosive Damage portion that deals "
             },
             {
               "textClass": "CDB-pve",
-              "text": "30% Increased Damage"
+              "text": " 30% Increased Damage"
             },
             {
               "text": " and no damage falloff. Detonation timer varies on draw and distance."
@@ -8965,7 +8965,7 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.11.12-19.35"
+      "last_edit": "2021.11.12-19.37"
     },
     "3400784728": {
       "name": "Triple Tap",
