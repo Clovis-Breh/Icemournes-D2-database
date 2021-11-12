@@ -8414,14 +8414,14 @@
         {
           "lineText": [
             {
-              "text": "Splits 50% of Damage into an Explosive Damage portion that has a "
+              "text": "Splits 50% of Damage into an Explosive Damage portion that deals "
             },
             {
               "textClass": "CDB-pve",
-              "text": "30% Damage Increase"
+              "text": "30% Increased Damage"
             },
             {
-              "text": " and no damage falloff."
+              "text": " and has no damage falloff."
             }
           ]
         },
@@ -8442,7 +8442,8 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-18.47"
+      "stats": {},
+      "last_edit": "2021.11.12-19.36"
     },
     "3047969693": {
       "name": "Desperado",
