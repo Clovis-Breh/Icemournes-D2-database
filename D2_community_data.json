@@ -7749,7 +7749,7 @@
         {
           "lineText": [
             {
-              "text": "While within 15 metres of at least 1 Ally:"
+              "text": "While within 15 metres of 1 or more allies:"
             }
           ]
         },
@@ -7759,7 +7759,7 @@
         {
           "lineText": [
             {
-              "text": "30 Handling and 40 Reload Speed."
+              "text": "30 Handling and 40 Reload Speed. "
             }
           ]
         },
@@ -7813,7 +7813,7 @@
           }
         }
       },
-      "last_edit": "2021.11.2-17.41"
+      "last_edit": "2021.11.12-19.33"
     },
     "2679249093": {
       "name": "One-Two Punch",
