@@ -8935,14 +8935,14 @@
         {
           "lineText": [
             {
-              "text": "Splits 50% of Damage into an Explosive Damage portion that has a "
+              "text": "Splits 50% of Damage into an Explosive Damage portion that deals"
             },
             {
               "textClass": "CDB-pve",
-              "text": "30% Damage Increase"
+              "text": "30% Increased Damage"
             },
             {
-              "text": " and no damage falloff."
+              "text": " and no damage falloff. Detonation timer varies on draw and distance."
             }
           ]
         },
@@ -8950,7 +8950,7 @@
           "lineText": [
             {
               "textClass": "CDB-pve",
-              "text": "[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio."
+              "text": "15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio."
             }
           ]
         },
@@ -8958,12 +8958,13 @@
           "lineText": [
             {
               "textClass": "CDB-pvp",
-              "text": "[PVP] Total damage remains (almost) the same. I don't like decimals"
+              "text": "Total damage remains (almost) the same. I don't like decimals"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.19-18.48"
+      "stats": {},
+      "last_edit": "2021.11.12-19.35"
     },
     "3400784728": {
       "name": "Triple Tap",
