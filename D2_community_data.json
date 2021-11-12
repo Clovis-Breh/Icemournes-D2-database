@@ -6665,7 +6665,7 @@
         {
           "lineText": [
             {
-              "text": "Multiplies Charge Time by 0.8"
+              "text": "Multiplies Charge Time by 0.7"
             }
           ]
         },
@@ -6714,9 +6714,17 @@
               -20
             ]
           }
+        },
+        "charge_draw_time": {
+          "conditional": {
+            "stat": [],
+            "multiplier": [
+              0.7
+            ]
+          }
         }
       },
-      "last_edit": "2021.11.1-18.25"
+      "last_edit": "2021.11.12-19.30"
     },
     "1631667848": {
       "name": "Grave Robber",
