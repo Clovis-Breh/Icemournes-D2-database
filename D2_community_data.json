@@ -5640,9 +5640,20 @@
           ]
         }
       ],
-      "stats": {},
+      "stats": {
+        "damage": {
+          "always_active": {
+            "multiplier": 0.98
+          }
+        },
+        "charge_draw_time": {
+          "always_active": {
+            "stat": -40
+          }
+        }
+      },
       "rarity": "normal",
-      "last_edit": "2021.11.14-20.1"
+      "last_edit": "2021.11.14-20.2"
     },
     "699525795": {
       "name": "Eye of the Storm",
