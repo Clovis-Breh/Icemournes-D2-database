@@ -5629,6 +5629,21 @@
       "stats": {},
       "last_edit": "2021.11.1-17.31"
     },
+    "689005463": {
+      "name": "Accelerated Coils",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Decreases charge time by 40, reduces damage by 2%"
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.11.14-20.1"
+    },
     "699525795": {
       "name": "Eye of the Storm",
       "description": [
