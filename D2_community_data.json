@@ -6868,6 +6868,32 @@
       },
       "last_edit": "2021.9.19-18.24"
     },
+    "1687452232": {
+      "name": "Liquid Coils",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Increases charge time by 40, increases damage by 2%"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "damage": {
+          "always_active": {
+            "multiplier": 1.02
+          }
+        },
+        "charge_draw_time": {
+          "always_active": {
+            "stat": 40
+          }
+        }
+      },
+      "rarity": "normal",
+      "last_edit": "2021.11.14-20.3"
+    },
     "1749209109": {
       "name": "Relentless Strikes",
       "description": [
