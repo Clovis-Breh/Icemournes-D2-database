@@ -763,11 +763,12 @@
     "593361147": {
       "name": "Probability Matrix",
       "item_name": "Lucky Raspberry",
+      "item_id": "903984858",
       "description": [
         {
           "lineText": [
             {
-              "text": "25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability"
+              "text": "Additive 25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability"
             }
           ]
         },
@@ -777,13 +778,14 @@
         {
           "lineText": [
             {
-              "text": "Arcbolt Grenades chain up to 5 times (from 4)"
+              "text": "Arcbolt Grenades chain up to 4 times (from 3)"
             }
           ]
         }
       ],
-      "armor_id": "903984858",
-      "last_edit": "2021.9.4-19.13"
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.11.19-23.53"
     },
     "595829387": {
       "name": "Cross Counter",
