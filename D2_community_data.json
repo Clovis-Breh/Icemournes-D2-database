@@ -1831,6 +1831,7 @@
     "1449897496": {
       "name": "Adamantine Brace",
       "item_name": "Oathkeeper",
+      "item_id": "691578978",
       "description": [
         {
           "lineText": [
@@ -1842,13 +1843,14 @@
         {
           "lineText": [
             {
-              "text": "40ms Faster Draw Time."
+              "text": "Bows' draw time is 10ms faster."
             }
           ]
         }
       ],
-      "armor_id": "691578978",
-      "last_edit": "2021.9.4-20.39"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.19-23.51"
     },
     "1449897497": {
       "name": "Sharp Edges",
