@@ -3716,6 +3716,70 @@
       "armor_id": "1160559849",
       "last_edit": "2021.9.19-16.14"
     },
+    "3268255645": {
+      "name": "Sect of Force",
+      "item_name": "Aeon Swift",
+      "item_id": "3942036043",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "4 Precision Hits within 2.5 seconds of each grants Aeon Weapon Haste for 6 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Aeon Weapon Haste grants 10 Reload with 0.8x RDS, as well as 10 Handling to Ready and Stow speed."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Champion Stun, Mini-boss, or Boss Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Allies within 30 metres gain 50% Grenade and Melee Energy."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Aeon Allies additionally gain 10% Super Energy."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "4 second cooldown between refresh."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.11.19-23.55"
+    },
     "3295796664": {
       "name": "Move to Survive",
       "item_name": "Astrocyte Verse",
