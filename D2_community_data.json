@@ -4153,6 +4153,7 @@
     "3907299874": {
       "name": "New Tricks",
       "item_name": "Shinobu's Vow",
+      "item_id": "1053737370",
       "description": [
         {
           "lineText": [
@@ -4187,13 +4188,14 @@
         {
           "lineText": [
             {
-              "text": "Hits with Skip Grenades grant X% Grenade Energy."
+              "text": "Hits with Skip Grenades grant X% [X/3] Grenade Energy."
             }
           ]
         }
       ],
-      "armor_id": "1053737370",
-      "last_edit": "2021.9.5-7.55"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.19-23.52"
     },
     "3927963100": {
       "name": "Cerebral Uplink",
