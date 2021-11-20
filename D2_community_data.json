@@ -834,11 +834,12 @@
     "622433369": {
       "name": "Warlord's End",
       "item_name": "Felwinter's Helm",
+      "item_id": "2822465023",
       "description": [
         {
           "lineText": [
             {
-              "text": "Melee Kills, as well as Finishers weaken (1.3x Debuff) and blind."
+              "text": "Melee Kills, as well as Finishers weaken and blind, rendering the enemy unable to shoot and making it receive 30% increased damage."
             }
           ]
         },
@@ -898,8 +899,9 @@
           ]
         }
       ],
-      "armor_id": "2822465023",
-      "last_edit": "2021.9.6-18.9"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.28"
     },
     "692285813": {
       "name": "Light Shift",
