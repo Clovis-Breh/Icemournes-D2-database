@@ -2383,6 +2383,7 @@
     "1919923227": {
       "name": "Overflowing Light",
       "item_name": "Heart of Inmost Light",
+      "item_id": "1341951177",
       "description": [
         {
           "lineText": [
@@ -2411,14 +2412,14 @@
         {
           "lineText": [
             {
-              "text": "5% Melee and Grenade Energy per Second"
+              "text": "5% [2.5%] Melee and Grenade Energy per Second"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "4% Barricade Energy per Second"
+              "text": "4% [2%] Barricade Energy per Second"
             }
           ]
         },
@@ -2433,8 +2434,9 @@
           ]
         }
       ],
-      "armor_id": "1341951177",
-      "last_edit": "2021.9.5-10.20"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.12"
     },
     "1939153390": {
       "name": "Close Enough",
