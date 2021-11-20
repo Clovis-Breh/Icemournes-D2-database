@@ -1003,6 +1003,7 @@
     "722862450": {
       "name": "Dearly Departed",
       "item_name": "The Stag",
+      "item_id": "2177524718",
       "description": [
         {
           "lineText": [
@@ -1011,7 +1012,7 @@
             },
             {
               "textClass": "CDB-pve",
-              "text": "25%"
+              "text": " 25%"
             },
             {
               "textClass": "CDB-pvp",
@@ -1035,7 +1036,18 @@
         {
           "lineText": [
             {
-              "text": "Dearly Departed grants 55% Class Ability Energy."
+              "text": "Dearly Departed grants "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": " 55% "
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": "[27.5%]"
+            },
+            {
+              "text": " Class Ability Energy."
             }
           ]
         },
@@ -1059,13 +1071,14 @@
         {
           "lineText": [
             {
-              "text": "Spawns a Healing Rift for 15 seconds."
+              "text": " Spawns a Healing Rift for 15 seconds."
             }
           ]
         }
       ],
-      "armor_id": "2177524718",
-      "last_edit": "2021.9.15-20.45"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.32"
     },
     "824488952": {
       "name": "Seriously, Watch Out",
