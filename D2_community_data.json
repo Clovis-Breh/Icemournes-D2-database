@@ -1741,6 +1741,7 @@
     "1211775759": {
       "name": "Ascending Amplitude",
       "item_name": "Stormdancer's Brace",
+      "item_id": "1996008488",
       "description": [
         {
           "lineText": [
@@ -1755,7 +1756,7 @@
         {
           "lineText": [
             {
-              "text": "Ascending Amplitude increases Stormtrance Damage by 10% per Stack, caps at 10 Stacks which provides a 100% damage increase. "
+              "text": "Ascending Amplitude increases Stormtrance Damage by 10% per Stack, up to 100% at 10 Stacks."
             }
           ]
         },
@@ -1770,8 +1771,9 @@
           ]
         }
       ],
-      "armor_id": "1996008488",
-      "last_edit": "2021.9.15-20.41"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.31"
     },
     "1331592343": {
       "name": "Starless Night",
