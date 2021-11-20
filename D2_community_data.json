@@ -3,11 +3,12 @@
     "8507332": {
       "name": "Chaotic Exchanger",
       "item_name": "Contraverse Hold",
+      "item_id": "1906093346",
       "description": [
         {
           "lineText": [
             {
-              "text": "On Grenade Charge: Grants Chaotic Exchanger."
+              "text": "While Charging a Grenade:"
             }
           ]
         },
@@ -24,14 +25,14 @@
         {
           "lineText": [
             {
-              "text": "Grenade Hits return between 15% to 85% Grenade Energy. (RNG oof)"
+              "text": "Grenade Hits grant Chaotic Exchange, granting X% [X%] Grenade Ability over 1.75 seconds."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "4 second cooldown between proc."
+              "text": "4 second cooldown."
             }
           ]
         },
@@ -46,8 +47,9 @@
           ]
         }
       ],
-      "armor_id": "1906093346",
-      "last_edit": "2021.9.6-18.5"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.26"
     },
     "117669763": {
       "name": "The Dance",
