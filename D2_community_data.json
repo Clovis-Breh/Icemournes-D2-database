@@ -3544,18 +3544,12 @@
     "3241194940": {
       "name": "Jump Jets",
       "item_name": "Lion Rampant",
+      "item_id": "3539357318",
       "description": [
         {
           "lineText": [
             {
-              "text": "No Accuracy Penalty while Airborne when Hipfiring in Lift."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "Enables hipfire while in Lift."
+              "text": "Enables hipfiring while in Lift, and removes Accuracy Penalty from being Airborne."
             }
           ]
         },
@@ -3582,27 +3576,28 @@
         {
           "lineText": [
             {
-              "text": "High Lift: 2.6 -> 4 (1.54x increase)"
+              "text": "High Lift: 2.6 -> 4 (54% increase)"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Stafe Lift: 2.2 -> 4 (1.82x increase)"
+              "text": "Stafe Lift: 2.2 -> 4 (82% increase)"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Catapult Lift: 1 -> 4 (4x increase!)"
+              "text": "Catapult Lift: 1 -> 4 (300% increase!)"
             }
           ]
         }
       ],
-      "armor_id": "3539357318",
-      "last_edit": "2021.9.5-14.22"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.13"
     },
     "3241194941": {
       "name": "Mecha Holster",
