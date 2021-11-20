@@ -2805,6 +2805,7 @@
     "2500502982": {
       "name": "Firewalker",
       "item_name": "The Path of Burning Steps",
+      "item_id": "1453120846",
       "description": [
         {
           "lineText": [
@@ -2827,11 +2828,11 @@
             },
             {
               "textClass": "CDB-pve",
-              "text": "3 "
+              "text": " 3 "
             },
             {
               "textClass": "CDB-pvp",
-              "text": "[4] "
+              "text": "[4]"
             },
             {
               "text": " Stacks."
@@ -2846,18 +2847,18 @@
           ]
         },
         {
-          "lineClass": "CDB-pve",
           "lineText": [
             {
-              "text": "1x = 20% | 2x = 25% | 3x = 35%"
+              "textClass": "CDB-pve",
+              "text": " 1x = 20% | 2x = 25% | 3x = 35%"
             }
           ]
         },
         {
-          "lineClass": "CDB-pvp",
           "lineText": [
             {
-              "text": "1x = 20% | 2x = 25% | 3x = 20% | 4x = 35%"
+              "textClass": "CDB-pvp",
+              "text": " 1x = 20% | 2x = 25% | 3x = 20% | 4x = 35%"
             }
           ]
         },
@@ -2884,10 +2885,22 @@
               "text": "Stasis Breakout also creates a burst of Solar Energy with a 9m radius, dealing 105 damage."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-highlight_3",
+              "text": " 3X = 20% IS BUGGED"
+            }
+          ]
         }
       ],
-      "armor_id": "1453120846",
-      "last_edit": "2021.9.5-17.49"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.22"
     },
     "2618534366": {
       "name": "Absorption Cells",
