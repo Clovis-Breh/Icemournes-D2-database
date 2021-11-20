@@ -3780,6 +3780,7 @@
     "3295796664": {
       "name": "Move to Survive",
       "item_name": "Astrocyte Verse",
+      "item_id": "3948284065",
       "description": [
         {
           "lineText": [
@@ -3808,7 +3809,7 @@
         {
           "lineText": [
             {
-              "text": "100(?) Handling, Radar remains active."
+              "text": " 100 Ready Speed Handling, Radar remains active."
             }
           ]
         },
@@ -3837,8 +3838,9 @@
           ]
         }
       ],
-      "armor_id": "3948284065",
-      "last_edit": "2021.9.5-17.53"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.24"
     },
     "3347978672": {
       "name": "Alchemical Etchings",
