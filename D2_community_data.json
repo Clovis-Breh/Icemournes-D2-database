@@ -1585,6 +1585,7 @@
     "1155472384": {
       "name": "Biotic Enhancements",
       "item_name": "Synthoceps",
+      "item_id": "241462142",
       "description": [
         {
           "lineText": [
@@ -1620,7 +1621,7 @@
         {
           "lineText": [
             {
-              "text": "50% Super Damage"
+              "text": "50% Super Damage Increase."
             }
           ]
         },
@@ -1651,8 +1652,9 @@
           ]
         }
       ],
-      "armor_id": "241462142",
-      "last_edit": "2021.9.5-17.46"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.19"
     },
     "1155472386": {
       "name": "Fury Conductors",
