@@ -4772,6 +4772,7 @@
     "4190535237": {
       "name": "Ursine Guard",
       "item_name": "Ursa Furiosa",
+      "item_id": "1848640623",
       "description": [
         {
           "lineText": [
@@ -4786,7 +4787,7 @@
         {
           "lineText": [
             {
-              "text": "Converts damage into Super Energy after Super ends, up to 50%."
+              "text": "Converts incoming damage into Super Energy after Super ends, up to 50%."
             }
           ]
         },
@@ -4808,8 +4809,9 @@
           ]
         }
       ],
-      "armor_id": "1848640623",
-      "last_edit": "2021.9.5-17.50"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.23"
     },
     "4235122381": {
       "name": "Glorious Charge",
