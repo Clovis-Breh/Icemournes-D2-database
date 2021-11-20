@@ -1066,6 +1066,7 @@
     "824488952": {
       "name": "Seriously, Watch Out",
       "item_name": "Mk. 44 Stand Asides",
+      "item_id": "136355432",
       "description": [
         {
           "lineText": [
@@ -1080,7 +1081,7 @@
         {
           "lineText": [
             {
-              "text": "Slowly grants 75 HP Overshield over 5 seconds after sprinting for 0.5 seconds"
+              "text": "Slowly grants 75 HP Overshield over 3 seconds after sprinting for 0.5 seconds"
             }
           ]
         },
@@ -1112,6 +1113,9 @@
           "lineClass": "CDB-spacer"
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
               "text": "Includes Seismic Strike, Ballistic Slam, Hammer Strike, Shield Bash"
@@ -1119,8 +1123,9 @@
           ]
         }
       ],
-      "armor_id": "136355432",
-      "last_edit": "2021.9.5-14.24"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.14"
     },
     "883550427": {
       "name": "And Another Thing",
