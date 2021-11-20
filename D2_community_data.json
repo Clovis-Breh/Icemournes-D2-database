@@ -1505,25 +1505,12 @@
     "1142806944": {
       "name": "Planetary Torrent",
       "item_name": "Vesper of Radius",
+      "item_id": "1725917554",
       "description": [
         {
           "lineText": [
             {
-              "text": "When surrounded by at least X enemies within Y metres, gain Class Ability Recharge"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "X% per Enemy"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "(Needs testing)"
+              "text": "While surrounded by at least 3 enemies within 15 metres, gain Class Ability Energy per Second."
             }
           ]
         },
@@ -1533,38 +1520,42 @@
         {
           "lineText": [
             {
-              "text": "On Rift Cast:"
+              "text": "3 Enemies = 3% | 4 Enemies = 5% | 5 Enemies = "
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "1 second after casting Rift:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Arc Shockwave that deals "
+              "text": "An Arc Shockwave is cast that deals "
             },
             {
               "textClass": "CDB-pve",
-              "text": "300 "
+              "text": " 300 "
             },
             {
               "textClass": "CDB-pvp",
               "text": "[100]"
             },
             {
-              "text": " damage on a X metre radius."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "(Needs testing)"
+              "text": " damage and heavily knockbacks in a 7.5 metre radius."
             }
           ]
         }
       ],
-      "armor_id": "1725917554",
-      "last_edit": "2021.9.15-20.49"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.33"
     },
     "1147638875": {
       "name": "Cobra Totemic",
