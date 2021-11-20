@@ -1227,6 +1227,7 @@
     "902934539": {
       "name": "Blessing of Order",
       "item_name": "Boots of the Assembler",
+      "item_id": "3045642045",
       "description": [
         {
           "lineText": [
@@ -1262,11 +1263,11 @@
             },
             {
               "textClass": "CDB-pve",
-              "text": "1.35x "
+              "text": "35% "
             },
             {
               "textClass": "CDB-pvp",
-              "text": "[1.20x] "
+              "text": "[20%] "
             },
             {
               "text": "Damage Increase for 5 seconds."
@@ -1274,8 +1275,9 @@
           ]
         }
       ],
-      "armor_id": "3045642045",
-      "last_edit": "2021.9.5-17.56"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.25"
     },
     "926349160": {
       "name": "Tome of Dawn",
