@@ -3972,6 +3972,50 @@
       "armor_id": "2326396534",
       "last_edit": "2021.9.19-16.15"
     },
+    "3651607301": {
+      "name": "Sect of Insight",
+      "item_name": "Aeon Swift",
+      "item_id": "3942036043",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "2 Precision Multikills drop an Orb of Power for allies."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Finishing an Elite spawns a Special Ammo Brick for Allies"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Finishing a Mini-boss spawns a Power Ammo Brick for Allies."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Aeon Allies additionally receive a 35% Damage Increase for 20 seconds."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.8"
+    },
     "3662465906": {
       "name": "Dreaded Visage",
       "item_name": "Mask of the Quiet One",
