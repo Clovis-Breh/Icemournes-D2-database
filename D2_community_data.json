@@ -3433,6 +3433,7 @@
     "2951499542": {
       "name": "Beacons of Empowerment",
       "item_name": "Phoenix Cradle",
+      "item_id": "1537074069",
       "description": [
         {
           "lineText": [
@@ -3447,48 +3448,11 @@
               "text": "Sunspots affect the entire team."
             }
           ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "Sun Warrior:"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "2.8x faster Grenade Recharge"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "4.2x Melee Ability Recharge"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "20% Increased Weapon Damage"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "10(?)% slower Super Drain"
-            }
-          ]
         }
       ],
-      "armor_id": "1537074069",
-      "last_edit": "2021.9.5-17.39"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.15"
     },
     "2979726427": {
       "name": "Kintsugi",
