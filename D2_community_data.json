@@ -2911,6 +2911,7 @@
     "2618534366": {
       "name": "Absorption Cells",
       "item_name": "Mantle of Battle Harmony",
+      "item_id": "3301944824",
       "description": [
         {
           "lineText": [
@@ -2971,25 +2972,25 @@
             },
             {
               "textClass": "CDB-pve",
-              "text": " 6s"
+              "text": " 6s "
             },
             {
               "textClass": "CDB-pvp",
-              "text": " [3.5]"
+              "text": "[3.5]"
             },
             {
               "text": " ("
             },
             {
               "textClass": "CDB-pve",
-              "text": "+4"
+              "text": "+4 "
             },
             {
               "textClass": "CDB-pvp",
-              "text": " [2]"
+              "text": "[2]"
             },
             {
-              "text": " per additional kill) of Absorption Cells, granting a 20% Damage Increase for Weapons Matching your Subclass Element."
+              "text": " per additional kill) of Absorption Cells, granting 20% increased damage for Weapons Matching your Subclass Element."
             }
           ]
         },
@@ -3000,11 +3001,11 @@
             },
             {
               "textClass": "CDB-pve",
-              "text": " 10"
+              "text": " 10 "
             },
             {
               "textClass": "CDB-pvp",
-              "text": " [6]"
+              "text": "[6]"
             },
             {
               "text": " second duration."
@@ -3022,8 +3023,9 @@
           ]
         }
       ],
-      "armor_id": "3301944824",
-      "last_edit": "2021.9.6-19.14"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.30"
     },
     "2637025676": {
       "name": "The Whispers",
