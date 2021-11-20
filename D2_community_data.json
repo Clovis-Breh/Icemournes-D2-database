@@ -3718,8 +3718,8 @@
     },
     "3268255645": {
       "name": "Sect of Force",
-      "item_name": "Aeon Safe",
-      "item_id": "1654461647",
+      "item_name": "Aeon Soul",
+      "item_id": "2950045886",
       "description": [
         {
           "lineText": [
@@ -3778,7 +3778,7 @@
       ],
       "stats": {},
       "rarity": "normal",
-      "last_edit": "2021.11.20-0.0"
+      "last_edit": "2021.11.20-0.1"
     },
     "3295796664": {
       "name": "Move to Survive",
