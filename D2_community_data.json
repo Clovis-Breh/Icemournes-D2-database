@@ -1701,11 +1701,12 @@
     "1155472387": {
       "name": "Horns of Doom",
       "item_name": "Doom Fang Pauldron",
+      "item_id": "241462141",
       "description": [
         {
           "lineText": [
             {
-              "text": "Powered Void Melee Kills grant 20% Super Energy"
+              "text": "Powered Void Melee Kills grant 20% [10%] Super Energy"
             }
           ]
         },
@@ -1720,8 +1721,9 @@
           ]
         }
       ],
-      "armor_id": "241462141",
-      "last_edit": "2021.9.5-9.46"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.11"
     },
     "1211775759": {
       "name": "Ascending Amplitude",
