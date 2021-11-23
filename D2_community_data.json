@@ -6056,6 +6056,16 @@
               "text": "10 Reload Speed with 0.8x Multiplier."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reload speed is factored into base reload."
+            }
+          ]
         }
       ],
       "stats": {
@@ -6066,7 +6076,8 @@
           }
         }
       },
-      "last_edit": "2021.11.4-22.48"
+      "rarity": "normal",
+      "last_edit": "2021.11.23-19.42"
     },
     "957782887": {
       "name": "Snapshot Sights",
