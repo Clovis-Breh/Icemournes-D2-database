@@ -10757,6 +10757,28 @@
       },
       "last_edit": "2021.11.2-18.7"
     },
+    "4134353779": {
+      "name": "Drop Mag",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Increases reload speed but decreases magazing size."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Magazine size decrease only visible in-game."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.26-18.49"
+    },
     "4152709778": {
       "name": "Iron Gaze",
       "description": [
