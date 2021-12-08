@@ -5557,6 +5557,61 @@
       },
       "last_edit": "2021.11.2-17.39"
     },
+    "454085387": {
+      "name": "Blunt Execution Rounds",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On dealing Melee Damage:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100 Handling and X% increased damage for 10 seconds or until firing."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "4(?) second cooldown."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "handling": {
+          "conditional": {
+            "stat": [
+              100
+            ],
+            "multiplier": []
+          }
+        }
+      },
+      "rarity": "normal",
+      "last_edit": "2021.12.8-21.28"
+    },
     "460017080": {
       "name": "Headseeker",
       "description": [
