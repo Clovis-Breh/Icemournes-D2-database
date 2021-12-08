@@ -10389,7 +10389,14 @@
         {
           "lineText": [
             {
-              "text": "Stacking 6% | 12% | 18% | 24% | 30% Damage Increase for 3(?) seconds. "
+              "text": "Stacking "
+            },
+            {
+              "textClass": "CDB-bold",
+              "text": " 3% | 6% | 9% | ... | 27% | 30%"
+            },
+            {
+              "text": " Increased damage for 3.5(?) seconds. "
             }
           ]
         },
@@ -10406,19 +10413,22 @@
           "conditional": {
             "stat": [],
             "multiplier": [
+              3,
               6,
+              9,
               12,
+              15,
               18,
+              21,
               24,
+              27,
               30
             ]
           }
-        },
-        "duration": [
-          3
-        ]
+        }
       },
-      "last_edit": "2021.9.21-12.16"
+      "rarity": "normal",
+      "last_edit": "2021.12.8-21.50"
     },
     "3927722942": {
       "name": "Lasting Impression",
