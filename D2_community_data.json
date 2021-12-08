@@ -6770,7 +6770,23 @@
                   "text": "{relo_0}s"
                 },
                 {
-                  "text": "Ready: {hand_r_0}s Stow: {hand_s_0}s"
+                  "text": "Ready: {hand_r_0}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Stow: {hand_s_0}s"
                 }
               ]
             },
@@ -6804,7 +6820,23 @@
                   "text": "{relo_1}s"
                 },
                 {
-                  "text": "Ready: {hand_r_1}s Stow: {hand_s_1}s"
+                  "text": "Ready: {hand_r_1}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Stow: {hand_s_1}s"
                 }
               ]
             }
@@ -6832,7 +6864,7 @@
         }
       },
       "rarity": "normal",
-      "last_edit": "2021.12.8-22.20"
+      "last_edit": "2021.12.8-22.25"
     },
     "1523832109": {
       "name": "Reconstruction",
