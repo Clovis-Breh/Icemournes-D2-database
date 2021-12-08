@@ -1169,12 +1169,12 @@
     "897181301": {
       "name": "Rapid Cooldown",
       "item_name": "Fr0st-EE5",
-      "item_id": "609852545",
+      "item_id": "",
       "description": [
         {
           "lineText": [
             {
-              "text": "If Sprinting: "
+              "text": "If Sprinting:"
             }
           ]
         },
@@ -1198,7 +1198,15 @@
         {
           "lineText": [
             {
-              "text": "Multiplicative [Additive] Recharge Buff."
+              "textClass": "CDB-pve",
+              "text": " Multiplicative "
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": "[Additive]"
+            },
+            {
+              "text": " Recharge Buff."
             }
           ]
         },
@@ -1215,7 +1223,7 @@
         {
           "lineText": [
             {
-              "text": "6.25% Faster Sprint for 10 seconds. "
+              "text": "6.25% Faster Sprint for 10 seconds."
             }
           ]
         },
@@ -1239,7 +1247,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.11.20-0.10"
+      "last_edit": "2021.12.8-23.5"
     },
     "902934539": {
       "name": "Blessing of Order",
