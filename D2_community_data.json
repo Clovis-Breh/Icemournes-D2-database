@@ -7515,17 +7515,16 @@
           ]
         },
         {
-          "lineClass": "CDB-spacer"
-        },
-        {
           "lineText": [
             {
-              "text": "No known method to calculate the amount, it is too inconsistent."
+              "text": "It is able to fully charge your class ability with less than half of your entire shield bar."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.19-18.42"
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.8-21.32"
     },
     "2039302152": {
       "name": "Slideways",
