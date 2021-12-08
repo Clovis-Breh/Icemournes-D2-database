@@ -4929,28 +4929,23 @@
       "name": "Adrenaline Junkie",
       "description": [
         {
-          "lineClass": "CDB-center",
           "lineText": [
             {
-              "textClass": "CDB-highlight_2",
-              "text": "Keep guns with this perk, it's getting reworked soon!"
-            }
-          ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "Grenade Kills grant stacking damage increases and Handling for 10 seconds."
+              "text": "On Weapon or Grenade Kill:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Duration refreshed on Grenade Kill."
+              "text": "Stacking Damage and Handling Increase for 4.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff Refreshed on Kill. Grenade Kills grant all 5 Stacks instantly."
             }
           ]
         },
@@ -4991,16 +4986,16 @@
                   "text": "1x"
                 },
                 {
-                  "text": "10%"
+                  "text": "6.6%"
                 },
                 {
-                  "text": "10"
+                  "text": "x.1"
                 },
                 {
-                  "text": "{hand_r_0}s"
+                  "text": "unknown"
                 },
                 {
-                  "text": "{hand_s_0}s"
+                  "text": "unknown"
                 }
               ]
             },
@@ -5011,16 +5006,16 @@
                   "text": "2x"
                 },
                 {
-                  "text": "21%"
+                  "text": "13.2%"
                 },
                 {
-                  "text": "20"
+                  "text": "x.2"
                 },
                 {
-                  "text": "{hand_r_1}s"
+                  "text": "unknown"
                 },
                 {
-                  "text": "{hand_s_1}s"
+                  "text": "unknown"
                 }
               ]
             },
@@ -5032,16 +5027,57 @@
                   "text": "3x"
                 },
                 {
+                  "text": "20%"
+                },
+                {
+                  "text": "x.3"
+                },
+                {
+                  "text": "unknown"
+                },
+                {
+                  "text": "unknown"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "4x"
+                },
+                {
+                  "text": "26.6%"
+                },
+                {
+                  "text": "x.4"
+                },
+                {
+                  "text": "unknown"
+                },
+                {
+                  "text": "unknown"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "5x"
+                },
+                {
                   "text": "33%"
                 },
                 {
-                  "text": "30"
+                  "text": "x.5"
                 },
                 {
-                  "text": "{hand_r_2}s"
+                  "text": "unknown"
                 },
                 {
-                  "text": "{hand_s_2}s"
+                  "text": "unknown"
                 }
               ]
             }
@@ -5049,28 +5085,21 @@
         }
       ],
       "stats": {
-        "handling": {
-          "conditional": {
-            "stat": [],
-            "multiplier": [
-              10,
-              20,
-              30
-            ]
-          }
-        },
         "damage": {
           "conditional": {
             "stat": [],
             "multiplier": [
-              10,
-              21,
+              6.6,
+              13.2,
+              20,
+              26.6,
               33
             ]
           }
         }
       },
-      "last_edit": "2021.11.1-16.48"
+      "rarity": "normal",
+      "last_edit": "2021.12.8-22.6"
     },
     "25606670": {
       "name": "Dual Loader",
