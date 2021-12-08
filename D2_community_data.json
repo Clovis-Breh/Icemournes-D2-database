@@ -3671,6 +3671,7 @@
     "3241194942": {
       "name": "Linear Actuators",
       "item_name": "Dunemarchers",
+      "item_id": "1160559849",
       "description": [
         {
           "lineText": [
@@ -3711,7 +3712,7 @@
           "lineText": [
             {
               "textClass": "CDB-pvp",
-              "text": "[PVP] 85 Damage"
+              "text": "[PVP] 85 Damage. Immune to Dunemarchers for 2 seconds after being hit."
             }
           ]
         },
@@ -3733,8 +3734,9 @@
           ]
         }
       ],
-      "armor_id": "1160559849",
-      "last_edit": "2021.9.19-16.14"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.8-23.12"
     },
     "3268255645": {
       "name": "Sect of Force",
