@@ -5664,6 +5664,22 @@
       },
       "last_edit": "2021.10.19-8.20"
     },
+    "466087222": {
+      "name": "Smoothbore",
+      "description": [
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-highlight",
+              "text": "NEVER USE THIS BARREL, IT KILLS YOUR PELLET SPREAD AND WITH THAT YOUR CONSISTENCY"
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.8-22.27"
+    },
     "469285294": {
       "name": "Recombination",
       "description": [
