@@ -6357,14 +6357,14 @@
         {
           "lineText": [
             {
-              "text": "Reduces projectile spread when aiming down sights but removes the precision damage multiplier."
+              "text": "When aiming down sights: reduces projectile spread but removes the precision damage multiplier."
             }
           ]
         }
       ],
       "stats": {},
       "rarity": "normal",
-      "last_edit": "2021.12.8-22.42"
+      "last_edit": "2021.12.8-22.50"
     },
     "1140096971": {
       "name": "Seraph Rounds",
