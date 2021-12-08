@@ -2030,7 +2030,7 @@
     "1694242448": {
       "name": "Illegally Modded Holster",
       "item_name": "Lucky Pants",
-      "item_id": "193869522",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -2042,7 +2042,7 @@
         {
           "lineText": [
             {
-              "text": "100 Handling Ready Speed and ~40% smaller Accuracy Cone Size on Draw for X seconds."
+              "text": "100 Handling Ready Speed with 0.X Duration Scalar  and ~-40% Accuracy Cone Size on Ready for X seconds."
             }
           ]
         },
@@ -2052,22 +2052,22 @@
         {
           "lineText": [
             {
-              "text": "After readying a Hand Cannon with a Full Magazine that deals Kinetic Damage or matches your Subclass:"
+              "text": "Upon readying a Kinetic or Matching Hand Cannon with a Full Magazine:"
             }
           ]
         },
         {
+          "lineClass": "CDB-pve",
           "lineText": [
             {
-              "textClass": "CDB-pve",
               "text": "60% Increased damage per Hit for 5 seconds. Maxes out at 600% after 10 Hits."
             }
           ]
         },
         {
+          "lineClass": "CDB-pve",
           "lineText": [
             {
-              "textClass": "CDB-pve",
               "text": "Eriana's Vow has a reduced effectiveness of 30% Damage Increase per Hit."
             }
           ]
@@ -2091,7 +2091,8 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-20.7"
+      "rarity": "undefined",
+      "last_edit": "2021.12.8-23.4"
     },
     "1694242449": {
       "name": "Uncanny Arrows",
