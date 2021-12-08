@@ -6343,6 +6343,29 @@
       },
       "last_edit": "2021.9.20-21.29"
     },
+    "1047830412": {
+      "name": "Full Choke",
+      "description": [
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-highlight",
+              "text": "Best PVP Shotgun Barrel for consistency"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reduces projectile spread when aiming down sights but removes the precision damage multiplier."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.8-22.42"
+    },
     "1140096971": {
       "name": "Seraph Rounds",
       "description": [
