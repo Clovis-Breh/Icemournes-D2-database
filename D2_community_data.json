@@ -6226,7 +6226,7 @@
         {
           "lineText": [
             {
-              "text": "On Critical Health:"
+              "text": "While <38 Shields:"
             }
           ]
         },
@@ -6284,7 +6284,8 @@
           }
         }
       },
-      "last_edit": "2021.11.2-18.16"
+      "rarity": "normal",
+      "last_edit": "2021.12.8-22.24"
     },
     "1015611457": {
       "name": "Kill Clip",
