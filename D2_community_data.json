@@ -6752,6 +6752,14 @@
           ]
         },
         {
+          "lineText": [
+            {
+              "textClass": "CDB-pve",
+              "text": "Primary: 20% | Special: 15% | Heavy: 10%"
+            }
+          ]
+        },
+        {
           "lineClass": "CDB-spacer"
         },
         {
@@ -6796,7 +6804,8 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-10.2"
+      "rarity": "normal",
+      "last_edit": "2021.12.8-21.47"
     },
     "1556840489": {
       "name": "Lead from Gold",
