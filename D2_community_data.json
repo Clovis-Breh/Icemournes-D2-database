@@ -6690,6 +6690,149 @@
       },
       "last_edit": "2021.10.19-9.22"
     },
+    "1428297954": {
+      "name": "Perpetual Motion",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While moving:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Gain a Stack after 2 seconds and an additional Stack after 10 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lose ALL Stacks after not moving for over half a second. Works while stowed."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stacks"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stability"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Reload"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Handling"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "x1"
+                },
+                {
+                  "text": "5"
+                },
+                {
+                  "text": "10"
+                },
+                {
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": ""
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "In-game:"
+                },
+                {
+                  "text": "{relo_0}s"
+                },
+                {
+                  "text": "Ready: {hand_r_0}s Stow: {hand_s_0}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "x2"
+                },
+                {
+                  "text": "10"
+                },
+                {
+                  "text": "20"
+                },
+                {
+                  "text": "20"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": ""
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "In-game:"
+                },
+                {
+                  "text": "{relo_1}s"
+                },
+                {
+                  "text": "Ready: {hand_r_1}s Stow: {hand_s_1}s"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "reload": {
+          "conditional": {
+            "stat": [
+              10,
+              20
+            ],
+            "multiplier": []
+          }
+        },
+        "handling": {
+          "conditional": {
+            "stat": [
+              10,
+              20
+            ],
+            "multiplier": []
+          }
+        }
+      },
+      "rarity": "normal",
+      "last_edit": "2021.12.8-22.20"
+    },
     "1523832109": {
       "name": "Reconstruction",
       "description": [
