@@ -8767,7 +8767,7 @@
           "lineText": [
             {
               "textClass": "CDB-pve",
-              "text": "[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio."
+              "text": "[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on... a lot of things :("
             }
           ]
         },
@@ -8781,7 +8781,8 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.11.12-19.36"
+      "rarity": "normal",
+      "last_edit": "2021.12.8-21.35"
     },
     "3047969693": {
       "name": "Desperado",
