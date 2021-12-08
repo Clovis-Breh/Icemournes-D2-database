@@ -7606,6 +7606,35 @@
       },
       "last_edit": "2021.11.2-18.36"
     },
+    "2077819806": {
+      "name": "Eager Edge",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Upon readying a Sword:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100% Increased Lunge Range for 1 second."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "4 second cooldown."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.8-21.30"
+    },
     "2117683199": {
       "name": "Full Auto Trigger System",
       "description": [
