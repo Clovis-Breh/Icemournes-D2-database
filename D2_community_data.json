@@ -8380,31 +8380,47 @@
         {
           "lineText": [
             {
-              "text": "10% increased damage for 7 seconds. Can be refreshed with a Weapon Kill."
+              "textClass": "CDB-pve",
+              "text": " 10%"
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": " [7.5%]"
+            },
+            {
+              "text": " Increased damage for 7 seconds. Can be refreshed with a Weapon Kill."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Grenade and Melee Ability Kills with the Matching Element strengthen the damage increase to 50% and duration to 10 seconds. Can be refreshed by getting another Matching Ability Kill."
+              "text": "Matching Grenade and Melee Ability Kills strengthen the damage increase to "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": " 50%"
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": " [45%]"
+            },
+            {
+              "text": " and extend the duration to 10 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Can be refreshed by getting another Matching Ability Kill."
             }
           ]
         }
       ],
-      "stats": {
-        "damage": {
-          "conditional": {
-            "stat": [],
-            "multiplier": [
-              10,
-              50
-            ]
-          }
-        }
-      },
+      "stats": {},
       "rarity": "normal",
-      "last_edit": "2021.12.8-22.48"
+      "last_edit": "2021.12.9-21.33"
     },
     "2621346526": {
       "name": "Ensemble",
