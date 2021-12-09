@@ -625,7 +625,25 @@
     "569260333": {
       "name": "Force Multiplier",
       "item_name": "No Backup Plans",
+      "item_id": "3267996858",
       "description": [
+        {
+          "lineText": [
+            {
+              "text": "Shotgun Final Blows restore Melee Ability Energy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "10% Minors | 25% Anything Else"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
         {
           "lineText": [
             {
@@ -642,27 +660,11 @@
               "text": "Shotgun Kills activate Defensive Strike and consume your Melee Energy."
             }
           ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "Shotgun Final Blows restore Melee Ability Energy."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "10% Minors | 25% Anything Else"
-            }
-          ]
         }
       ],
-      "armor_id": "3267996858",
-      "last_edit": "2021.9.5-14.25"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.9-0.30"
     },
     "593361144": {
       "name": "Wraithmetal Mail",
