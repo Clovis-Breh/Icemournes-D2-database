@@ -113,6 +113,7 @@
     "185514250": {
       "name": "Glacial Guard",
       "item_name": "Icefall Mantle",
+      "item_id": "1467044898",
       "description": [
         {
           "lineText": [
@@ -164,10 +165,18 @@
               "text": "While Shielded is active, you cannot regain Class Ability Energy."
             }
           ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Activating Barricade while Glacial Guard is active will remove the effect."
+            }
+          ]
         }
       ],
-      "armor_id": "1467044898",
-      "last_edit": "2021.9.5-10.22"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.9-0.29"
     },
     "235075862": {
       "name": "Peregrine Strike",
