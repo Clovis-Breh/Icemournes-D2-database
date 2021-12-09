@@ -7139,7 +7139,7 @@
         {
           "lineText": [
             {
-              "text": "Explodes the enemy, dealing Solar Damage in a 3 metre Radius. Same size as Dragonfly, but deals 25% more Damage. It cannot use Dragonfly Spec."
+              "text": "Explodes the enemy, dealing Solar Damage in a 3 metre Radius. Same size as Dragonfly, but deals 25% increased damage."
             }
           ]
         },
@@ -7147,6 +7147,14 @@
           "lineText": [
             {
               "text": "45 Reload Speed for 6 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-highlight",
+              "text": "It cannot use Dragonfly Spec."
             }
           ]
         },
@@ -7171,7 +7179,8 @@
           }
         }
       },
-      "last_edit": "2021.11.2-18.3"
+      "rarity": "normal",
+      "last_edit": "2021.12.9-21.31"
     },
     "1570042021": {
       "name": "Heating Up",
