@@ -845,7 +845,7 @@
     "622433369": {
       "name": "Warlord's End",
       "item_name": "Felwinter's Helm",
-      "item_id": "2822465023",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -857,7 +857,7 @@
         {
           "lineText": [
             {
-              "text": "Duration and Range are dependant on Enemy Rank. "
+              "text": "Duration and Range are dependant on Enemy Rank."
             }
           ]
         },
@@ -912,7 +912,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.11.20-0.28"
+      "last_edit": "2021.12.9-0.33"
     },
     "692285813": {
       "name": "Light Shift",
