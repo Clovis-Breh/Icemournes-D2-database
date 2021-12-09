@@ -6959,13 +6959,14 @@
         {
           "lineText": [
             {
-              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks.Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
             }
           ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-9.10"
+      "rarity": "normal",
+      "last_edit": "2021.12.9-22.17"
     },
     "1528281896": {
       "name": "Outlaw",
