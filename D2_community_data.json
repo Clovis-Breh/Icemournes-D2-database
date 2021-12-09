@@ -2502,11 +2502,12 @@
     "1971489086": {
       "name": "The Fourth Magic",
       "item_name": "Verity's Brow",
+      "item_id": "2428181146",
       "description": [
         {
           "lineText": [
             {
-              "text": "Weapons Kills with a Matching Subclass Element grant Stacks of Death Throes."
+              "text": "Weapons Kills with a Matching Subclass Element grant Stacks of Death Throes"
             }
           ]
         },
@@ -2516,7 +2517,7 @@
         {
           "lineText": [
             {
-              "text": "Each Stack of Death Throes grants 20% faster Grenade Recharge and 20% Grenade Damage Increase. "
+              "text": "Each Stack of Death Throes grants 20% faster Grenade Recharge and 20% Increased Grenade Damage. "
             }
           ]
         },
@@ -2547,13 +2548,14 @@
         {
           "lineText": [
             {
-              "text": "Feel the Flame grants 6x (verify!) faster Grenade Recharge for (2 * Stacks) seconds."
+              "text": "Feel the Flame grants 500% (verify) faster Grenade Recharge for (2 * Stacks) seconds."
             }
           ]
         }
       ],
-      "armor_id": "2428181146",
-      "last_edit": "2021.9.15-20.47"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.9-0.32"
     },
     "2119325971": {
       "name": "Vanishing Shadow",
