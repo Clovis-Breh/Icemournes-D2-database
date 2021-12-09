@@ -10384,7 +10384,7 @@
         {
           "lineText": [
             {
-              "text": "Increased Charge Rate, Efficiency, and Defense."
+              "text": "Increased Charge Rate, Endurance, Efficiency, and Defense."
             }
           ]
         },
@@ -10398,7 +10398,7 @@
       ],
       "stats": {},
       "rarity": "normal",
-      "last_edit": "2021.12.8-21.29"
+      "last_edit": "2021.12.9-21.30"
     },
     "3708227201": {
       "name": "Surrounded",
