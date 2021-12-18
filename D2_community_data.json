@@ -10235,6 +10235,38 @@
       "stats": {},
       "last_edit": "2021.10.19-8.50"
     },
+    "3650930298": {
+      "name": "Cold Steel",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Powered Sword Hits apply Slow Stacks."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Light Attacks apply 40 Slow Stacks, while Heavy Attacks apply 60 Slow Stacks."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "have fun stunlocking barrier champions"
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.19"
+    },
     "3673922083": {
       "name": "Adagio",
       "description": [
