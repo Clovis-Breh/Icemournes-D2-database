@@ -7546,7 +7546,7 @@
         {
           "lineText": [
             {
-              "text": "While within 15(?) metres of 2 enemies:"
+              "text": "While within 15(?) meters of 2 enemies:"
             }
           ]
         },
@@ -7565,7 +7565,9 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-17.59"
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.20"
     },
     "1820235745": {
       "name": "Subsistence",
