@@ -10944,7 +10944,7 @@
                   "text": "1"
                 },
                 {
-                  "text": "15"
+                  "text": "~15"
                 },
                 {
                   "text": "15"
@@ -10994,7 +10994,7 @@
                   "text": "2+"
                 },
                 {
-                  "text": "40"
+                  "text": "~40"
                 },
                 {
                   "text": "55"
@@ -11037,22 +11037,6 @@
               ]
             }
           ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "(verify stability)"
-            }
-          ]
         }
       ],
       "stats": {
@@ -11084,7 +11068,8 @@
           }
         }
       },
-      "last_edit": "2021.11.2-19.5"
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.32"
     },
     "4082225868": {
       "name": "Swashbuckler",
