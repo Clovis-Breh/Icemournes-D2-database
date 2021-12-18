@@ -5521,7 +5521,7 @@
         {
           "lineText": [
             {
-              "text": "15% Increased damage and sets Forward Movement Speed to 9 metres / second (Max Sprint Speed)"
+              "text": "15% Increased damage and sets Forward Movement Speed to 9 meters / second (Max Sprint Speed)"
             }
           ]
         },
@@ -5550,7 +5550,8 @@
           }
         }
       },
-      "last_edit": "2021.10.17-16.48"
+      "rarity": "undefined",
+      "last_edit": "2021.12.18-22.16"
     },
     "438098033": {
       "name": "Harmony",
