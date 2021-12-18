@@ -8785,7 +8785,7 @@
         {
           "lineText": [
             {
-              "text": "Explode the target, dealing the Weapon's Elemental Damage over a 3 metre radius. Damage is not increased by Weapon Perks."
+              "text": "Explode the target, dealing the Weapon's Elemental Damage over a 3 meter radius. Damage is not increased by Weapon Perks."
             }
           ]
         },
@@ -8911,7 +8911,8 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.11.1-20.40"
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.23"
     },
     "2866798147": {
       "name": "No Distractions",
