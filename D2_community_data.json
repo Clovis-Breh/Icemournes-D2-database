@@ -6541,7 +6541,7 @@
         {
           "lineText": [
             {
-              "text": "On Non-Precision Kill: Removes a Range Stack and grants -X% Accuracy Cone Growth, -Y% Accuracy Cone Size, and 30 Stability if there are no active Range Stacks left."
+              "text": "On Non-Precision Kill: Removes a Stack and grants -X% Accuracy Cone Growth, -Y% Accuracy Cone Size, and 30 Stability if there are no active Range Stacks left."
             }
           ]
         },
@@ -6568,7 +6568,8 @@
           }
         }
       },
-      "last_edit": "2021.11.1-16.34"
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.25"
     },
     "1264398905": {
       "name": "Celerity",
