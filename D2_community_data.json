@@ -8398,7 +8398,7 @@
         {
           "lineText": [
             {
-              "text": "Matching Grenade and Melee Ability Kills strengthen the damage increase to "
+              "text": "Matching Grenade and Charged Melee Kills strengthen the damage increase to "
             },
             {
               "textClass": "CDB-pve",
@@ -8422,8 +8422,8 @@
         }
       ],
       "stats": {},
-      "rarity": "normal",
-      "last_edit": "2021.12.9-21.33"
+      "rarity": "undefined",
+      "last_edit": "2021.12.18-22.15"
     },
     "2621346526": {
       "name": "Ensemble",
