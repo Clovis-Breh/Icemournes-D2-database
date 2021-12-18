@@ -7062,17 +7062,17 @@
           "lineClass": "CDB-spacer"
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
               "textClass": "CDB-pvp",
-              "text": "Against Supers Only:"
+              "text": "Against Guardian Supers Only:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "textClass": "CDB-pvp",
               "text": "40% or 50% Damage Increase for Primary Weapons"
             }
           ]
@@ -7080,7 +7080,6 @@
         {
           "lineText": [
             {
-              "textClass": "CDB-pvp",
               "text": "10% or 20% Damage Increase for Special Weapons"
             }
           ]
@@ -7088,7 +7087,6 @@
         {
           "lineText": [
             {
-              "textClass": "CDB-pvp",
               "text": "5% or 10% Damage Increase for Power Weapons"
             }
           ]
@@ -7096,7 +7094,6 @@
         {
           "lineText": [
             {
-              "textClass": "CDB-pvp",
               "text": "The lower Damage Increase is against supers with no extra Damage Resistance."
             }
           ]
@@ -7104,7 +7101,7 @@
       ],
       "stats": {},
       "rarity": "normal",
-      "last_edit": "2021.12.8-21.47"
+      "last_edit": "2021.12.18-22.33"
     },
     "1556840489": {
       "name": "Lead from Gold",
