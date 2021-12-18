@@ -6566,10 +6566,18 @@
             ],
             "multiplier": []
           }
+        },
+        "stability": {
+          "conditional": {
+            "stat": [
+              30
+            ],
+            "multiplier": []
+          }
         }
       },
       "rarity": "normal",
-      "last_edit": "2021.12.18-22.25"
+      "last_edit": "2021.12.18-22.26"
     },
     "1264398905": {
       "name": "Celerity",
