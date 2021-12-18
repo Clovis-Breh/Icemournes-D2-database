@@ -6788,7 +6788,7 @@
         {
           "lineText": [
             {
-              "text": "Gain a Stack after 2 seconds and an additional Stack after 10 seconds."
+              "text": "Gain an additional Stack after 10 seconds, granting 10(?) Stability, 20(?) Handling and Reload."
             }
           ]
         },
@@ -6945,10 +6945,19 @@
             ],
             "multiplier": []
           }
+        },
+        "stability": {
+          "conditional": {
+            "stat": [
+              5,
+              10
+            ],
+            "multiplier": []
+          }
         }
       },
       "rarity": "normal",
-      "last_edit": "2021.12.8-22.25"
+      "last_edit": "2021.12.18-22.30"
     },
     "1523832109": {
       "name": "Reconstruction",
