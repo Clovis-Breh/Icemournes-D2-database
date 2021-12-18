@@ -10502,7 +10502,7 @@
         {
           "lineText": [
             {
-              "text": "If within 8 metres of 3+ Enemies:"
+              "text": "If within 8 meters of 3+ Enemies:"
             }
           ]
         },
@@ -10519,7 +10519,7 @@
         {
           "lineText": [
             {
-              "text": "Surrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds"
+              "text": "Surrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds "
             }
           ]
         }
@@ -10535,7 +10535,8 @@
           }
         }
       },
-      "last_edit": "2021.10.19-9.41"
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.31"
     },
     "3721627275": {
       "name": "Swap Mag",
