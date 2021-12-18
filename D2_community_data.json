@@ -5617,21 +5617,32 @@
         {
           "lineText": [
             {
-              "text": "On dealing Melee Damage:"
+              "text": "Upon dealing Melee Damage while an Enemy within 15 meters:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "100 Handling and X% increased damage for 10 seconds or until firing."
+              "text": "100 Handling and "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": " 500%"
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": " [100%]"
+            },
+            {
+              "text": " increased damage for 10 seconds or until firing."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "4(?) second cooldown."
+              "text": "4(?) second cooldown. Can be procced while stowed."
             }
           ]
         },
@@ -5663,8 +5674,8 @@
           }
         }
       },
-      "rarity": "normal",
-      "last_edit": "2021.12.8-21.28"
+      "rarity": "undefined",
+      "last_edit": "2021.12.18-22.17"
     },
     "460017080": {
       "name": "Headseeker",
