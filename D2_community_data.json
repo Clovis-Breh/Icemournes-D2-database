@@ -181,6 +181,7 @@
     "235075862": {
       "name": "Peregrine Strike",
       "item_name": "Peregrine Greaves",
+      "item_id": "2255796155",
       "description": [
         {
           "lineText": [
@@ -202,7 +203,22 @@
         {
           "lineText": [
             {
-              "text": "155% | 190% | 310%"
+              "textClass": "CDB-arc",
+              "text": "155%"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-solar",
+              "text": "190%"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-void",
+              "text": "310%"
             }
           ]
         },
@@ -216,7 +232,22 @@
         {
           "lineText": [
             {
-              "text": "200% | ? | ?"
+              "textClass": "CDB-arc",
+              "text": "200%"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-solar",
+              "text": "?"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-void",
+              "text": "?"
             }
           ]
         },
@@ -230,7 +261,22 @@
         {
           "lineText": [
             {
-              "text": "310% | ? | ?"
+              "textClass": "CDB-arc",
+              "text": "310%"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-solar",
+              "text": "?"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-void",
+              "text": "?"
             }
           ]
         },
@@ -244,13 +290,29 @@
         {
           "lineText": [
             {
-              "text": "360% | 157% | 165%"
+              "textClass": "CDB-arc",
+              "text": "360%"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-solar",
+              "text": "157%"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-void",
+              "text": "165%"
             }
           ]
         }
       ],
-      "armor_id": "2255796155",
-      "last_edit": "2021.9.5-17.38"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.20-16.33"
     },
     "236605015": {
       "name": "Vanishing Execution",
