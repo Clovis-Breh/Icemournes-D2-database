@@ -5780,19 +5780,11 @@
               "text": "NEVER USE THIS BARREL, IT KILLS YOUR PELLET SPREAD AND WITH THAT YOUR CONSISTENCY"
             }
           ]
-        },
-        {
-          "lineText": [
-            {
-              "textClass": "CDB-highlight",
-              "text": "(Oath approves of it though so there's that)"
-            }
-          ]
         }
       ],
       "stats": {},
-      "rarity": "normal",
-      "last_edit": "2021.12.19-22.3"
+      "rarity": "undefined",
+      "last_edit": "2021.12.20-21.37"
     },
     "469285294": {
       "name": "Recombination",
