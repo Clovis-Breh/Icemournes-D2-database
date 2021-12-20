@@ -181,7 +181,7 @@
     "235075862": {
       "name": "Peregrine Strike",
       "item_name": "Peregrine Greaves",
-      "item_id": "2255796155",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -194,6 +194,7 @@
           "lineClass": "CDB-spacer"
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
               "text": "Minor"
@@ -201,6 +202,7 @@
           ]
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
               "textClass": "CDB-arc",
@@ -223,6 +225,7 @@
           ]
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
               "text": "Elite"
@@ -230,6 +233,7 @@
           ]
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
               "textClass": "CDB-arc",
@@ -252,6 +256,7 @@
           ]
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
               "text": "Major"
@@ -259,6 +264,7 @@
           ]
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
               "textClass": "CDB-arc",
@@ -281,6 +287,7 @@
           ]
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
               "text": "Boss"
@@ -288,6 +295,7 @@
           ]
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
               "textClass": "CDB-arc",
@@ -311,8 +319,8 @@
         }
       ],
       "stats": {},
-      "rarity": "undefined",
-      "last_edit": "2021.12.20-16.33"
+      "rarity": "normal",
+      "last_edit": "2021.12.20-16.37"
     },
     "236605015": {
       "name": "Vanishing Execution",
