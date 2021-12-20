@@ -1094,7 +1094,7 @@
     "824488952": {
       "name": "Seriously, Watch Out",
       "item_name": "Mk. 44 Stand Asides",
-      "item_id": "136355432",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -1116,7 +1116,7 @@
         {
           "lineText": [
             {
-              "text": "Overshield disappears instantly when not sprinting. "
+              "text": "Overshield disappears instantly when not sprinting."
             }
           ]
         },
@@ -1133,7 +1133,7 @@
         {
           "lineText": [
             {
-              "text": "Shoulder Charge prerequisites sprinting for at least 1.5 seconds"
+              "text": "Shoulder Charge prerequisites sprinting for at least 1.25 seconds"
             }
           ]
         },
@@ -1153,7 +1153,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.11.20-0.14"
+      "last_edit": "2021.12.20-16.29"
     },
     "883550427": {
       "name": "And Another Thing",
