@@ -3,11 +3,12 @@
     "8507332": {
       "name": "Chaotic Exchanger",
       "item_name": "Contraverse Hold",
+      "item_id": "1906093346",
       "description": [
         {
           "lineText": [
             {
-              "text": "On Grenade Charge: Grants Chaotic Exchanger."
+              "text": "While Charging a Grenade:"
             }
           ]
         },
@@ -24,14 +25,14 @@
         {
           "lineText": [
             {
-              "text": "Grenade Hits return between 15% to 85% Grenade Energy. (RNG oof)"
+              "text": "Grenade Hits grant Chaotic Exchange, granting X% [X%] Grenade Ability over 1.75 seconds."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "4 second cooldown between proc."
+              "text": "4 second cooldown."
             }
           ]
         },
@@ -46,8 +47,9 @@
           ]
         }
       ],
-      "armor_id": "1906093346",
-      "last_edit": "2021.9.6-18.5"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.26"
     },
     "117669763": {
       "name": "The Dance",
@@ -111,6 +113,7 @@
     "185514250": {
       "name": "Glacial Guard",
       "item_name": "Icefall Mantle",
+      "item_id": "1467044898",
       "description": [
         {
           "lineText": [
@@ -162,14 +165,23 @@
               "text": "While Shielded is active, you cannot regain Class Ability Energy."
             }
           ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Activating Barricade while Glacial Guard is active will remove the effect."
+            }
+          ]
         }
       ],
-      "armor_id": "1467044898",
-      "last_edit": "2021.9.5-10.22"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.9-0.29"
     },
     "235075862": {
       "name": "Peregrine Strike",
       "item_name": "Peregrine Greaves",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -182,6 +194,7 @@
           "lineClass": "CDB-spacer"
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
               "text": "Minor"
@@ -189,13 +202,30 @@
           ]
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
-              "text": "155% | 190% | 310%"
+              "textClass": "CDB-arc",
+              "text": "155%"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-solar",
+              "text": "190%"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-void",
+              "text": "310%"
             }
           ]
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
               "text": "Elite"
@@ -203,13 +233,30 @@
           ]
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
-              "text": "200% | ? | ?"
+              "textClass": "CDB-arc",
+              "text": "200%"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-solar",
+              "text": "?"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-void",
+              "text": "?"
             }
           ]
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
               "text": "Major"
@@ -217,13 +264,30 @@
           ]
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
-              "text": "310% | ? | ?"
+              "textClass": "CDB-arc",
+              "text": "310%"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-solar",
+              "text": "?"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-void",
+              "text": "?"
             }
           ]
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
               "text": "Boss"
@@ -231,15 +295,32 @@
           ]
         },
         {
+          "lineClass": "CDB-center",
           "lineText": [
             {
-              "text": "360% | 157% | 165%"
+              "textClass": "CDB-arc",
+              "text": "360%"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-solar",
+              "text": "157%"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-void",
+              "text": "165%"
             }
           ]
         }
       ],
-      "armor_id": "2255796155",
-      "last_edit": "2021.9.5-17.38"
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.20-16.37"
     },
     "236605015": {
       "name": "Vanishing Execution",
@@ -452,6 +533,7 @@
     "481860150": {
       "name": "Wish-Dragon Teeth",
       "item_name": "Young Ahamkara's Spine",
+      "item_id": "475652357",
       "description": [
         {
           "lineText": [
@@ -487,7 +569,14 @@
         {
           "lineText": [
             {
-              "text": "Last 30 seconds (10 -> 30) and have 100HP with 50% Damage Resist."
+              "text": "Last 30 seconds (10 -> 30) and have "
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": "100HP "
+            },
+            {
+              "text": " with 50% Damage Resist."
             }
           ]
         },
@@ -509,17 +598,18 @@
           ]
         }
       ],
-      "armor_id": "475652357",
-      "last_edit": "2021.9.5-8.2"
+      "stats": {},
+      "last_edit": "2021.11.1-15.28"
     },
     "481860151": {
       "name": "Spring-Loaded Mounting",
       "item_name": "Mechaneer's Tricksleeves",
+      "item_id": "1734144409",
       "description": [
         {
           "lineText": [
             {
-              "text": "Readying sidearm on critical health: "
+              "text": "Upon readying a sidearm while at Critical Health:"
             }
           ]
         },
@@ -527,21 +617,21 @@
           "lineText": [
             {
               "textClass": "CDB-pve",
-              "text": "100%"
+              "text": "100% "
             },
             {
               "textClass": "CDB-pvp",
-              "text": " [35%]"
+              "text": "[35%]"
             },
             {
-              "text": " Damage Increase until no longer critical."
+              "text": " increased damage until no longer critical."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Refreshes sidearm magazine. (Generates ammo if reserves are empty)"
+              "text": "Refreshes sidearm magazine."
             }
           ]
         },
@@ -556,8 +646,8 @@
           ]
         }
       ],
-      "armor_id": "1734144409",
-      "last_edit": "2021.9.4-20.37"
+      "stats": {},
+      "last_edit": "2021.11.1-15.25"
     },
     "553093017": {
       "name": "Beyond The Veil",
@@ -605,7 +695,25 @@
     "569260333": {
       "name": "Force Multiplier",
       "item_name": "No Backup Plans",
+      "item_id": "3267996858",
       "description": [
+        {
+          "lineText": [
+            {
+              "text": "Shotgun Final Blows restore Melee Ability Energy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "10% Minors | 25% Anything Else"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
         {
           "lineText": [
             {
@@ -622,27 +730,11 @@
               "text": "Shotgun Kills activate Defensive Strike and consume your Melee Energy."
             }
           ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "Shotgun Final Blows restore Melee Ability Energy."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "10% Minors | 25% Anything Else"
-            }
-          ]
         }
       ],
-      "armor_id": "3267996858",
-      "last_edit": "2021.9.5-14.25"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.9-0.30"
     },
     "593361144": {
       "name": "Wraithmetal Mail",
@@ -707,6 +799,7 @@
     "593361146": {
       "name": "Synapse Junctions",
       "item_name": "Raiden Flux",
+      "item_id": "2766109872",
       "description": [
         {
           "lineText": [
@@ -718,7 +811,7 @@
         {
           "lineText": [
             {
-              "text": "Hits grant Synapse Junctions for 5 seconds. Stacks up to 3x"
+              "text": "Hits grant Synapse Junctions for 5 seconds. Stacks up to 3."
             }
           ]
         },
@@ -742,22 +835,23 @@
         {
           "lineText": [
             {
-              "text": "x3 = 46.2% Damage Increase and X% Slower Passive Drain"
+              "text": "x3 = 46.2% Damage Increase and X% Slower Passive Super Drain"
             }
           ]
         }
       ],
-      "armor_id": "2766109872",
-      "last_edit": "2021.9.19-16.6"
+      "stats": {},
+      "last_edit": "2021.11.1-15.26"
     },
     "593361147": {
       "name": "Probability Matrix",
       "item_name": "Lucky Raspberry",
+      "item_id": "903984858",
       "description": [
         {
           "lineText": [
             {
-              "text": "25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability"
+              "text": "Additive 25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability"
             }
           ]
         },
@@ -767,13 +861,14 @@
         {
           "lineText": [
             {
-              "text": "Arcbolt Grenades chain up to 5 times (from 4)"
+              "text": "Arcbolt Grenades chain up to 4 times (from 3)"
             }
           ]
         }
       ],
-      "armor_id": "903984858",
-      "last_edit": "2021.9.4-19.13"
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.11.19-23.53"
     },
     "595829387": {
       "name": "Cross Counter",
@@ -820,18 +915,19 @@
     "622433369": {
       "name": "Warlord's End",
       "item_name": "Felwinter's Helm",
+      "item_id": "",
       "description": [
         {
           "lineText": [
             {
-              "text": "Melee Kills, as well as Finishers weaken (1.3x Debuff) and blind."
+              "text": "Melee Kills, as well as Finishers weaken and blind, rendering the enemy unable to shoot and making it receive 30% increased damage."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Duration and Range are dependant on Enemy Rank. "
+              "text": "Duration and Range are dependant on Enemy Rank."
             }
           ]
         },
@@ -884,17 +980,23 @@
           ]
         }
       ],
-      "armor_id": "2822465023",
-      "last_edit": "2021.9.6-18.9"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.9-0.33"
     },
     "692285813": {
       "name": "Light Shift",
       "item_name": "Mask of Bakris",
+      "item_id": "",
       "description": [
         {
           "lineText": [
             {
-              "text": "Stasis Subclass Only"
+              "textClass": "CDB-stasis",
+              "text": "Stasis "
+            },
+            {
+              "text": " Subclass Only"
             }
           ]
         },
@@ -908,7 +1010,7 @@
         {
           "lineText": [
             {
-              "text": "Shift has a distance of 10 metres, and renders you completely invisible except for a trail for the duration of the shift."
+              "text": " Shift has a distance of 10 metres, and renders you completely invisible except for a trail for the duration of the shift."
             }
           ]
         },
@@ -925,7 +1027,8 @@
         {
           "lineText": [
             {
-              "text": "[PVE] Light Shift grants a 10% Damage Increase to Slowed/Frozen targets, as well as granting 10% Damage Increase to Arc Weapons."
+              "textClass": "CDB-pve",
+              "text": " [PVE] Light Shift grants 10% increased damage to Slowed/Frozen targets, as well as granting 10% increased damage to Arc Weapons."
             }
           ]
         },
@@ -940,8 +1043,8 @@
           ]
         }
       ],
-      "armor_id": "1619425569",
-      "last_edit": "2021.9.4-20.32"
+      "stats": {},
+      "last_edit": "2021.11.1-15.23"
     },
     "699693452": {
       "name": "Vengeance",
@@ -981,6 +1084,7 @@
     "722862450": {
       "name": "Dearly Departed",
       "item_name": "The Stag",
+      "item_id": "2177524718",
       "description": [
         {
           "lineText": [
@@ -989,7 +1093,7 @@
             },
             {
               "textClass": "CDB-pve",
-              "text": "25%"
+              "text": " 25%"
             },
             {
               "textClass": "CDB-pvp",
@@ -1013,7 +1117,18 @@
         {
           "lineText": [
             {
-              "text": "Dearly Departed grants 55% Class Ability Energy."
+              "text": "Dearly Departed grants "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": " 55% "
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": "[27.5%]"
+            },
+            {
+              "text": " Class Ability Energy."
             }
           ]
         },
@@ -1037,17 +1152,19 @@
         {
           "lineText": [
             {
-              "text": "Spawns a Healing Rift for 15 seconds."
+              "text": " Spawns a Healing Rift for 15 seconds."
             }
           ]
         }
       ],
-      "armor_id": "2177524718",
-      "last_edit": "2021.9.15-20.45"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.32"
     },
     "824488952": {
       "name": "Seriously, Watch Out",
       "item_name": "Mk. 44 Stand Asides",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -1062,14 +1179,14 @@
         {
           "lineText": [
             {
-              "text": "Slowly grants 75 HP Overshield over 5 seconds after sprinting for 0.5 seconds"
+              "text": "Slowly grants 75 HP Overshield over 3 seconds after sprinting for 0.5 seconds"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Overshield disappears instantly when not sprinting. "
+              "text": "Overshield disappears instantly when not sprinting."
             }
           ]
         },
@@ -1086,9 +1203,12 @@
         {
           "lineText": [
             {
-              "text": "Shoulder Charge prerequisites sprinting for at least 1.5 seconds"
+              "text": "Shoulder Charge prerequisites sprinting for at least 1.25 seconds"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
         },
         {
           "lineClass": "CDB-spacer"
@@ -1101,8 +1221,9 @@
           ]
         }
       ],
-      "armor_id": "136355432",
-      "last_edit": "2021.9.5-14.24"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.20-16.29"
     },
     "883550427": {
       "name": "And Another Thing",
@@ -1129,11 +1250,12 @@
     "897181301": {
       "name": "Rapid Cooldown",
       "item_name": "Fr0st-EE5",
+      "item_id": "",
       "description": [
         {
           "lineText": [
             {
-              "text": "If Sprinting: "
+              "text": "If Sprinting:"
             }
           ]
         },
@@ -1157,6 +1279,24 @@
         {
           "lineText": [
             {
+              "textClass": "CDB-pve",
+              "text": " Multiplicative "
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": "[Additive]"
+            },
+            {
+              "text": " Recharge Buff."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
               "text": "On Dodge:"
             }
           ]
@@ -1164,7 +1304,7 @@
         {
           "lineText": [
             {
-              "text": "6.25% Faster Sprint for 10 seconds. "
+              "text": "6.25% Faster Sprint for 10 seconds."
             }
           ]
         },
@@ -1186,12 +1326,14 @@
           ]
         }
       ],
-      "armor_id": "609852545",
-      "last_edit": "2021.9.4-18.53"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.8-23.5"
     },
     "902934539": {
       "name": "Blessing of Order",
       "item_name": "Boots of the Assembler",
+      "item_id": "3045642045",
       "description": [
         {
           "lineText": [
@@ -1227,11 +1369,11 @@
             },
             {
               "textClass": "CDB-pve",
-              "text": "1.35x "
+              "text": "35% "
             },
             {
               "textClass": "CDB-pvp",
-              "text": "[1.20x] "
+              "text": "[20%] "
             },
             {
               "text": "Damage Increase for 5 seconds."
@@ -1239,8 +1381,9 @@
           ]
         }
       ],
-      "armor_id": "3045642045",
-      "last_edit": "2021.9.5-17.56"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.25"
     },
     "926349160": {
       "name": "Tome of Dawn",
@@ -1451,25 +1594,12 @@
     "1142806944": {
       "name": "Planetary Torrent",
       "item_name": "Vesper of Radius",
+      "item_id": "1725917554",
       "description": [
         {
           "lineText": [
             {
-              "text": "When surrounded by at least X enemies within Y metres, gain Class Ability Recharge"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "X% per Enemy"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "(Needs testing)"
+              "text": "While surrounded by at least 3 enemies within 15 metres, gain Class Ability Energy per Second."
             }
           ]
         },
@@ -1479,38 +1609,42 @@
         {
           "lineText": [
             {
-              "text": "On Rift Cast:"
+              "text": "3 Enemies = 3% | 4 Enemies = 5% | 5 Enemies = "
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "1 second after casting Rift:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Arc Shockwave that deals "
+              "text": "An Arc Shockwave is cast that deals "
             },
             {
               "textClass": "CDB-pve",
-              "text": "300 "
+              "text": " 300 "
             },
             {
               "textClass": "CDB-pvp",
               "text": "[100]"
             },
             {
-              "text": " damage on a X metre radius."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "(Needs testing)"
+              "text": " damage and heavily knockbacks in a 7.5 metre radius."
             }
           ]
         }
       ],
-      "armor_id": "1725917554",
-      "last_edit": "2021.9.15-20.49"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.33"
     },
     "1147638875": {
       "name": "Cobra Totemic",
@@ -1550,6 +1684,7 @@
     "1155472384": {
       "name": "Biotic Enhancements",
       "item_name": "Synthoceps",
+      "item_id": "241462142",
       "description": [
         {
           "lineText": [
@@ -1585,7 +1720,7 @@
         {
           "lineText": [
             {
-              "text": "50% Super Damage"
+              "text": "50% Super Damage Increase."
             }
           ]
         },
@@ -1593,7 +1728,7 @@
           "lineClass": "CDB-pve",
           "lineText": [
             {
-              "text": "PVE 200% Melee Damage."
+              "text": "PVE 200% Melee Damage Increase."
             }
           ]
         },
@@ -1601,7 +1736,7 @@
           "lineClass": "CDB-pvp",
           "lineText": [
             {
-              "text": "PVP 100% Melee Damage."
+              "text": "PVP 100% Melee Damage Increase."
             }
           ]
         },
@@ -1616,8 +1751,9 @@
           ]
         }
       ],
-      "armor_id": "241462142",
-      "last_edit": "2021.9.5-17.46"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.20"
     },
     "1155472386": {
       "name": "Fury Conductors",
@@ -1671,11 +1807,12 @@
     "1155472387": {
       "name": "Horns of Doom",
       "item_name": "Doom Fang Pauldron",
+      "item_id": "241462141",
       "description": [
         {
           "lineText": [
             {
-              "text": "Powered Void Melee Kills grant 20% Super Energy"
+              "text": "Powered Void Melee Kills grant 20% [10%] Super Energy"
             }
           ]
         },
@@ -1690,12 +1827,14 @@
           ]
         }
       ],
-      "armor_id": "241462141",
-      "last_edit": "2021.9.5-9.46"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.11"
     },
     "1211775759": {
       "name": "Ascending Amplitude",
       "item_name": "Stormdancer's Brace",
+      "item_id": "1996008488",
       "description": [
         {
           "lineText": [
@@ -1710,7 +1849,7 @@
         {
           "lineText": [
             {
-              "text": "Ascending Amplitude increases Stormtrance Damage by 10% per Stack, caps at 10 Stacks which provides a 100% damage increase. "
+              "text": "Ascending Amplitude increases Stormtrance Damage by 10% per Stack, up to 100% at 10 Stacks."
             }
           ]
         },
@@ -1725,8 +1864,9 @@
           ]
         }
       ],
-      "armor_id": "1996008488",
-      "last_edit": "2021.9.15-20.41"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.31"
     },
     "1331592343": {
       "name": "Starless Night",
@@ -1815,6 +1955,7 @@
     "1449897496": {
       "name": "Adamantine Brace",
       "item_name": "Oathkeeper",
+      "item_id": "691578978",
       "description": [
         {
           "lineText": [
@@ -1826,13 +1967,14 @@
         {
           "lineText": [
             {
-              "text": "40ms Faster Draw Time."
+              "text": "Bows' draw time is 10ms faster."
             }
           ]
         }
       ],
-      "armor_id": "691578978",
-      "last_edit": "2021.9.4-20.39"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.19-23.51"
     },
     "1449897497": {
       "name": "Sharp Edges",
@@ -1972,11 +2114,12 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.10-16.3"
+      "last_edit": "2021.10.19-19.29"
     },
     "1694242448": {
       "name": "Illegally Modded Holster",
       "item_name": "Lucky Pants",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -1988,7 +2131,7 @@
         {
           "lineText": [
             {
-              "text": "100 Handling Ready Speed and Y% Accuracy Increase on Draw for X seconds."
+              "text": "100 Handling Ready Speed with 0.X Duration Scalar  and ~-40% Accuracy Cone Size on Ready for X seconds."
             }
           ]
         },
@@ -1998,22 +2141,22 @@
         {
           "lineText": [
             {
-              "text": "After readying a Hand Cannon with a Full Magazine that deals Kinetic Damage or matches your Subclass:"
+              "text": "Upon readying a Kinetic or Matching Hand Cannon with a Full Magazine:"
             }
           ]
         },
         {
+          "lineClass": "CDB-pve",
           "lineText": [
             {
-              "textClass": "CDB-pve",
               "text": "60% Increased damage per Hit for 5 seconds. Maxes out at 600% after 10 Hits."
             }
           ]
         },
         {
+          "lineClass": "CDB-pve",
           "lineText": [
             {
-              "textClass": "CDB-pve",
               "text": "Eriana's Vow has a reduced effectiveness of 30% Damage Increase per Hit."
             }
           ]
@@ -2036,8 +2179,9 @@
           ]
         }
       ],
-      "armor_id": "193869522",
-      "last_edit": "2021.9.19-16.25"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.8-23.4"
     },
     "1694242449": {
       "name": "Uncanny Arrows",
@@ -2348,6 +2492,7 @@
     "1919923227": {
       "name": "Overflowing Light",
       "item_name": "Heart of Inmost Light",
+      "item_id": "1341951177",
       "description": [
         {
           "lineText": [
@@ -2376,14 +2521,14 @@
         {
           "lineText": [
             {
-              "text": "5% Melee and Grenade Energy per Second"
+              "text": "5% [2.5%] Melee and Grenade Energy per Second"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "4% Barricade Energy per Second"
+              "text": "4% [2%] Barricade Energy per Second"
             }
           ]
         },
@@ -2398,8 +2543,9 @@
           ]
         }
       ],
-      "armor_id": "1341951177",
-      "last_edit": "2021.9.5-10.20"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.12"
     },
     "1939153390": {
       "name": "Close Enough",
@@ -2426,11 +2572,12 @@
     "1971489086": {
       "name": "The Fourth Magic",
       "item_name": "Verity's Brow",
+      "item_id": "2428181146",
       "description": [
         {
           "lineText": [
             {
-              "text": "Weapons Kills with a Matching Subclass Element grant Stacks of Death Throes."
+              "text": "Weapons Kills with a Matching Subclass Element grant Stacks of Death Throes"
             }
           ]
         },
@@ -2440,7 +2587,7 @@
         {
           "lineText": [
             {
-              "text": "Each Stack of Death Throes grants 20% faster Grenade Recharge and 20% Grenade Damage Increase. "
+              "text": "Each Stack of Death Throes grants 20% faster Grenade Recharge and 20% Increased Grenade Damage. "
             }
           ]
         },
@@ -2471,17 +2618,19 @@
         {
           "lineText": [
             {
-              "text": "Feel the Flame grants 6x (verify!) faster Grenade Recharge for (2 * Stacks) seconds."
+              "text": "Feel the Flame grants 500% (verify) faster Grenade Recharge for (2 * Stacks) seconds."
             }
           ]
         }
       ],
-      "armor_id": "2428181146",
-      "last_edit": "2021.9.15-20.47"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.9-0.32"
     },
     "2119325971": {
       "name": "Vanishing Shadow",
       "item_name": "Graviton Forfeit",
+      "item_id": "2773056939",
       "description": [
         {
           "lineText": [
@@ -2501,23 +2650,25 @@
           ]
         },
         {
+          "lineClass": "CDB-bg",
           "lineText": [
             {
-              "text": "Vanish in Smoke: 7 -> 12 seconds (71% Increase)"
+              "text": "Vanish in Smoke: 7 -> 12 seconds (71% Increase) "
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Vanishing Step: 4.5 -> 7 seconds (44% Increase) "
+              "text": "Vanishing Step: 4.5 -> 7 seconds (44% Increase)"
             }
           ]
         },
         {
+          "lineClass": "CDB-bg",
           "lineText": [
             {
-              "text": "Flawless Execution: 9 -> 15 seconds (66% Increase)"
+              "text": "Flawless Execution: 9 -> 15 seconds (66% Increase) "
             }
           ]
         },
@@ -2560,8 +2711,8 @@
           ]
         }
       ],
-      "armor_id": "2773056939",
-      "last_edit": "2021.9.19-15.53"
+      "stats": {},
+      "last_edit": "2021.10.19-20.1"
     },
     "2192678014": {
       "name": "Roving Assassin",
@@ -2758,6 +2909,7 @@
     "2500502982": {
       "name": "Firewalker",
       "item_name": "The Path of Burning Steps",
+      "item_id": "1453120846",
       "description": [
         {
           "lineText": [
@@ -2780,11 +2932,11 @@
             },
             {
               "textClass": "CDB-pve",
-              "text": "3 "
+              "text": " 3 "
             },
             {
               "textClass": "CDB-pvp",
-              "text": "[4] "
+              "text": "[4]"
             },
             {
               "text": " Stacks."
@@ -2799,18 +2951,18 @@
           ]
         },
         {
-          "lineClass": "CDB-pve",
           "lineText": [
             {
-              "text": "1x = 20% | 2x = 25% | 3x = 35%"
+              "textClass": "CDB-pve",
+              "text": " 1x = 20% | 2x = 25% | 3x = 35%"
             }
           ]
         },
         {
-          "lineClass": "CDB-pvp",
           "lineText": [
             {
-              "text": "1x = 20% | 2x = 25% | 3x = 20% | 4x = 35%"
+              "textClass": "CDB-pvp",
+              "text": " 1x = 20% | 2x = 25% | 3x = 20% | 4x = 35%"
             }
           ]
         },
@@ -2837,14 +2989,27 @@
               "text": "Stasis Breakout also creates a burst of Solar Energy with a 9m radius, dealing 105 damage."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-highlight_3",
+              "text": " 3X = 20% IS BUGGED"
+            }
+          ]
         }
       ],
-      "armor_id": "1453120846",
-      "last_edit": "2021.9.5-17.49"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.22"
     },
     "2618534366": {
       "name": "Absorption Cells",
       "item_name": "Mantle of Battle Harmony",
+      "item_id": "3301944824",
       "description": [
         {
           "lineText": [
@@ -2905,25 +3070,25 @@
             },
             {
               "textClass": "CDB-pve",
-              "text": " 6s"
+              "text": " 6s "
             },
             {
               "textClass": "CDB-pvp",
-              "text": " [3.5]"
+              "text": "[3.5]"
             },
             {
               "text": " ("
             },
             {
               "textClass": "CDB-pve",
-              "text": "+4"
+              "text": "+4 "
             },
             {
               "textClass": "CDB-pvp",
-              "text": " [2]"
+              "text": "[2]"
             },
             {
-              "text": " per additional kill) of Absorption Cells, granting a 20% Damage Increase for Weapons Matching your Subclass Element."
+              "text": " per additional kill) of Absorption Cells, granting 20% increased damage for Weapons Matching your Subclass Element."
             }
           ]
         },
@@ -2934,11 +3099,11 @@
             },
             {
               "textClass": "CDB-pve",
-              "text": " 10"
+              "text": " 10 "
             },
             {
               "textClass": "CDB-pvp",
-              "text": " [6]"
+              "text": "[6]"
             },
             {
               "text": " second duration."
@@ -2956,8 +3121,9 @@
           ]
         }
       ],
-      "armor_id": "3301944824",
-      "last_edit": "2021.9.6-19.14"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.30"
     },
     "2637025676": {
       "name": "The Whispers",
@@ -3388,6 +3554,7 @@
     "2951499542": {
       "name": "Beacons of Empowerment",
       "item_name": "Phoenix Cradle",
+      "item_id": "1537074069",
       "description": [
         {
           "lineText": [
@@ -3402,52 +3569,16 @@
               "text": "Sunspots affect the entire team."
             }
           ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "Sun Warrior:"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "2.8x faster Grenade Recharge"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "4.2x Melee Ability Recharge"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "20% Increased Weapon Damage"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "10(?)% slower Super Drain"
-            }
-          ]
         }
       ],
-      "armor_id": "1537074069",
-      "last_edit": "2021.9.5-17.39"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.15"
     },
     "2979726427": {
       "name": "Kintsugi",
       "item_name": "Precious Scars",
+      "item_id": "3974038291",
       "description": [
         {
           "lineText": [
@@ -3493,29 +3624,24 @@
         {
           "lineText": [
             {
-              "text": "Heals for XHP and grants Y Recovery for X seconds after getting a Weapon Kill with a Matching Subclass Element."
+              "text": "Heals for 60(?)HP and grants Y Recovery for X seconds after getting a Weapon Kill with a Matching Subclass Element."
             }
           ]
         }
       ],
-      "armor_id": "3974038291",
-      "last_edit": "2021.9.5-17.40"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.16"
     },
     "3241194940": {
       "name": "Jump Jets",
       "item_name": "Lion Rampant",
+      "item_id": "3539357318",
       "description": [
         {
           "lineText": [
             {
-              "text": "No Accuracy Penalty while Airborne when Hipfiring in Lift."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "Enables hipfire while in Lift."
+              "text": "Enables hipfiring while in Lift, and removes Accuracy Penalty from being Airborne."
             }
           ]
         },
@@ -3542,27 +3668,28 @@
         {
           "lineText": [
             {
-              "text": "High Lift: 2.6 -> 4 (1.54x increase)"
+              "text": "High Lift: 2.6 -> 4 (54% increase)"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Stafe Lift: 2.2 -> 4 (1.82x increase)"
+              "text": "Stafe Lift: 2.2 -> 4 (82% increase)"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Catapult Lift: 1 -> 4 (4x increase!)"
+              "text": "Catapult Lift: 1 -> 4 (300% increase!)"
             }
           ]
         }
       ],
-      "armor_id": "3539357318",
-      "last_edit": "2021.9.5-14.22"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.13"
     },
     "3241194941": {
       "name": "Mecha Holster",
@@ -3627,6 +3754,7 @@
     "3241194942": {
       "name": "Linear Actuators",
       "item_name": "Dunemarchers",
+      "item_id": "1160559849",
       "description": [
         {
           "lineText": [
@@ -3667,7 +3795,7 @@
           "lineText": [
             {
               "textClass": "CDB-pvp",
-              "text": "[PVP] 85 Damage"
+              "text": "[PVP] 85 Damage. Immune to Dunemarchers for 2 seconds after being hit."
             }
           ]
         },
@@ -3689,12 +3817,78 @@
           ]
         }
       ],
-      "armor_id": "1160559849",
-      "last_edit": "2021.9.19-16.14"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.8-23.12"
+    },
+    "3268255645": {
+      "name": "Sect of Force",
+      "item_name": "Aeon Safe",
+      "item_id": "1654461647",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "4 Precision Hits within 2.5 seconds of each grants Aeon Weapon Haste for 6 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Aeon Weapon Haste grants 10 Reload with 0.8x RDS, as well as 10 Handling to Ready and Stow speed."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Champion Stun, Mini-boss, or Boss Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Allies within 30 metres gain 50% Grenade and Melee Energy."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Aeon Allies additionally gain 10% Super Energy."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "4 second cooldown between refresh."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.7"
     },
     "3295796664": {
       "name": "Move to Survive",
       "item_name": "Astrocyte Verse",
+      "item_id": "3948284065",
       "description": [
         {
           "lineText": [
@@ -3723,7 +3917,7 @@
         {
           "lineText": [
             {
-              "text": "100(?) Handling, Radar remains active."
+              "text": " 100 Ready Speed Handling, Radar remains active."
             }
           ]
         },
@@ -3752,8 +3946,9 @@
           ]
         }
       ],
-      "armor_id": "3948284065",
-      "last_edit": "2021.9.5-17.53"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.24"
     },
     "3347978672": {
       "name": "Alchemical Etchings",
@@ -3883,6 +4078,50 @@
       ],
       "armor_id": "2326396534",
       "last_edit": "2021.9.19-16.15"
+    },
+    "3651607301": {
+      "name": "Sect of Insight",
+      "item_name": "Aeon Swift",
+      "item_id": "3942036043",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "2 Precision Multikills drop an Orb of Power for allies."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Finishing an Elite spawns a Special Ammo Brick for Allies"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Finishing a Mini-boss spawns a Power Ammo Brick for Allies."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Aeon Allies additionally receive a 35% Damage Increase for 20 seconds."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.8"
     },
     "3662465906": {
       "name": "Dreaded Visage",
@@ -4036,6 +4275,50 @@
       "armor_id": "978537162",
       "last_edit": "2021.9.19-16.5"
     },
+    "3683811620": {
+      "name": "Sect of Vigor",
+      "item_name": "Aeon Soul",
+      "item_id": "2950045886",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Ally Deaths grant 25% Class Ability Energy."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Gain Full Class Ability Energy on Ally Revival."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Casting Super fully heals allies within 30 metres."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Aeon Allies receive a 110HP Overshield for 20 seconds that recharges after 3 seconds. "
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.6"
+    },
     "3723531833": {
       "name": "Burning Souls",
       "item_name": "Wormhusk Crown",
@@ -4131,6 +4414,7 @@
     "3907299874": {
       "name": "New Tricks",
       "item_name": "Shinobu's Vow",
+      "item_id": "1053737370",
       "description": [
         {
           "lineText": [
@@ -4165,13 +4449,14 @@
         {
           "lineText": [
             {
-              "text": "Hits with Skip Grenades grant X% Grenade Energy."
+              "text": "Hits with Skip Grenades grant X% [X/3] Grenade Energy."
             }
           ]
         }
       ],
-      "armor_id": "1053737370",
-      "last_edit": "2021.9.5-7.55"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.19-23.52"
     },
     "3927963100": {
       "name": "Cerebral Uplink",
@@ -4337,11 +4622,12 @@
     "3927963103": {
       "name": "Conduction Tines",
       "item_name": "Crown of Tempests",
+      "item_id": "3381022969",
       "description": [
         {
           "lineText": [
             {
-              "text": "Arc Ability Kills grant Conduction Tines for 7 seconds. Stacks up to 3x."
+              "text": "Arc Ability Kills grant Conduction Tines for 7 [4] seconds. Stacks up to 3x."
             }
           ]
         },
@@ -4404,12 +4690,14 @@
           ]
         }
       ],
-      "armor_id": "3381022969",
-      "last_edit": "2021.9.6-18.6"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.27"
     },
     "4024170927": {
       "name": "Misdirection",
       "item_name": "Gemini Jester",
+      "item_id": "1163283805",
       "description": [
         {
           "lineText": [
@@ -4432,14 +4720,7 @@
           "lineText": [
             {
               "textClass": "CDB-pve",
-              "text": "[PVE]"
-            },
-            {
-              "text": " Misdirection "
-            },
-            {
-              "textClass": "CDB-pve",
-              "text": "disorients minors and elites for 5 seconds."
+              "text": "[PVE] Misdirection disorients minors and elites for 5 seconds."
             }
           ]
         },
@@ -4447,14 +4728,7 @@
           "lineText": [
             {
               "textClass": "CDB-pvp",
-              "text": "[PVP]"
-            },
-            {
-              "text": " Misdirection "
-            },
-            {
-              "textClass": "CDB-pvp",
-              "text": "warps audio and removes radar for 5 seconds, as well as briefly blinding."
+              "text": "[PVP] Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
             }
           ]
         },
@@ -4469,12 +4743,13 @@
           ]
         }
       ],
-      "armor_id": "1163283805",
-      "last_edit": "2021.9.19-15.50"
+      "stats": {},
+      "last_edit": "2021.10.19-20.0"
     },
     "4048389864": {
       "name": "Feast of Light",
       "item_name": "Star-Eater Scales",
+      "item_id": "1001356380",
       "description": [
         {
           "lineText": [
@@ -4510,7 +4785,7 @@
         {
           "lineText": [
             {
-              "text": "Picking up an Orb of Power grants 1 Overcharge Stack. "
+              "text": "Picking up an Orb of Power grants 1 Overcharge Stack."
             }
           ]
         },
@@ -4520,7 +4795,7 @@
         {
           "lineText": [
             {
-              "text": "Each Overcharge Stacks grants increased Super Damage, up to 1.7x."
+              "text": "Each Overcharge Stacks grants increased Super Damage, up to 70%."
             }
           ]
         },
@@ -4546,8 +4821,8 @@
           ]
         }
       ],
-      "armor_id": "1001356380",
-      "last_edit": "2021.9.5-7.58"
+      "stats": {},
+      "last_edit": "2021.11.1-15.27"
     },
     "4102900702": {
       "name": "Touch of Venom",
@@ -4609,6 +4884,7 @@
     "4190535237": {
       "name": "Ursine Guard",
       "item_name": "Ursa Furiosa",
+      "item_id": "1848640623",
       "description": [
         {
           "lineText": [
@@ -4623,7 +4899,7 @@
         {
           "lineText": [
             {
-              "text": "Converts damage into Super Energy after Super ends, up to 50%."
+              "text": "Converts incoming damage into Super Energy after Super ends, up to 50%."
             }
           ]
         },
@@ -4645,8 +4921,9 @@
           ]
         }
       ],
-      "armor_id": "1848640623",
-      "last_edit": "2021.9.5-17.50"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.20-0.23"
     },
     "4235122381": {
       "name": "Glorious Charge",
@@ -4736,21 +5013,11 @@
       "name": "Iron Grip",
       "description": [
         {
-          "lineText": [
-            {
-              "text": "18 Stability and -28 Reload Speed."
-            }
-          ]
+          "lineClass": "CDB-spacer"
         }
       ],
-      "stats": {
-        "reload": {
-          "always_active": {
-            "stat": -28
-          }
-        }
-      },
-      "last_edit": "2021.9.20-21.26"
+      "stats": {},
+      "last_edit": "2021.11.1-17.30"
     },
     "11612903": {
       "name": "Adrenaline Junkie",
@@ -4758,14 +5025,21 @@
         {
           "lineText": [
             {
-              "text": "Grenade Kills grant stacking damage increases and Handling for 10 seconds."
+              "text": "On Weapon or Grenade Kill:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Duration refreshed on Grenade Kill."
+              "text": "Stacking Damage and Handling Increase for 4.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Buff Refreshed on Kill. Grenade Kills grant all 5 Stacks instantly."
             }
           ]
         },
@@ -4777,13 +5051,24 @@
             {
               "lineText": [
                 {
+                  "textClass": "CDB-bold",
                   "text": "Stacks"
                 },
                 {
+                  "textClass": "CDB-bold",
                   "text": "+Damage"
                 },
                 {
+                  "textClass": "CDB-bold",
                   "text": "+Handling"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Ready Speed"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stow Speed"
                 }
               ]
             },
@@ -4791,26 +5076,40 @@
               "lineClass": "CDB-bg",
               "lineText": [
                 {
+                  "textClass": "CDB-bold",
                   "text": "1x"
                 },
                 {
-                  "text": "10%"
+                  "text": "6.6%"
                 },
                 {
-                  "text": "10"
+                  "text": "unknown"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
                 }
               ]
             },
             {
               "lineText": [
                 {
+                  "textClass": "CDB-bold",
                   "text": "2x"
                 },
                 {
-                  "text": "21%"
+                  "text": "13.2%"
                 },
                 {
-                  "text": "20"
+                  "text": "unknown"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
                 }
               ]
             },
@@ -4818,13 +5117,61 @@
               "lineClass": "CDB-bg",
               "lineText": [
                 {
+                  "textClass": "CDB-bold",
                   "text": "3x"
+                },
+                {
+                  "text": "20%"
+                },
+                {
+                  "text": "unknown"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "4x"
+                },
+                {
+                  "text": "26.6%"
+                },
+                {
+                  "text": "unknown"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "5x"
                 },
                 {
                   "text": "33%"
                 },
                 {
-                  "text": "30"
+                  "text": "unknown"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
                 }
               ]
             }
@@ -4832,28 +5179,21 @@
         }
       ],
       "stats": {
-        "handling": {
-          "conditional": {
-            "stat": [],
-            "multiplier": [
-              10,
-              20,
-              30
-            ]
-          }
-        },
         "damage": {
           "conditional": {
             "stat": [],
             "multiplier": [
-              10,
-              21,
+              6.6,
+              13.2,
+              20,
+              26.6,
               33
             ]
           }
         }
       },
-      "last_edit": "2021.10.17-16.47"
+      "rarity": "undefined",
+      "last_edit": "2021.12.19-13.15"
     },
     "25606670": {
       "name": "Dual Loader",
@@ -4883,14 +5223,8 @@
           ]
         }
       ],
-      "stats": {
-        "reload": {
-          "always_active": {
-            "stat": -45
-          }
-        }
-      },
-      "last_edit": "2021.9.19-18.15"
+      "stats": {},
+      "last_edit": "2021.10.19-8.38"
     },
     "47981717": {
       "name": "Opening Shot",
@@ -4915,6 +5249,24 @@
               "text": "Shotguns do not receive the Damage Falloff Distance Increase."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "In-Game Range: {rang_0}"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-highlight",
+              "text": "^ Currently Takes the Damage Falloff Distance Increase into account on shotguns, multiplying by 0.95 should get you the more accurate value."
+            }
+          ]
         }
       ],
       "stats": {
@@ -4929,7 +5281,8 @@
           }
         }
       },
-      "last_edit": "2021.9.20-21.42"
+      "rarity": "normal",
+      "last_edit": "2021.11.15-18.2"
     },
     "124408337": {
       "name": "Headstone",
@@ -4944,7 +5297,14 @@
         {
           "lineText": [
             {
-              "text": "Spawns a Stasis Crystal on Enemy Death Location."
+              "text": "Spawns a "
+            },
+            {
+              "textClass": "CDB-stasis",
+              "text": "Stasis "
+            },
+            {
+              "text": " Crystal on Enemy Death Location."
             }
           ]
         },
@@ -4956,7 +5316,8 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-20.31"
+      "stats": {},
+      "last_edit": "2021.10.19-8.10"
     },
     "201365942": {
       "name": "Archer's Tempo",
@@ -4986,8 +5347,17 @@
           ]
         }
       ],
-      "stats": {},
-      "last_edit": "2021.10.17-16.45"
+      "stats": {
+        "charge_draw_time": {
+          "conditional": {
+            "stat": [],
+            "multiplier": [
+              0.7
+            ]
+          }
+        }
+      },
+      "last_edit": "2021.11.1-16.36"
     },
     "205890336": {
       "name": "Underdog",
@@ -5044,6 +5414,10 @@
                 {
                   "textClass": "CDB-bold",
                   "text": "Stability"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Reload Time"
                 }
               ]
             },
@@ -5058,6 +5432,9 @@
                 },
                 {
                   "text": "5"
+                },
+                {
+                  "text": "{relo_0}s"
                 }
               ]
             },
@@ -5071,6 +5448,9 @@
                 },
                 {
                   "text": "10"
+                },
+                {
+                  "text": "{relo_1}s"
                 }
               ]
             },
@@ -5085,6 +5465,9 @@
                 },
                 {
                   "text": "15"
+                },
+                {
+                  "text": "{relo_2}s"
                 }
               ]
             },
@@ -5098,6 +5481,9 @@
                 },
                 {
                   "text": "20"
+                },
+                {
+                  "text": "{relo_3}s"
                 }
               ]
             },
@@ -5112,6 +5498,9 @@
                 },
                 {
                   "text": "23"
+                },
+                {
+                  "text": "{relo_4}s"
                 }
               ]
             }
@@ -5132,7 +5521,7 @@
           }
         }
       },
-      "last_edit": "2021.10.17-18.47"
+      "last_edit": "2021.11.2-18.33"
     },
     "280464955": {
       "name": "Firmly Planted",
@@ -5140,7 +5529,7 @@
         {
           "lineText": [
             {
-              "text": "If Crouched:"
+              "text": "While Crouched:"
             }
           ]
         },
@@ -5148,6 +5537,23 @@
           "lineText": [
             {
               "text": "30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         }
@@ -5160,9 +5566,17 @@
             ],
             "multiplier": []
           }
+        },
+        "stability": {
+          "conditional": {
+            "stat": [
+              20
+            ],
+            "multiplier": []
+          }
         }
       },
-      "last_edit": "2021.9.19-18.59"
+      "last_edit": "2021.11.1-18.34"
     },
     "354401740": {
       "name": "Assassin's Blade",
@@ -5177,7 +5591,7 @@
         {
           "lineText": [
             {
-              "text": "15% Increased damage and sets Forward Movement Speed to 9 metres / second (Max Sprint Speed)"
+              "text": "15% Increased damage and sets Forward Movement Speed to 9 meters / second (Max Sprint Speed)"
             }
           ]
         },
@@ -5206,7 +5620,8 @@
           }
         }
       },
-      "last_edit": "2021.10.17-16.48"
+      "rarity": "undefined",
+      "last_edit": "2021.12.18-22.16"
     },
     "438098033": {
       "name": "Harmony",
@@ -5227,6 +5642,23 @@
               "text": "20% Damage Increase, and 15 Handling for 7 seconds."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
+            }
+          ]
         }
       ],
       "stats": {
@@ -5245,12 +5677,75 @@
               20
             ]
           }
-        },
-        "duration": [
-          7
-        ]
+        }
       },
-      "last_edit": "2021.9.19-20.27"
+      "last_edit": "2021.11.2-17.39"
+    },
+    "454085387": {
+      "name": "Blunt Execution Rounds",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Upon dealing Melee Damage while an Enemy within 15 meters:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100 Handling and "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": " 500%"
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": " [100%]"
+            },
+            {
+              "text": " increased damage for 10 seconds or until firing."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "4(?) second cooldown. Can be procced while stowed."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "handling": {
+          "conditional": {
+            "stat": [
+              100
+            ],
+            "multiplier": []
+          }
+        }
+      },
+      "rarity": "undefined",
+      "last_edit": "2021.12.18-22.17"
     },
     "460017080": {
       "name": "Headseeker",
@@ -5263,7 +5758,33 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-20.29"
+      "stats": {
+        "damage": {
+          "conditional": {
+            "stat": [],
+            "multiplier": [
+              8
+            ]
+          }
+        }
+      },
+      "last_edit": "2021.10.19-8.20"
+    },
+    "466087222": {
+      "name": "Smoothbore",
+      "description": [
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-highlight",
+              "text": "NEVER USE THIS BARREL, IT KILLS YOUR PELLET SPREAD AND WITH THAT YOUR CONSISTENCY"
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.20-21.37"
     },
     "469285294": {
       "name": "Recombination",
@@ -5276,31 +5797,197 @@
           ]
         },
         {
-          "lineText": [
+          "table": [
             {
-              "textClass": "CDB-pve",
-              "text": "8% | 15% | 24% | 33% | 42% | 50% | 59% | 70% | 80% | 88% for Heritage."
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stacks"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Heritage"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Succession"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Both in PVP"
+                }
+              ]
+            },
             {
-              "textClass": "CDB-pve",
-              "text": "8% | 17% | 27% | 38% | 46% | 57% | 68% | 80% | 89% | 100% for Succession."
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "1x"
+                },
+                {
+                  "text": "8%"
+                },
+                {
+                  "text": "8%"
+                },
+                {
+                  "text": "5%"
+                }
+              ]
+            },
             {
-              "textClass": "CDB-pvp",
-              "text": "5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% for Heritage and Succession."
+              "lineText": [
+                {
+                  "text": "2x"
+                },
+                {
+                  "text": "15%"
+                },
+                {
+                  "text": "17%"
+                },
+                {
+                  "text": "10%"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "3x"
+                },
+                {
+                  "text": "24%"
+                },
+                {
+                  "text": "27%"
+                },
+                {
+                  "text": "15%"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "4x"
+                },
+                {
+                  "text": "33%"
+                },
+                {
+                  "text": "38%"
+                },
+                {
+                  "text": "20%"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "5x"
+                },
+                {
+                  "text": "42%"
+                },
+                {
+                  "text": "46%"
+                },
+                {
+                  "text": "25%"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "6x"
+                },
+                {
+                  "text": "50%"
+                },
+                {
+                  "text": "57%"
+                },
+                {
+                  "text": "30%"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "7x"
+                },
+                {
+                  "text": "59%"
+                },
+                {
+                  "text": "68%"
+                },
+                {
+                  "text": "35%"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "8x"
+                },
+                {
+                  "text": "70%"
+                },
+                {
+                  "text": "80%"
+                },
+                {
+                  "text": "40%"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "9x"
+                },
+                {
+                  "text": "80%"
+                },
+                {
+                  "text": "89%"
+                },
+                {
+                  "text": "45%"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "10x"
+                },
+                {
+                  "text": "88%"
+                },
+                {
+                  "text": "100%"
+                },
+                {
+                  "text": "50%"
+                }
+              ]
             }
           ]
         }
       ],
-      "last_edit": "2021.9.21-8.12"
+      "stats": {},
+      "last_edit": "2021.10.19-9.7"
     },
     "588594999": {
       "name": "Moving Target",
@@ -5313,27 +6000,50 @@
           ]
         }
       ],
-      "last_edit": "2021.9.20-21.33"
+      "stats": {
+        "aim_assist": {
+          "always_active": {
+            "stat": 10
+          }
+        }
+      },
+      "last_edit": "2021.10.19-8.45"
     },
     "591790007": {
       "name": "Iron Reach",
       "description": [
         {
+          "lineClass": "CDB-spacer"
+        }
+      ],
+      "stats": {},
+      "last_edit": "2021.11.1-17.31"
+    },
+    "689005463": {
+      "name": "Accelerated Coils",
+      "description": [
+        {
           "lineText": [
             {
-              "text": "18 Range and -28 Stability"
+              "text": "Decreases charge time by 40, reduces damage by 2%"
             }
           ]
         }
       ],
       "stats": {
-        "range": {
+        "damage": {
           "always_active": {
-            "stat": 18
+            "multiplier": 0.98
+          }
+        },
+        "charge_draw_time": {
+          "always_active": {
+            "stat": -40
           }
         }
       },
-      "last_edit": "2021.9.20-21.27"
+      "rarity": "normal",
+      "last_edit": "2021.11.14-20.2"
     },
     "699525795": {
       "name": "Eye of the Storm",
@@ -5383,7 +6093,24 @@
         {
           "lineText": [
             {
-              "text": " 100 Ready/Stow Handling for 1 second, or until ADS."
+              "text": "100 Ready/Stow Handling for 1 second, or until ADS. (Doesn't affect ADS Speed)"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         }
@@ -5396,12 +6123,9 @@
             ],
             "multiplier": []
           }
-        },
-        "duration": [
-          1
-        ]
+        }
       },
-      "last_edit": "2021.9.20-21.50"
+      "last_edit": "2021.11.2-18.32"
     },
     "806159697": {
       "name": "Trench Barrel",
@@ -5417,6 +6141,23 @@
           "lineText": [
             {
               "text": "50% Damage Increase, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         }
@@ -5437,12 +6178,9 @@
               50
             ]
           }
-        },
-        "duration": [
-          5
-        ]
+        }
       },
-      "last_edit": "2021.9.21-12.5"
+      "last_edit": "2021.11.2-18.51"
     },
     "818211479": {
       "name": "Shattering Blade",
@@ -5480,12 +6218,13 @@
         {
           "lineText": [
             {
-              "text": "Sets the Lightweight Frame Submachine Gun's Damage Profile into that of a Precision Frame."
+              "text": "Sets the Lightweight Frame Submachine Gun's Damage and Magazine Profile into that of a Precision Frame."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.20-21.46"
+      "stats": {},
+      "last_edit": "2021.10.19-8.51"
     },
     "908147344": {
       "name": "Sneak Bow",
@@ -5520,7 +6259,17 @@
         {
           "lineText": [
             {
-              "text": "10 Reload with 0.8x Multiplier."
+              "text": "10 Reload Speed with 0.8x Multiplier."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reload speed is factored into base reload."
             }
           ]
         }
@@ -5528,12 +6277,13 @@
       "stats": {
         "reload": {
           "always_active": {
-            "multiplier": 0.8,
-            "stat": 10
+            "stat": 10,
+            "multiplier": 0.8
           }
         }
       },
-      "last_edit": "2021.9.20-21.24"
+      "rarity": "normal",
+      "last_edit": "2021.11.23-19.42"
     },
     "957782887": {
       "name": "Snapshot Sights",
@@ -5548,22 +6298,21 @@
         {
           "lineText": [
             {
-              "text": "(33% Faster than 100 Handling)"
+              "text": "Stacks with ADS Scalar effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow."
             }
           ]
-        },
-        {
-          "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
             {
-              "text": "Stacks with ADS Scalar effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow."
+              "textClass": "CDB-highlight",
+              "text": " Needs retesting, F."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.21-11.30"
+      "stats": {},
+      "last_edit": "2021.10.19-9.32"
     },
     "960810156": {
       "name": "Danger Zone",
@@ -5599,14 +6348,48 @@
         {
           "lineText": [
             {
-              "text": "On Critical Health:"
+              "text": "While <38 Shields:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Fully refreshes weapon (Held or Stowed), 45 Handling, 5% Faster Swap Speed."
+              "text": "Refreshes weapon, 45 Handling, 5% Faster Swap Speed."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Works even while stowed)"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
             }
           ]
         }
@@ -5618,12 +6401,13 @@
               45
             ],
             "multiplier": [
-              1.05
+              0.95
             ]
           }
         }
       },
-      "last_edit": "2021.9.20-21.47"
+      "rarity": "normal",
+      "last_edit": "2021.12.8-22.24"
     },
     "1015611457": {
       "name": "Kill Clip",
@@ -5665,6 +6449,29 @@
       },
       "last_edit": "2021.9.20-21.29"
     },
+    "1047830412": {
+      "name": "Full Choke",
+      "description": [
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-highlight",
+              "text": "Best PVP Shotgun Barrel for consistency"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "When aiming down sights: reduces projectile spread but removes the precision damage multiplier."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.8-22.50"
+    },
     "1140096971": {
       "name": "Seraph Rounds",
       "description": [
@@ -5692,13 +6499,20 @@
       },
       "last_edit": "2021.9.21-11.17"
     },
-    "1195158366": {
-      "name": "Encore",
+    "1168162263": {
+      "name": "Outlaw",
       "description": [
         {
           "lineText": [
             {
-              "text": "On Precision Kill: 10 Range per Stack. Max of 3 Stacks. "
+              "text": "On Precision Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "63 Reload Speed with 0.9x Multiplier for 6 seconds."
             }
           ]
         },
@@ -5708,7 +6522,96 @@
         {
           "lineText": [
             {
-              "text": "On Non-Precision Kill: Removes a Range Stack and grants -X% Accuracy Cone Growth, -Y% Accuracy Cone Size, and 30 Stability if there are no active Range Stacks left."
+              "text": "Reload Time: {relo_0}s"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "reload": {
+          "conditional": {
+            "stat": [
+              63
+            ],
+            "multiplier": [
+              0.9
+            ]
+          }
+        }
+      },
+      "last_edit": "2021.11.2-18.15"
+    },
+    "1195158366": {
+      "name": "Encore",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Kill: 10 Range per Stack. Max of 3 Stacks."
+            }
+          ]
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stacks"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "In-Game Range"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "1"
+                },
+                {
+                  "text": "{rang_0}m"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "2"
+                },
+                {
+                  "text": "{rang_1}m"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "3"
+                },
+                {
+                  "text": "{rang_2}m"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "On Non-Precision Kill: Removes a Stack and grants -X% Accuracy Cone Growth, -Y% Accuracy Cone Size, and 30 Stability if there are no active Range Stacks left."
             }
           ]
         },
@@ -5733,9 +6636,18 @@
             ],
             "multiplier": []
           }
+        },
+        "stability": {
+          "conditional": {
+            "stat": [
+              30
+            ],
+            "multiplier": []
+          }
         }
       },
-      "last_edit": "2021.10.17-17.47"
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.26"
     },
     "1264398905": {
       "name": "Celerity",
@@ -5751,6 +6663,27 @@
           "lineText": [
             {
               "text": "100 Handling, 100 Reload, 100 Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reload Time: {relo_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         },
@@ -5772,9 +6705,6 @@
               100
             ],
             "multiplier": []
-          },
-          "always_active": {
-            "stat": 18
           }
         },
         "handling": {
@@ -5783,13 +6713,18 @@
               100
             ],
             "multiplier": []
-          },
-          "always_active": {
-            "stat": 18
+          }
+        },
+        "aim_assist": {
+          "conditional": {
+            "stat": [
+              100
+            ],
+            "multiplier": []
           }
         }
       },
-      "last_edit": "2021.9.19-17.56"
+      "last_edit": "2021.11.2-17.42"
     },
     "1275731761": {
       "name": "Cluster Bomb",
@@ -5811,6 +6746,30 @@
       ],
       "stats": {},
       "last_edit": "2021.10.17-17.12"
+    },
+    "1354429876": {
+      "name": "Fourth Time's the Charm",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "4 Precision Hits within 2.5 seconds generate 2 Ammo to Magazine."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Generates = Generates 2 ammo from nothingness into the magazine after getting 4 precision hits."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "last_edit": "2021.10.19-8.22"
     },
     "1359896290": {
       "name": "Dynamic Sway Reduction",
@@ -5884,7 +6843,191 @@
           }
         }
       },
-      "last_edit": "2021.9.21-11.13"
+      "last_edit": "2021.10.19-9.22"
+    },
+    "1428297954": {
+      "name": "Perpetual Motion",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "While moving:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Gain an additional Stack after 10 seconds, granting 10(?) Stability, 20(?) Handling and Reload."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lose ALL Stacks after not moving for over half a second. Works while stowed."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stacks"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stability"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Reload"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Handling"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "x1"
+                },
+                {
+                  "text": "5"
+                },
+                {
+                  "text": "10"
+                },
+                {
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": ""
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "In-game:"
+                },
+                {
+                  "text": "{relo_0}s"
+                },
+                {
+                  "text": "Ready: {hand_r_0}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Stow: {hand_s_0}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "x2"
+                },
+                {
+                  "text": "10"
+                },
+                {
+                  "text": "20"
+                },
+                {
+                  "text": "20"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": ""
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "In-game:"
+                },
+                {
+                  "text": "{relo_1}s"
+                },
+                {
+                  "text": "Ready: {hand_r_1}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Stow: {hand_s_1}s"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "reload": {
+          "conditional": {
+            "stat": [
+              10,
+              20
+            ],
+            "multiplier": []
+          }
+        },
+        "handling": {
+          "conditional": {
+            "stat": [
+              10,
+              20
+            ],
+            "multiplier": []
+          }
+        },
+        "stability": {
+          "conditional": {
+            "stat": [
+              5,
+              10
+            ],
+            "multiplier": []
+          }
+        }
+      },
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.30"
     },
     "1523832109": {
       "name": "Reconstruction",
@@ -5899,7 +7042,7 @@
         {
           "lineText": [
             {
-              "text": "Reloads 10% of Magazine Capacity From Reserves. Maxes out at Double Magazine Capacity."
+              "text": "Refreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity."
             }
           ]
         },
@@ -5909,9 +7052,21 @@
               "text": "(Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1))"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not an need animation and doesn't proc on-reload perks."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.21-8.14"
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.9-22.18"
     },
     "1528281896": {
       "name": "Outlaw",
@@ -5926,7 +7081,17 @@
         {
           "lineText": [
             {
-              "text": " 63 Reload Speed with 0.9x Multiplier for 6 seconds."
+              "text": "63 Reload Speed with 0.9x Multiplier for 6 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reload Time: {relo_0}s"
             }
           ]
         }
@@ -5941,12 +7106,9 @@
               0.9
             ]
           }
-        },
-        "duration": [
-          6
-        ]
+        }
       },
-      "last_edit": "2021.9.20-21.44"
+      "last_edit": "2021.11.2-18.13"
     },
     "1546637391": {
       "name": "Vorpal Weapon",
@@ -5961,6 +7123,18 @@
         {
           "lineText": [
             {
+              "textClass": "CDB-pve",
+              "text": "Primary: 20% | Special: 15% | Heavy: 10%"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineClass": "CDB-center",
+          "lineText": [
+            {
               "textClass": "CDB-pvp",
               "text": "Against Supers Only:"
             }
@@ -5970,12 +7144,67 @@
           "lineText": [
             {
               "textClass": "CDB-pvp",
-              "text": "40% to 50% Damage Increase for Primary Weapons | 10% to 20% Damage Increase for Special Weapons"
+              "text": "40% or 50%"
+            },
+            {
+              "text": " Damage Increase for Primary Weapons"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-pvp",
+              "text": "10% or 20%"
+            },
+            {
+              "text": " Damage Increase for Special Weapons"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-pvp",
+              "text": "5% or 10%"
+            },
+            {
+              "text": " Damage Increase for Power Weapons"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "The lower Damage Increase is against supers with no extra Damage Resistance."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.21-12.13"
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.34"
+    },
+    "1556840489": {
+      "name": "Lead from Gold",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Power Ammo Pickup:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Grants the equivalent of 1 Special Ammo Pickup."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "last_edit": "2021.10.19-8.43"
     },
     "1561002382": {
       "name": "High-Caliber Rounds",
@@ -5990,19 +7219,78 @@
         {
           "lineText": [
             {
-              "text": "Stronger Flinch on Combatants. Allows Primaries to affect higher ranked enemies and consistently stunlock Minors."
+              "textClass": "CDB-pve",
+              "text": " Stronger Flinch on Combatants. Allows Primaries to affect higher ranked enemies and consistently stunlock Minors."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Varies between Archetypes, from 6% to 11% Increased Flinch received."
+              "textClass": "CDB-pvp",
+              "text": " Varies between Archetypes, from 6% to 11% Increased Flinch received."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.20-21.18"
+      "stats": {},
+      "last_edit": "2021.10.19-8.12"
+    },
+    "1561789734": {
+      "name": "Firefly",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Explodes the enemy, dealing Solar Damage in a 3 metre Radius. Same size as Dragonfly, but deals 25% increased damage."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "45 Reload Speed for 6 seconds."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-highlight",
+              "text": "It cannot use Dragonfly Spec."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reload Time: {relo_0}"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "reload": {
+          "conditional": {
+            "stat": [
+              45
+            ],
+            "multiplier": []
+          }
+        }
+      },
+      "rarity": "normal",
+      "last_edit": "2021.12.9-21.31"
     },
     "1570042021": {
       "name": "Heating Up",
@@ -6049,7 +7337,7 @@
         {
           "lineText": [
             {
-              "text": "Multiplies Charge Time by 0.8"
+              "text": "Multiplies Charge Time by 0.7"
             }
           ]
         },
@@ -6064,6 +7352,20 @@
           "lineText": [
             {
               "text": "100 Handling"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         }
@@ -6085,11 +7387,16 @@
             ]
           }
         },
-        "duration": [
-          4
-        ]
+        "charge_draw_time": {
+          "conditional": {
+            "stat": [],
+            "multiplier": [
+              0.7
+            ]
+          }
+        }
       },
-      "last_edit": "2021.9.19-17.51"
+      "last_edit": "2021.11.12-19.30"
     },
     "1631667848": {
       "name": "Grave Robber",
@@ -6104,12 +7411,23 @@
         {
           "lineText": [
             {
-              "text": "All weapons get relaoded from reserves."
+              "text": "Weapons get refreshed."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.19-20.21"
+      "stats": {},
+      "last_edit": "2021.11.1-15.14"
     },
     "1645158859": {
       "name": "Under Pressure",
@@ -6196,6 +7514,32 @@
       },
       "last_edit": "2021.9.19-18.24"
     },
+    "1687452232": {
+      "name": "Liquid Coils",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Increases charge time by 40, increases damage by 2%"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "damage": {
+          "always_active": {
+            "multiplier": 1.02
+          }
+        },
+        "charge_draw_time": {
+          "always_active": {
+            "stat": 40
+          }
+        }
+      },
+      "rarity": "normal",
+      "last_edit": "2021.11.14-20.3"
+    },
     "1749209109": {
       "name": "Relentless Strikes",
       "description": [
@@ -6262,21 +7606,7 @@
         {
           "lineText": [
             {
-              "text": "13.8% Precision Damage Increase on Sniper Rifles."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "5.7% Precision Damage Increase on Machine Guns."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "Bugged. It should be 20%."
+              "text": "20% Increased Precision Damage"
             }
           ]
         }
@@ -6291,7 +7621,7 @@
           }
         }
       },
-      "last_edit": "2021.9.19-18.57"
+      "last_edit": "2021.10.18-7.58"
     },
     "1774574192": {
       "name": "Osmosis",
@@ -6302,16 +7632,10 @@
               "text": "Using your Grenade Ability changes the Weapon Element to match your selected Subclass until stowed. "
             }
           ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "(Does not work with Verity's Brow)"
-            }
-          ]
         }
       ],
-      "last_edit": "2021.9.20-21.43"
+      "stats": {},
+      "last_edit": "2021.10.19-8.49"
     },
     "1799762209": {
       "name": "Cornered",
@@ -6319,7 +7643,7 @@
         {
           "lineText": [
             {
-              "text": "While within 15(?) metres of 2 enemies:"
+              "text": "While within 15(?) meters of 2 enemies:"
             }
           ]
         },
@@ -6338,7 +7662,9 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-17.59"
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.20"
     },
     "1820235745": {
       "name": "Subsistence",
@@ -6353,7 +7679,7 @@
         {
           "lineText": [
             {
-              "text": "Reloads 10-17% of Magazine from Reserves."
+              "text": "Refreshes 10-17% of Magazine."
             }
           ]
         },
@@ -6363,9 +7689,20 @@
               "text": "Amount varies between Weapon Archetypes"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.21-11.32"
+      "stats": {},
+      "last_edit": "2021.10.19-9.34"
     },
     "1866048759": {
       "name": "Hip-Fire Grip",
@@ -6380,7 +7717,7 @@
         {
           "lineText": [
             {
-              "text": " 1.2x Aim Assist and Reticle Stickiness Falloff Distance, 15 Aim Assist, +2.7 degrees precision angle threshold, ~30% more Accuracy and ~30 Stability."
+              "text": " 1.2x Aim Assist and Reticle Stickiness Falloff Distance, 15 Aim Assist, +2.7 degrees precision angle threshold, ~30% Accuracy Cone Size and ~30 Stability."
             }
           ]
         },
@@ -6392,7 +7729,25 @@
           ]
         }
       ],
-      "last_edit": "2021.9.20-21.20"
+      "stats": {
+        "aim_assist": {
+          "conditional": {
+            "stat": [
+              15
+            ],
+            "multiplier": []
+          }
+        },
+        "stability": {
+          "conditional": {
+            "stat": [
+              30
+            ],
+            "multiplier": []
+          }
+        }
+      },
+      "last_edit": "2021.10.19-8.14"
     },
     "1885400500": {
       "name": "Ricochet Rounds",
@@ -6420,7 +7775,7 @@
         {
           "lineText": [
             {
-              "text": " 25 Stability and -10%(?) Accuracy Cone Size for 0.6 seconds. "
+              "text": " 25 Stability and -10% Accuracy Cone Size for 0.6 seconds. "
             }
           ]
         },
@@ -6437,17 +7792,23 @@
         {
           "lineText": [
             {
-              "text": "[Controller-Only] Weapon fires the instant trigger pressure is applied."
+              "textClass": "CDB-highlight",
+              "text": " [Controller-Only] Weapon fires the instant trigger pressure is applied."
             }
           ]
         }
       ],
       "stats": {
-        "duration": [
-          0.6
-        ]
+        "stability": {
+          "conditional": {
+            "stat": [
+              25
+            ],
+            "multiplier": []
+          }
+        }
       },
-      "last_edit": "2021.9.21-11.44"
+      "last_edit": "2021.10.19-9.46"
     },
     "1954620775": {
       "name": "Timed Payload",
@@ -6455,7 +7816,14 @@
         {
           "lineText": [
             {
-              "text": "Splits 55% of Damage into an Explosive Damage portion that has a 30% Damage Increase and no damage falloff. Detonates after X seconds."
+              "text": "Splits 55% of Damage into an Explosive Damage portion that deals "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": " 30% Increased Damage"
+            },
+            {
+              "text": " and has no damage falloff. Detonates after 0.6 seconds."
             }
           ]
         },
@@ -6476,7 +7844,8 @@
           ]
         }
       ],
-      "last_edit": "2021.9.21-11.50"
+      "stats": {},
+      "last_edit": "2021.11.12-19.39"
     },
     "1968497646": {
       "name": "Armor-Piercing Rounds",
@@ -6484,7 +7853,7 @@
         {
           "lineText": [
             {
-              "text": "5% Damage Increase against Combatant Shields"
+              "text": "5% Increased damage against Combatant Shields"
             }
           ]
         },
@@ -6496,7 +7865,8 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-17.31"
+      "stats": {},
+      "last_edit": "2021.11.12-19.32"
     },
     "2010801679": {
       "name": "Ambitious Assassin",
@@ -6543,17 +7913,16 @@
           ]
         },
         {
-          "lineClass": "CDB-spacer"
-        },
-        {
           "lineText": [
             {
-              "text": "No known method to calculate the amount, it is too inconsistent."
+              "text": "It is able to fully charge your class ability with less than half of your entire shield bar."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.19-18.42"
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.8-21.32"
     },
     "2039302152": {
       "name": "Slideways",
@@ -6568,7 +7937,7 @@
         {
           "lineText": [
             {
-              "text": "15% Magazine Reloaded from Reserves, ~20 Stability and ~25 Handling. "
+              "text": "15% Magazine Refreshed, ~20 Stability and ~25 Handling."
             }
           ]
         },
@@ -6585,6 +7954,33 @@
               "text": "(Verify stability and handling)"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
+            }
+          ]
         }
       ],
       "stats": {
@@ -6596,11 +7992,45 @@
             "multiplier": []
           }
         },
-        "duration": [
-          3
-        ]
+        "stability": {
+          "conditional": {
+            "stat": [
+              20
+            ],
+            "multiplier": []
+          }
+        }
       },
-      "last_edit": "2021.9.21-11.29"
+      "last_edit": "2021.11.2-18.36"
+    },
+    "2077819806": {
+      "name": "Eager Edge",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Upon readying a Sword:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "100% Increased Lunge Range for 1 second."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "4 second cooldown."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.8-21.30"
     },
     "2117683199": {
       "name": "Full Auto Trigger System",
@@ -6611,6 +8041,9 @@
               "text": "Automatically queues up the next shot after firing if you hold the trigger."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
@@ -6627,7 +8060,8 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-19.11"
+      "stats": {},
+      "last_edit": "2021.11.1-17.52"
     },
     "2213355989": {
       "name": "High-Impact Reserves",
@@ -6671,17 +8105,13 @@
         {
           "lineText": [
             {
-              "text": "Suppresses and Weakens the enemy, granting a 20% Damage Increase for 4 seconds."
+              "text": "Suppresses and Weakens the enemy, granting 20% increased damage for 4 seconds."
             }
           ]
         }
       ],
-      "stats": {
-        "duration": [
-          4
-        ]
-      },
-      "last_edit": "2021.9.19-19.2"
+      "stats": {},
+      "last_edit": "2021.10.21-14.9"
     },
     "2284787283": {
       "name": "Clown Cartridge",
@@ -6719,6 +8149,23 @@
               "text": "50% Damage Increase, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
+            }
+          ]
         }
       ],
       "stats": {
@@ -6737,12 +8184,9 @@
               50
             ]
           }
-        },
-        "duration": [
-          5
-        ]
+        }
       },
-      "last_edit": "2021.9.21-12.6"
+      "last_edit": "2021.11.2-18.50"
     },
     "2387244414": {
       "name": "Zen Moment",
@@ -6757,19 +8201,21 @@
         {
           "lineText": [
             {
-              "text": " Reduces the Maximum Recoil Angle (Maximum Horizontal Recoil), removes Reticle Bounce, and reduces Weapon Shake"
+              "text": "Reduces the Maximum Recoil Angle (Maximum Horizontal Recoil), removes Reticle Bounce, and reduces Weapon Shake"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": " *Noticeable mostly on controllers, as their reticle bounce on fire, akin to MGs on MnK*"
+              "text": "*Noticeable mostly on controllers, as their reticles bounce on fire, akin to MGs on MnK*"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.21-12.18"
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.9-21.35"
     },
     "2396489472": {
       "name": "Chain Reaction",
@@ -6813,9 +8259,36 @@
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
-              "text": "Lasts 6 seconds, additional kills add 6 seconds, maxing out at 8 seconds."
+              "text": "In-Game Range: {rang_0}m"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Lasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds."
             }
           ]
         },
@@ -6825,9 +8298,6 @@
               "text": "(Verify handling)"
             }
           ]
-        },
-        {
-          "lineClass": "CDB-spacer"
         }
       ],
       "stats": {
@@ -6850,7 +8320,7 @@
           }
         }
       },
-      "last_edit": "2021.10.17-16.42"
+      "last_edit": "2021.11.2-18.9"
     },
     "2458213969": {
       "name": "Multikill Clip",
@@ -7011,13 +8481,61 @@
       ],
       "last_edit": "2021.9.21-11.54"
     },
+    "2610012052": {
+      "name": "Golden Tricorn",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Weapon Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-pve",
+              "text": " 15%"
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": " [7.5%]"
+            },
+            {
+              "text": " Increased damage for 7 seconds. Can be refreshed with a Weapon Kill."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Matching Grenade and Powered Melee Kills strengthen the damage increase to "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": " 50%"
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": " [45%]"
+            },
+            {
+              "text": " and duration to 10 seconds. Can be refreshed by getting another Matching Ability Kill."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.29"
+    },
     "2621346526": {
       "name": "Ensemble",
       "description": [
         {
           "lineText": [
             {
-              "text": "While within 15 metres of 1 Allies:"
+              "text": "While within 15 metres of 1 or more allies:"
             }
           ]
         },
@@ -7035,6 +8553,30 @@
           "lineText": [
             {
               "text": "Lingers for 1.5 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reload Time:  {relo_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         }
@@ -7057,7 +8599,7 @@
           }
         }
       },
-      "last_edit": "2021.9.20-21.15"
+      "last_edit": "2021.11.12-19.33"
     },
     "2679249093": {
       "name": "One-Two Punch",
@@ -7161,6 +8703,10 @@
                 {
                   "textClass": "CDB-bold",
                   "text": "Reload Animation Length"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Reload Time"
                 }
               ]
             },
@@ -7175,6 +8721,9 @@
                 },
                 {
                   "text": "1x"
+                },
+                {
+                  "text": "{relo_0}s"
                 }
               ]
             },
@@ -7188,6 +8737,9 @@
                 },
                 {
                   "text": "0.9x"
+                },
+                {
+                  "text": "{relo_1}s"
                 }
               ]
             },
@@ -7201,7 +8753,10 @@
                   "text": "55"
                 },
                 {
-                  "text": "0.88x"
+                  "text": "0.875x"
+                },
+                {
+                  "text": "{relo_2}s"
                 }
               ]
             },
@@ -7215,6 +8770,9 @@
                 },
                 {
                   "text": "0.85x"
+                },
+                {
+                  "text": "{relo_3}s"
                 }
               ]
             },
@@ -7229,6 +8787,9 @@
                 },
                 {
                   "text": "0.8x"
+                },
+                {
+                  "text": "{relo_4}s"
                 }
               ]
             }
@@ -7248,14 +8809,14 @@
             "multiplier": [
               1,
               0.9,
-              0.88,
+              0.875,
               0.85,
               0.8
             ]
           }
         }
       },
-      "last_edit": "2021.10.17-18.1"
+      "last_edit": "2021.11.2-20.24"
     },
     "2846385770": {
       "name": "Rangefinder",
@@ -7280,9 +8841,168 @@
               "text": "Zoom acts as a multiplier to hipfire range and maximum falloff distance. Range stat affects accuracy and the minimum drop off distance."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "The range increase is factored into the normal calculation."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.20-21.51"
+      "stats": {
+        "zoom": {
+          "always_active": {
+            "multiplier": 1.1
+          }
+        }
+      },
+      "last_edit": "2021.11.8-22.38"
+    },
+    "2848615171": {
+      "name": "Dragonfly",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Explode the target, dealing the Weapon's Elemental Damage over a 3 meter radius. Damage is not increased by Weapon Perks."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Dragonfly Spec increases Damage and Radius by 50%."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Weapon Type"
+                },
+                {
+                  "text": "Damage"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Linear Fusions"
+                },
+                {
+                  "text": "0.5x"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Snipers"
+                },
+                {
+                  "text": "0.6x"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Bows"
+                },
+                {
+                  "text": "0.9x"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Hand Cannons"
+                },
+                {
+                  "text": "2x"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Sidearms"
+                },
+                {
+                  "text": "2x"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Scout Rifles"
+                },
+                {
+                  "text": "2.5x"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Machine Guns"
+                },
+                {
+                  "text": "2.5x"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Auto RIfles"
+                },
+                {
+                  "text": "5x"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "Pulse Rifles (Individual bullets)"
+                },
+                {
+                  "text": "6x"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.23"
     },
     "2866798147": {
       "name": "No Distractions",
@@ -7297,7 +9017,7 @@
         {
           "lineText": [
             {
-              "text": " 35% Flinch Reduction."
+              "text": "35% Flinch Reduction."
             }
           ]
         },
@@ -7310,9 +9030,20 @@
               "text": "Stacks multiplicatively with Unflinching Armor Mods."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Would be the equivalent of 2 Unflinching Armor Mods if the second Unflinching Mod wasn't bugged."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.20-21.39"
+      "stats": {},
+      "last_edit": "2021.11.12-19.38"
     },
     "2869569095": {
       "name": "Field Prep",
@@ -7340,6 +9071,30 @@
               "text": "+30 Inventory Size. (Ammo Reserves, they're very weird)"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reload Time: {relo_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
+            }
+          ]
         }
       ],
       "stats": {
@@ -7362,7 +9117,7 @@
           }
         }
       },
-      "last_edit": "2021.9.19-18.54"
+      "last_edit": "2021.11.12-18.45"
     },
     "2888557110": {
       "name": "Full Court",
@@ -7390,17 +9145,22 @@
         {
           "lineText": [
             {
-              "text": "20 Aim Assist, 20% increased Accuracy and Y to ADS Handling (With a small Duration Scalar) for 5 seconds."
+              "text": "20 Aim Assist, 20% increased Accuracy and Y to ADS Handling (With X Multiplier) for 5 seconds."
             }
           ]
         }
       ],
       "stats": {
-        "duration": [
-          5
-        ]
+        "aim_assist": {
+          "conditional": {
+            "stat": [
+              20
+            ],
+            "multiplier": []
+          }
+        }
       },
-      "last_edit": "2021.9.21-12.9"
+      "last_edit": "2021.10.22-13.48"
     },
     "3016987351": {
       "name": "Counterattack",
@@ -7441,14 +9201,14 @@
         {
           "lineText": [
             {
-              "text": "Splits 50% of Damage into an Explosive Damage portion that has a "
+              "text": "Splits 50% of Damage into an Explosive Damage portion that deals "
             },
             {
               "textClass": "CDB-pve",
-              "text": "30% Damage Increase"
+              "text": "30% Increased Damage"
             },
             {
-              "text": " and no damage falloff."
+              "text": " and has no damage falloff."
             }
           ]
         },
@@ -7456,7 +9216,7 @@
           "lineText": [
             {
               "textClass": "CDB-pve",
-              "text": "[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio."
+              "text": "[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on... a lot of things :("
             }
           ]
         },
@@ -7469,7 +9229,9 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-18.47"
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.8-21.35"
     },
     "3047969693": {
       "name": "Desperado",
@@ -7520,19 +9282,40 @@
         {
           "lineText": [
             {
-              "text": " Refreshes magazine."
+              "text": "Refreshes magazine."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": " Energy Weapons generate 1 Ammo against Matching Elemental Shields per hit"
+              "text": "Energy Weapons generate 1 Ammo against Matching Elemental Shields per hit"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Generates = Generates 1 ammo from nothingness into the magazine after hitting a Barrier or a Matching Elemental shield."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.19-19.41"
+      "stats": {},
+      "last_edit": "2021.10.21-14.10"
     },
     "3108830275": {
       "name": "Unrelenting",
@@ -7574,14 +9357,14 @@
         {
           "lineText": [
             {
-              "text": "15% Magazine Reloaded from Reserves, 20 Range, and 30 Stability. Only buffs first shot (of the burst)."
+              "text": "15% Magazine Refreshed, 20 Range, and 30 Stability. Only buffs first shot."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": " Lasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide."
+              "text": "Lasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide."
             }
           ]
         },
@@ -7589,6 +9372,26 @@
           "lineText": [
             {
               "text": "(Verify stability)"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "In_Game Range: {rang_0}m"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
             }
           ]
         }
@@ -7602,11 +9405,16 @@
             "multiplier": []
           }
         },
-        "duration": [
-          3
-        ]
+        "stability": {
+          "conditional": {
+            "stat": [
+              30
+            ],
+            "multiplier": []
+          }
+        }
       },
-      "last_edit": "2021.9.21-11.27"
+      "last_edit": "2021.11.2-18.35"
     },
     "3194351027": {
       "name": "Explosive Light",
@@ -7655,6 +9463,17 @@
         {
           "lineText": [
             {
+              "textClass": "CDB-bold",
+              "text": " (Check out d2clarity.page.link/combatant for Combatant Classifications)"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
               "text": "Grants a Stacking Damage Bonus Against High-Tier Minors, Elites, Minibosses, Bosses, and Vehicles."
             }
           ]
@@ -7667,62 +9486,117 @@
           ]
         },
         {
-          "lineText": [
-            {
-              "text": "(Check out https://claritycomp.page.link/combatant for Combatant Classifications)"
-            }
-          ]
-        },
-        {
           "lineClass": "CDB-spacer"
         },
         {
-          "lineText": [
+          "table": [
             {
-              "text": "1x stack:    20%"
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stacks"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Damage Increase"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Consumption/Hit"
+                }
+              ]
+            },
             {
-              "text": "2x stack:    40%"
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "1x"
+                },
+                {
+                  "text": "20%"
+                },
+                {
+                  "text": "1"
+                }
+              ]
+            },
             {
-              "text": "3x stack:    60%"
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "2x"
+                },
+                {
+                  "text": "40%"
+                },
+                {
+                  "text": "1"
+                }
+              ]
+            },
             {
-              "text": "4x stack:    80%"
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "3x"
+                },
+                {
+                  "text": "60%"
+                },
+                {
+                  "text": "1"
+                }
+              ]
+            },
             {
-              "text": "5-20x stack: 100%"
-            }
-          ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "4x"
+                },
+                {
+                  "text": "80%"
+                },
+                {
+                  "text": "1"
+                }
+              ]
+            },
             {
-              "text": "Stacks are consumed by 1 when between 1x-4x and by 5 when between 5x-20x."
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "5-20x"
+                },
+                {
+                  "text": "100%"
+                },
+                {
+                  "text": "5"
+                }
+              ]
             }
           ]
         }
       ],
-      "last_edit": "2021.9.21-11.9"
+      "stats": {
+        "damage": {
+          "conditional": {
+            "stat": [],
+            "multiplier": [
+              20,
+              40,
+              60,
+              80,
+              100
+            ]
+          }
+        }
+      },
+      "last_edit": "2021.10.23-15.26"
     },
     "3275789089": {
       "name": "Shield Disorient",
@@ -7762,7 +9636,7 @@
         {
           "lineText": [
             {
-              "text": "Refeshes stowed weapon from reserves after 3 seconds."
+              "text": "Refreshes stowed weapon from reserves after 3 seconds."
             }
           ]
         },
@@ -7778,7 +9652,7 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.17-17.25"
+      "last_edit": "2021.10.21-14.3"
     },
     "3337692349": {
       "name": "Mulligan",
@@ -7823,6 +9697,16 @@
               "text": "Passively grants 18 Reload Speed."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reload Time: {relo_0}s"
+            }
+          ]
         }
       ],
       "stats": {
@@ -7832,7 +9716,7 @@
           }
         }
       },
-      "last_edit": "2021.9.21-11.42"
+      "last_edit": "2021.11.2-18.48"
     },
     "3365897133": {
       "name": "Explosive Head",
@@ -7840,14 +9724,14 @@
         {
           "lineText": [
             {
-              "text": "Splits 50% of Damage into an Explosive Damage portion that has a "
+              "text": "Splits 50% of Damage into an Explosive Damage portion that deals "
             },
             {
               "textClass": "CDB-pve",
-              "text": "30% Damage Increase"
+              "text": " 30% Increased Damage"
             },
             {
-              "text": " and no damage falloff."
+              "text": " and no damage falloff. Detonation timer varies on draw and distance."
             }
           ]
         },
@@ -7855,7 +9739,7 @@
           "lineText": [
             {
               "textClass": "CDB-pve",
-              "text": "[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio."
+              "text": "15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio."
             }
           ]
         },
@@ -7863,12 +9747,13 @@
           "lineText": [
             {
               "textClass": "CDB-pvp",
-              "text": "[PVP] Total damage remains (almost) the same. I don't like decimals"
+              "text": "Total damage remains (almost) the same. I don't like decimals"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.19-18.48"
+      "stats": {},
+      "last_edit": "2021.11.12-19.37"
     },
     "3400784728": {
       "name": "Triple Tap",
@@ -7876,12 +9761,23 @@
         {
           "lineText": [
             {
-              "text": "Precision Hits within 2.5 seconds generate 1 Ammo to Magazine."
+              "text": "3 Precision Hits within 2.5 seconds generate 1 Ammo to Magazine."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Generates = Generates 1 ammo from nothingness into the magazine after 3 precision hits."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.21-12.7"
+      "stats": {},
+      "last_edit": "2021.10.19-9.56"
     },
     "3418782618": {
       "name": "Rewind Rounds",
@@ -7896,19 +9792,30 @@
         {
           "lineText": [
             {
-              "text": "Reloads Magazine from Reserves based on the Number of Hits."
+              "text": "Refreshes Magazine based on the Number of Hits."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "50-60% for Primaries | 30-40% for Specials"
+              "text": "50-60% for Primaries | 30-40% for Special"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.21-11.14"
+      "stats": {},
+      "last_edit": "2021.10.19-9.27"
     },
     "3425386926": {
       "name": "Rampage",
@@ -7958,14 +9865,194 @@
         {
           "lineText": [
             {
-              "text": "Grants 5-22-50 Reload Speed, 5-15-25 Stability, and 10-25-50 Handling depending on the amount of Charged Abilities."
+              "text": "Grants Reload Speed, Stability, and Handling depending on the amount of Charged Abilities."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
             {
               "text": "Max x3. Each Ability Charge contributes to this. Works with double Ability Charges."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Abilities"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stability"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Reload"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Handling"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "1x"
+                },
+                {
+                  "text": "5"
+                },
+                {
+                  "text": "5"
+                },
+                {
+                  "text": "10"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "In-Game"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "{relo_0}s"
+                },
+                {
+                  "text": "Ready: {hand_r_0}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Values:"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Stow: {hand_s_0}s"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "2x"
+                },
+                {
+                  "text": "15"
+                },
+                {
+                  "text": "22"
+                },
+                {
+                  "text": "25"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "In-Game"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "{relo_1}s"
+                },
+                {
+                  "text": "Ready: {hand_r_1}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Values:"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Stow: {hand_s_1}s"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "3x"
+                },
+                {
+                  "text": "25"
+                },
+                {
+                  "text": "50"
+                },
+                {
+                  "text": "50"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "In-Game"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "{relo_2}s"
+                },
+                {
+                  "text": "Ready: {hand_r_2}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Values:"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Stow: {hand_s_2}s"
+                }
+              ]
             }
           ]
         }
@@ -7990,9 +10077,19 @@
             ],
             "multiplier": []
           }
+        },
+        "stability": {
+          "conditional": {
+            "stat": [
+              5,
+              15,
+              25
+            ],
+            "multiplier": []
+          }
         }
       },
-      "last_edit": "2021.9.21-11.35"
+      "last_edit": "2021.11.2-19.4"
     },
     "3511092054": {
       "name": "Elemental Capacitor",
@@ -8113,10 +10210,20 @@
               "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-center",
+          "lineText": [
+            {
+              "textClass": "CDB-highlight_2",
+              "text": " Needs retesting, as not all Special Weapons are granting 20%."
+            }
+          ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.17-17.30"
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.22"
     },
     "3551326236": {
       "name": "Rampage",
@@ -8181,7 +10288,7 @@
         {
           "lineText": [
             {
-              "text": " Grants 7.5% Ability Energy split equally to all uncharged abilities."
+              "text": "Grants 7.5% Ability Energy split equally to all uncharged abilities."
             }
           ]
         },
@@ -8193,7 +10300,8 @@
           ]
         }
       ],
-      "last_edit": "2021.9.21-12.15"
+      "stats": {},
+      "last_edit": "2021.11.1-17.15"
     },
     "3643424744": {
       "name": "Overflow",
@@ -8201,19 +10309,66 @@
         {
           "lineText": [
             {
-              "text": "On Special | Power Ammo Pickup:"
+              "text": "On "
+            },
+            {
+              "textClass": "CDB-special",
+              "text": "Special "
+            },
+            {
+              "text": " or "
+            },
+            {
+              "textClass": "CDB-heavy",
+              "text": "Power "
+            },
+            {
+              "text": " Ammo Pickup:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Refills Magazine to 2x Magazine Capacity "
+              "text": "Refills Magazine to 2x Magazine Capacity"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.20-21.45"
+      "stats": {},
+      "last_edit": "2021.10.19-8.50"
+    },
+    "3650930298": {
+      "name": "Cold Steel",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Powered Sword Hits apply Slow Stacks."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Light Attacks apply 40 Slow Stacks, while Heavy Attacks apply 60 Slow Stacks."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "have fun stunlocking barrier champions"
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.19"
     },
     "3673922083": {
       "name": "Adagio",
@@ -8366,7 +10521,7 @@
         {
           "lineText": [
             {
-              "text": "Picks up the Ammo and Reloads all your Weapons from Reserves."
+              "text": "Picks up the Ammo and Refreshes all your Weapons."
             }
           ]
         },
@@ -8376,9 +10531,49 @@
               "text": "Triggers Ammo Pickup effects. 4 second Cooldown."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
+            }
+          ]
         }
       ],
-      "last_edit": "2021.9.21-11.22"
+      "stats": {},
+      "last_edit": "2021.10.19-9.29"
+    },
+    "3705817207": {
+      "name": "Duelist's Trance",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Sword Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increased Charge Rate, Endurance, Efficiency, and Defense."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Works until stowed."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2021.12.9-21.30"
     },
     "3708227201": {
       "name": "Surrounded",
@@ -8386,7 +10581,7 @@
         {
           "lineText": [
             {
-              "text": "If within 8 metres of 3+ Enemies:"
+              "text": "If within 8 meters of 3+ Enemies:"
             }
           ]
         },
@@ -8396,6 +10591,9 @@
               "text": "25% to 30% Increased Damage"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
@@ -8416,7 +10614,8 @@
           }
         }
       },
-      "last_edit": "2021.9.21-11.36"
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.31"
     },
     "3721627275": {
       "name": "Swap Mag",
@@ -8431,7 +10630,7 @@
         {
           "lineText": [
             {
-              "text": "All Weapons are granted 100 Handling for 4(?) seconds. (Identical to Quick Access Sling) "
+              "text": "All Weapons are granted 100 Handling for 4(?) seconds. (Identical to Quick Access Sling)"
             }
           ]
         },
@@ -8439,6 +10638,23 @@
           "lineText": [
             {
               "text": "Only availabe in Season 3's Trials of the Nine Weapons."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         }
@@ -8451,12 +10667,56 @@
             ],
             "multiplier": []
           }
-        },
-        "duration": [
-          4
-        ]
+        }
       },
-      "last_edit": "2021.9.21-11.39"
+      "last_edit": "2021.11.2-18.47"
+    },
+    "3824105627": {
+      "name": "Firefly",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "On Precision Kill:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Explodes the enemy, dealing Solar Damage in a 3 metre Radius. Same size as Dragonfly, but deals 25% more Damage. It cannot use Dragonfly Spec."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "45 Reload Speed for 6 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reload Time: {relo_0}"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "reload": {
+          "conditional": {
+            "stat": [
+              45
+            ],
+            "multiplier": []
+          }
+        }
+      },
+      "last_edit": "2021.11.2-18.4"
     },
     "3865257976": {
       "name": "Dragonfly",
@@ -8612,7 +10872,14 @@
         {
           "lineText": [
             {
-              "text": "Stacking 6% | 12% | 18% | 24% | 30% Damage Increase for 3(?) seconds. "
+              "text": "Stacking "
+            },
+            {
+              "textClass": "CDB-bold",
+              "text": " 3% | 6% | 9% | ... | 27% | 30%"
+            },
+            {
+              "text": " Increased damage for 3.5(?) seconds. "
             }
           ]
         },
@@ -8629,19 +10896,22 @@
           "conditional": {
             "stat": [],
             "multiplier": [
+              3,
               6,
+              9,
               12,
+              15,
               18,
+              21,
               24,
+              27,
               30
             ]
           }
-        },
-        "duration": [
-          3
-        ]
+        }
       },
-      "last_edit": "2021.9.21-12.16"
+      "rarity": "normal",
+      "last_edit": "2021.12.8-21.50"
     },
     "3927722942": {
       "name": "Lasting Impression",
@@ -8716,21 +10986,134 @@
         {
           "lineText": [
             {
-              "text": "If within 15 metres of an enemy: ~15 Stability, 15 Reload, and 0.75x Handling Animation Duration Multiplier."
+              "text": "Grants the following while within 15 metres of enemies:"
             }
           ]
         },
         {
-          "lineText": [
-            {
-              "text": "If within 15 metres of 2+ enemies: ~40 Stability, 55 Reload, and 0.56x Handling Animation Duration Multiplier."
-            }
-          ]
+          "lineClass": "CDB-spacer"
         },
         {
-          "lineText": [
+          "table": [
             {
-              "text": "(Verify stability)"
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Enemy Count"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stability"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Reload"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Handling Animation Duration"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "1"
+                },
+                {
+                  "text": "~15"
+                },
+                {
+                  "text": "15"
+                },
+                {
+                  "text": "0.75x"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "In-Game"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "{relo_0}s"
+                },
+                {
+                  "text": "Ready: {hand_r_0}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Values:"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Stow: {hand_s_0}s"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "2+"
+                },
+                {
+                  "text": "~40"
+                },
+                {
+                  "text": "55"
+                },
+                {
+                  "text": "0.56x"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "In-Game"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "{relo_1}s"
+                },
+                {
+                  "text": "Ready: {hand_r_1}s"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "Values:"
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": "Stow: {hand_s_1}s"
+                }
+              ]
             }
           ]
         }
@@ -8753,9 +11136,19 @@
               0.56
             ]
           }
+        },
+        "stability": {
+          "conditional": {
+            "stat": [
+              15,
+              40
+            ],
+            "multiplier": []
+          }
         }
       },
-      "last_edit": "2021.9.21-11.46"
+      "rarity": "normal",
+      "last_edit": "2021.12.18-22.32"
     },
     "4082225868": {
       "name": "Swashbuckler",
@@ -8770,7 +11163,7 @@
         {
           "lineText": [
             {
-              "text": "Stacking 6.6% | 13.2% | 20% | 26.6% | 33% Increased Damage for 4.5 seconds."
+              "text": "Stacking Increased Damage for 4.5 seconds."
             }
           ]
         },
@@ -8778,6 +11171,78 @@
           "lineText": [
             {
               "text": "Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "table": [
+            {
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stacks"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Damage Increase"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "1x"
+                },
+                {
+                  "text": "6.6%"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "2x"
+                },
+                {
+                  "text": "13.2%"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "3x"
+                },
+                {
+                  "text": "20%"
+                }
+              ]
+            },
+            {
+              "lineText": [
+                {
+                  "text": "4x"
+                },
+                {
+                  "text": "26.6%"
+                }
+              ]
+            },
+            {
+              "lineClass": "CDB-bg",
+              "lineText": [
+                {
+                  "text": "5x"
+                },
+                {
+                  "text": "33%"
+                }
+              ]
             }
           ]
         }
@@ -8794,12 +11259,9 @@
               33
             ]
           }
-        },
-        "duration": [
-          4.5
-        ]
+        }
       },
-      "last_edit": "2021.9.21-11.41"
+      "last_edit": "2021.10.19-9.44"
     },
     "4104185692": {
       "name": "Frenzy",
@@ -8814,14 +11276,35 @@
         {
           "lineText": [
             {
-              "text": " 15% Damage Increase, 50(?) Handling, and 50 Reload Speed."
+              "text": "15% Damage Increase, 50(?) Handling, and 50 Reload Speed."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": " Lasts until you're out of combat."
+              "text": "Lasts until you're out of combat."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reload Time: {relo_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_r_0}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         },
@@ -8870,32 +11353,41 @@
               15
             ]
           }
-        },
-        "duration": [
-          5
-        ]
+        }
       },
-      "last_edit": "2021.9.19-19.6"
+      "last_edit": "2021.11.2-18.7"
+    },
+    "4134353779": {
+      "name": "Drop Mag",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Increases reload speed but decreases magazing size."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Magazine size decrease only visible in-game."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.11.26-18.49"
     },
     "4152709778": {
       "name": "Iron Gaze",
       "description": [
         {
-          "lineText": [
-            {
-              "text": "20 Aim Assist and -28 Range."
-            }
-          ]
+          "lineClass": "CDB-spacer"
         }
       ],
-      "stats": {
-        "range": {
-          "always_active": {
-            "stat": -28
-          }
-        }
-      },
-      "last_edit": "2021.9.20-21.25"
+      "stats": {},
+      "last_edit": "2021.11.1-17.29"
     },
     "4252909580": {
       "name": "Bottomless Grief",
@@ -8942,6 +11434,9 @@
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
               "text": "10% Faster Rate of Fire on Shotguns."
@@ -8956,7 +11451,8 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-19.12"
+      "stats": {},
+      "last_edit": "2021.11.1-17.53"
     }
   },
   "weapon_frames": {},
