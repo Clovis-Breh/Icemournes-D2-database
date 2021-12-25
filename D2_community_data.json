@@ -6293,7 +6293,7 @@
         {
           "lineText": [
             {
-              "text": "Greatly faster Aiming-Down-Sights. "
+              "text": "Massive Aiming-Down-Sights Animation Multiplier. "
             }
           ]
         },
@@ -6307,14 +6307,14 @@
         {
           "lineText": [
             {
-              "textClass": "CDB-highlight",
-              "text": " Needs retesting, F."
+              "text": "Will reach ADS Animation Cap very quickly when stacked with other scalars and/or high handling."
             }
           ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-9.32"
+      "rarity": "normal",
+      "last_edit": "2021.12.25-0.38"
     },
     "960810156": {
       "name": "Danger Zone",
