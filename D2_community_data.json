@@ -1649,11 +1649,12 @@
     "1147638875": {
       "name": "Cobra Totemic",
       "item_name": "Ophidian Aspect",
+      "item_id": "3627185503",
       "description": [
         {
           "lineText": [
             {
-              "text": "+32 Reload and Handling stat to all weapons. Caps out at 100."
+              "text": "+32 Reload and Handling to all weapons."
             }
           ]
         },
@@ -1663,23 +1664,14 @@
         {
           "lineText": [
             {
-              "text": "+1 metre Lunge range (6.25 -> 7.25)"
-            }
-          ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "(Base Melee Range is 5.25 metres, 6.25 for Warlocks)"
+              "text": "Increased Lunge Distance (5.25 meters -> ? meters)"
             }
           ]
         }
       ],
-      "armor_id": "3627185503",
-      "last_edit": "2021.9.15-20.26"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2021.12.28-21.49"
     },
     "1155472384": {
       "name": "Biotic Enhancements",
