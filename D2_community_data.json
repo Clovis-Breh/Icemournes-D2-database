@@ -8788,7 +8788,7 @@
         {
           "lineText": [
             {
-              "text": "5% Faster Projectile Speed when ADS. god this is so bad"
+              "text": "5% Faster Projectile Speed when ADS."
             }
           ]
         },
@@ -8817,7 +8817,8 @@
           }
         }
       },
-      "last_edit": "2021.11.8-22.38"
+      "rarity": "undefined",
+      "last_edit": "2022.1.2-21.47"
     },
     "2848615171": {
       "name": "Dragonfly",
