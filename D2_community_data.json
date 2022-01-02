@@ -5667,7 +5667,7 @@
         {
           "lineText": [
             {
-              "text": "4(?) second cooldown. Can be procced while stowed."
+              "text": "4 second cooldown. Can be procced while stowed."
             }
           ]
         },
@@ -5700,7 +5700,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2021.12.18-22.17"
+      "last_edit": "2022.1.2-17.17"
     },
     "460017080": {
       "name": "Headseeker",
