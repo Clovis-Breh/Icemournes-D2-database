@@ -5061,101 +5061,23 @@
                 },
                 {
                   "textClass": "CDB-bold",
-                  "text": "+Damage"
-                },
-                {
-                  "textClass": "CDB-bold",
-                  "text": "+Handling"
-                },
-                {
-                  "textClass": "CDB-bold",
-                  "text": "Ready Speed"
-                },
-                {
-                  "textClass": "CDB-bold",
-                  "text": "Stow Speed"
-                }
-              ]
-            },
-            {
-              "lineClass": "CDB-bg",
-              "lineText": [
-                {
-                  "textClass": "CDB-bold",
                   "text": "1x"
                 },
-                {
-                  "text": "6.6%"
-                },
-                {
-                  "text": "unknown"
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "lineText": [
                 {
                   "textClass": "CDB-bold",
                   "text": "2x"
                 },
                 {
-                  "text": "13.2%"
-                },
-                {
-                  "text": "unknown"
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "lineClass": "CDB-bg",
-              "lineText": [
-                {
                   "textClass": "CDB-bold",
                   "text": "3x"
                 },
-                {
-                  "text": "20%"
-                },
-                {
-                  "text": "unknown"
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "lineText": [
                 {
                   "textClass": "CDB-bold",
                   "text": "4x"
                 },
                 {
-                  "text": "26.6%"
-                },
-                {
-                  "text": "unknown"
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "text": ""
+                  "textClass": "CDB-bold",
+                  "text": "5x"
                 }
               ]
             },
@@ -5164,26 +5086,54 @@
               "lineText": [
                 {
                   "textClass": "CDB-bold",
-                  "text": "5x"
+                  "text": "Damage Increase"
+                },
+                {
+                  "text": "6.6%"
+                },
+                {
+                  "text": "13.2%"
+                },
+                {
+                  "text": "20%"
+                },
+                {
+                  "text": "26.6%"
                 },
                 {
                   "text": "33%"
-                },
-                {
-                  "text": "unknown"
-                },
-                {
-                  "text": ""
-                },
-                {
-                  "text": ""
                 }
               ]
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Ready Speed: {hand_0_r}s"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Stow Speed: {hand_0_s}s"
             }
           ]
         }
       ],
       "stats": {
+        "handling": {
+          "conditional": {
+            "stat": [
+              20
+            ],
+            "multiplier": []
+          }
+        },
         "damage": {
           "conditional": {
             "stat": [],
@@ -5198,7 +5148,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2021.12.19-13.15"
+      "last_edit": "2022.1.2-17.16"
     },
     "25606670": {
       "name": "Dual Loader",
