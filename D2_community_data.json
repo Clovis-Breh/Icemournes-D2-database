@@ -6253,21 +6253,21 @@
         {
           "lineText": [
             {
-              "text": "Stacks with ADS Scalar effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow."
+              "text": "Stacks with ADS Multiplier effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Will reach ADS Animation Cap very quickly when stacked with other scalars and/or high handling."
+              "text": "Will reach ADS Animation Cap very quickly when stacked with other multipliers and/or high handling."
             }
           ]
         }
       ],
       "stats": {},
-      "rarity": "normal",
-      "last_edit": "2021.12.25-0.38"
+      "rarity": "undefined",
+      "last_edit": "2022.1.2-17.20"
     },
     "960810156": {
       "name": "Danger Zone",
