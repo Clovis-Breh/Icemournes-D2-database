@@ -9785,7 +9785,7 @@
         {
           "lineText": [
             {
-              "text": "Stacking 10% | 23% | 33% Damage Increase for 3.5 seconds."
+              "text": "Stacking 10% | 21% | 33.1% Damage Increase for 3.5 seconds."
             }
           ]
         },
@@ -9803,16 +9803,14 @@
             "stat": [],
             "multiplier": [
               10,
-              23,
-              33
+              21,
+              33.1
             ]
           }
-        },
-        "duration": [
-          3.5
-        ]
+        }
       },
-      "last_edit": "2021.9.21-12.53"
+      "rarity": "undefined",
+      "last_edit": "2022.1.2-17.19"
     },
     "3436462433": {
       "name": "Surplus",
