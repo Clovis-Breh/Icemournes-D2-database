@@ -6741,7 +6741,7 @@
         {
           "lineText": [
             {
-              "text": "Greatly increases Accuracy, and adds up to 9 Stability."
+              "text": "Greatly increases Accuracy, and adds up to 10 Stability."
             }
           ]
         },
@@ -6763,7 +6763,9 @@
           ]
         }
       ],
-      "last_edit": "2021.9.19-18.16"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.3-23.9"
     },
     "1427256713": {
       "name": "Reservoir Burst",
