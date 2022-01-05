@@ -2486,12 +2486,30 @@
     "1919923227": {
       "name": "Overflowing Light",
       "item_name": "Heart of Inmost Light",
-      "item_id": "1341951177",
+      "item_id": "",
       "description": [
         {
           "lineText": [
             {
-              "text": "On Ability Usage: Gain Empowered for other abilities."
+              "text": "Ability use grants Empowered for other abilities for "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": "11"
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": " [6]"
+            },
+            {
+              "text": " seconds, depending on the Ability used. "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "e.g.: Barricade -> Empowered Melee and Empowered Grenade."
             }
           ]
         },
@@ -2501,28 +2519,14 @@
         {
           "lineText": [
             {
-              "text": "While Empowered"
+              "text": "Using an Empowered Ability will add a Stack to other abilities, but will consume all the Stacks of the Empowered Ability you just used. (if Stacks are present) "
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Grants a 30% Ability Damage Increase and 40% Barricade Health Increase per Stack."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "5% [2.5%] Melee and Grenade Energy per Second"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "4% [2%] Barricade Energy per Second"
+              "text": "e.g.: Empowered Grenade -> Barricade (x1) + Melee (x2) + Grenade (x1)"
             }
           ]
         },
@@ -2532,14 +2536,87 @@
         {
           "lineText": [
             {
-              "text": "Unpowered Melee Hits also proc Empowered."
+              "text": "While Empowered:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-pve",
+              "text": "5%"
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": " [2.5%]"
+            },
+            {
+              "text": " Melee and Grenade Energy per Second."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-pve",
+              "text": "4%"
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": " [2%]"
+            },
+            {
+              "text": " Barricade Energy per Second."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Empowered Melee: 10% | 20% Increased damage."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Empowered Grenade: "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": "20%"
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": " [10%]"
+            },
+            {
+              "text": " | "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": "35%"
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": " [20%]"
+            },
+            {
+              "text": " Increased damage."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Empowered Barricade: X% | Y% Increased HP."
             }
           ]
         }
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.11.20-0.12"
+      "last_edit": "2022.1.5-16.6"
     },
     "1939153390": {
       "name": "Close Enough",
