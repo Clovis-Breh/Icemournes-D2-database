@@ -2502,7 +2502,7 @@
               "text": " [6]"
             },
             {
-              "text": " seconds, depending on the Ability used. "
+              "text": " seconds, depending on the Ability used."
             }
           ]
         },
@@ -2519,14 +2519,14 @@
         {
           "lineText": [
             {
-              "text": "Using an Empowered Ability will add a Stack to other abilities, but will consume all the Stacks of the Empowered Ability you just used. (if Stacks are present) "
+              "text": "Using an Empowered Ability will add a Stack to other abilities, but will consume all the Stacks of the Empowered Ability you just used. (if Stacks are present)"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "e.g.: Empowered Grenade -> Barricade (x1) + Melee (x2) + Grenade (x1)"
+              "text": "e.g.: Barricade -> Empowered Grenade -> Barricade (x1) + Melee (x2)"
             }
           ]
         },
@@ -2615,8 +2615,8 @@
         }
       ],
       "stats": {},
-      "rarity": "undefined",
-      "last_edit": "2022.1.5-16.6"
+      "rarity": "normal",
+      "last_edit": "2022.1.5-16.23"
     },
     "1939153390": {
       "name": "Close Enough",
