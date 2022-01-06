@@ -5719,7 +5719,7 @@
         {
           "lineText": [
             {
-              "text": "Upon dealing Melee Damage while an Enemy within 15 meters:"
+              "text": "Upon dealing Melee Damage while an Enemy is within 15 meters:"
             }
           ]
         },
@@ -5754,6 +5754,16 @@
         {
           "lineText": [
             {
+              "text": "Any Powered Melee which requires sprinting, sliding, or a sprinting jump to utilize will not activate Blunt Execution Rounds."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
               "text": "Ready Speed: {hand_r_0}s"
             }
           ]
@@ -5777,7 +5787,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.1.2-17.17"
+      "last_edit": "2022.1.6-18.27"
     },
     "460017080": {
       "name": "Headseeker",
