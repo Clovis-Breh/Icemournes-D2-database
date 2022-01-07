@@ -9709,6 +9709,21 @@
       "stats": {},
       "last_edit": "2021.10.21-14.3"
     },
+    "3301904089": {
+      "name": "Spike Grenades",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Increases grenade impact damage by 50%, doesn't apply to explosion damage."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2022.1.7-21.52"
+    },
     "3337692349": {
       "name": "Mulligan",
       "description": [
