@@ -10799,6 +10799,21 @@
       },
       "last_edit": "2021.11.2-18.47"
     },
+    "3796465595": {
+      "name": "Impact Casing",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2022.1.7-22.25"
+    },
     "3824105627": {
       "name": "Firefly",
       "description": [
