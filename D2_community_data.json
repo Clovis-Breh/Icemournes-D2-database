@@ -7609,6 +7609,21 @@
       "rarity": "normal",
       "last_edit": "2021.11.14-20.3"
     },
+    "1716000303": {
+      "name": "Concussion Grenades",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grenades fired from this weapon emit a blast that staggers enemies."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2022.1.7-22.23"
+    },
     "1749209109": {
       "name": "Relentless Strikes",
       "description": [
