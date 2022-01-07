@@ -11038,6 +11038,21 @@
       ],
       "last_edit": "2021.9.20-21.32"
     },
+    "3999527219": {
+      "name": "Remote Detonation",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Fires a slower grenade projectile that bounces and detonates on trigger release."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2022.1.7-22.22"
+    },
     "4049631843": {
       "name": "One for All",
       "description": [
