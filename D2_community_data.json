@@ -5655,6 +5655,21 @@
       "rarity": "undefined",
       "last_edit": "2021.12.18-22.16"
     },
+    "409831596": {
+      "name": "Proximity Grenades",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grenades fired from this weapon have increased proximity detection but a decreased blast radius."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2022.1.7-21.56"
+    },
     "438098033": {
       "name": "Harmony",
       "description": [
