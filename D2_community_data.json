@@ -9265,6 +9265,21 @@
       },
       "last_edit": "2021.9.19-18.1"
     },
+    "3032599245": {
+      "name": "Blinding Grenades",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grenade detonation has a brief blinding effect."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2022.1.7-22.21"
+    },
     "3038247973": {
       "name": "Explosive Payload",
       "description": [
