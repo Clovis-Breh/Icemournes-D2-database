@@ -9730,14 +9730,14 @@
         {
           "lineText": [
             {
-              "text": "Increases grenade impact damage by 50%, doesn't apply to explosion damage."
+              "text": "Increases impact damage by 50%, doesn't apply to explosion damage."
             }
           ]
         }
       ],
       "stats": {},
       "rarity": "normal",
-      "last_edit": "2022.1.7-21.52"
+      "last_edit": "2022.1.7-22.2"
     },
     "3337692349": {
       "name": "Mulligan",
