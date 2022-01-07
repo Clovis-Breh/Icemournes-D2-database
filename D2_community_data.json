@@ -10810,9 +10810,18 @@
           ]
         }
       ],
-      "stats": {},
+      "stats": {
+        "damage": {
+          "conditional": {
+            "stat": [],
+            "multiplier": [
+              1.022
+            ]
+          }
+        }
+      },
       "rarity": "normal",
-      "last_edit": "2022.1.7-22.25"
+      "last_edit": "2022.1.7-22.27"
     },
     "3824105627": {
       "name": "Firefly",
