@@ -9870,6 +9870,21 @@
       "stats": {},
       "last_edit": "2021.11.12-19.37"
     },
+    "3373736292": {
+      "name": "Sticky Grenades",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Grenades fired from this weapon attach on impact and detonate when enemies are in proximity."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "normal",
+      "last_edit": "2022.1.7-22.24"
+    },
     "3400784728": {
       "name": "Triple Tap",
       "description": [
