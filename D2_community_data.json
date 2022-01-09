@@ -7098,6 +7098,41 @@
       "rarity": "normal",
       "last_edit": "2021.12.18-22.30"
     },
+    "1431678320": {
+      "name": "Alloy Magazine",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Faster reloads when the magazine is empty."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reload Time: {relo_0}s"
+            }
+          ]
+        }
+      ],
+      "stats": {
+        "reload": {
+          "conditional": {
+            "stat": [],
+            "multiplier": [
+              0.85
+            ]
+          }
+        },
+        "activation_condition": "empty_magazine"
+      },
+      "rarity": "undefined",
+      "last_edit": "2022.1.9-20.10"
+    },
     "1523832109": {
       "name": "Reconstruction",
       "description": [
