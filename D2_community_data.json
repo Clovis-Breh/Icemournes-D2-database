@@ -533,7 +533,7 @@
     "481860150": {
       "name": "Wish-Dragon Teeth",
       "item_name": "Young Ahamkara's Spine",
-      "item_id": "475652357",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -555,7 +555,7 @@
         {
           "lineText": [
             {
-              "text": "14% Damage Increase"
+              "text": "14% increased damage from explosion."
             }
           ]
         },
@@ -573,7 +573,7 @@
             },
             {
               "textClass": "CDB-pvp",
-              "text": "100HP "
+              "text": "100HP"
             },
             {
               "text": " with 50% Damage Resist."
@@ -583,7 +583,7 @@
         {
           "lineText": [
             {
-              "text": "Deal no Self-Damage"
+              "text": "Removes self-damage from Tripmine Grenades."
             }
           ]
         },
@@ -599,7 +599,8 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.11.1-15.28"
+      "rarity": "undefined",
+      "last_edit": "2022.1.11-16.8"
     },
     "481860151": {
       "name": "Spring-Loaded Mounting",
