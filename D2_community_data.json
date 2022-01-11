@@ -7628,7 +7628,7 @@
         {
           "lineText": [
             {
-              "text": "Increases charge time by 40, increases damage by 2%"
+              "text": "Increases charge time by 40, and damage by 2%"
             }
           ]
         }
@@ -7645,8 +7645,8 @@
           }
         }
       },
-      "rarity": "normal",
-      "last_edit": "2021.11.14-20.3"
+      "rarity": "undefined",
+      "last_edit": "2022.1.11-14.44"
     },
     "1716000303": {
       "name": "Concussion Grenades",
