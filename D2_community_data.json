@@ -1667,23 +1667,12 @@
     "1155472384": {
       "name": "Biotic Enhancements",
       "item_name": "Synthoceps",
-      "item_id": "241462142",
+      "item_id": "",
       "description": [
         {
           "lineText": [
             {
-              "text": "When Surrounded by "
-            },
-            {
-              "textClass": "CDB-pve",
-              "text": "3 "
-            },
-            {
-              "textClass": "CDB-pvp",
-              "text": "[2] "
-            },
-            {
-              "text": "enemies: Activates Biotic Enhancements"
+              "text": "When Surrounded by 3 enemies: Activates Biotic Enhancements"
             }
           ]
         },
@@ -1736,7 +1725,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.11.20-0.20"
+      "last_edit": "2022.1.11-15.59"
     },
     "1155472386": {
       "name": "Fury Conductors",
