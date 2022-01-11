@@ -1255,7 +1255,7 @@
         {
           "lineText": [
             {
-              "text": "If Sprinting:"
+              "text": "If Sprinting: "
             }
           ]
         },
@@ -1274,20 +1274,9 @@
           ]
         },
         {
-          "lineClass": "CDB-spacer"
-        },
-        {
           "lineText": [
             {
-              "textClass": "CDB-pve",
-              "text": " Multiplicative "
-            },
-            {
-              "textClass": "CDB-pvp",
-              "text": "[Additive]"
-            },
-            {
-              "text": " Recharge Buff."
+              "text": "No effect while under the effects of another Ability Recharge Buff."
             }
           ]
         },
@@ -1304,7 +1293,7 @@
         {
           "lineText": [
             {
-              "text": "6.25% Faster Sprint for 10 seconds."
+              "text": "6.25% Faster Sprint for 10 seconds. "
             }
           ]
         },
@@ -1328,7 +1317,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.12.8-23.5"
+      "last_edit": "2022.1.11-15.39"
     },
     "902934539": {
       "name": "Blessing of Order",
