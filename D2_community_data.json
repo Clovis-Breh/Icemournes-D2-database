@@ -1444,6 +1444,7 @@
     "926349161": {
       "name": "Fusion Harness",
       "item_name": "Starfire Protocol",
+      "item_id": "2082483156",
       "description": [
         {
           "lineText": [
@@ -1468,7 +1469,7 @@
         {
           "lineText": [
             {
-              "text": "20% Grenade Energy per Weapon Damage Instance while Empowered (0.5s Cooldown)"
+              "text": "20% Grenade Energy per Weapon Hit while Empowered (0.5s Cooldown)"
             }
           ]
         },
@@ -1493,8 +1494,9 @@
           ]
         }
       ],
-      "armor_id": "2082483156",
-      "last_edit": "2021.9.15-20.39"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.11-15.57"
     },
     "926976844": {
       "name": "Resolute",
