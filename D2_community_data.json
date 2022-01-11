@@ -6082,7 +6082,7 @@
         {
           "lineText": [
             {
-              "text": "Decreases charge time by 40, reduces damage by 2%"
+              "text": "Decreases charge time by 40, and damage by 2%"
             }
           ]
         }
@@ -6099,8 +6099,8 @@
           }
         }
       },
-      "rarity": "normal",
-      "last_edit": "2021.11.14-20.2"
+      "rarity": "undefined",
+      "last_edit": "2022.1.11-14.43"
     },
     "699525795": {
       "name": "Eye of the Storm",
