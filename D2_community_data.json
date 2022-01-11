@@ -7460,6 +7460,9 @@
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
               "text": "Ready Speed: {hand_r_0}s"
@@ -7500,7 +7503,8 @@
           }
         }
       },
-      "last_edit": "2021.11.12-19.30"
+      "rarity": "undefined",
+      "last_edit": "2022.1.11-14.38"
     },
     "1631667848": {
       "name": "Grave Robber",
