@@ -2417,6 +2417,7 @@
     "1844314558": {
       "name": "Parting Gift",
       "item_name": "The Bombardiers",
+      "item_id": "1219761634",
       "description": [
         {
           "lineText": [
@@ -2428,7 +2429,7 @@
         {
           "lineText": [
             {
-              "text": "Drops a Parting Gift that explodes and deals 120 Damage over 7.5 metres with a 1(?) second fuse."
+              "text": "Drops a Parting Gift that explodes and deals 120 damage over 7.5 meters with a 1(?) second fuse."
             }
           ]
         },
@@ -2445,14 +2446,36 @@
         {
           "lineText": [
             {
-              "text": "Blind for 3 seconds."
+              "text": "Blind for "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": "7 "
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": "[3]"
+            },
+            {
+              "text": " seconds."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Burn for 3 seconds, dealing 6x5"
+              "text": "Burn for "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": "3"
+            },
+            {
+              "text": " seconds, dealing "
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": "6x5"
             }
           ]
         },
@@ -2466,13 +2489,29 @@
         {
           "lineText": [
             {
-              "text": "Suppress for 7 seconds [Does not apply to Guardians in Super]"
+              "text": "Suppress for "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": "9 "
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": "[7]"
+            },
+            {
+              "text": " seconds "
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": "[Does not apply to Guardians in Super]"
             }
           ]
         }
       ],
-      "armor_id": "1219761634",
-      "last_edit": "2021.9.4-18.39"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.11-16.1"
     },
     "1919923227": {
       "name": "Overflowing Light",
