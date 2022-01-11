@@ -4902,6 +4902,7 @@
     "4102900702": {
       "name": "Touch of Venom",
       "item_name": "Khepri's Sting",
+      "item_id": "2757274117",
       "description": [
         {
           "lineText": [
@@ -4923,13 +4924,14 @@
         {
           "lineText": [
             {
-              "text": " Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 metres away."
+              "text": "Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away."
             }
           ]
         }
       ],
-      "armor_id": "2757274117",
-      "last_edit": "2021.9.19-15.55"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.11-15.47"
     },
     "4174493725": {
       "name": "Insatiable",
