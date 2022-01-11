@@ -4993,7 +4993,7 @@
     "4190535237": {
       "name": "Ursine Guard",
       "item_name": "Ursa Furiosa",
-      "item_id": "1848640623",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -5016,6 +5016,7 @@
           "lineClass": "CDB-spacer"
         },
         {
+          "lineClass": "CDB-center CDB-highlight_2",
           "lineText": [
             {
               "text": "Overshields prevent damage into Super Energy conversion."
@@ -5023,6 +5024,7 @@
           ]
         },
         {
+          "lineClass": "CDB-center CDB-highlight_2",
           "lineText": [
             {
               "text": "Don't stand in a Well of Radiance."
@@ -5032,7 +5034,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.11.20-0.23"
+      "last_edit": "2022.1.11-16.5"
     },
     "4235122381": {
       "name": "Glorious Charge",
