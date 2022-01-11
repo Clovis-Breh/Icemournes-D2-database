@@ -5019,22 +5019,14 @@
           "lineClass": "CDB-center CDB-highlight_2",
           "lineText": [
             {
-              "text": "Overshields prevent damage into Super Energy conversion."
-            }
-          ]
-        },
-        {
-          "lineClass": "CDB-center CDB-highlight_2",
-          "lineText": [
-            {
-              "text": "Don't stand in a Well of Radiance."
+              "text": "Overshields prevent damage into Super Energy conversion so don't stand in a Well of Radiance."
             }
           ]
         }
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2022.1.11-16.5"
+      "last_edit": "2022.1.11-16.6"
     },
     "4235122381": {
       "name": "Glorious Charge",
