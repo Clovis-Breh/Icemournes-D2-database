@@ -1585,12 +1585,12 @@
     "1142806944": {
       "name": "Planetary Torrent",
       "item_name": "Vesper of Radius",
-      "item_id": "1725917554",
+      "item_id": "",
       "description": [
         {
           "lineText": [
             {
-              "text": "While surrounded by at least 3 enemies within 15 metres, gain Class Ability Energy per Second."
+              "text": "While surrounded by at least 3 enemies within 15 meters, gain Class Ability Energy per Second."
             }
           ]
         },
@@ -1600,7 +1600,7 @@
         {
           "lineText": [
             {
-              "text": "3 Enemies = 3% | 4 Enemies = 5% | 5 Enemies = "
+              "text": "3 Enemies = 3% | 4 Enemies = 5% | 5 Enemies ="
             }
           ]
         },
@@ -1628,14 +1628,14 @@
               "text": "[100]"
             },
             {
-              "text": " damage and heavily knockbacks in a 7.5 metre radius."
+              "text": " damage and heavily knockbacks in a 7.5 meter radius."
             }
           ]
         }
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.11.20-0.33"
+      "last_edit": "2022.1.11-16.7"
     },
     "1147638875": {
       "name": "Cobra Totemic",
