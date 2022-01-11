@@ -4704,12 +4704,23 @@
     "3927963103": {
       "name": "Conduction Tines",
       "item_name": "Crown of Tempests",
-      "item_id": "3381022969",
+      "item_id": "",
       "description": [
         {
           "lineText": [
             {
-              "text": "Arc Ability Kills grant Conduction Tines for 7 [4] seconds. Stacks up to 3x."
+              "text": "Arc Ability Kills grant Conduction Tines for "
+            },
+            {
+              "textClass": "CDB-pve",
+              "text": " 7 "
+            },
+            {
+              "textClass": "CDB-pvp",
+              "text": "[4]"
+            },
+            {
+              "text": " seconds. Stacks up to 3x."
             }
           ]
         },
@@ -4774,7 +4785,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.11.20-0.27"
+      "last_edit": "2022.1.11-15.35"
     },
     "4024170927": {
       "name": "Misdirection",
