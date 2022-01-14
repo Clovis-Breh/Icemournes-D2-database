@@ -7243,7 +7243,7 @@
         {
           "lineText": [
             {
-              "text": "15% Damage Increase against Minibosses, Champions, Vehicles, and Bosses."
+              "text": "Damage Increase against Minibosses, Champions, Vehicles, and Bosses."
             }
           ]
         },
@@ -7309,8 +7309,8 @@
         }
       ],
       "stats": {},
-      "rarity": "normal",
-      "last_edit": "2021.12.18-22.34"
+      "rarity": "undefined",
+      "last_edit": "2022.1.14-23.5"
     },
     "1556840489": {
       "name": "Lead from Gold",
