@@ -5216,14 +5216,14 @@
         {
           "lineText": [
             {
-              "text": "Ready Speed: {hand_0_r}s"
+              "text": "Ready Speed: {hand_r_0}s"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Stow Speed: {hand_0_s}s"
+              "text": "Stow Speed: {hand_s_0}s"
             }
           ]
         }
@@ -5251,7 +5251,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.1.16-20.9"
+      "last_edit": "2022.1.16-20.10"
     },
     "25606670": {
       "name": "Dual Loader",
