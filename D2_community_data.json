@@ -5211,6 +5211,9 @@
           "lineClass": "CDB-spacer"
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
               "text": "Ready Speed: {hand_0_r}s"
@@ -5248,7 +5251,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.1.2-17.16"
+      "last_edit": "2022.1.16-20.9"
     },
     "25606670": {
       "name": "Dual Loader",
