@@ -1191,7 +1191,7 @@
         {
           "lineText": [
             {
-              "text": "Overshield disappears instantly when not sprinting."
+              "text": "Overshield disappears instantly when not sprinting. "
             }
           ]
         },
@@ -1206,16 +1206,6 @@
           ]
         },
         {
-          "lineText": [
-            {
-              "text": "Shoulder Charge prerequisites sprinting for at least 1.25 seconds"
-            }
-          ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
           "lineClass": "CDB-spacer"
         },
         {
@@ -1228,7 +1218,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.12.20-16.29"
+      "last_edit": "2022.1.20-15.41"
     },
     "883550427": {
       "name": "And Another Thing",
