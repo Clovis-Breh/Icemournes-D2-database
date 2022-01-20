@@ -3871,7 +3871,7 @@
     "3241194942": {
       "name": "Linear Actuators",
       "item_name": "Dunemarchers",
-      "item_id": "1160559849",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -3893,7 +3893,7 @@
         {
           "lineText": [
             {
-              "text": "Linear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 metres. Shocked is refreshed on chain."
+              "text": "Linear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 meters. Shocked is refreshed on chain."
             }
           ]
         },
@@ -3904,7 +3904,7 @@
           "lineText": [
             {
               "textClass": "CDB-pve",
-              "text": "[PVE] 300%(?) Melee Damage"
+              "text": "300%(?) Melee Damage"
             }
           ]
         },
@@ -3912,7 +3912,7 @@
           "lineText": [
             {
               "textClass": "CDB-pvp",
-              "text": "[PVP] 85 Damage. Immune to Dunemarchers for 2 seconds after being hit."
+              "text": "85 Damage. Immune to Dunemarchers for 2 seconds after being hit."
             }
           ]
         },
@@ -3936,7 +3936,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.12.8-23.12"
+      "last_edit": "2022.1.20-15.36"
     },
     "3268255645": {
       "name": "Sect of Force",
