@@ -2820,6 +2820,7 @@
     "2192678014": {
       "name": "Roving Assassin",
       "item_name": "Gwisin Vest",
+      "item_id": "1474735276",
       "description": [
         {
           "lineText": [
@@ -2831,7 +2832,7 @@
         {
           "lineText": [
             {
-              "text": "Restores Super Energy % on Heavy Attack based on the amount of Spectral Blade Kills."
+              "text": "Restores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills."
             }
           ]
         },
@@ -2846,24 +2847,25 @@
           ]
         },
         {
-          "lineClass": "CDB-pve ",
           "lineText": [
             {
-              "text": "PVE 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 "
+              "textClass": "CDB-pve",
+              "text": " 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 "
             }
           ]
         },
         {
-          "lineClass": "CDB-pvp ",
           "lineText": [
             {
-              "text": "PVP 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7"
+              "textClass": "CDB-pvp",
+              "text": " 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7"
             }
           ]
         }
       ],
-      "armor_id": "1474735276",
-      "last_edit": "2021.9.4-19.4"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.15"
     },
     "2192678015": {
       "name": "Double Dodge",
