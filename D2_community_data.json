@@ -3615,6 +3615,7 @@
     "2818140350": {
       "name": "Dynamic Duo",
       "item_name": "Getaway Artist",
+      "item_id": "3084282676",
       "description": [
         {
           "lineText": [
@@ -3629,7 +3630,7 @@
         {
           "lineText": [
             {
-              "text": "Sentient Arc Souls target enemies up to 29 metres away, shooting an improved burst of 6 homing bolts that deal "
+              "text": "Sentient Arc Souls target enemies up to 29 meters away, shooting an improved burst of 6 homing bolts that deal "
             },
             {
               "textClass": "CDB-pvp",
@@ -3659,10 +3660,21 @@
               "text": "Standing in an Arc Soul Rift refreshes the duration of Sentient Arc Soul."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Converts all the Arc Souls you receive to Sentient Arc Souls."
+            }
+          ]
         }
       ],
-      "armor_id": "3084282676",
-      "last_edit": "2021.9.6-18.12"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.53"
     },
     "2951499542": {
       "name": "Beacons of Empowerment",
