@@ -4527,17 +4527,14 @@
         {
           "lineText": [
             {
-              "text": "If on Skip Grenades."
+              "text": "Grants an extra Skip Grenade Charge."
             }
           ]
         },
         {
-          "lineClass": "CDB-spacer"
-        },
-        {
           "lineText": [
             {
-              "text": "Grants an extra Grenade Charge."
+              "text": "even if Reddit says otherwise"
             }
           ]
         },
@@ -4561,7 +4558,7 @@
             },
             {
               "textClass": "CDB-pve",
-              "text": " X%"
+              "text": "X%"
             },
             {
               "textClass": "CDB-pvp",
@@ -4575,7 +4572,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.12.29-22.33"
+      "last_edit": "2022.1.20-15.30"
     },
     "3927963100": {
       "name": "Cerebral Uplink",
