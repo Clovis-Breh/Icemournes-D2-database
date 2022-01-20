@@ -994,9 +994,6 @@
           "lineText": [
             {
               "textClass": "CDB-stasis",
-              "text": "Stasis "
-            },
-            {
               "text": " Subclass Only"
             }
           ]
@@ -1011,7 +1008,7 @@
         {
           "lineText": [
             {
-              "text": " Shift has a distance of 10 metres, and renders you completely invisible except for a trail for the duration of the shift."
+              "text": "Shift has a distance of 10 meters, and renders you completely invisible except for a trail for the duration of the shift."
             }
           ]
         },
@@ -1029,7 +1026,7 @@
           "lineText": [
             {
               "textClass": "CDB-pve",
-              "text": " [PVE] Light Shift grants 10% increased damage to Slowed/Frozen targets, as well as granting 10% increased damage to Arc Weapons."
+              "text": "Light Shift grants 10% increased damage to Slowed/Frozen targets, as well as granting 10% increased damage to Arc Weapons."
             }
           ]
         },
@@ -1045,7 +1042,8 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.11.1-15.23"
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.22"
     },
     "699693452": {
       "name": "Vengeance",
