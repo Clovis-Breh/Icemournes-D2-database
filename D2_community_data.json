@@ -2683,7 +2683,7 @@
     "1971489086": {
       "name": "The Fourth Magic",
       "item_name": "Verity's Brow",
-      "item_id": "2428181146",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -2722,7 +2722,7 @@
         {
           "lineText": [
             {
-              "text": "Allies within 18(?) metres receive Feel The Flame."
+              "text": "Allies within 18(?) meters receive Feel The Flame."
             }
           ]
         },
@@ -2736,7 +2736,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.12.9-0.32"
+      "last_edit": "2022.1.20-15.58"
     },
     "2119325971": {
       "name": "Vanishing Shadow",
