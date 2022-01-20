@@ -3586,11 +3586,12 @@
     "2805134531": {
       "name": "Nightmare Fuel",
       "item_name": "Sealed Ahamkara Grasps",
+      "item_id": "1688602431",
       "description": [
         {
           "lineText": [
             {
-              "text": "Melee Hits refresh magazine."
+              "text": "Melee Hits refresh magazine for your equipped weapon."
             }
           ]
         },
@@ -3602,8 +3603,9 @@
           ]
         }
       ],
-      "armor_id": "1688602431",
-      "last_edit": "2021.9.5-7.50"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.29"
     },
     "2818140350": {
       "name": "Dynamic Duo",
