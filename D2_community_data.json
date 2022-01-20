@@ -3348,6 +3348,7 @@
     "2663272111": {
       "name": "Upgraded Sensor Pack",
       "item_name": "Knucklehead Radar",
+      "item_id": "1321354572",
       "description": [
         {
           "lineText": [
@@ -3369,13 +3370,21 @@
         {
           "lineText": [
             {
-              "text": "Grants Enhanced Radar. (Posseses 12 sectors instead of 6)"
+              "text": "Grants Enhanced Radar."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "(Has 12 sectors instead of 6)"
             }
           ]
         }
       ],
-      "armor_id": "1321354572",
-      "last_edit": "2021.9.19-15.56"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.16"
     },
     "2731901709": {
       "name": "Warlord's Sigil",
