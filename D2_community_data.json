@@ -605,7 +605,7 @@
     "481860151": {
       "name": "Spring-Loaded Mounting",
       "item_name": "Mechaneer's Tricksleeves",
-      "item_id": "1734144409",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -618,11 +618,11 @@
           "lineText": [
             {
               "textClass": "CDB-pve",
-              "text": "100% "
+              "text": "100%"
             },
             {
               "textClass": "CDB-pvp",
-              "text": "[35%]"
+              "text": " [35%]"
             },
             {
               "text": " increased damage until no longer critical."
@@ -642,13 +642,14 @@
         {
           "lineText": [
             {
-              "text": "100 Handling to Sidearm Stow and Ready speed."
+              "text": "100 Handling to Sidearms."
             }
           ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.11.1-15.25"
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.23"
     },
     "553093017": {
       "name": "Beyond The Veil",
