@@ -4697,12 +4697,12 @@
     "3927963102": {
       "name": "Actual Grandeur",
       "item_name": "Skull of Dire Ahamkara",
-      "item_id": "1030017949",
+      "item_id": "",
       "description": [
         {
           "lineText": [
             {
-              "text": "Massively Increases Damage Resist during Nova Bomb"
+              "text": "Massively Increases Damage Resist during Nova Bomb "
             }
           ]
         },
@@ -4729,7 +4729,7 @@
         {
           "lineText": [
             {
-              "text": "X1% -> X2% -> X3% -> X4% -> X5% -> X6%..."
+              "text": "X% -> X% -> X% -> X% -> X% -> X%..."
             }
           ]
         },
@@ -4746,7 +4746,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2022.1.11-15.55"
+      "last_edit": "2022.1.20-15.57"
     },
     "3927963103": {
       "name": "Conduction Tines",
