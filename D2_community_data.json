@@ -4823,7 +4823,7 @@
         {
           "lineText": [
             {
-              "text": "Applies Misdirection to enemies within 22 metres."
+              "text": "Applies Misdirection to enemies within 22 meters."
             }
           ]
         },
@@ -4842,7 +4842,7 @@
           "lineText": [
             {
               "textClass": "CDB-pvp",
-              "text": "Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
+              "text": " Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
             }
           ]
         },
@@ -4859,7 +4859,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2022.1.11-15.40"
+      "last_edit": "2022.1.20-15.10"
     },
     "4048389864": {
       "name": "Feast of Light",
