@@ -2657,11 +2657,12 @@
     "1939153390": {
       "name": "Close Enough",
       "item_name": "Geomag Stabilizers",
+      "item_id": "121305948",
       "description": [
         {
           "lineText": [
             {
-              "text": "Chaos Reach recovers 10% Super Charge on hit. 0.75s Cooldown."
+              "text": "Chaos Reach recovers 10% Super Ability Energy on hit. 0.75s Cooldown."
             }
           ]
         },
@@ -2673,8 +2674,9 @@
           ]
         }
       ],
-      "armor_id": "121305948",
-      "last_edit": "2021.9.6-18.10"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.52"
     },
     "1971489086": {
       "name": "The Fourth Magic",
