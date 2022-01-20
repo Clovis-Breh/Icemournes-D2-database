@@ -2115,7 +2115,7 @@
         {
           "lineText": [
             {
-              "text": "100 Handling Ready Speed with 0.X Duration Scalar  and ~-40% Accuracy Cone Size on Ready for X seconds."
+              "text": "100 Handling Ready Speed with 0.X Duration Multiplier and ~-40% Accuracy Cone Size on Ready for X seconds."
             }
           ]
         },
@@ -2130,17 +2130,17 @@
           ]
         },
         {
-          "lineClass": "CDB-pve",
           "lineText": [
             {
+              "textClass": "CDB-pve",
               "text": "60% Increased damage per Hit for 5 seconds. Maxes out at 600% after 10 Hits."
             }
           ]
         },
         {
-          "lineClass": "CDB-pve",
           "lineText": [
             {
+              "textClass": "CDB-pve",
               "text": "Eriana's Vow has a reduced effectiveness of 30% Damage Increase per Hit."
             }
           ]
@@ -2165,7 +2165,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.12.8-23.4"
+      "last_edit": "2022.1.20-15.17"
     },
     "1694242449": {
       "name": "Uncanny Arrows",
