@@ -3951,7 +3951,7 @@
     "3268255645": {
       "name": "Sect of Force",
       "item_name": "Aeon Safe",
-      "item_id": "1654461647",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -3983,7 +3983,7 @@
         {
           "lineText": [
             {
-              "text": "Allies within 30 metres gain 50% Grenade and Melee Energy."
+              "text": "Allies within 30 meters gain 50% Grenade and Melee Energy."
             }
           ]
         },
@@ -4010,7 +4010,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.11.20-0.7"
+      "last_edit": "2022.1.20-15.59"
     },
     "3295796664": {
       "name": "Move to Survive",
