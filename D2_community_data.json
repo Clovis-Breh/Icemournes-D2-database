@@ -3245,7 +3245,7 @@
     "2663272109": {
       "name": "Relentless Tracker",
       "item_name": "Foetracer",
-      "item_id": "896224899",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -3267,7 +3267,14 @@
         {
           "lineText": [
             {
-              "text": "If Enemy is below 30% HP: Grants a 1% Damage Increase per percent below 30%"
+              "text": "If Enemy is below 30% HP: "
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Grants 1% increased damage per percent below 30%"
             }
           ]
         },
@@ -3291,7 +3298,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2022.1.11-15.38"
+      "last_edit": "2022.1.20-15.7"
     },
     "2663272110": {
       "name": "Hawkeye Hack",
