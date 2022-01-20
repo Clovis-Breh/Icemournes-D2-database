@@ -2054,6 +2054,7 @@
     "1667892710": {
       "name": "Survival Well",
       "item_name": "Crest of Alpha Lupi",
+      "item_id": "1591207519",
       "description": [
         {
           "lineText": [
@@ -2065,7 +2066,7 @@
         {
           "lineText": [
             {
-              "text": "Healing Pulse heals for the highest between 58 HP OR to 130HP over 12 metres."
+              "text": "Healing Pulse heals for the highest between 58 HP OR to 130HP over 12 meters."
             }
           ]
         },
@@ -2087,8 +2088,9 @@
           ]
         }
       ],
-      "armor_id": "1591207519",
-      "last_edit": "2021.9.5-9.44"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.35"
     },
     "1667892711": {
       "name": "Auto-Loading Link",
