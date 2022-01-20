@@ -2989,6 +2989,7 @@
     "2355041704": {
       "name": "Solar Rampart",
       "item_name": "Khepri's Horn",
+      "item_id": "2384488862",
       "description": [
         {
           "lineText": [
@@ -3000,15 +3001,15 @@
         {
           "lineText": [
             {
-              "text": "Unleashes a Solar Wave that returns back to the Barricade after 18.5 metres."
+              "text": "Unleashes a Solar Wave that returns back to the Barricade after 18.5 meters."
             }
           ]
         },
         {
-          "lineClass": "CDB-pvp",
           "lineText": [
             {
-              "text": "PVP Deals 100 damage."
+              "textClass": "CDB-pvp",
+              "text": "Deals 100 damage."
             }
           ]
         },
@@ -3023,8 +3024,9 @@
           ]
         }
       ],
-      "armor_id": "2384488862",
-      "last_edit": "2021.9.5-10.24"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.39"
     },
     "2500502982": {
       "name": "Firewalker",
