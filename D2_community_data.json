@@ -1317,12 +1317,12 @@
     "902934539": {
       "name": "Blessing of Order",
       "item_name": "Boots of the Assembler",
-      "item_id": "3045642045",
+      "item_id": "",
       "description": [
         {
           "lineText": [
             {
-              "text": "Standing in a Rift creates Noble Seekers every 5 seconds that seeks out allies within 35 metres and apply a buff depending on the type of Rift."
+              "text": "Standing in a Rift creates Noble Seekers every 5 seconds that seeks out allies within 35 meters and apply a buff depending on the type of Rift."
             }
           ]
         },
@@ -1353,21 +1353,21 @@
             },
             {
               "textClass": "CDB-pve",
-              "text": "35% "
+              "text": "35%"
             },
             {
               "textClass": "CDB-pvp",
-              "text": "[20%] "
+              "text": " [20%]"
             },
             {
-              "text": "Damage Increase for 5 seconds."
+              "text": " Damage Increase for 5 seconds."
             }
           ]
         }
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.11.20-0.25"
+      "last_edit": "2022.1.20-15.47"
     },
     "926349160": {
       "name": "Tome of Dawn",
