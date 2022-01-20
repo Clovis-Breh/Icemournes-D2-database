@@ -1735,6 +1735,7 @@
     "1155472386": {
       "name": "Fury Conductors",
       "item_name": "ACD/0 Feedback Fence",
+      "item_id": "2563444729",
       "description": [
         {
           "lineText": [
@@ -1746,7 +1747,7 @@
         {
           "lineText": [
             {
-              "text": "Receiving melee damage unleashes an Arc Explosion with a radius of 5 metres."
+              "text": "Receiving melee damage unleashes an Arc Explosion with a radius of 5 meters."
             }
           ]
         },
@@ -1763,7 +1764,7 @@
         {
           "lineText": [
             {
-              "text": "Fury Conductors grants 33%|55%|70% Damage Resistance to Melee Attacks depending on number of Stacks."
+              "text": "Fury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks."
             }
           ]
         },
@@ -1778,8 +1779,9 @@
           ]
         }
       ],
-      "armor_id": "2563444729",
-      "last_edit": "2021.9.19-16.12"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.33"
     },
     "1155472387": {
       "name": "Horns of Doom",
