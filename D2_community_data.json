@@ -4407,7 +4407,7 @@
     "3683811620": {
       "name": "Sect of Vigor",
       "item_name": "Aeon Soul",
-      "item_id": "2950045886",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -4429,7 +4429,7 @@
         {
           "lineText": [
             {
-              "text": "Casting Super fully heals allies within 30 metres."
+              "text": "Casting Super fully heals allies within 30 meters."
             }
           ]
         },
@@ -4439,14 +4439,14 @@
         {
           "lineText": [
             {
-              "text": "Aeon Allies receive a 110HP Overshield for 20 seconds that recharges after 3 seconds. "
+              "text": "Aeon Allies receive a 110HP Overshield for 20 seconds that recharges after 3 seconds."
             }
           ]
         }
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.11.20-0.6"
+      "last_edit": "2022.1.20-16.0"
     },
     "3723531833": {
       "name": "Burning Souls",
