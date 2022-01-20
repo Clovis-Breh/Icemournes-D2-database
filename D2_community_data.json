@@ -3689,12 +3689,12 @@
     "2979726427": {
       "name": "Kintsugi",
       "item_name": "Precious Scars",
-      "item_id": "3974038291",
+      "item_id": "",
       "description": [
         {
           "lineText": [
             {
-              "text": "Reviving/Getting Revived grants Kintsugi"
+              "text": "Reviving or Getting Revived grants Kintsugi"
             }
           ]
         },
@@ -3711,14 +3711,14 @@
         {
           "lineText": [
             {
-              "text": "Grants you and allies within 15 metres a 100HP Overshield for 10 seconds."
+              "text": "Grants you and allies within 15 meters a 100HP Overshield for 10 seconds."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Leaving the 15 metre radius removes Overshield"
+              "text": "Leaving the 15 meter radius removes Overshield"
             }
           ]
         },
@@ -3735,14 +3735,14 @@
         {
           "lineText": [
             {
-              "text": "Heals for 60(?)HP and grants Y Recovery for X seconds after getting a Weapon Kill with a Matching Subclass Element."
+              "text": "Heals you and allies within 15 meters for 60(?)HP for X seconds after getting a Weapon Kill with a Matching Subclass Element."
             }
           ]
         }
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.11.20-0.16"
+      "last_edit": "2022.1.20-15.43"
     },
     "3241194940": {
       "name": "Jump Jets",
