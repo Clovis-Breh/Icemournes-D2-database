@@ -1667,7 +1667,7 @@
         {
           "lineText": [
             {
-              "text": "When Surrounded by 3 enemies: Activates Biotic Enhancements"
+              "text": "While Surrounded by 3+ enemies: Activates Biotic Enhancements"
             }
           ]
         },
@@ -1692,18 +1692,18 @@
           ]
         },
         {
-          "lineClass": "CDB-pve",
           "lineText": [
             {
-              "text": "PVE 200% Melee Damage Increase."
+              "textClass": "CDB-pve",
+              "text": "200% Increased Melee Damage."
             }
           ]
         },
         {
-          "lineClass": "CDB-pvp",
           "lineText": [
             {
-              "text": "PVP 100% Melee Damage Increase."
+              "textClass": "CDB-pvp",
+              "text": "100% Increased Melee Damage."
             }
           ]
         },
@@ -1713,14 +1713,14 @@
         {
           "lineText": [
             {
-              "text": "Increases Melee Lunge distance to 7 metres."
+              "text": "Increases Melee Lunge Range to 7 meters."
             }
           ]
         }
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2022.1.11-15.59"
+      "last_edit": "2022.1.20-15.44"
     },
     "1155472386": {
       "name": "Fury Conductors",
