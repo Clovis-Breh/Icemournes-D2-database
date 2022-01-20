@@ -115,7 +115,7 @@
     "185514250": {
       "name": "Glacial Guard",
       "item_name": "Icefall Mantle",
-      "item_id": "1467044898",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -137,7 +137,7 @@
         {
           "lineText": [
             {
-              "text": "Grants Shielded buff and applies 40 Stacks of Slow to Combatants within 7 metres."
+              "text": "Grants Shielded buff and applies 40 Stacks of Slow to Combatants within 7 meters."
             }
           ]
         },
@@ -178,7 +178,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.12.9-0.29"
+      "last_edit": "2022.1.20-15.38"
     },
     "235075862": {
       "name": "Peregrine Strike",
