@@ -4434,24 +4434,26 @@
     "3723531833": {
       "name": "Burning Souls",
       "item_name": "Wormhusk Crown",
+      "item_id": "3562696927",
       "description": [
         {
           "lineText": [
             {
-              "text": "On Dodge"
+              "text": "On Dodge:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Heals 44HP"
+              "text": "Heals 44HP."
             }
           ]
         }
       ],
-      "armor_id": "3562696927",
-      "last_edit": "2021.9.5-8.1"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.32"
     },
     "3824622015": {
       "name": "Grasp of the Devourer",
