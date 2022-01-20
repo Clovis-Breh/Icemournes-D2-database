@@ -2227,71 +2227,41 @@
     "1694242450": {
       "name": "Hydraulic Boosters",
       "item_name": "St0mp-EE5",
-      "item_id": "193869520",
+      "item_id": "",
       "description": [
         {
           "lineText": [
             {
-              "text": "Increased Jump Height:"
+              "textClass": "CDB-highlight",
+              "text": "Increased Jump Height Increase:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "High Jump = 9 metres -> 12 metres (33% higher)"
+              "text": "High Jump = 9 meters -> 12 meters (33% higher)"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Strafe Jump = 8 metres -> 9 metres (10% higher)"
+              "text": "Strafe Jump = 8 meters -> 9 meters (10% higher)"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Triple Jump = 6 metres -> 7 metres for First Jump (16% higher)"
+              "text": "Triple Jump = 6 meters -> 7 meters for First Jump (16% higher)"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "9 metres -> 11 metres for Second Jump (22% higher)"
-            }
-          ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "Increased Jump Distance: (Includes innate 6.25% faster sprint)"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "High Jump = 28 metres -> 33 metres (18% farther)"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "Strafe Jump = 26 metres -> 31 metres (19% farther)"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "Triple Jump = 31 metres -> 38 metres. (22% farther)"
+              "text": "9 meters -> 11 meters for Second Jump (22% higher)"
             }
           ]
         },
@@ -2301,6 +2271,39 @@
         {
           "lineText": [
             {
+              "textClass": "CDB-highlight",
+              "text": "Jump Distance Increase: (Includes innate 6.25% faster sprint)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "High Jump = 28 meters -> 33 meters (18% higher)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Strafe Jump = 26 meters -> 31 meters (19% higher)"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Triple Jump = 31 meters -> 38 meters. (22% higher)"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-highlight",
               "text": "Increases Sprint Speed by 6.25%"
             }
           ]
@@ -2308,6 +2311,7 @@
         {
           "lineText": [
             {
+              "textClass": "CDB-highlight",
               "text": "Increases Slide Distance by 33%"
             }
           ]
@@ -2315,7 +2319,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.12.24-12.22"
+      "last_edit": "2022.1.20-15.31"
     },
     "1731450287": {
       "name": "Clenched Fist",
