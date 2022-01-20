@@ -4473,6 +4473,7 @@
     "3824622015": {
       "name": "Grasp of the Devourer",
       "item_name": "Necrotic Grip",
+      "item_id": "2780717641",
       "description": [
         {
           "lineText": [
@@ -4484,11 +4485,11 @@
         {
           "lineText": [
             {
-              "text": "Poison deals up to 680% the total damage of Melee Damage"
+              "text": "Poison deals up to 680% the total damage of Melee Damage. "
             },
             {
               "textClass": "CDB-pvp",
-              "text": " [30 Damage]"
+              "text": "[30 Damage]"
             }
           ]
         },
@@ -4522,7 +4523,7 @@
         {
           "lineText": [
             {
-              "text": "Poisoned enemies spread the poison on death on a 3 metre radius."
+              "text": "Poisoned enemies spread the poison on death on a 3 meter radius."
             }
           ]
         },
@@ -4532,13 +4533,15 @@
         {
           "lineText": [
             {
-              "text": "Thorn Kills (by bullet) spreads poison."
+              "textClass": "CDB-highlight_3",
+              "text": "Thorn Kills, as well as enemies poisoned by Thorn spread poison on death."
             }
           ]
         }
       ],
-      "armor_id": "2780717641",
-      "last_edit": "2021.9.15-20.9"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.55"
     },
     "3907299874": {
       "name": "New Tricks",
