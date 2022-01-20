@@ -927,14 +927,14 @@
         {
           "lineText": [
             {
-              "text": "Melee Kills, as well as Finishers weaken and blind, rendering the enemy unable to shoot and making it receive 30% increased damage."
+              "text": "Melee Kills, as well as Finishers weaken and blind, rendering the enemy unable to shoot and receive 30% increased damage."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Duration and Range are dependant on Enemy Rank."
+              "text": "Duration and Range are dependant on Enemy Rank. "
             }
           ]
         },
@@ -951,7 +951,7 @@
         {
           "lineText": [
             {
-              "text": "Finishers add 5 seconds to Duration. Bosses are not finishable."
+              "text": "Finishers add 5 seconds to Duration. Bosses are not finishable. Guardians count as Elites."
             }
           ]
         },
@@ -968,7 +968,7 @@
         {
           "lineText": [
             {
-              "text": "Range: 10/15/20/25 metres, centered on enemy."
+              "text": "Range: 10/15/20/25 meters, centered on enemy."
             }
           ]
         },
@@ -989,7 +989,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2021.12.9-0.33"
+      "last_edit": "2022.1.20-15.51"
     },
     "692285813": {
       "name": "Light Shift",
