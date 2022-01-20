@@ -4247,18 +4247,12 @@
     "3662465906": {
       "name": "Dreaded Visage",
       "item_name": "Mask of the Quiet One",
+      "item_id": "3883866764",
       "description": [
         {
           "lineText": [
             {
-              "text": "Heals up to Max Critical Health on Kill."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "Regenerates 5% Barricade, Grenade, and Melee Energy on taking Damage."
+              "text": "Heals up to Max Critical Health on Kill if Critical."
             }
           ]
         },
@@ -4268,13 +4262,21 @@
         {
           "lineText": [
             {
-              "text": "(I think it requires a minimum amount of damage in one hit to proc?, probably has cooldown)"
+              "text": "Generates 5% Barricade, Grenade, and Melee Energy every time you take damage."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "X second cooldown."
             }
           ]
         }
       ],
-      "armor_id": "3883866764",
-      "last_edit": "2021.9.5-14.23"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.40"
     },
     "3662465907": {
       "name": "Transfusion Matrix",
