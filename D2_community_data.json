@@ -1861,11 +1861,12 @@
     "1331592343": {
       "name": "Starless Night",
       "item_name": "Helm of Saint-14",
+      "item_id": "106575079",
       "description": [
         {
           "lineText": [
             {
-              "text": "Guarding with Sentinel/Banner Shield blinds enemies within 7 metres for 5 seconds."
+              "text": "Guarding with Sentinel/Banner Shield blinds enemies within 7 meters for 5 seconds."
             }
           ]
         },
@@ -1900,8 +1901,9 @@
           ]
         }
       ],
-      "armor_id": "106575079",
-      "last_edit": "2021.9.5-10.21"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.37"
     },
     "1420473289": {
       "name": "Blood Magic",
