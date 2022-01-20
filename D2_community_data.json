@@ -500,6 +500,7 @@
     "395373724": {
       "name": "Scatter Charge",
       "item_name": "Nothing Manacles",
+      "item_id": "300502917",
       "description": [
         {
           "lineText": [
@@ -524,13 +525,14 @@
         {
           "lineText": [
             {
-              "text": "Scatter Grenades track enemies within 2 metres"
+              "text": "Scatter Grenades track enemies within 2 meters."
             }
           ]
         }
       ],
-      "armor_id": "300502917",
-      "last_edit": "2021.9.15-20.19"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.56"
     },
     "481860150": {
       "name": "Wish-Dragon Teeth",
