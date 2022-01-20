@@ -803,7 +803,7 @@
     "593361146": {
       "name": "Synapse Junctions",
       "item_name": "Raiden Flux",
-      "item_id": "2766109872",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -825,27 +825,28 @@
         {
           "lineText": [
             {
-              "text": "x1 = 13.5% Damage Increase and X% Slower Passive Super Drain"
+              "text": "x1 = 13.5% Increased damage and X% Slower Passive Super Drain"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "x2 = 28.8% Damage Increase and X% Slower Passive Super Drain"
+              "text": "x2 = 28.8% Increased damage and X% Slower Passive Super Drain"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "x3 = 46.2% Damage Increase and X% Slower Passive Super Drain"
+              "text": "x3 = 46.2% Increased damage and X% Slower Passive Super Drain"
             }
           ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.11.1-15.26"
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.26"
     },
     "593361147": {
       "name": "Probability Matrix",
