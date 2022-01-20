@@ -4998,6 +4998,7 @@
     "4174493725": {
       "name": "Insatiable",
       "item_name": "Apotheosis Veil",
+      "item_id": "1096253259",
       "description": [
         {
           "lineText": [
@@ -5012,13 +5013,14 @@
         {
           "lineText": [
             {
-              "text": "Allies within 18(?) metres recharge 0.25% of their Class Ability per Second."
+              "text": "Allies within 18(?) meters recharge 0.25% of their Class Ability per Second."
             }
           ]
         }
       ],
-      "armor_id": "1096253259",
-      "last_edit": "2021.9.19-16.17"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.46"
     },
     "4190535237": {
       "name": "Ursine Guard",
