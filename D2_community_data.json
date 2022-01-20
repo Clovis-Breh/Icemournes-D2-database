@@ -2732,7 +2732,7 @@
     "2119325971": {
       "name": "Vanishing Shadow",
       "item_name": "Graviton Forfeit",
-      "item_id": "2773056939",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -2755,14 +2755,14 @@
           "lineClass": "CDB-bg",
           "lineText": [
             {
-              "text": "Vanish in Smoke: 7 -> 12 seconds (71% Increase) "
+              "text": " Vanish in Smoke: 7 -> 12 seconds (71% Increase)"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Vanishing Step: 4.5 -> 7 seconds (44% Increase)"
+              "text": "Vanishing Step: 4.5 -> 7 seconds (44% Increase) "
             }
           ]
         },
@@ -2770,7 +2770,7 @@
           "lineClass": "CDB-bg",
           "lineText": [
             {
-              "text": "Flawless Execution: 9 -> 15 seconds (66% Increase) "
+              "text": "Flawless Execution: 9 -> 15 seconds (66% Increase)"
             }
           ]
         },
@@ -2794,14 +2794,14 @@
         {
           "lineText": [
             {
-              "text": "Additional Enemies within 15 metres will instead increase it to 4.66% | 6.9% | 8.88%"
+              "text": "Additional Enemies within 15 meters will instead increase it to 4.66% | 6.9% | 8.88%"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "(Equivalent of) 100 Recovery"
+              "text": "Recovery Speed set to between T9 and T10"
             }
           ]
         },
@@ -2814,7 +2814,8 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-20.1"
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.14"
     },
     "2192678014": {
       "name": "Roving Assassin",
