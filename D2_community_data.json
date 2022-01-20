@@ -4584,11 +4584,12 @@
     "3927963100": {
       "name": "Cerebral Uplink",
       "item_name": "Eye of Another World",
+      "item_id": "3381022970",
       "description": [
         {
           "lineText": [
             {
-              "text": "Highlights enemies below 33% HP in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline."
+              "text": "Highlights enemies below 50% HP and invisible enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline."
             }
           ]
         },
@@ -4598,30 +4599,14 @@
         {
           "lineText": [
             {
-              "text": "Passively regenerates 0.6% of Grenade, Melee, and Class Ability Energy per second."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "(Stasis Grenades recharge at .45% Ability Energy per Second)"
-            }
-          ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "No, it is not \"+30 to all your Abilities\", and yes, it scales past 100 because it's a % per second."
+              "text": "Reduces rift, grenade, and melee cooldown by 38.50% at Tier 0. Every Ability Tier reduces this bonus by 2.2% down to 16% (19%)"
             }
           ]
         }
       ],
-      "armor_id": "3381022970",
-      "last_edit": "2021.9.19-16.18"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.20-15.50"
     },
     "3927963101": {
       "name": "Abyssal Extractors",
