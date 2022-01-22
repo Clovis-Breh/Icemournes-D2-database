@@ -2894,18 +2894,19 @@
     "2204713148": {
       "name": "Crystalline Transistor",
       "item_name": "Chromatic Fire",
+      "item_id": "4057299718",
       "description": [
         {
           "lineText": [
             {
-              "text": "On Kinetic Precision Kill: "
+              "text": "On Kinetic Precision Kill:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Enemy explodes in an elemental explosion of your currently selected Light Subclass."
+              "text": "Enemy explodes in an elemental explosion of your currently selected Subclass."
             }
           ]
         },
@@ -2928,8 +2929,9 @@
           ]
         }
       ],
-      "armor_id": "4057299718",
-      "last_edit": "2021.9.6-18.2"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.22-13.30"
     },
     "2204713149": {
       "name": "Battle-Hearth",
