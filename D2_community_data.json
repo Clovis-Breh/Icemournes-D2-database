@@ -11173,26 +11173,21 @@
         {
           "lineText": [
             {
-              "text": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 20% Explosive Damage."
+              "text": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage. Effectively 20% increased damage."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "+25 Blast Radius "
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "(Doesn't go past 100 stat)"
+              "text": "+25 Blast Radius"
             }
           ]
         }
       ],
-      "last_edit": "2021.9.20-21.32"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.1.22-13.41"
     },
     "3999527219": {
       "name": "Remote Detonation",
