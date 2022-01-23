@@ -6585,22 +6585,14 @@
         {
           "lineText": [
             {
-              "textClass": "CDB-highlight",
-              "text": "Best PVP Shotgun Barrel for consistency"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
               "text": "When aiming down sights: reduces projectile spread but removes the precision damage multiplier."
             }
           ]
         }
       ],
       "stats": {},
-      "rarity": "normal",
-      "last_edit": "2021.12.8-22.50"
+      "rarity": "undefined",
+      "last_edit": "2022.1.23-22.24"
     },
     "1140096971": {
       "name": "Seraph Rounds",
