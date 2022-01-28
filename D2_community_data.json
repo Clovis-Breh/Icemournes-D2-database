@@ -6449,13 +6449,13 @@
       "stats": {
         "reload": {
           "always_active": {
-            "stat": 10,
+            "stat": 9,
             "multiplier": 0.8
           }
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.1.28-14.43"
+      "last_edit": "2022.1.28-14.44"
     },
     "957782887": {
       "name": "Snapshot Sights",
