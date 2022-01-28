@@ -6431,7 +6431,7 @@
         {
           "lineText": [
             {
-              "text": "10 Reload Speed with 0.8x Multiplier."
+              "text": "9 Reload Speed Stat with 0.8x Multiplier."
             }
           ]
         },
@@ -6454,8 +6454,8 @@
           }
         }
       },
-      "rarity": "normal",
-      "last_edit": "2021.11.23-19.42"
+      "rarity": "undefined",
+      "last_edit": "2022.1.28-14.43"
     },
     "957782887": {
       "name": "Snapshot Sights",
