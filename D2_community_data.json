@@ -4605,7 +4605,7 @@
     "3927963100": {
       "name": "Cerebral Uplink",
       "item_name": "Eye of Another World",
-      "item_id": "3381022970",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -4620,14 +4620,38 @@
         {
           "lineText": [
             {
-              "text": "Reduces rift, grenade, and melee cooldown by 38.50% at Tier 0. Every Ability Tier reduces this bonus by 2.2% down to 16% (19%)"
+              "text": "Reduces Grenade and Melee Cooldown by 38.50% at Tier 0."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Every Ability Tier reduces this bonus by 2.2%, lowering the bonus to 16% at Tier 10."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Reduces Class Ability Cooldown by 41% at Tier 0."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": " Every Recovery Tier reduces this bonus by 2.2%, lowering the bonus to 19% at Tier 10."
             }
           ]
         }
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2022.1.20-15.50"
+      "last_edit": "2022.1.28-14.32"
     },
     "3927963101": {
       "name": "Abyssal Extractors",
