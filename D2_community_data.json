@@ -5500,15 +5500,19 @@
               "lineText": [
                 {
                   "textClass": "CDB-bold",
-                  "text": "Stacks"
-                },
-                {
-                  "textClass": "CDB-bold",
-                  "text": "Reload Speed"
+                  "text": "Stack"
                 },
                 {
                   "textClass": "CDB-bold",
                   "text": "Stability"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Reload Stat"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Reload Duration"
                 },
                 {
                   "textClass": "CDB-bold",
@@ -5529,6 +5533,9 @@
                   "text": "5"
                 },
                 {
+                  "text": "0.99x"
+                },
+                {
                   "text": "{relo_0}s"
                 }
               ]
@@ -5539,10 +5546,13 @@
                   "text": "2x"
                 },
                 {
+                  "text": "10"
+                },
+                {
                   "text": "27"
                 },
                 {
-                  "text": "10"
+                  "text": "0.97x"
                 },
                 {
                   "text": "{relo_1}s"
@@ -5556,10 +5566,13 @@
                   "text": "3x"
                 },
                 {
+                  "text": "15"
+                },
+                {
                   "text": "32"
                 },
                 {
-                  "text": "15"
+                  "text": "0.96x"
                 },
                 {
                   "text": "{relo_2}s"
@@ -5572,10 +5585,13 @@
                   "text": "4x"
                 },
                 {
+                  "text": "20"
+                },
+                {
                   "text": "40"
                 },
                 {
-                  "text": "20"
+                  "text": "0.94x"
                 },
                 {
                   "text": "{relo_3}s"
@@ -5589,10 +5605,13 @@
                   "text": "5x"
                 },
                 {
+                  "text": "23"
+                },
+                {
                   "text": "54"
                 },
                 {
-                  "text": "23"
+                  "text": "0.93x"
                 },
                 {
                   "text": "{relo_4}s"
@@ -5612,11 +5631,18 @@
               40,
               54
             ],
-            "multiplier": []
+            "multiplier": [
+              0.99,
+              0.97,
+              0.96,
+              0.94,
+              0.93
+            ]
           }
         }
       },
-      "last_edit": "2021.11.2-18.33"
+      "rarity": "undefined",
+      "last_edit": "2022.1.28-14.30"
     },
     "280464955": {
       "name": "Firmly Planted",
