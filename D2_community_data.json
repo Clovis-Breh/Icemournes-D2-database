@@ -7209,7 +7209,7 @@
         {
           "lineText": [
             {
-              "text": "Faster reloads when the magazine is empty."
+              "text": "15% faster reloads when the magazine is empty."
             }
           ]
         },
@@ -7232,11 +7232,10 @@
               0.85
             ]
           }
-        },
-        "activation_condition": "empty_magazine"
+        }
       },
       "rarity": "undefined",
-      "last_edit": "2022.1.9-20.10"
+      "last_edit": "2022.1.28-14.42"
     },
     "1523832109": {
       "name": "Reconstruction",
