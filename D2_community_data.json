@@ -7996,7 +7996,7 @@
         {
           "lineText": [
             {
-              "text": "\"Immediately upon firing:"
+              "text": "Immediately upon firing:"
             }
           ]
         },
@@ -8030,7 +8030,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.2.4-10.51"
+      "last_edit": "2022.2.4-17.13"
     },
     "1954620775": {
       "name": "Timed Payload",
