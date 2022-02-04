@@ -5923,7 +5923,7 @@
         {
           "lineText": [
             {
-              "text": "Headshots mid burst after hitting at least one bodyshot receive an 8% Precision Damage Increase."
+              "text": "Precision Hits within 0.3s of hitting a bodyshot receive 8% Increased Precision Damage."
             }
           ]
         }
@@ -5933,12 +5933,13 @@
           "conditional": {
             "stat": [],
             "multiplier": [
-              8
+              1.08
             ]
           }
         }
       },
-      "last_edit": "2021.10.19-8.20"
+      "rarity": "undefined",
+      "last_edit": "2022.2.4-10.48"
     },
     "466087222": {
       "name": "Smoothbore",
