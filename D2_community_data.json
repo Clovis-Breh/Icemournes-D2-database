@@ -7224,7 +7224,24 @@
         {
           "lineText": [
             {
-              "text": "15% faster reloads when the magazine is empty."
+              "text": "Upon reloading with an empty magazine:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "0.85x Reload Duration Scale"
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Functionally identical to Rapid-Fire Frame's Intrinsic Bonus."
             }
           ]
         },
@@ -7250,7 +7267,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.1.28-14.42"
+      "last_edit": "2022.2.8-0.48"
     },
     "1523832109": {
       "name": "Reconstruction",
