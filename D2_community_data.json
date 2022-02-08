@@ -6222,34 +6222,37 @@
         {
           "lineText": [
             {
-              "text": "While below 150(?) HP:"
+              "text": "While at Low Health:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": " Increased Handling and Accuracy."
+              "text": "30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": " Effect increases linearly as Health decreases"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "(Verify Handling and exact Health amount.)"
+              "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
             }
           ]
         }
       ],
-      "stats": {},
-      "last_edit": "2021.10.17-18.5"
+      "stats": {
+        "handling": {
+          "conditional": {
+            "stat": [
+              30
+            ],
+            "multiplier": []
+          }
+        }
+      },
+      "rarity": "undefined",
+      "last_edit": "2022.2.8-0.35"
     },
     "706527188": {
       "name": "Quickdraw",
