@@ -5433,10 +5433,21 @@
               "text": "Minors = Medium | Anything Else = Large"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Having 5 crystals active simultaneously incurs in a 5 second cooldown."
+            }
+          ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-8.10"
+      "rarity": "undefined",
+      "last_edit": "2022.2.8-0.36"
     },
     "201365942": {
       "name": "Archer's Tempo",
