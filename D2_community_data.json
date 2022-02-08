@@ -7241,16 +7241,6 @@
         {
           "lineText": [
             {
-              "text": "Functionally identical to Rapid-Fire Frame's Intrinsic Bonus."
-            }
-          ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
               "text": "Reload Time: {relo_0}s"
             }
           ]
@@ -7267,7 +7257,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.2.8-0.48"
+      "last_edit": "2022.2.8-0.56"
     },
     "1523832109": {
       "name": "Reconstruction",
