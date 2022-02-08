@@ -9060,14 +9060,17 @@
         {
           "lineText": [
             {
-              "text": "10% Increased Zoom when ADS."
+              "text": "10% Increased Zoom and 30% Increased Aim Assist Falloff Distance while ADS."
             }
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
-              "text": "5% Faster Projectile Speed when ADS."
+              "text": "5% Faster Projectile Speed when ADS (yes this is useless)"
             }
           ]
         },
@@ -9084,7 +9087,7 @@
         {
           "lineText": [
             {
-              "text": "The range increase is factored into the normal calculation."
+              "text": "The range increase is factored into the normal range calculation."
             }
           ]
         }
@@ -9097,7 +9100,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.1.2-21.47"
+      "last_edit": "2022.2.8-0.38"
     },
     "2848615171": {
       "name": "Dragonfly",
