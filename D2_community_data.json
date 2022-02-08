@@ -9729,110 +9729,14 @@
         {
           "lineText": [
             {
-              "text": "Grants a Stacking Damage Bonus Against High-Tier Minors, Elites, Minibosses, Bosses, and Vehicles."
+              "text": "Redirection grants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5. Consumes 1 stack per hit if at or below 5 stacks."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Grants 1 Stack of Redirection on Lower Tier Minor Hits."
-            }
-          ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "table": [
-            {
-              "lineText": [
-                {
-                  "textClass": "CDB-bold",
-                  "text": "Stacks"
-                },
-                {
-                  "textClass": "CDB-bold",
-                  "text": "Damage Increase"
-                },
-                {
-                  "textClass": "CDB-bold",
-                  "text": "Consumption/Hit"
-                }
-              ]
-            },
-            {
-              "lineClass": "CDB-bg",
-              "lineText": [
-                {
-                  "textClass": "CDB-bold",
-                  "text": "1x"
-                },
-                {
-                  "text": "20%"
-                },
-                {
-                  "text": "1"
-                }
-              ]
-            },
-            {
-              "lineText": [
-                {
-                  "textClass": "CDB-bold",
-                  "text": "2x"
-                },
-                {
-                  "text": "40%"
-                },
-                {
-                  "text": "1"
-                }
-              ]
-            },
-            {
-              "lineClass": "CDB-bg",
-              "lineText": [
-                {
-                  "textClass": "CDB-bold",
-                  "text": "3x"
-                },
-                {
-                  "text": "60%"
-                },
-                {
-                  "text": "1"
-                }
-              ]
-            },
-            {
-              "lineText": [
-                {
-                  "textClass": "CDB-bold",
-                  "text": "4x"
-                },
-                {
-                  "text": "80%"
-                },
-                {
-                  "text": "1"
-                }
-              ]
-            },
-            {
-              "lineClass": "CDB-bg",
-              "lineText": [
-                {
-                  "textClass": "CDB-bold",
-                  "text": "5-20x"
-                },
-                {
-                  "text": "100%"
-                },
-                {
-                  "text": "5"
-                }
-              ]
+              "text": "100% Increased damage to Medium and High Tier Combatants if at or above 6 stacks. Consumes 5 stacks per hit."
             }
           ]
         }
@@ -9851,7 +9755,8 @@
           }
         }
       },
-      "last_edit": "2021.10.23-15.26"
+      "rarity": "undefined",
+      "last_edit": "2022.2.8-0.40"
     },
     "3275789089": {
       "name": "Shield Disorient",
