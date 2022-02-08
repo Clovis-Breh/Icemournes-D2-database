@@ -8437,21 +8437,21 @@
         {
           "lineText": [
             {
-              "text": "Reduces the Maximum Recoil Angle (Maximum Horizontal Recoil), removes Reticle Bounce, and reduces Weapon Shake"
+              "text": "Reduces the Maximum Recoil Angle and Weapon Shake. "
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "*Noticeable mostly on controllers, as their reticles bounce on fire, akin to MGs on MnK*"
+              "text": "Removes Reticle Bounce on Controller inputs."
             }
           ]
         }
       ],
       "stats": {},
-      "rarity": "normal",
-      "last_edit": "2021.12.9-21.35"
+      "rarity": "undefined",
+      "last_edit": "2022.2.8-0.41"
     },
     "2396489472": {
       "name": "Chain Reaction",
