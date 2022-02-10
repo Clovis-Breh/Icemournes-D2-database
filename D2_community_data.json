@@ -3525,6 +3525,7 @@
     "2799418574": {
       "name": "Rites of Ember",
       "item_name": "Dawn Chorus",
+      "item_id": "2316914168",
       "description": [
         {
           "lineText": [
@@ -3561,36 +3562,68 @@
           "lineClass": "CDB-spacer"
         },
         {
-          "lineText": [
+          "table": [
             {
-              "text": "Top | Bottom"
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineText": [
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Stacks"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Top"
+                },
+                {
+                  "textClass": "CDB-bold",
+                  "text": "Bottom"
+                }
+              ]
+            },
             {
-              "text": "1-4 Stacks = 45% | 35%"
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineText": [
+                {
+                  "text": "1-4"
+                },
+                {
+                  "text": "45%"
+                },
+                {
+                  "text": "35%"
+                }
+              ]
+            },
             {
-              "text": "5-6 Stacks = 110% | 95%"
-            }
-          ]
-        },
-        {
-          "lineText": [
+              "lineText": [
+                {
+                  "text": "5-6"
+                },
+                {
+                  "text": "110%"
+                },
+                {
+                  "text": "95%"
+                }
+              ]
+            },
             {
-              "text": "7+ Stacks = 205% | 183%"
+              "lineText": [
+                {
+                  "text": "7+"
+                },
+                {
+                  "text": "205%"
+                },
+                {
+                  "text": "183%"
+                }
+              ]
             }
           ]
         }
       ],
-      "armor_id": "2316914168",
-      "last_edit": "2021.9.6-18.7"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.2.10-22.18"
     },
     "2805134531": {
       "name": "Nightmare Fuel",
