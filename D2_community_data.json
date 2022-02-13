@@ -1949,16 +1949,19 @@
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
-              "text": "Bows' draw time is 10-20ms faster."
+              "text": "Bows reach full draw 30 miliseconds faster"
             }
           ]
         }
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2022.1.20-15.24"
+      "last_edit": "2022.2.13-14.57"
     },
     "1449897497": {
       "name": "Sharp Edges",
