@@ -1543,6 +1543,7 @@
     "1095471953": {
       "name": "Embers of Light",
       "item_name": "Promethium Spur",
+      "item_id": "235591051",
       "description": [
         {
           "lineText": [
@@ -1581,13 +1582,14 @@
         {
           "lineText": [
             {
-              "text": "Weapon Kills consume your Class Ability Energy and spawn a Healing+Empowering Rift at the Target's Location."
+              "text": "Weapon Kills consume your Class Ability Energy and spawn a Empowering + Healing Rift at the Target's Location."
             }
           ]
         }
       ],
-      "armor_id": "235591051",
-      "last_edit": "2021.9.19-16.20"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.2.13-15.0"
     },
     "1142806944": {
       "name": "Planetary Torrent",
