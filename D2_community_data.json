@@ -1451,22 +1451,12 @@
     "926349161": {
       "name": "Fusion Harness",
       "item_name": "Starfire Protocol",
-      "item_id": "2082483156",
+      "item_id": "",
       "description": [
         {
           "lineText": [
             {
-              "text": "If on Fusion Grenades."
-            }
-          ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "Gain an extra Grenade Charge."
+              "text": "Gain an extra Fusion Grenade Charge."
             }
           ]
         },
@@ -1503,7 +1493,7 @@
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2022.1.11-15.57"
+      "last_edit": "2022.2.13-15.1"
     },
     "926976844": {
       "name": "Resolute",
