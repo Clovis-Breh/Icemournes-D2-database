@@ -658,7 +658,7 @@
     "553093017": {
       "name": "Beyond The Veil",
       "item_name": "Omnioculus",
-      "item_id": "1935198785",
+      "item_id": "",
       "description": [
         {
           "lineText": [
@@ -694,11 +694,21 @@
               "text": " Damage Resistance on any Invisible effects. Applies to teammates made invisible."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Damage Resistance does not apply in Super."
+            }
+          ]
         }
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2022.1.20-15.25"
+      "last_edit": "2022.2.13-14.59"
     },
     "569260333": {
       "name": "Force Multiplier",
