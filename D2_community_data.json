@@ -4176,6 +4176,47 @@
       "armor_id": "4136768282",
       "last_edit": "2021.9.6-18.14"
     },
+    "3347978673": {
+      "name": "Strange Protractor",
+      "item_name": "Transversive Steps",
+      "item_id": "138282166",
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "Refreshes held weapon after 1.5 seconds of sprinting."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Sprint Speed by 6.25%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Increases Slide Distance by 33%"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Sneak Speed set to 4m/s. Unaffected by slows of any kind."
+            }
+          ]
+        }
+      ],
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.2.13-15.3"
+    },
     "3449001998": {
       "name": "Spheromatik Trigger",
       "item_name": "Severance Enclosure",
