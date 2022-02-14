@@ -7543,24 +7543,28 @@
           ]
         },
         {
+          "lineClass": "CDB-pve",
           "lineText": [
             {
-              "textClass": "CDB-pve",
-              "text": " Stronger Flinch on Combatants. Allows Primaries to affect higher ranked enemies and consistently stunlock Minors."
+              "text": " Allows Primary Weapons to affect higher ranked enemies and consistently stunlock Minors."
             }
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineClass": "CDB-pvp",
           "lineText": [
             {
-              "textClass": "CDB-pvp",
-              "text": " Varies between Archetypes, from 6% to 11% Increased Flinch received."
+              "text": "Flinch amount against Guardians varies between Archetypes, from 6% to 11% Increased Flinch received."
             }
           ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-8.12"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-20.17"
     },
     "1561789734": {
       "name": "Firefly",
