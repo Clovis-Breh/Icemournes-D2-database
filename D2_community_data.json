@@ -10121,7 +10121,7 @@
         {
           "lineText": [
             {
-              "text": "Max x3. Each Ability Charge contributes to this. Works with double Ability Charges."
+              "text": "Each Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect."
             }
           ]
         },
@@ -10335,7 +10335,8 @@
           }
         }
       },
-      "last_edit": "2021.11.2-19.4"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-21.38"
     },
     "3511092054": {
       "name": "Elemental Capacitor",
