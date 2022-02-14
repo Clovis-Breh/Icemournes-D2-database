@@ -8429,7 +8429,7 @@
         {
           "lineText": [
             {
-              "text": "Starting at 50% of magazine left."
+              "text": "As Magazine goes below 50%, until empty: "
             }
           ]
         },
@@ -8450,7 +8450,9 @@
           ]
         }
       ],
-      "last_edit": "2021.9.20-21.21"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-20.18"
     },
     "2244851822": {
       "name": "Flash Counter",
