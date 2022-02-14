@@ -10484,7 +10484,7 @@
             },
             {
               "textClass": "CDB-special",
-              "text": "Special Weapons "
+              "text": "[MOST] Special Weapons "
             },
             {
               "text": " grant 20%."
@@ -10510,20 +10510,11 @@
               "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
             }
           ]
-        },
-        {
-          "lineClass": "CDB-center",
-          "lineText": [
-            {
-              "textClass": "CDB-highlight_2",
-              "text": " Needs retesting, as not all Special Weapons are granting 20%."
-            }
-          ]
         }
       ],
       "stats": {},
-      "rarity": "normal",
-      "last_edit": "2021.12.18-22.22"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.24"
     },
     "3551326236": {
       "name": "Rampage",
