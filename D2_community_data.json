@@ -5965,7 +5965,7 @@
         {
           "lineText": [
             {
-              "text": "4 second cooldown. Can be procced while stowed."
+              "text": "4 second cooldown. Can be activated while stowed."
             }
           ]
         },
@@ -5975,7 +5975,7 @@
         {
           "lineText": [
             {
-              "text": "Any Powered Melee which requires sprinting, sliding, or a sprinting jump to utilize will not activate Blunt Execution Rounds."
+              "text": "Any Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds."
             }
           ]
         },
@@ -6008,7 +6008,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.1.6-18.27"
+      "last_edit": "2022.2.14-19.2"
     },
     "460017080": {
       "name": "Headseeker",
