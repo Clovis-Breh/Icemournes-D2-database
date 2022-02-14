@@ -9871,24 +9871,14 @@
         {
           "lineText": [
             {
-              "text": " Explosion disorients enemies within 7 metres for 5 seconds"
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "(verify)"
+              "text": " Explosion disorients enemies within 7 meters for 5 seconds"
             }
           ]
         }
       ],
-      "stats": {
-        "duration": [
-          5
-        ]
-      },
-      "last_edit": "2021.9.21-11.21"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-21.33"
     },
     "3300816228": {
       "name": "Auto-Loading Holster",
