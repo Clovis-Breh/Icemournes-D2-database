@@ -7642,7 +7642,7 @@
         {
           "lineText": [
             {
-              "text": "For 4 seconds after switching to Fusion Rifle:"
+              "text": "For 4 seconds after readying a Fusion Rifle:"
             }
           ]
         },
@@ -7656,7 +7656,7 @@
         {
           "lineText": [
             {
-              "text": "20% Reduced Damage"
+              "text": "20% Reduced damage"
             }
           ]
         },
@@ -7712,7 +7712,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.1.11-14.38"
+      "last_edit": "2022.2.14-19.0"
     },
     "1631667848": {
       "name": "Grave Robber",
