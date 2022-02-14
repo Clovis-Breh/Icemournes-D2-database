@@ -9406,14 +9406,14 @@
           ]
         },
         {
-          "lineClass": "CDB-spacer"
-        },
-        {
           "lineText": [
             {
               "text": "45 Reload Speed with 0.8x Multiplier and 0.8x Ready/Stow Animation Duration Multiplier."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
@@ -9467,7 +9467,8 @@
           }
         }
       },
-      "last_edit": "2021.11.12-18.45"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.54"
     },
     "2888557110": {
       "name": "Full Court",
