@@ -11605,14 +11605,14 @@
         {
           "lineText": [
             {
-              "text": "15% Damage Increase, 50(?) Handling, and 50 Reload Speed."
+              "text": " 15% Damage Increase, 50 Handling, and 50 Reload Speed."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Lasts until you're out of combat."
+              "text": " Lasts until you're out of combat."
             }
           ]
         },
@@ -11646,7 +11646,7 @@
         {
           "lineText": [
             {
-              "text": "It's technically a \"state\" so it works when stowed, and it also applies to all of your weapons with Frenzy."
+              "text": "It's technically a \"\"state\"\" so it works when stowes. This applies to all of your weapons with Frenzy."
             }
           ]
         },
@@ -11688,7 +11688,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.1.2-17.18"
+      "last_edit": "2022.2.14-20.2"
     },
     "4134353779": {
       "name": "Drop Mag",
