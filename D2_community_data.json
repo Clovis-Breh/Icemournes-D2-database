@@ -9479,7 +9479,7 @@
         {
           "lineText": [
             {
-              "text": "20 Aim Assist, 20% increased Accuracy and Y to ADS Handling (With X Multiplier) for 5 seconds."
+              "text": "20 Aim Assist, -20% Accuracy Cone Size, and Y to Handling (ADS only, [?] Multiplier) for 5 seconds."
             }
           ]
         }
@@ -9494,7 +9494,8 @@
           }
         }
       },
-      "last_edit": "2021.10.22-13.48"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-21.48"
     },
     "3016987351": {
       "name": "Counterattack",
