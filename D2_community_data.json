@@ -7632,6 +7632,9 @@
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
               "text": "1x = -15% Accuracy Cone Growth, 15 Stability and ~20 Recoil Direction."
@@ -7647,11 +7650,18 @@
         }
       ],
       "stats": {
-        "duration": [
-          5.5
-        ]
+        "stability": {
+          "conditional": {
+            "stat": [],
+            "multiplier": [
+              15,
+              30
+            ]
+          }
+        }
       },
-      "last_edit": "2021.9.20-21.17"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-20.15"
     },
     "1600092898": {
       "name": "Backup Plan",
