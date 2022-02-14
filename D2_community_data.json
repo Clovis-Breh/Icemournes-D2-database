@@ -7364,26 +7364,19 @@
           ]
         },
         {
-          "lineText": [
-            {
-              "text": "(Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1))"
-            }
-          ]
-        },
-        {
           "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
             {
-              "text": "Refresh = Reload, but does not an need animation and doesn't proc on-reload perks."
+              "text": "(Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1))"
             }
           ]
         }
       ],
       "stats": {},
-      "rarity": "normal",
-      "last_edit": "2021.12.9-22.18"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-21.21"
     },
     "1528281896": {
       "name": "Outlaw",
