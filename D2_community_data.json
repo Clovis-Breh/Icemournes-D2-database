@@ -8284,14 +8284,14 @@
         {
           "lineText": [
             {
-              "text": "On Slide:"
+              "text": "Upon Sliding:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "15% Magazine Refreshed, ~20 Stability and ~25 Handling."
+              "text": "15% Magazine Refreshed, ~20 Stability and ~25 Handling. "
             }
           ]
         },
@@ -8299,13 +8299,6 @@
           "lineText": [
             {
               "text": "Lasts 3 seconds."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "(Verify stability and handling)"
             }
           ]
         },
@@ -8323,16 +8316,6 @@
           "lineText": [
             {
               "text": "Stow Speed: {hand_s_0}s"
-            }
-          ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
             }
           ]
         }
@@ -8355,7 +8338,8 @@
           }
         }
       },
-      "last_edit": "2021.11.2-18.36"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-21.36"
     },
     "2077819806": {
       "name": "Eager Edge",
