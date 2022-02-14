@@ -11046,14 +11046,14 @@
         {
           "lineText": [
             {
-              "text": "Explode the target, dealing the Weapon's Elemental Damage over a 3 metre radius. Damage is not increased by Weapon Perks."
+              "text": "Target explodes, dealing the Weapon's Elemental Damage over a 3 meter radius."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Dragonfly Spec increases Damage and Radius by 50%."
+              "text": "Damage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%."
             }
           ]
         },
@@ -11172,7 +11172,8 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.17-17.37"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.26"
     },
     "3913600130": {
       "name": "Whirlwind Blade",
