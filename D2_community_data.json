@@ -7514,13 +7514,14 @@
         {
           "lineText": [
             {
-              "text": " Grants the equivalent of 1 Special Ammo Pickup."
+              "text": " Grants almost the equivalent of 1 Special Ammo Pickup."
             }
           ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-8.43"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-20.21"
     },
     "1561002382": {
       "name": "High-Caliber Rounds",
