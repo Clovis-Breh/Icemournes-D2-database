@@ -7044,23 +7044,14 @@
         {
           "lineText": [
             {
-              "text": "4 Precision Hits within 2.5 seconds generate 2 Ammo to Magazine."
-            }
-          ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "Generates = Generates 2 ammo from nothingness into the magazine after getting 4 precision hits."
+              "text": "Scoring 4 Precision Hits within 2.5 seconds generate 2 Ammo to Magazine."
             }
           ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-8.22"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.58"
     },
     "1359896290": {
       "name": "Dynamic Sway Reduction",
