@@ -6322,14 +6322,17 @@
         {
           "lineText": [
             {
-              "text": "30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth."
+              "text": " 30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth."
             }
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
-              "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
+              "text": " Effect increases linearly as Health decreases. Maximized strength at Critical Health."
             }
           ]
         }
@@ -6345,7 +6348,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.2.8-0.35"
+      "last_edit": "2022.2.14-19.33"
     },
     "706527188": {
       "name": "Quickdraw",
