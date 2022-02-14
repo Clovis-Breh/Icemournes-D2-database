@@ -6706,24 +6706,14 @@
         {
           "lineText": [
             {
-              "text": "33% Damage Increase for 5 seconds."
-            }
-          ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "Buff can't be refreshed."
+              "text": "33% Increased damage for 5 seconds."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Persists through stow."
+              "text": "Buff can't be refreshed. Persists through stow."
             }
           ]
         }
@@ -6739,7 +6729,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.1.3-23.10"
+      "last_edit": "2022.2.14-20.20"
     },
     "1047830412": {
       "name": "Full Choke",
