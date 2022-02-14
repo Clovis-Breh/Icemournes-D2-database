@@ -7583,7 +7583,7 @@
         {
           "lineText": [
             {
-              "text": "Explodes the enemy, dealing Solar Damage in a 3 metre Radius. Same size as Dragonfly, but deals 25% increased damage."
+              "text": "Target explodes, dealing Solar Damage in a 3 meter Radius. Same size as Dragonfly, but deals 25% increased damage."
             }
           ]
         },
@@ -7595,10 +7595,13 @@
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
               "textClass": "CDB-highlight",
-              "text": "It cannot use Dragonfly Spec."
+              "text": "Dragonfly Spec does not function."
             }
           ]
         },
@@ -7623,8 +7626,8 @@
           }
         }
       },
-      "rarity": "normal",
-      "last_edit": "2021.12.9-21.31"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.55"
     },
     "1570042021": {
       "name": "Heating Up",
