@@ -10628,26 +10628,26 @@
           ]
         },
         {
-          "lineText": [
-            {
-              "text": "Light Attacks apply 40 Slow Stacks, while Heavy Attacks apply 60 Slow Stacks."
-            }
-          ]
-        },
-        {
           "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
             {
-              "text": "have fun stunlocking barrier champions"
+              "text": "Light Attacks apply 40 Slow Stacks."
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "Heavy Attacks apply 60 Slow Stacks."
             }
           ]
         }
       ],
       "stats": {},
-      "rarity": "normal",
-      "last_edit": "2021.12.18-22.19"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.20"
     },
     "3673922083": {
       "name": "Adagio",
