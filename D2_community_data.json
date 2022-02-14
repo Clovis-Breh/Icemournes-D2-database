@@ -7776,12 +7776,14 @@
         {
           "lineText": [
             {
-              "text": "25% to 50% increased Accuracy and up to 20 stability."
+              "text": "25[?]% to 50[?]% increased Accuracy and up to 30[?] Stability."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.21-12.10"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-21.49"
     },
     "1683379515": {
       "name": "Disruption Break",
