@@ -8265,18 +8265,11 @@
               "text": "Grants Class Ability Energy based on the amount of damage taken."
             }
           ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "It is able to fully charge your class ability with less than half of your entire shield bar."
-            }
-          ]
         }
       ],
       "stats": {},
-      "rarity": "normal",
-      "last_edit": "2021.12.8-21.32"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.29"
     },
     "2039302152": {
       "name": "Slideways",
