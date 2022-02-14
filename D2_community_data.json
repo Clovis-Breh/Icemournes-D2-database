@@ -6760,7 +6760,7 @@
         {
           "lineText": [
             {
-              "text": "Also increases the Damage Falloff by 10%, identically to the old Ricochet Rounds."
+              "text": "Also increases the Damage Falloff by 10%, identical to the old Ricochet Rounds."
             }
           ]
         }
@@ -6772,7 +6772,8 @@
           }
         }
       },
-      "last_edit": "2021.9.21-11.17"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-21.22"
     },
     "1168162263": {
       "name": "Outlaw",
