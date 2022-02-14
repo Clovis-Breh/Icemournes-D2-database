@@ -8451,20 +8451,21 @@
         {
           "lineText": [
             {
-              "text": "After Blocking a Melee Attack within 0.5(?) seconds of starting to Block:"
+              "text": "After Blocking a Melee Attack within 0.5 seconds of starting to Block:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Suppresses and Weakens the enemy, granting 20% increased damage for 4 seconds."
+              "text": "Suppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds."
             }
           ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.21-14.9"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.57"
     },
     "2284787283": {
       "name": "Clown Cartridge",
