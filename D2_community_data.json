@@ -8834,40 +8834,34 @@
         {
           "lineText": [
             {
-              "textClass": "CDB-pve",
-              "text": " 15%"
-            },
-            {
-              "textClass": "CDB-pvp",
-              "text": " [7.5%]"
-            },
-            {
-              "text": " Increased damage for 7 seconds. Can be refreshed with a Weapon Kill."
+              "text": "15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill."
             }
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
-              "text": "Matching Grenade and Powered Melee Kills strengthen the damage increase to "
-            },
-            {
-              "textClass": "CDB-pve",
-              "text": " 50%"
-            },
-            {
-              "textClass": "CDB-pvp",
-              "text": " [45%]"
-            },
-            {
-              "text": " and duration to 10 seconds. Can be refreshed by getting another Matching Ability Kill."
+              "text": "Matching Grenade and Powered Melee Kills strengthen the damage increase to 50% and duration to 10 seconds.  Can be refreshed by getting another Matching Ability Kill."
             }
           ]
         }
       ],
-      "stats": {},
-      "rarity": "normal",
-      "last_edit": "2021.12.18-22.29"
+      "stats": {
+        "damage": {
+          "conditional": {
+            "stat": [],
+            "multiplier": [
+              15,
+              50
+            ]
+          }
+        }
+      },
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-20.6"
     },
     "2621346526": {
       "name": "Ensemble",
