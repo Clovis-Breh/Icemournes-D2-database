@@ -5882,7 +5882,7 @@
         {
           "lineText": [
             {
-              "text": "On Weapon Ready within 3 seconds of getting a Kill with a Different Weapon:"
+              "text": "Upon readying a weapon within 3 seconds of getting a Kill with a different weapon:"
             }
           ]
         },
@@ -5932,7 +5932,8 @@
           }
         }
       },
-      "last_edit": "2021.11.2-17.39"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-20.8"
     },
     "454085387": {
       "name": "Blunt Execution Rounds",
