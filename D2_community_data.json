@@ -9707,7 +9707,7 @@
         {
           "lineText": [
             {
-              "text": "On Slide:"
+              "text": "Upon Sliding:"
             }
           ]
         },
@@ -9726,29 +9726,12 @@
           ]
         },
         {
-          "lineText": [
-            {
-              "text": "(Verify stability)"
-            }
-          ]
-        },
-        {
           "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
             {
               "text": "In_Game Range: {rang_0}m"
-            }
-          ]
-        },
-        {
-          "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
             }
           ]
         }
@@ -9771,7 +9754,8 @@
           }
         }
       },
-      "last_edit": "2021.11.2-18.35"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-21.35"
     },
     "3194351027": {
       "name": "Explosive Light",
