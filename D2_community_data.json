@@ -8566,14 +8566,14 @@
         {
           "lineText": [
             {
-              "text": "Removes Reticle Bounce on Controller inputs."
+              "text": "Removes Reticle Bounce on Controller input."
             }
           ]
         }
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2022.2.8-0.41"
+      "last_edit": "2022.2.14-21.55"
     },
     "2396489472": {
       "name": "Chain Reaction",
