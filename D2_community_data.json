@@ -6511,14 +6511,14 @@
         {
           "lineText": [
             {
-              "text": "Prevents Radar Ping from shooting, X Reload Speed (with Multiplier!), and increases hold time by 25%"
+              "text": "Prevents Radar Ping from shooting, [?] Reload Speed (w/ [?] multiplier ), and increases hold time by 25%"
             }
           ]
         }
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2022.1.2-17.21"
+      "last_edit": "2022.2.14-21.37"
     },
     "951095735": {
       "name": "Impulse Amplifier",
