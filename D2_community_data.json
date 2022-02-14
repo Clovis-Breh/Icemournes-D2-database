@@ -8698,7 +8698,7 @@
         {
           "lineText": [
             {
-              "text": "17% | 33% | 50% Damage Increase, depending on the amount of enemies killed within X seconds of each."
+              "text": "17% | 33% | 50% Increased damage, depending on the amount of enemies killed within X seconds of each."
             }
           ]
         },
@@ -8722,7 +8722,8 @@
           }
         }
       },
-      "last_edit": "2021.9.20-21.37"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-20.22"
     },
     "2551157718": {
       "name": "Box Breathing",
