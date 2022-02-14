@@ -7430,7 +7430,7 @@
         {
           "lineText": [
             {
-              "text": "Damage Increase against Minibosses, Champions, Vehicles, and Bosses."
+              "text": "Damage Increase against Bosses, Minibosses, and Vehicles."
             }
           ]
         },
@@ -7493,11 +7493,21 @@
               "text": "The lower Damage Increase is against supers with no extra Damage Resistance."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "X Reload Speed"
+            }
+          ]
         }
       ],
       "stats": {},
       "rarity": "undefined",
-      "last_edit": "2022.1.14-23.5"
+      "last_edit": "2022.2.14-21.53"
     },
     "1556840489": {
       "name": "Lead from Gold",
