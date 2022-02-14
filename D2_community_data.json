@@ -9511,14 +9511,14 @@
         {
           "lineText": [
             {
-              "text": "After Blocking an attack within 0.5(?) seconds of starting to Block:"
+              "text": "Immediately after blocking an attack within 0.5 seconds of starting to Block:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "50% Damage Increase for 2 seconds."
+              "text": "50% Increased damage for 2 seconds."
             }
           ]
         }
@@ -9531,12 +9531,10 @@
               50
             ]
           }
-        },
-        "duration": [
-          2
-        ]
+        }
       },
-      "last_edit": "2021.9.19-18.1"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.22"
     },
     "3032599245": {
       "name": "Blinding Grenades",
