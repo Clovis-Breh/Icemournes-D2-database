@@ -8699,14 +8699,7 @@
         {
           "lineText": [
             {
-              "text": "X Range, Y% increased Accuracy, and increased Precision Damage for one shot."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "(Verify range someday, no box scout to test)"
+              "text": "[?] Range, [?]% Accuracy Cone Size/Growth, and increased Precision Damage for one shot."
             }
           ]
         },
@@ -8784,7 +8777,8 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.17-16.57"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.4"
     },
     "2590710093": {
       "name": "Tireless Blade",
