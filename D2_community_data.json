@@ -9786,19 +9786,16 @@
           ]
         },
         {
-          "lineClass": "CDB-spacer"
-        },
-        {
           "lineText": [
             {
-              "text": "Wendigo: 70% Damage Increase and sets Blast Radius to 55(?)."
+              "text": "Wendigo: 70% Increased damage and sets Blast Radius to 55(?)."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Ascendancy & Hothead: 25% Damage Increase and sets Blast Radius to 100(?)."
+              "text": "Rocket Launchers: 25% Increased damage and sets Blast Radius to 100(?)."
             }
           ]
         },
@@ -9814,7 +9811,8 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.17-17.50"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.32"
     },
     "3201496230": {
       "name": "Redirection",
