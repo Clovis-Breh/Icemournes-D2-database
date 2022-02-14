@@ -6017,7 +6017,7 @@
         {
           "lineText": [
             {
-              "text": "Precision Hits within 0.3s of hitting a bodyshot receive 8% Increased Precision Damage."
+              "text": "Precision Hits within 0.3 seconds of hitting a bodyshot deal 8% increased damage."
             }
           ]
         }
@@ -6033,7 +6033,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.2.4-10.48"
+      "last_edit": "2022.2.14-20.9"
     },
     "466087222": {
       "name": "Smoothbore",
