@@ -7008,13 +7008,21 @@
         {
           "lineText": [
             {
-              "text": "Each Cluster Bomb deals 3% of the Explosive Damage."
+              "text": "Each Cluster Bomb deals up to 75 damage"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "[10 Light Level, and that is around a single Hand Cannon shot]"
             }
           ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.17-17.12"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.19"
     },
     "1354429876": {
       "name": "Fourth Time's the Charm",
