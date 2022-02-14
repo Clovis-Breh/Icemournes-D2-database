@@ -6404,14 +6404,14 @@
         {
           "lineText": [
             {
-              "text": "After dealing Non-Ranged Melee Damage:"
+              "text": "After dealing Melee Damage:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "50% Damage Increase, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots."
+              "text": "50% Increased damage, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots."
             }
           ]
         },
@@ -6451,7 +6451,8 @@
           }
         }
       },
-      "last_edit": "2021.11.2-18.51"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-21.46"
     },
     "818211479": {
       "name": "Shattering Blade",
