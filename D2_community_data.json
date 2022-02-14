@@ -5437,9 +5437,12 @@
         {
           "lineText": [
             {
-              "text": "20 AA, 20 Range, 5% Damage Falloff Distance Increase, -5% Accuracy Cone, -10% Accuracy Cone Growth"
+              "text": "20 AA, 20 Range, 5% Damage Falloff Distance Increase, -5% Accuracy Cone, -10% Accuracy Cone Growth."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
@@ -5479,8 +5482,8 @@
           }
         }
       },
-      "rarity": "normal",
-      "last_edit": "2021.11.15-18.2"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-20.28"
     },
     "124408337": {
       "name": "Headstone",
