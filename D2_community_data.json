@@ -10533,7 +10533,7 @@
         {
           "lineText": [
             {
-              "text": "Stacking 10% | 23% | 33% Damage Increase for 3.5 seconds."
+              "text": "Stacking 10% | 21% | 33.1% Increased damage for 3.5 seconds."
             }
           ]
         },
@@ -10563,12 +10563,9 @@
           ]
         }
       ],
-      "stats": {
-        "duration": [
-          3.5
-        ]
-      },
-      "last_edit": "2021.9.21-12.56"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-21.17"
     },
     "3592538738": {
       "name": "Wellspring",
