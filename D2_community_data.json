@@ -9019,14 +9019,14 @@
         {
           "lineText": [
             {
-              "text": "Weapon Kills increase Reload Speed for 3.5 seconds."
+              "text": "Weapon Kills increase Reload Speed for 3.5 seconds. "
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Refreshes on kill."
+              "text": "Refreshes on kill. Max of 5 Stacks."
             }
           ]
         },
@@ -9161,7 +9161,8 @@
           }
         }
       },
-      "last_edit": "2021.11.2-20.24"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.53"
     },
     "2846385770": {
       "name": "Rangefinder",
