@@ -11156,14 +11156,7 @@
         {
           "lineText": [
             {
-              "text": "Stacking "
-            },
-            {
-              "textClass": "CDB-bold",
-              "text": " 3% | 6% | 9% | ... | 27% | 30%"
-            },
-            {
-              "text": " Increased damage for 3.5(?) seconds. "
+              "text": "3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. "
             }
           ]
         },
@@ -11194,8 +11187,8 @@
           }
         }
       },
-      "rarity": "normal",
-      "last_edit": "2021.12.8-21.50"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-21.54"
     },
     "3927722942": {
       "name": "Lasting Impression",
