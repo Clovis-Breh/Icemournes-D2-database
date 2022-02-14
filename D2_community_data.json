@@ -10997,7 +10997,7 @@
         {
           "lineText": [
             {
-              "text": "Explodes the enemy, dealing Solar Damage in a 3 metre Radius. Same size as Dragonfly, but deals 25% more Damage. It cannot use Dragonfly Spec."
+              "text": "Target explodes, dealing Solar Damage in a 3 meter Radius. Same size as Dragonfly, but deals 25% increased damage."
             }
           ]
         },
@@ -11005,6 +11005,17 @@
           "lineText": [
             {
               "text": "45 Reload Speed for 6 seconds."
+            }
+          ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "textClass": "CDB-highlight",
+              "text": "Dragonfly Spec does not function."
             }
           ]
         },
@@ -11029,7 +11040,8 @@
           }
         }
       },
-      "last_edit": "2021.11.2-18.4"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.56"
     },
     "3865257976": {
       "name": "Dragonfly",
