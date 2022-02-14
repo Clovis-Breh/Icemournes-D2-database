@@ -5826,7 +5826,7 @@
         {
           "lineText": [
             {
-              "text": "15% Increased damage and sets Forward Movement Speed to 9 meters / second (Max Sprint Speed)"
+              "text": "15% Increased damage and sets Forward Movement Speed to 9 meters per second (Max Sprint Speed)"
             }
           ]
         },
@@ -5838,9 +5838,12 @@
           ]
         },
         {
+          "lineClass": "CDB-spacer"
+        },
+        {
           "lineText": [
             {
-              "text": "Doesn't expire on stow."
+              "text": "Remains active for its full duration even if stowed."
             }
           ]
         }
@@ -5856,7 +5859,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2021.12.18-22.16"
+      "last_edit": "2022.2.14-18.59"
     },
     "409831596": {
       "name": "Proximity Grenades",
