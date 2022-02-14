@@ -8876,19 +8876,19 @@
         {
           "lineText": [
             {
-              "text": "While within 15 metres of 1 or more allies:"
+              "text": "While within 15 meters of 1 or more allies:"
+            }
+          ]
+        },
+        {
+          "lineText": [
+            {
+              "text": "30 Handling and 40 Reload Speed."
             }
           ]
         },
         {
           "lineClass": "CDB-spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "30 Handling and 40 Reload Speed. "
-            }
-          ]
         },
         {
           "lineText": [
@@ -8940,7 +8940,8 @@
           }
         }
       },
-      "last_edit": "2021.11.12-19.33"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.31"
     },
     "2679249093": {
       "name": "One-Two Punch",
