@@ -5597,14 +5597,7 @@
         {
           "lineText": [
             {
-              "text": "Precision Hits grant Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "(Verify the actual ramp up on stability, max of 23 is accurate)"
+              "text": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds."
             }
           ]
         },
@@ -5629,7 +5622,7 @@
                 },
                 {
                   "textClass": "CDB-bold",
-                  "text": "Reload Duration"
+                  "text": "Duration Multiplier"
                 },
                 {
                   "textClass": "CDB-bold",
@@ -5759,7 +5752,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.1.28-14.41"
+      "last_edit": "2022.2.14-21.19"
     },
     "280464955": {
       "name": "Firmly Planted",
