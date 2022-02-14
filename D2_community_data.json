@@ -6053,9 +6053,12 @@
         {
           "lineText": [
             {
-              "text": "Damage Increase On Elemental Kills, and for one shot:"
+              "text": "Elemental Kills grant stacks of Recombination, increasing the damage of the next shot of the weapon:"
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
         },
         {
           "table": [
@@ -6248,7 +6251,8 @@
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-9.7"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-21.20"
     },
     "588594999": {
       "name": "Moving Target",
