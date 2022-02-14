@@ -10136,14 +10136,14 @@
         {
           "lineText": [
             {
-              "text": "Stacking 10% | 21% | 33.1% Damage Increase for 3.5 seconds."
+              "text": "Stacking 10% | 21% | 33.1% Increased damage for 3.5 seconds."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Buff Refreshed on Kill. "
+              "text": "Buff Refreshed on Kill."
             }
           ]
         }
@@ -10161,7 +10161,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.1.2-17.19"
+      "last_edit": "2022.2.14-20.33"
     },
     "3436462433": {
       "name": "Surplus",
