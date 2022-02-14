@@ -8811,12 +8811,14 @@
         {
           "lineText": [
             {
-              "text": "First Kill will proc this as well."
+              "text": "Your first kill will proc this as well."
             }
           ]
         }
       ],
-      "last_edit": "2021.9.21-11.54"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-21.42"
     },
     "2610012052": {
       "name": "Golden Tricorn",
