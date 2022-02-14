@@ -7129,14 +7129,14 @@
         {
           "lineText": [
             {
-              "text": "While moving:"
+              "text": "\"While moving:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Gain an additional Stack after 10 seconds, granting 10(?) Stability, 20(?) Handling and Reload."
+              "text": "Gain a Stack after 2 seconds and an additional Stack after 10 seconds."
             }
           ]
         },
@@ -7304,8 +7304,8 @@
           }
         }
       },
-      "rarity": "normal",
-      "last_edit": "2021.12.18-22.30"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-20.29"
     },
     "1431678320": {
       "name": "Alloy Magazine",
