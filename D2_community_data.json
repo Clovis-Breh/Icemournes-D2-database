@@ -7982,16 +7982,19 @@
         {
           "lineText": [
             {
-              "text": "While within 15(?) meters of 2 enemies:"
+              "text": "While within 15[?] meters of 2 enemies:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "100ms Faster Charge Rate/Draw Time."
+              "text": "Charge Rate/Draw Time is reduced by 100 miliseconds."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
@@ -8001,9 +8004,18 @@
           ]
         }
       ],
-      "stats": {},
-      "rarity": "normal",
-      "last_edit": "2021.12.18-22.20"
+      "stats": {
+        "charge_draw_time": {
+          "conditional": {
+            "stat": [
+              -100
+            ],
+            "multiplier": []
+          }
+        }
+      },
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.21"
     },
     "1820235745": {
       "name": "Subsistence",
