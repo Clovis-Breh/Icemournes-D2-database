@@ -8975,7 +8975,7 @@
         {
           "lineText": [
             {
-              "text": "Primary/Heavy Weapon Kills grant an additional 1% Super Energy."
+              "text": "Primary/Power Weapon Kills grant an additional 1% Super Energy."
             }
           ]
         },
@@ -8995,7 +8995,9 @@
           ]
         }
       ],
-      "last_edit": "2021.9.21-11.48"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-21.41"
     },
     "2779035018": {
       "name": "Feeding Frenzy",
