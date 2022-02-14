@@ -6492,13 +6492,14 @@
         {
           "lineText": [
             {
-              "text": "Sets the Lightweight Frame Submachine Gun's Damage and Magazine Profile into that of a Precision Frame."
+              "text": "Sets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's."
             }
           ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.19-8.51"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-20.32"
     },
     "908147344": {
       "name": "Sneak Bow",
