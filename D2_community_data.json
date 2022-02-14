@@ -10857,14 +10857,14 @@
         {
           "lineText": [
             {
-              "text": "Works until stowed."
+              "text": "Lasts until stowed."
             }
           ]
         }
       ],
       "stats": {},
-      "rarity": "normal",
-      "last_edit": "2021.12.9-21.30"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.27"
     },
     "3708227201": {
       "name": "Surrounded",
