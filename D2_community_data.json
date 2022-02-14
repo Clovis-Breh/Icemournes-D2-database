@@ -7822,14 +7822,14 @@
         {
           "lineText": [
             {
-              "text": "On Sword Ready:"
+              "text": "Upon readying a Sword:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "30% Damage Increase for 1.5 seconds."
+              "text": "30% Increased damage for 1.5 seconds."
             }
           ]
         }
@@ -7842,12 +7842,10 @@
               30
             ]
           }
-        },
-        "duration": [
-          1.5
-        ]
+        }
       },
-      "last_edit": "2021.9.19-18.24"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.28"
     },
     "1687452232": {
       "name": "Liquid Coils",
