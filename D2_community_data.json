@@ -6589,14 +6589,14 @@
         {
           "lineText": [
             {
-              "text": "While within 15 metres of 3 enemies:"
+              "text": "While within 15 meters of 3 enemies:"
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "Sets Blast Radius to 100(?) "
+              "text": "Sets Blast Radius to 100[?] and reduces Self Damage by 40%."
             }
           ]
         },
@@ -6606,10 +6606,21 @@
               "text": "Lingers for 4(?) seconds."
             }
           ]
+        },
+        {
+          "lineClass": "CDB-spacer"
+        },
+        {
+          "lineText": [
+            {
+              "text": "Self Damage normally deals 25% increased damage."
+            }
+          ]
         }
       ],
       "stats": {},
-      "last_edit": "2021.10.17-17.18"
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-19.23"
     },
     "972757866": {
       "name": "Pulse Monitor",
