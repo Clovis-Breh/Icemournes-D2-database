@@ -8967,31 +8967,28 @@
         {
           "lineText": [
             {
-              "text": "200% Melee Damage Increase for 1.5 seconds."
+              "text": "200% Increased melee damage for 1.5 seconds."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "350% Melee Damage Increase against Bosses and Vehicles."
+              "text": "350% Increased melee damage against Bosses and Vehicles."
             }
           ]
         },
         {
           "lineText": [
             {
-              "text": "80% Melee Damage Increase if combined with Liar's Handshake."
+              "text": "80% Increased melee damage if combined with Liar's Handshake."
             }
           ]
         }
       ],
-      "stats": {
-        "duration": [
-          1.5
-        ]
-      },
-      "last_edit": "2021.9.20-21.41"
+      "stats": {},
+      "rarity": "undefined",
+      "last_edit": "2022.2.14-20.23"
     },
     "2726471870": {
       "name": "Thresh",
