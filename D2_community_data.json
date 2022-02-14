@@ -11443,16 +11443,12 @@
           ]
         },
         {
-          "lineText": [
-            {
-              "text": "Stacking Damage Increase for 4.5 seconds."
-            }
-          ]
+          "lineClass": "CDB-spacer"
         },
         {
           "lineText": [
             {
-              "text": "Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly."
+              "text": "Increased Damage for 4.5 seconds. Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly."
             }
           ]
         },
@@ -11544,7 +11540,7 @@
         }
       },
       "rarity": "undefined",
-      "last_edit": "2022.1.2-17.22"
+      "last_edit": "2022.2.14-21.39"
     },
     "4104185692": {
       "name": "Frenzy",
